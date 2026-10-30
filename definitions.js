@@ -1,15 +1,15 @@
 const definitionsBank = [
   {
     term: "Clonus",
-    definition: "Involuntary rtthymic muscle contraction resulting from distal joint oscillation"
+    definition: "Involuntary rhythmic muscle contraction resulting from distal joint oscillation"
   },
   {
     term: "Contracture",
-    definition: "A fixed or semi fixed loss of joint motion caused by shortening and structural changes of muscles ,  tendon , ligaments , joint capsule or skin not due to bony ankylosis"
+    definition: "A fixed or semi-fixed loss of joint motion caused by shortening and structural changes of muscles, tendons, ligaments, joint capsule or skin not due to bony ankylosis"
   },
   {
     term: "Cerebral palsy",
-    definition: "A group of permanent disorders of the development of movement and posture causing activity limitation that are attributed to non progressive disturbances that occurred in the developing fetal and infant brain. The motor disorder of CP are often accompanied by disturbances of sensation , perception , cognition , communication and behaviour , by epilepsy and by secondary musculoskeletal problems"
+    definition: "A group of permanent disorders of the development of movement and posture causing activity limitation that are attributed to non-progressive disturbances that occurred in the developing fetal and infant brain. The motor disorder of CP are often accompanied by disturbances of sensation, perception, cognition, communication and behaviour, by epilepsy and by secondary musculoskeletal problems"
   },
   {
     term: "Autonomic dysreflexia",
@@ -17,7 +17,7 @@ const definitionsBank = [
   },
   {
     term: "Spasticity",
-    definition: "A motor disorder characterised by velocity dependent increase in tonic stretch reflexes with exaggerated tendon jerks resulting from hyper excitability of the stretch reflexes , as a component of upper motor neuron syndrome"
+    definition: "A motor disorder characterised by a velocity-dependent increase in tonic stretch reflexes (muscle tone) with exaggerated tendon jerks, resulting from hyperexcitability of the stretch reflex, as a component of upper motor neuron syndrome"
   },
   {
     term: "Spasm",
@@ -28,7 +28,7 @@ const definitionsBank = [
     definition: "A decrease in arterial blood pressure that occurs with a change from supine to upright posture, due to impaired autonomic and cardiovascular reflexes, commonly seen in individuals with spinal cord injury."
   },
   {
-    term: "Heterotropic Ossification",
-    definition: "Formation of mature lamellar bone indistinguishable from normal bone in atopic site"
+    term: "Heterotopic Ossification",
+    definition: "The formation of mature lamellar bone indistinguishable from normal bone in an extraskeletal (ectopic) site"
   }
 ];
