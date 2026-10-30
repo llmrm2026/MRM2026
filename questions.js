@@ -621,12 +621,12 @@ const qMain = [
   },
   {
     question_text: "A post-stroke patient taking Phenytoin for post-stroke seizures is admitted with severe pneumonia. Why is monitoring serum Phenytoin drug levels essential?",
-    option_a: "To check for vitamin C deficiency",
-    option_b: "Phenytoin is completely non-toxic at high doses",
+    option_a: "Phenytoin follows first-order kinetics, so levels change in proportion to dose",
+    option_b: "Phenytoin is mainly cleared by the kidneys, so sepsis-related renal impairment causes accumulation",
     option_c: "Phenytoin exhibits zero-order (saturation) kinetics and narrow therapeutic index",
-    option_d: "To evaluate kidney clearance of glucose",
+    option_d: "Phenytoin has a wide therapeutic index, so levels are checked mainly to confirm adherence",
     correct_option: "C",
-    explanation: "Phenytoin displays non-linear (zero-order) pharmacokinetics at therapeutic concentrations; small dose increases or drug interactions during acute infection can cause rapid toxicity.\nReference: Goodman & Gilman's Pharmacological Basis of Therapeutics.",
+    explanation: "Rationale: Phenytoin's hepatic metabolism saturates within the therapeutic range, so elimination becomes zero-order: a small dose increase, or an interacting drug (e.g. some antibiotics), can produce a disproportionate rise in level and toxicity. Its therapeutic index is narrow. In acute illness, low albumin raises the unbound (active) fraction, so the total level can look normal while the free level is toxic; check a free level or correct for albumin. A is the opposite of phenytoin's kinetics; B is wrong because clearance is hepatic, not renal; D is wrong because the index is narrow.\nReference: Goodman & Gilman's Pharmacological Basis of Therapeutics.",
     tag: "Past Year Question"
   },
   {
@@ -812,11 +812,11 @@ const qMain = [
   {
     question_text: "What is a recognized conservative non-surgical intervention for early Hallux Rigidus (osteoarthritis of the 1st MTP joint)?",
     option_a: "Modification of footwear using stiff-soled or rocker-bottom shoes",
-    option_b: "High-heeled shoes",
-    option_c: "Continuous high-impact running",
-    option_d: "Total amputation of the big toe",
+    option_b: "Cheilectomy of the dorsal osteophyte",
+    option_c: "First metatarsophalangeal joint arthrodesis",
+    option_d: "Soft, flexible-soled shoes to encourage toe dorsiflexion",
     correct_option: "A",
-    explanation: "Stiff-soled or rocker-bottom shoes limit motion across the painful 1st metatarsophalangeal joint during toe-off.\nReference: Mann's Surgery of the Foot and Ankle, 9th Edition.",
+    explanation: "Rationale: In hallux rigidus, pain comes from forced dorsiflexion of the 1st MTP joint at toe-off. Stiff-soled or rocker-bottom shoes (or a Morton's extension insert) limit that dorsiflexion and are first-line conservative care. Soft, flexible soles do the opposite and worsen pain. Cheilectomy and 1st MTP arthrodesis are both effective, but they are surgical options for when conservative measures fail.\nReference: Mann's Surgery of the Foot and Ankle, 9th Edition.",
     tag: "Past Year Question"
   },
   {
@@ -1000,13 +1000,13 @@ const qMain = [
     tag: "Past Year Question"
   },
   {
-    question_text: "Under the Wagner classification for diabetic foot ulcers, an ulcer that extends deep into subcutaneous tissue without abscess or bone involvement (no osteomyelitis) is graded as:",
-    option_a: "Wagner Grade 4",
+    question_text: "Under the Wagner classification for diabetic foot ulcers, a deep ulcer that penetrates to tendon, joint capsule or deep fascia, without abscess or osteomyelitis, is graded as:",
+    option_a: "Wagner Grade 3",
     option_b: "Wagner Grade 0",
     option_c: "Wagner Grade 1",
     option_d: "Wagner Grade 2",
     correct_option: "D",
-    explanation: "Reference: Levin and O'Neal's The Diabetic Foot, 7th Edition.",
+    explanation: "Rationale: A deep ulcer reaching tendon, capsule or deep fascia, with no abscess and no osteomyelitis, is Wagner Grade 2. Grade 3 would require abscess, osteomyelitis or joint sepsis; Grade 1 is a superficial ulcer only.\nWagner classification:\nGrade 0 - No open ulcer; intact skin (pre-ulcerative or healed lesion, bony deformity)\nGrade 1 - Superficial ulcer involving skin or subcutaneous tissue\nGrade 2 - Deep ulcer to tendon, joint capsule or deep fascia, without abscess or osteomyelitis\nGrade 3 - Deep ulcer with abscess, osteomyelitis or joint sepsis\nGrade 4 - Localised gangrene (forefoot or heel)\nGrade 5 - Gangrene of the whole foot\nReference: Levin and O'Neal's The Diabetic Foot, 7th Edition; Wagner FW, Foot Ankle 1981.",
     tag: "Past Year Question"
   },
   {
@@ -1091,22 +1091,22 @@ const qMain = [
   },
   {
     question_text: "A patient with spinal accessory nerve palsy exhibits trapezius muscle weakness, dropping of the shoulder girdle, and impaired scapular rotation. Which muscle group should be targeted in therapy to compensate for scapular stabilization?",
-    option_a: "Biceps Brachii",
+    option_a: "Pectoralis Major and Latissimus Dorsi",
     option_b: "Serratus Anterior and Rhomboids",
-    option_c: "Infraspinatus alone",
-    option_d: "Supraspinatus alone",
+    option_c: "Infraspinatus and Teres Minor",
+    option_d: "Supraspinatus and Deltoid",
     correct_option: "B",
-    explanation: "Strengthening the serratus anterior, levator scapulae, and rhomboids helps stabilize the scapula against the thoracic wall when trapezius function is impaired.\nReference: Braddom's Physical Medicine and Rehabilitation.",
+    explanation: "Rationale: When the trapezius is weak, the remaining scapular stabilisers must compensate. The serratus anterior holds the scapula against the thoracic wall and assists upward rotation; the rhomboids (with levator scapulae) retract and elevate the scapula. Strengthening these reduces shoulder drop and lateral scapular winging. Pectoralis major and latissimus dorsi move the humerus and tend to depress or protract the shoulder girdle; infraspinatus, teres minor, supraspinatus and deltoid act on the glenohumeral joint, not the scapula.\nReference: Braddom's Physical Medicine and Rehabilitation.",
     tag: "Past Year Question"
   },
   {
     question_text: "The diagnosis of a joint motion contracture is established primarily through which diagnostic assessment?",
-    option_a: "Plain X-ray",
-    option_b: "Serum Creatine Kinase",
-    option_c: "Full Blood Count",
-    option_d: "Clinical Physical Examination (goniometric measurement of passive ROM)",
+    option_a: "Plain radiograph of the joint",
+    option_b: "MRI of the joint and periarticular soft tissues",
+    option_c: "Dynamic musculoskeletal ultrasound of the muscle-tendon unit",
+    option_d: "Clinical physical examination (goniometric measurement of passive ROM)",
     correct_option: "D",
-    explanation: "Contractures are clinically defined and quantified by passive range of motion restriction measured via physical exam using a goniometer.\nReference: Kisner & Colby's Therapeutic Exercise.",
+    explanation: "Rationale: A contracture is defined clinically as a fixed loss of passive range of motion, so the diagnosis is made and quantified on examination with goniometric measurement of passive ROM (compared with the opposite side or normative values). Imaging has a supporting role only: plain radiographs exclude bony block or ankylosis, and MRI or ultrasound can show soft-tissue causes, but none of them establishes or measures the contracture itself.\nReference: Kisner & Colby's Therapeutic Exercise; Braddom's Physical Medicine and Rehabilitation.",
     tag: "Past Year Question"
   },
   {
