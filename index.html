@@ -774,8 +774,8 @@
   <div class="lightbox" id="lightbox" hidden><img id="lightbox-img" alt=""></div>
 
   <!-- Question data -->
-  <script src="questions.js?v=20260925a"></script>
-  <script src="definitions.js?v=20260925a"></script>
+  <script src="questions.js?v=20261030a"></script>
+  <script src="definitions.js?v=20261030a"></script>
 
   <script>
     const $ = s => document.querySelector(s);
@@ -784,7 +784,30 @@
 
     // ---------- Data ----------
     const questionsBank = typeof qMain !== 'undefined' ? qMain.slice() : [];
-    questionsBank.forEach((q, idx) => { q.id = q.id !== undefined ? q.id : idx; });
+
+    // Each question gets a stable ID built from its text, so adding, removing or
+    // reordering questions no longer shifts everyone's answered history.
+    // A question can still set its own `id` in questions.js to override this.
+    function textId(s) {
+      let h = 0x811c9dc5;
+      for (let i = 0; i < s.length; i++) { h ^= s.charCodeAt(i); h = Math.imul(h, 0x01000193); }
+      return 'q' + (h >>> 0).toString(36);
+    }
+    const legacyIdMap = {};
+    questionsBank.forEach((q, idx) => {
+      if (q.id === undefined) q.id = textId(String(q.question_text).trim());
+      legacyIdMap[idx] = q.id;
+    });
+    const questionById = new Map(questionsBank.map(q => [q.id, q]));
+
+    // One-time migration: older versions stored list positions (numbers) as IDs.
+    try {
+      const old = JSON.parse(localStorage.getItem('answered_mcq_ids') || '[]');
+      if (old.some(x => typeof x === 'number')) {
+        const migrated = [...new Set(old.map(x => typeof x === 'number' ? legacyIdMap[x] : x).filter(Boolean))];
+        localStorage.setItem('answered_mcq_ids', JSON.stringify(migrated));
+      }
+    } catch (e) { /* storage unavailable — nothing to migrate */ }
 
     const SOURCES = [
       { key: 'all', name: 'All questions', filter: () => true },
@@ -902,6 +925,27 @@
     // ---------- Session ----------
     let session = null;
     let userName = 'Anonymous';
+
+    // The session is saved on this device so a page refresh doesn't lose it.
+    const SESSION_KEY = 'mcq_session';
+    function saveSession() {
+      if (!session) return;
+      try {
+        const { qs, ...rest } = session;
+        localStorage.setItem(SESSION_KEY, JSON.stringify({ ...rest, ids: qs.map(q => q.id) }));
+      } catch (e) { /* storage full or blocked — session just won't survive a refresh */ }
+    }
+    function loadSession() {
+      try {
+        const s = JSON.parse(localStorage.getItem(SESSION_KEY) || 'null');
+        if (!s || !Array.isArray(s.ids)) return null;
+        const qs = s.ids.map(id => questionById.get(id));
+        if (qs.some(q => !q)) { localStorage.removeItem(SESSION_KEY); return null; } // questions changed since
+        const { ids, ...rest } = s;
+        return { ...rest, qs, i: Math.min(Math.max(0, rest.i || 0), qs.length - 1) };
+      } catch (e) { return null; }
+    }
+    session = loadSession();
     let revealTarget = null;
 
     function shuffle(a) {
@@ -921,6 +965,7 @@
       }
       const qs = shuffle(pool.slice()).slice(0, setup.count);
       session = { qs, sel: Array(qs.length).fill(null), ans: Array(qs.length).fill(null), i: 0, start: Date.now(), end: null, finished: false, celebrated: false };
+      saveSession();
       go('quiz');
     };
 
@@ -973,6 +1018,7 @@
       renderFeedback();
       renderActions();
       renderNavGrid();
+      saveSession();
     }
 
     function renderFeedback() {
@@ -1018,6 +1064,7 @@
       session.sel[session.i] = k;
       document.querySelectorAll('.opt').forEach(b => b.classList.toggle('is-selected', b.id === `opt-${k}`));
       renderActions();
+      saveSession();
     }
 
     function submitAnswer() {
@@ -1049,6 +1096,7 @@
 
     function finishSession() {
       session.finished = true; session.end = Date.now();
+      saveSession();
       go('results');
     }
 
@@ -1132,7 +1180,9 @@
       const q = session.qs[session.i];
       const reviewText = $('#flag-review-text').value.trim();
       if (!reviewText) { $('#flag-review-text').focus(); return; }
-      const flag = { user_name: userName, question_text: q.question_text, provided_answer: q.correct_option, user_review: reviewText, ts: new Date().toISOString() };
+      // provided_answer = the answer key (this is what the team's Google Form receives);
+      // user_answer = what this user picked, kept on the device for "My reports".
+      const flag = { user_name: userName, question_text: q.question_text, provided_answer: q.correct_option, user_answer: session.ans[session.i], user_review: reviewText, ts: new Date().toISOString() };
       const flags = getFlags(); flags.push(flag);
       localStorage.setItem('question_flags', JSON.stringify(flags));
 
@@ -1157,7 +1207,8 @@
       flags.slice().reverse().forEach(f => {
         const d = document.createElement('div'); d.className = 'glass report-item';
         d.innerHTML = '<div class="ri-meta"></div><p class="ri-q"></p><p class="ri-note"></p>';
-        d.querySelector('.ri-meta').textContent = `${f.user_name} · ${new Date(f.ts).toLocaleString()} · Answer given: ${f.provided_answer}`;
+        const yours = f.user_answer ? ` · Your answer: ${f.user_answer}` : '';
+        d.querySelector('.ri-meta').textContent = `${f.user_name} · ${new Date(f.ts).toLocaleString()} · Answer key: ${f.provided_answer}${yours}`;
         d.querySelector('.ri-q').textContent = f.question_text;
         d.querySelector('.ri-note').textContent = f.user_review;
         list.appendChild(d);
@@ -1235,6 +1286,7 @@
 
       if (pct >= 70 && !session.celebrated && typeof confetti === 'function') {
         session.celebrated = true;
+        saveSession();
         confetti({ particleCount: 110, spread: 75, origin: { y: 0.55 }, colors: ['#1F6F78', '#A6DDD5', '#CDBFF6', '#F8D6BC', '#15203B'] });
       }
     }
