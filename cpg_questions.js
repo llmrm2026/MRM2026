@@ -1812,5 +1812,1505 @@ const cpgBank = [
     correct_option: "D",
     explanation: "Rationale: In the acute phase, the foot is immobilised using off-loading modalities (crutches, wheelchair, walking frame) to reduce oedema and skin temperature, and protected weight bearing (removable walker, total contact cast) follows once this resolves. Recommendation 15 states Charcot neuroarthropathy should be referred to orthopaedic surgeons for immediate treatment. Surgery is reserved for unbraceable deformity, recurrent ulceration, instability or exostosis, so C is wrong.\nReference: Malaysian CPG Management of Diabetic Foot 2018 (2nd Ed.), Section 7; Recommendation 15.",
     tag: "CPG Diabetic Foot 2018"
+  },
+  {
+    question_text: "A 57-year-old man has had 3 years of retrosternal chest tightness that comes on predictably when he walks uphill. The discomfort does not settle with rest, and glyceryl trinitrate (GTN) has not been tried. There has been no change in the pattern, and he has no pain at rest or at night. Which category best describes his chest pain according to the CPG?",
+    option_a: "Typical (definite) angina",
+    option_b: "Atypical (probable) angina",
+    option_c: "Non-anginal chest pain",
+    option_d: "Unstable angina",
+    correct_option: "B",
+    explanation: "Rationale: Typical angina needs all 3 criteria: (1) retrosternal discomfort that is predictable, with possible radiation to the jaw, shoulders, arms or back; (2) provoked by physical exertion or emotional stress; (3) relieved by rest and/or GTN. He meets the first two but not the third, so he has atypical (probable) angina, which is 2 of the 3 criteria. A needs all three. C applies when one or none of the criteria are met. D is wrong because the pain has been stable for 3 years, with no rest pain; the CPG treats recent onset (<2 months), rest pain, or sweating and dyspnoea as features pointing to an ACS.\nReference: Malaysian CPG Stable Coronary Artery Disease 2018 (2nd Ed.), Section 2.1 (p27), Table 3 (p29).",
+    tag: "CPG Stable CAD 2018"
+  },
+  {
+    question_text: "Four patients attend a chest pain clinic. Which patient should be managed according to the CPG for unstable angina / NSTEMI rather than as stable CAD?",
+    option_a: "A 62-year-old man with 2 years of exertional chest tightness relieved by rest within 5 minutes, with no change in pattern",
+    option_b: "A 70-year-old woman with exertional chest pain, precipitated by emotional stress and relieved by GTN, stable for 18 months",
+    option_c: "A 59-year-old man with burning retrosternal pain after large meals for 6 months, relieved by antacids",
+    option_d: "A 55-year-old woman with chest pain that began 3 weeks ago, now occurs at rest and is accompanied by sweating and breathlessness",
+    correct_option: "D",
+    explanation: "Rationale: The CPG says chest pain that is of recent onset (<2 months), and/or occurs at rest, and/or is associated with sweating and dyspnoea may be due to an ACS and should be managed with the UA/NSTEMI CPG. Patient D has all three features. A and B describe stable, predictable exertional angina. C describes a pattern that fits a gastrointestinal cause (reflux is listed among the non-ischaemic causes of chest pain).\nReference: Malaysian CPG Stable Coronary Artery Disease 2018 (2nd Ed.), Section 2.1 (p28), Section 5.1 (p33), Table 5 (p35).",
+    tag: "CPG Stable CAD 2018"
+  },
+  {
+    question_text: "A 54-year-old woman with exertional chest pain has a stress perfusion study that shows reversible ischaemia in the anterior wall. Invasive coronary angiography shows 35% luminal narrowing in the proximal left anterior descending artery and no other disease. Which statement about her condition is most accurate?",
+    option_a: "She has non-obstructive CAD, and its prognosis is not benign, being worse when myocardial ischaemia is documented",
+    option_b: "She has Cardiac Syndrome X, which carries an excellent prognosis",
+    option_c: "She has obstructive CAD, because any lesion that causes ischaemia is classed as obstructive",
+    option_d: "Her prognosis is no different from that of women with normal coronary arteries, whether or not ischaemia is present",
+    correct_option: "A",
+    explanation: "Rationale: The CPG defines obstructive CAD as luminal narrowing >50%, non-obstructive CAD as ≥20% and <50%, and normal coronaries (Cardiac Syndrome X) as <20%. A 35% lesion is non-obstructive. Its prognosis is not benign and is worse when myocardial ischaemia is documented. In the WISE study the 5-year rate of MI and CV death was 16% in women with angina and non-obstructive CAD, versus 7.9% with normal coronaries and 2.4% in asymptomatic controls. B uses the wrong category (Syndrome X is <20%). C is wrong because the classification is by luminal narrowing, not by presence of ischaemia. D is wrong because outcomes were significantly different between the groups.\nReference: Malaysian CPG Stable Coronary Artery Disease 2018 (2nd Ed.), Section 3 (p30), Section 10.2 (p87).",
+    tag: "CPG Stable CAD 2018"
+  },
+  {
+    question_text: "A 38-year-old man has recurrent exertional chest pain and one episode of syncope during a run. Coronary angiography shows no atheroma but systolic compression of the mid left anterior descending artery. He is otherwise well. Which of the following is the most appropriate initial treatment?",
+    option_a: "Percutaneous stent implantation across the bridged segment",
+    option_b: "Surgical unroofing of the bridged segment",
+    option_c: "A β-blocker, with or without a calcium channel blocker",
+    option_d: "A long-acting nitrate",
+    correct_option: "C",
+    explanation: "Rationale: Myocardial bridging most commonly involves the LAD. Patients may present with exertional angina, syncope and even sudden death. The CPG says medical therapy with β-blockers and CCBs remains the mainstay of treatment. A is wrong because stenting can be complicated by stent fracture, perforation, thrombosis and restenosis. B is wrong because surgery is considered only if medical therapy fails. D is wrong because the CPG names β-blockers and CCBs, not nitrates, as the mainstay.\nReference: Malaysian CPG Stable Coronary Artery Disease 2018 (2nd Ed.), Section 3 (p30).",
+    tag: "CPG Stable CAD 2018"
+  },
+  {
+    question_text: "A cardiologist is counselling a 63-year-old man with stable CAD who is on optimal medical therapy. Which factor does the CPG identify as among the most important predictors of adverse cardiovascular outcomes?",
+    option_a: "Number of vessels diseased on angiography",
+    option_b: "Presence or absence of angina symptoms",
+    option_c: "Number of conventional CV risk factors",
+    option_d: "LV function and total ischaemic burden",
+    correct_option: "D",
+    explanation: "Rationale: The most important predictors of adverse CV outcomes are LV function and the extent of myocardial ischaemia (total ischaemic burden). This is not necessarily equivalent to the number of vessels diseased, so A is wrong. The association between angina and combined endpoints of CV death, MI or stroke is weak, so B is wrong. C is a real contributor (active smoking and poorly controlled diabetes or lipids predicted MI in the registry), but it is not named as the most important predictor.\nReference: Malaysian CPG Stable Coronary Artery Disease 2018 (2nd Ed.), Section 4 (p31-32).",
+    tag: "CPG Stable CAD 2018"
+  },
+  {
+    question_text: "A 63-year-old woman gets retrosternal tightness after walking about 150 metres on level ground at a normal pace and after climbing one flight of stairs at a normal pace. She has to stop to relieve the symptoms. She has no pain at rest, and her ordinary activity is markedly limited. What is her Canadian Cardiovascular Society (CCS) class?",
+    option_a: "Class I",
+    option_b: "Class II",
+    option_c: "Class III",
+    option_d: "Class IV",
+    correct_option: "C",
+    explanation: "Rationale: Class III is angina on walking one or two blocks on the level or climbing one flight of stairs at a normal pace, with marked limitation of ordinary activity. Class I is angina only with strenuous, rapid or prolonged exertion. Class II is slight limitation: walking or climbing stairs rapidly, uphill, after meals, in cold or wind, or under emotional stress. Class IV is inability to carry out any physical activity without discomfort, or symptoms at rest.\nReference: Malaysian CPG Stable Coronary Artery Disease 2018 (2nd Ed.), Section 5.1, Table 4 (p34).",
+    tag: "CPG Stable CAD 2018"
+  },
+  {
+    question_text: "A 54-year-old man has exertional chest tightness. A 12-lead ECG recorded in clinic while he is pain-free is normal. Which is the most appropriate interpretation and action?",
+    option_a: "CAD is not excluded; an ECG should ideally be recorded during an episode of chest pain, and further risk-based assessment arranged",
+    option_b: "CAD is excluded and no further assessment is required",
+    option_c: "A normal ECG makes a chest radiograph the next mandatory investigation",
+    option_d: "A normal ECG makes echocardiography mandatory",
+    correct_option: "A",
+    explanation: "Rationale: All patients with chest pain or an angina equivalent should have a baseline resting 12-lead ECG (Grade I, Level C), preferably during an episode of chest pain (I, B). The resting ECG is usually normal in stable CAD, and a normal one does not rule out CAD or myocardial ischaemia, so B is wrong. C and D are wrong because chest radiography and echocardiography are not routine investigations; each has specific indications.\nReference: Malaysian CPG Stable Coronary Artery Disease 2018 (2nd Ed.), Section 5.3 (p36), Recommendation 1 (p19).",
+    tag: "CPG Stable CAD 2018"
+  },
+  {
+    question_text: "A general practitioner refers four patients with chest pain for echocardiography. In which patient is resting echocardiography a Class I indication according to the CPG?",
+    option_a: "A 50-year-old man with typical angina, a normal resting ECG, a normal cardiac examination and no breathlessness",
+    option_b: "A 58-year-old man with exertional angina and Q waves in V1-V4 on the resting ECG",
+    option_c: "A 46-year-old woman with non-anginal chest pain, a normal resting ECG and a normal examination",
+    option_d: "A 52-year-old woman with atypical chest pain, a normal resting ECG and a normal examination",
+    correct_option: "B",
+    explanation: "Rationale: Echocardiography is not a routine investigation. Class I indications (Grade I, Level C) are abnormal auscultatory findings, an abnormal resting ECG, and assessment of LV function or regional wall motion abnormalities in patients with breathlessness and/or known CAD. Patient B has an abnormal resting ECG. A, C and D have normal ECGs and examinations; echocardiography is only \"useful\" (IIa, C) in patients with hypertension or diabetes, or when chest pain is suspected to be due to CAD, which is a lower grade than Class I.\nReference: Malaysian CPG Stable Coronary Artery Disease 2018 (2nd Ed.), Section 5.4 (p36), Recommendation 1 (p19).",
+    tag: "CPG Stable CAD 2018"
+  },
+  {
+    question_text: "A 45-year-old woman has retrosternal discomfort that is predictable and provoked by exertion, but it does not ease with rest or GTN. She has hypertension and mild dyslipidaemia. Her resting ECG is normal. Using the pre-test probability (PTP) table adopted by the CPG, which is the most appropriate approach?",
+    option_a: "Exercise stress echocardiography",
+    option_b: "Coronary CT angiography",
+    option_c: "Invasive coronary angiography",
+    option_d: "Treat CV risk factors to target and look for other causes of chest pain",
+    correct_option: "D",
+    explanation: "Rationale: Her pain meets 2 of the 3 criteria (atypical angina). For a woman aged 40-49 with atypical angina the PTP in Table 1 is 14%, which is below 15% (low). Patients with a low PTP can be assumed not to have significant obstructive CAD, so CV risk factors should be treated to target and other causes of chest pain sought. A, B and C are all further tests suited to intermediate (15-85%) or high (>85%) PTP and would risk false positives and unnecessary downstream procedures.\nReference: Malaysian CPG Stable Coronary Artery Disease 2018 (2nd Ed.), Section 6.1 (p39), Table 1 (p22), Recommendation 2.",
+    tag: "CPG Stable CAD 2018"
+  },
+  {
+    question_text: "A 64-year-old man has typical angina with all three classic criteria. His resting ECG is normal and he walks briskly for 5 km daily without limitation. He has hypertension and dyslipidaemia. Which is the most appropriate next investigation?",
+    option_a: "Invasive coronary angiography",
+    option_b: "Coronary calcium score alone",
+    option_c: "Exercise stress ECG",
+    option_d: "Pharmacological stress cardiac magnetic resonance imaging",
+    correct_option: "C",
+    explanation: "Rationale: For men aged 60-69 with typical angina the PTP in Table 1 is 84%, which is just below 85%. That is intermediate (15-85%), so further non-invasive evaluation is needed rather than going straight to angiography. With a normal resting ECG and good exercise tolerance, exercise stress ECG is the test of choice (I, A). A would be the initial investigation only if PTP were >85% with typical symptoms. B is wrong because calcium scoring is more useful for risk stratification than for diagnosis. D is reserved for patients who cannot exercise or whose ECG is uninterpretable.\nReference: Malaysian CPG Stable Coronary Artery Disease 2018 (2nd Ed.), Section 6.1 (p39), Section 6.2.1 (p41), Table 1 (p22), Figure 1 (p23).",
+    tag: "CPG Stable CAD 2018"
+  },
+  {
+    question_text: "A 59-year-old woman with suspected CAD and an intermediate PTP takes bisoprolol 5 mg and amlodipine 5 mg daily. An exercise stress ECG is requested to establish the diagnosis. What is the most appropriate advice about her anti-anginal medication before the test?",
+    option_a: "Stop all anti-anginal medication for at least 48 hours before the test",
+    option_b: "Continue all medication, as stopping it is never advised",
+    option_c: "Stop only the β-blocker on the evening before the test",
+    option_d: "Double the doses on the morning of the test",
+    correct_option: "A",
+    explanation: "Rationale: If exercise stress ECG is done for diagnostic reasons, it is best to stop all anti-anginal medication for at least 48 hours. If it is done for prognosis (for example to assess treatment efficacy in known CAD), the medication should be continued. B applies to the prognostic scenario, not the diagnostic one. C and D have no basis in the CPG.\nReference: Malaysian CPG Stable Coronary Artery Disease 2018 (2nd Ed.), Section 6.2.1 (p41).",
+    tag: "CPG Stable CAD 2018"
+  },
+  {
+    question_text: "A 61-year-old man's treadmill test is stopped for chest pain at 4 minutes. The ECG shows ST depression in V4-V6 and ST elevation in lead aVR that is greater than that in lead V1. Which coronary pattern does this finding suggest?",
+    option_a: "Isolated distal right coronary artery stenosis",
+    option_b: "Significant left main disease, multivessel disease, or ostial/proximal LAD occlusion",
+    option_c: "A single diagonal branch stenosis",
+    option_d: "Coronary vasospasm confined to the right coronary artery",
+    correct_option: "B",
+    explanation: "Rationale: ST elevation in aVR, particularly when higher than in V1, reflects high-risk CAD, including significant left main disease, multivessel disease, or ostial/proximal LAD occlusion. A positive test also includes horizontal or downsloping ST depression of ≥1 mm (60-80 ms after the J point) in two contiguous leads. A, C and D describe localised or non-fixed disease that does not explain a global pattern with aVR elevation.\nReference: Malaysian CPG Stable Coronary Artery Disease 2018 (2nd Ed.), Section 6.2.1 (p41-42).",
+    tag: "CPG Stable CAD 2018"
+  },
+  {
+    question_text: "A 67-year-old man with chest pain completes a Bruce protocol treadmill test. His Duke Treadmill Score (DTS) is -14. What is the most appropriate next step?",
+    option_a: "No further testing is required",
+    option_b: "Continue medical therapy and repeat the treadmill test in 5 years",
+    option_c: "Stress imaging to risk stratify further",
+    option_d: "Invasive coronary angiography",
+    correct_option: "D",
+    explanation: "Rationale: DTS = exercise time (min) - (5 × maximum ST deviation) - (4 × angina index). A DTS ≤ -11 is high risk, with a predicted 4-year survival of about 79% and annual mortality of about 5% (>5% in Table 2). This group should be considered for invasive coronary angiography. A applies to low risk (DTS ≥ +5; 4-year survival 99%, annual mortality about 0.25%, no further testing). C applies to intermediate risk (+4 to -10). B has no basis in the CPG.\nReference: Malaysian CPG Stable Coronary Artery Disease 2018 (2nd Ed.), Section 6.2.1 (p42), Table 7 (p44), Table 2 (p24).",
+    tag: "CPG Stable CAD 2018"
+  },
+  {
+    question_text: "A 66-year-old man with typical angina and an intermediate PTP has left bundle branch block (LBBB) on his resting ECG. Exercise is limited by severe knee osteoarthritis. Which is the most appropriate next test?",
+    option_a: "Pharmacological stress imaging (for example dobutamine stress echocardiography)",
+    option_b: "Exercise stress ECG",
+    option_c: "Resting echocardiography alone",
+    option_d: "Coronary calcium score alone",
+    correct_option: "A",
+    explanation: "Rationale: Stress imaging is used in patients with intermediate PTP who cannot exercise adequately and/or have an uninterpretable resting ECG. In LBBB and ventricular paced rhythms, stress imaging tests are the non-invasive tests of choice, although diagnostic accuracy is reduced. B is wrong because LBBB makes the ST segments uninterpretable and he cannot exercise adequately. C does not test for inducible ischaemia. D is more useful for risk assessment than for diagnosis.\nReference: Malaysian CPG Stable Coronary Artery Disease 2018 (2nd Ed.), Section 6.2.2 (p46-47).",
+    tag: "CPG Stable CAD 2018"
+  },
+  {
+    question_text: "A 58-year-old man with diabetes and typical angina has an adenosine SPECT myocardial perfusion study reported as showing homogeneous tracer uptake in all territories. Because symptoms persist, invasive angiography is done and shows severe left main and triple-vessel disease. What is the most likely explanation for the false-negative perfusion study?",
+    option_a: "Soft-tissue attenuation artefact",
+    option_b: "Left bundle branch block",
+    option_c: "Balanced ischaemia from severe left main and multivessel disease",
+    option_d: "Inadequate vasodilator stress after caffeine intake",
+    correct_option: "C",
+    explanation: "Rationale: Stress MPI relies on perfusion differences between territories and needs at least one non-ischaemic territory as a normal reference. When all three vessels are severely narrowed, or left main and multivessel disease are combined, \"balanced\" ischaemia gives rather uniform tracer uptake and a false-negative result. A and B are recognised causes of reduced diagnostic accuracy (usually false positives), not of uniform uptake in this setting. D is not a mechanism cited in the CPG, and the stem gives no hint of it.\nReference: Malaysian CPG Stable Coronary Artery Disease 2018 (2nd Ed.), Section 6.2.2 (p47-48).",
+    tag: "CPG Stable CAD 2018"
+  },
+  {
+    question_text: "A medical officer reviews the CPG's summary of diagnostic accuracy to pick a test that is least likely to miss CAD in a patient with intermediate PTP. Which test has the highest sensitivity in the CPG's table?",
+    option_a: "Exercise stress ECG",
+    option_b: "Vasodilator stress echocardiography",
+    option_c: "Coronary CT angiography",
+    option_d: "Exercise stress SPECT",
+    correct_option: "C",
+    explanation: "Rationale: In Table 6, coronary CTA has the highest sensitivity (95-99%), with a specificity of 64-83%. Exercise ECG has the lowest sensitivity (45-50%) but specificity of 85-90%, so A is wrong. Vasodilator stress echocardiography has the highest specificity (92-95%) but a lower sensitivity (72-79%), which makes B the trap. Exercise SPECT is 73-92% sensitive, so D is wrong.\nReference: Malaysian CPG Stable Coronary Artery Disease 2018 (2nd Ed.), Section 6.1, Table 6 (p39).",
+    tag: "CPG Stable CAD 2018"
+  },
+  {
+    question_text: "A 60-year-old man has typical exertional angina and an intermediate PTP. A coronary artery calcium (CAC) scan returns an Agatston score of 0. Which interpretation is most appropriate?",
+    option_a: "Obstructive CAD is excluded and no further testing is needed",
+    option_b: "In a symptomatic patient with an intermediate PTP, substantial ischaemia and near-term events remain possible, so further evaluation is needed",
+    option_c: "A zero score is more accurate than a stress test for diagnosing CAD",
+    option_d: "A zero score confirms that his symptoms are due to microvascular angina",
+    correct_option: "B",
+    explanation: "Rationale: CAC of 0 makes plaque, including unstable plaque, very unlikely and significant obstructive disease highly unlikely overall. The CPG says the result must be interpreted with the PTP and clinical setting: in persons with symptoms and an intermediate to high likelihood of CAD, there is often substantial ischaemia on provocative testing and a high risk of near-term coronary events. A ignores this. C is wrong: CAC has high sensitivity but low specificity, with an overall accuracy of about 70%, and was not found to be superior to other modalities. D has no basis in the CPG. CAC is more useful for CV risk stratification than for diagnosis.\nReference: Malaysian CPG Stable Coronary Artery Disease 2018 (2nd Ed.), Section 6.3.1 (p49), Section 7.5.1 (p56).",
+    tag: "CPG Stable CAD 2018"
+  },
+  {
+    question_text: "Four patients are considered for coronary CT angiography (CTA). Which patient is most suitable?",
+    option_a: "A 45-year-old asymptomatic man who wants a general \"heart check\"",
+    option_b: "A 68-year-old man with atrial fibrillation and a ventricular rate of 110/min",
+    option_c: "A 63-year-old woman with a coronary calcium (Agatston) score of 1,350",
+    option_d: "A 55-year-old man with a low-to-intermediate PTP, equivocal ST changes at moderate workload on exercise ECG, mild symptoms, good exercise capacity, and sinus rhythm at 58/min",
+    correct_option: "D",
+    explanation: "Rationale: CTA may be considered (I, A) in patients with low to intermediate PTP who have mild or equivocal ischaemic changes on exercise or stress imaging, and who are asymptomatic or mildly symptomatic with good exercise capacity. Good image quality needs sinus rhythm without ectopics, a heart rate <65/min, a favourable calcium score (<400 Agatston), and breath-holding ability. A is wrong because CTA should not be used to screen asymptomatic people (III, C): low prevalence leads to false positives and unnecessary downstream procedures. B fails the rhythm and heart-rate criteria. C fails the calcium criterion, as heavy calcification reduces accuracy.\nReference: Malaysian CPG Stable Coronary Artery Disease 2018 (2nd Ed.), Section 6.3.2 (p50-51), Recommendation 3.",
+    tag: "CPG Stable CAD 2018"
+  },
+  {
+    question_text: "Four patients with stable angina are being considered for invasive coronary angiography (ICA). In which patient should ICA NOT be performed?",
+    option_a: "A 68-year-old woman with CCS class II angina who says she would refuse both PCI and CABG",
+    option_b: "A 60-year-old man with CCS class III angina and a positive exercise ECG at low workload",
+    option_c: "A 72-year-old man with typical angina and a PTP of 89%, willing to consider revascularisation",
+    option_d: "A 58-year-old man with high-risk findings on stress imaging (≥10% of LV myocardium ischaemic)",
+    correct_option: "A",
+    explanation: "Rationale: The CPG says coronary arteriography should not be performed (III, C) in patients with angina who refuse diagnostic procedures, who prefer to avoid revascularisation by PCI or CABG, who are not candidates for PCI or CABG, or in whom PCI/CABG will not improve quality of life. B should have ICA because a positive exercise test at low workload warrants it. C has high PTP (>85%), for which ICA may be the initial investigation. D has high-risk findings, for which ICA with a view to revascularisation should be considered.\nReference: Malaysian CPG Stable Coronary Artery Disease 2018 (2nd Ed.), Section 7.5.3 (p58), Figure 1 (p23).",
+    tag: "CPG Stable CAD 2018"
+  },
+  {
+    question_text: "A 59-year-old man with CCS class II angina takes aspirin, atorvastatin, bisoprolol and amlodipine. A dobutamine stress echocardiogram shows inducible wall motion abnormalities in 4 segments of the standard LV model. What is the most appropriate management?",
+    option_a: "Continue current therapy and review in primary care",
+    option_b: "Refer to a tertiary cardiac centre for invasive coronary angiography with a view to revascularisation",
+    option_c: "Repeat the stress echocardiogram in 12 months",
+    option_d: "Add ranolazine and reassess in 6 months",
+    correct_option: "B",
+    explanation: "Rationale: Inducible wall motion abnormalities in ≥3 segments of the standard LV model are high risk, with an annual CV death/MI rate of about 4.5%. The CPG defines high risk as annual mortality >3%. High-risk patients should be considered for ICA with a view to revascularisation, and intermediate- and high-risk patients should be referred to tertiary cardiac centres. A applies to low-risk patients (<1%). C and D delay risk-based management in a patient whose test result already places him in the high-risk group.\nReference: Malaysian CPG Stable Coronary Artery Disease 2018 (2nd Ed.), Section 7 (p53), Table 2 (p24), Section 7.6 (p60-61), Recommendation 5.",
+    tag: "CPG Stable CAD 2018"
+  },
+  {
+    question_text: "A 62-year-old man with a previous anterior MI has exertional breathlessness. Echocardiography shows an LVEF of 32% with a hypokinetic anterior wall. Which investigation best addresses whether his LV dysfunction is due to infarcted scar or to viable but stunned ischaemic myocardium?",
+    option_a: "Resting 12-lead ECG",
+    option_b: "Exercise stress ECG",
+    option_c: "Chest radiograph",
+    option_d: "Stress imaging such as dobutamine stress echocardiography",
+    correct_option: "D",
+    explanation: "Rationale: LV function is the strongest predictor of survival. With depressed LV function it is important to determine whether it is due to infarcted (scar) tissue or viable but stunned ischaemic myocardium, which can be done with stress imaging techniques; dobutamine also allows viability assessment. Revascularisation of ischaemic but viable myocardium can improve LV function and survival. A, B and C do not assess myocardial viability.\nReference: Malaysian CPG Stable Coronary Artery Disease 2018 (2nd Ed.), Section 7.3 (p55), Section 6.2.2.1 (p47).",
+    tag: "CPG Stable CAD 2018"
+  },
+  {
+    question_text: "A 64-year-old man with CCS class II angina on optimal medical therapy has a 70% mid-LAD stenosis on angiography. Fractional flow reserve (FFR) measured during adenosine-induced hyperaemia is 0.78. According to the CPG thresholds, what is the most appropriate interpretation?",
+    option_a: "Revascularisation offers no benefit because FFR is above 0.75",
+    option_b: "Revascularisation offers intermediate benefit, and the decision should rest on clinical judgement",
+    option_c: "Revascularisation is clearly beneficial because FFR is below 0.80",
+    option_d: "FFR is unreliable here because it does not assess the microcirculation",
+    correct_option: "B",
+    explanation: "Rationale: In patients on OMT the CPG uses these cut-offs: FFR >0.80 means no improved outcome with revascularisation; 0.75 to <0.80 means intermediate benefit, with management based on clinical judgement; <0.75 means benefit from revascularisation. A value of 0.78 falls in the intermediate zone. A and C misapply the thresholds. D is wrong: FFR takes collateral flow and viable myocardial mass into account, is independent of haemodynamic variations, and a normal value is 1.0 regardless of microcirculatory status.\nReference: Malaysian CPG Stable Coronary Artery Disease 2018 (2nd Ed.), Section 7.5.4.1 (p59), Section 8.3 (p81).",
+    tag: "CPG Stable CAD 2018"
+  },
+  {
+    question_text: "A 57-year-old woman has a 60% mid-RCA stenosis on angiography. The interventional cardiologist wants to confirm that it is haemodynamically significant before stenting. Which of the following is an anatomical tool that should not be used on its own to determine functional significance?",
+    option_a: "Intravascular ultrasound or optical coherence tomography minimum lumen area",
+    option_b: "Fractional flow reserve (FFR)",
+    option_c: "Instantaneous wave-free ratio (iFR)",
+    option_d: "Stress cardiac magnetic resonance perfusion imaging",
+    correct_option: "A",
+    explanation: "Rationale: IVUS and OCT give visual and dimensional assessment of the lesion. IVUS has a relatively high negative predictive value but a low positive predictive value for ischaemia. They should not be performed to determine the functional significance of a lesion before intervention (IIa, B), but are useful for optimising stent deployment and sizing. FFR is the invasive gold standard. iFR is pressure-derived without a vasodilator, with a cut-off of 0.89 corresponding to an FFR of 0.80, and initial trials showed it was non-inferior to FFR-guided strategies. Stress CMR perfusion gives functional (ischaemia) information.\nReference: Malaysian CPG Stable Coronary Artery Disease 2018 (2nd Ed.), Section 7.5.4.1 and 7.5.4.2 (p59-60).",
+    tag: "CPG Stable CAD 2018"
+  },
+  {
+    question_text: "A 56-year-old man with stable CAD asks for specific dietary targets. Which advice is consistent with the CPG's nutritional recommendations?",
+    option_a: "Limit saturated fat to below 5% of energy",
+    option_b: "Restrict salt to below 10 g per day",
+    option_c: "Keep trans fatty acids below 1% of total energy intake",
+    option_d: "Allow added sugars up to 20% of energy intake",
+    correct_option: "C",
+    explanation: "Rationale: The CPG recommends trans fatty acids <1% of energy (I, A). Saturated fat should be 7-10% of energy (I, B), so A is too strict and does not match. Salt should be <5 g (1 level teaspoon, or 2000 mg sodium) per day (I, A), so B is double the limit. Added sugar should be <10% of energy, about 50 g or 12 level teaspoons on a 2000-kcal diet (I, A), so D is double the limit. The CPG also notes a Mediterranean diet reduces CV events and that the DASH diet reduces blood pressure.\nReference: Malaysian CPG Stable Coronary Artery Disease 2018 (2nd Ed.), Section 8.1.2 (p63), Table 9 (p65).",
+    tag: "CPG Stable CAD 2018"
+  },
+  {
+    question_text: "A 60-year-old sedentary woman with stable CAD, 3 months after PCI, asks whether she should exercise. What is the most appropriate advice?",
+    option_a: "Avoid exercise until she has been symptom-free for 12 months",
+    option_b: "Aim immediately for 300 minutes of vigorous activity a week",
+    option_c: "Limit herself to occupational and commuting activity because structured exercise is unsafe in CAD",
+    option_d: "Start light-intensity exercise after adequate exercise-related risk stratification, aiming over time for at least 150 minutes a week of moderate intensity (or 75 minutes of vigorous intensity), ideally guided by a physiotherapist or exercise physiologist",
+    correct_option: "D",
+    explanation: "Rationale: The CPG recommends at least 150 minutes a week of moderate intensity or 75 minutes of vigorous intensity (or an equivalent combination) (I, B). Sedentary patients should be strongly encouraged to start light-intensity exercise after adequate exercise-related risk stratification (I, B). Any amount of physical activity is better than none, and patients should wherever possible be referred to physiotherapists or exercise physiologists for exercise prescription. Aerobic exercise should be offered as part of a structured, medically supervised cardiac rehabilitation programme that includes education and counselling, and that helps identify comorbid conditions and anxiety or depression. A, B and C contradict these recommendations.\nReference: Malaysian CPG Stable Coronary Artery Disease 2018 (2nd Ed.), Section 8.1.3 (p63-64), Table 10 (p66).",
+    tag: "CPG Stable CAD 2018"
+  },
+  {
+    question_text: "A 54-year-old man who smokes 20 cigarettes a day has stable CAD after PCI. He says he plans to \"switch to vaping\" to protect his heart. Which response is most consistent with the CPG?",
+    option_a: "E-cigarettes are a recommended cessation aid in CAD",
+    option_b: "Switching to low-tar or filtered cigarettes reduces his cardiovascular risk",
+    option_c: "Vaping is harmful and not recommended; he should be referred to a smoking cessation service such as mQuit",
+    option_d: "Shisha is a safer alternative to cigarettes",
+    correct_option: "C",
+    explanation: "Rationale: E-cigarette aerosol is harmful (III, B), and the use of e-cigarettes and shisha is not recommended. Stopping smoking after an MI is the most effective prevention measure, and patients can be referred to mQuit services. B is wrong because changing cigarette design (filters, low-tar, \"light\") has not reduced overall disease risk. A and D contradict the CPG.\nReference: Malaysian CPG Stable Coronary Artery Disease 2018 (2nd Ed.), Section 8.1.4 (p67-68).",
+    tag: "CPG Stable CAD 2018"
+  },
+  {
+    question_text: "A 52-year-old man with stable CAD has a BMI of 33 kg/m² and hypertension. According to the CPG, what is the initial weight-management goal?",
+    option_a: "5-10% weight loss, maintained over 1-2 years before attempting further weight loss",
+    option_b: "20% weight loss within 3 months",
+    option_c: "Reach a BMI below 25 kg/m² before any other intervention",
+    option_d: "Weight loss is unnecessary unless BMI exceeds 40 kg/m²",
+    correct_option: "A",
+    explanation: "Rationale: The goals of weight management are to achieve 5-10% weight loss and to maintain it over 1-2 years before attempting further weight loss (I, B). Modest loss of 5-10% improves blood pressure, glycaemic control and lipids. B and C set unrealistic targets. D is wrong because overweight and obesity are linked to increased CAD mortality (every 5 kg/m² rise in BMI is associated with about a 30% higher overall mortality and 40% higher vascular mortality). Pharmacotherapy and bariatric surgery are options in selected patients.\nReference: Malaysian CPG Stable Coronary Artery Disease 2018 (2nd Ed.), Section 8.1.5 (p68-69).",
+    tag: "CPG Stable CAD 2018"
+  },
+  {
+    question_text: "A 62-year-old man with stable CAD cannot tolerate aspirin because of recurrent dyspepsia with gastric erosions. Which is the preferred alternative antiplatelet agent?",
+    option_a: "Ticagrelor monotherapy",
+    option_b: "Clopidogrel",
+    option_c: "Prasugrel monotherapy",
+    option_d: "Ticlopidine",
+    correct_option: "B",
+    explanation: "Rationale: Clopidogrel is the recommended alternative in aspirin-intolerant patients (I, A). Ticlopidine (IIb, B) is limited by scarce cardiac outcome evidence and the risk of blood dyscrasias. Ticagrelor and prasugrel as monotherapy have not been studied in stable CAD, so A and C are not supported.\nReference: Malaysian CPG Stable Coronary Artery Disease 2018 (2nd Ed.), Section 8.2.1.1 (p69-70).",
+    tag: "CPG Stable CAD 2018"
+  },
+  {
+    question_text: "A 72-year-old man had a drug-eluting stent implanted for stable angina 3 months ago and takes aspirin and clopidogrel. He has just had an upper gastrointestinal bleed requiring transfusion. Which is the most appropriate approach to the duration of dual antiplatelet therapy (DAPT)?",
+    option_a: "Shorten the duration of DAPT",
+    option_b: "Continue DAPT for at least 3 years",
+    option_c: "Replace clopidogrel with ticagrelor and continue DAPT",
+    option_d: "Add rivaroxaban 2.5 mg twice daily to the DAPT",
+    correct_option: "A",
+    explanation: "Rationale: In patients with high bleeding risk the CPG says the duration of DAPT after stenting can be shortened (IIa, B). The standard recommendation is 12 months post ACS, and use beyond one year in stable CAD with PCI must be individualised by weighing ischaemic against bleeding risk (IIa, A). B, C and D would all increase his bleeding risk. Prolonged DAPT and ticagrelor plus aspirin were associated with more bleeding, and adding rivaroxaban to aspirin also increased major bleeding.\nReference: Malaysian CPG Stable Coronary Artery Disease 2018 (2nd Ed.), Section 8.2.1.1 (p70-71).",
+    tag: "CPG Stable CAD 2018"
+  },
+  {
+    question_text: "A 71-year-old man with non-valvular AF (CHA2DS2-VASc score 4) had a drug-eluting stent placed 6 weeks ago for stable CAD. He takes warfarin, aspirin and clopidogrel and has recurrent epistaxis and haematuria. His creatinine clearance is 42 mL/min. Which regimen does the CPG recommend to lower his bleeding risk?",
+    option_a: "Rivaroxaban 15 mg once daily plus clopidogrel 75 mg daily",
+    option_b: "Warfarin plus aspirin plus clopidogrel",
+    option_c: "Dabigatran 150 mg twice daily plus aspirin 100 mg daily",
+    option_d: "Rivaroxaban 10 mg once daily plus clopidogrel 75 mg daily",
+    correct_option: "D",
+    explanation: "Rationale: In AF patients with drug-eluting stents, a NOAC with antiplatelet therapy is associated with lower bleeding than the standard triple regimen (DAPT plus warfarin). The CPG regimen is rivaroxaban 15 mg daily (10 mg if creatinine clearance is 30-50 mL/min) plus clopidogrel 75 mg daily (IIa, B). With a creatinine clearance of 42 mL/min the 10 mg dose applies, which makes A the trap for missing the renal adjustment. B is the regimen with the higher bleeding risk that he is already on. C is not a listed regimen: dabigatran is paired with clopidogrel or ticagrelor, not aspirin.\nReference: Malaysian CPG Stable Coronary Artery Disease 2018 (2nd Ed.), Section 8.2.1.1 (p71), Table 11 (p72).",
+    tag: "CPG Stable CAD 2018"
+  },
+  {
+    question_text: "A 58-year-old man with stable CAD and ischaemic cardiomyopathy (LVEF 28%) is found to have a new apical LV thrombus on echocardiography. He is in sinus rhythm. Which antithrombotic strategy does the CPG suggest?",
+    option_a: "A NOAC such as rivaroxaban",
+    option_b: "Dabigatran",
+    option_c: "Warfarin for at least 6 months",
+    option_d: "Dual antiplatelet therapy alone",
+    correct_option: "C",
+    explanation: "Rationale: In stable CAD with depressed LV function and a LV thrombus shown for the first time by echocardiography, warfarin for at least 6 months may be considered (IIa, C). Table 11 states that NOACs are not indicated for LV thrombus at present, so A and B are wrong. D does not provide anticoagulation. (This reflects the 2018 CPG; newer evidence may differ.)\nReference: Malaysian CPG Stable Coronary Artery Disease 2018 (2nd Ed.), Section 8.2.1.1 (p72), Table 11 (p72).",
+    tag: "CPG Stable CAD 2018"
+  },
+  {
+    question_text: "A 64-year-old man with stable CAD takes atorvastatin 80 mg daily with good adherence. His LDL-C is 2.3 mmol/L. What is the most appropriate next step?",
+    option_a: "Continue unchanged, because an LDL-C below 2.6 mmol/L is sufficient",
+    option_b: "Add a non-statin agent such as ezetimibe",
+    option_c: "Replace atorvastatin with a fibrate",
+    option_d: "Reduce the statin dose to limit adverse effects",
+    correct_option: "B",
+    explanation: "Rationale: Statins should be used to achieve LDL-C targets, with the aim of an LDL-C <1.8 mmol/L; the lower the better (I, A). If the LDL-C target cannot be achieved, other non-statin therapy such as ezetimibe or PCSK9 inhibitors may be considered (IIa, B). A is wrong because the CPG target is <1.8 mmol/L. C and D move away from the target.\nReference: Malaysian CPG Stable Coronary Artery Disease 2018 (2nd Ed.), Section 8.2.1.2 (p73), Summary (p16-18).",
+    tag: "CPG Stable CAD 2018"
+  },
+  {
+    question_text: "A 60-year-old man with stable CAD, 6 months after PCI, takes aspirin, atorvastatin and bisoprolol. Blood pressure is 118/72 mmHg, LVEF is 62%, he is not diabetic and his renal function is normal. Which statement about adding an ACE inhibitor or ARB is most accurate?",
+    option_a: "It should be started routinely to reduce cardiovascular events",
+    option_b: "An ACE inhibitor and ARB combination is preferred",
+    option_c: "A mineralocorticoid receptor antagonist is preferred instead",
+    option_d: "Routine use is not recommended in stable CAD without hypertension and with normal LV function",
+    correct_option: "D",
+    explanation: "Rationale: Early trials suggested benefit with ACE inhibitors in stable CAD with preserved LV function, but more recent data show no additional benefit in reducing CV events and death in this group. The CPG says routine ACEi/ARB use in stable CAD without hypertension and with normal LV function is not recommended. ACEi/ARB should be considered in the presence of diabetes, hypertension, or LV dysfunction (LVEF <40%). A is contrary to this. B and C have no support: MRAs are recommended for depressed LV function.\nReference: Malaysian CPG Stable Coronary Artery Disease 2018 (2nd Ed.), Section 8.2.1.3 (p73), Figure 2 (p25).",
+    tag: "CPG Stable CAD 2018"
+  },
+  {
+    question_text: "A 63-year-old man with ischaemic cardiomyopathy (LVEF 32%) has stable CAD and is being optimised for prognosis. Which drug class carries a Class I recommendation with Level of evidence B for improving survival in this setting?",
+    option_a: "Angiotensin receptor-neprilysin inhibitor (sacubitril/valsartan)",
+    option_b: "ACE inhibitor or ARB",
+    option_c: "β-blocker",
+    option_d: "Mineralocorticoid receptor antagonist",
+    correct_option: "A",
+    explanation: "Rationale: In stable CAD with reduced LV function (LVEF <40%) the CPG gives ACEi/ARB (I, A), β-blockers (I, A), mineralocorticoid receptor antagonists such as spironolactone and eplerenone (I, A), and the angiotensin receptor-neprilysin inhibitor sacubitril/valsartan (I, B). Only the last has Level B evidence.\nReference: Malaysian CPG Stable Coronary Artery Disease 2018 (2nd Ed.), Section 8.2.1.4 (p74).",
+    tag: "CPG Stable CAD 2018"
+  },
+  {
+    question_text: "A 44-year-old woman has chest pain at night and in the early morning with transient ST elevation that resolves spontaneously. Coronary angiography shows no fixed stenosis, and variant (Prinzmetal) angina is diagnosed. Which anti-anginal agent should be avoided?",
+    option_a: "Amlodipine",
+    option_b: "Diltiazem",
+    option_c: "Propranolol",
+    option_d: "Isosorbide mononitrate",
+    correct_option: "C",
+    explanation: "Rationale: The CPG states that β-blockers can worsen symptoms in vasospastic (Prinzmetal) angina and should be avoided. A and B are calcium channel blockers, which dilate coronary arteries, and D is a vasodilator; none is flagged in the CPG for avoidance in this condition.\nReference: Malaysian CPG Stable Coronary Artery Disease 2018 (2nd Ed.), Section 8.2.2.1 (p75).",
+    tag: "CPG Stable CAD 2018"
+  },
+  {
+    question_text: "A 66-year-old man with stable angina takes bisoprolol 5 mg daily. His resting heart rate is 62/min and he still has exertional angina. A calcium channel blocker (CCB) is to be added. Which is the most appropriate choice?",
+    option_a: "Verapamil",
+    option_b: "Amlodipine",
+    option_c: "Short-acting nifedipine",
+    option_d: "Diltiazem",
+    correct_option: "B",
+    explanation: "Rationale: Dihydropyridines such as amlodipine do not lower heart rate, and the CCB-β-blocker combination is beneficial because DHP-induced reflex tachycardia is blunted by the β-blocker. Concurrent use of a non-DHP (verapamil or diltiazem) with a β-blocker should be used with caution because of the risk of bradycardia and heart block, so A and D are wrong. C is wrong because short-acting nifedipine should be avoided in CAD: studies showed it increased the risk of MI, and at higher doses increased mortality.\nReference: Malaysian CPG Stable Coronary Artery Disease 2018 (2nd Ed.), Section 8.2.2.2 (p76).",
+    tag: "CPG Stable CAD 2018"
+  },
+  {
+    question_text: "A 62-year-old woman takes isosorbide dinitrate four times daily at evenly spaced intervals through the day and night. Her exertional angina has become more frequent after months of regular dosing. Which change is most appropriate?",
+    option_a: "Increase the dosing to six times a day",
+    option_b: "Switch to a continuous, round-the-clock slow-release preparation",
+    option_c: "Replace the nitrate with regular sublingual GTN four times daily",
+    option_d: "Change to twice-daily dosing that leaves a nitrate-free interval of about 10-12 hours",
+    correct_option: "D",
+    explanation: "Rationale: Long-term regular use of nitrates without a nitrate-free or low-nitrate interval of about 8-10 hours can cause nitrate tolerance, which can offset benefit. Twice-daily dosing of isosorbide dinitrate, giving a 10-12 hour nitrate-free interval, is preferred. A and B make continuous exposure worse. C does not address the problem; sublingual GTN is for acute relief and prophylaxis before anticipated exertion. The most common nitrate side effect is headache, and nitrates must not be used with PDE5 inhibitors.\nReference: Malaysian CPG Stable Coronary Artery Disease 2018 (2nd Ed.), Section 8.2.2.3 (p77).",
+    tag: "CPG Stable CAD 2018"
+  },
+  {
+    question_text: "Four patients with stable CAD and persistent angina are considered for add-on ivabradine. Which patient is the most suitable?",
+    option_a: "A 64-year-old man in sinus rhythm at 78/min on maximally tolerated bisoprolol, with an LVEF of 38%",
+    option_b: "A 70-year-old woman with persistent atrial fibrillation and a ventricular rate of 90/min",
+    option_c: "A 66-year-old man in sinus rhythm at 46/min",
+    option_d: "A 61-year-old woman in sinus rhythm at 72/min who takes verapamil",
+    correct_option: "A",
+    explanation: "Rationale: Ivabradine improved symptoms and reduced CV hospitalisation, MI and revascularisation in stable CAD with moderate LV dysfunction and a heart rate >70 bpm, and may be used with β-blockers or when they are not tolerated. It is not suitable in atrial fibrillation (B). It should be decreased or stopped if heart rate falls below 50 bpm (C). Its use with rate-limiting non-DHP CCBs such as verapamil should be avoided (D).\nReference: Malaysian CPG Stable Coronary Artery Disease 2018 (2nd Ed.), Section 8.2.2.4 (p77-78).",
+    tag: "CPG Stable CAD 2018"
+  },
+  {
+    question_text: "A 71-year-old man takes aspirin, atorvastatin, bisoprolol and nicorandil. He develops persistent painful oral ulcers and later an upper gastrointestinal bleed from a gastric ulcer. Which action is most appropriate?",
+    option_a: "Continue nicorandil and add a proton pump inhibitor",
+    option_b: "Stop aspirin and continue nicorandil",
+    option_c: "Discontinue nicorandil",
+    option_d: "Halve the dose of nicorandil",
+    correct_option: "C",
+    explanation: "Rationale: Nicorandil can cause serious skin, mucosal and eye ulceration, which persists unless treatment is discontinued. Concurrent use with aspirin increases the risk of gastrointestinal ulcers, perforations and haemorrhage. A, B and D keep the drug on board; ulceration persists unless nicorandil is stopped.\nReference: Malaysian CPG Stable Coronary Artery Disease 2018 (2nd Ed.), Section 8.2.2.7 (p79).",
+    tag: "CPG Stable CAD 2018"
+  },
+  {
+    question_text: "A 57-year-old man with CCS class I symptoms on optimal medical therapy has an 80% mid-RCA stenosis on angiography. FFR is 0.86 and a stress perfusion scan shows only mild inferior ischaemia. What is the most appropriate management?",
+    option_a: "PCI to the RCA to prevent myocardial infarction",
+    option_b: "Continue optimal medical therapy, as revascularisation is not expected to add benefit",
+    option_c: "CABG",
+    option_d: "IVUS-guided stenting of the RCA",
+    correct_option: "B",
+    explanation: "Rationale: The decision to revascularise depends on symptoms, extent of ischaemia, and extent of disease with FFR where applicable. Patients with no or mild ischaemia do better with OMT, and an FFR >0.8 means no benefit from revascularisation. PCI added to OMT has not been shown to reduce death, MI or repeat revascularisation. A, C and D act on the angiographic appearance alone, the fallacy the CPG calls the \"oculostenotic reflex\".\nReference: Malaysian CPG Stable Coronary Artery Disease 2018 (2nd Ed.), Section 8.3 (p81), Section 1 (barriers, p14), Recommendation 7.",
+    tag: "CPG Stable CAD 2018"
+  },
+  {
+    question_text: "A 61-year-old man with type 2 diabetes and angina remains symptomatic on optimal medical therapy. Angiography shows three-vessel disease including the proximal LAD, with complex anatomy. His LVEF is 55% and surgical risk is low. Which is the most appropriate approach?",
+    option_a: "Discuss at a Heart Team meeting; CABG is likely preferred for survival benefit",
+    option_b: "PCI of all three vessels, because it is less invasive and has equal survival",
+    option_c: "Continue medical therapy alone, because revascularisation never improves survival",
+    option_d: "Stenting of the proximal LAD only, to avoid surgery",
+    correct_option: "A",
+    explanation: "Rationale: CABG improves survival compared with OMT in patients with left main or three-vessel disease, particularly when the proximal LAD is involved. In patients with multivessel disease, complex anatomy, diabetes and low surgical risk, CABG has better survival benefit. A discussion with the patient and the Heart Team should be encouraged before revascularisation. B is wrong because it ignores diabetes and complexity. C is wrong because CABG improves survival in three-vessel disease. D leaves other diseased vessels untreated.\nReference: Malaysian CPG Stable Coronary Artery Disease 2018 (2nd Ed.), Section 8.3 (p81-82), Table 12 (p82), Section 10.1 (p86).",
+    tag: "CPG Stable CAD 2018"
+  },
+  {
+    question_text: "A 66-year-old man has stable CCS class II symptoms and a 60% unprotected left main stem stenosis. He asks about the evidence for intervention. Which statement best reflects the CPG?",
+    option_a: "Initial PCI plus OMT has been shown to reduce death and MI compared with OMT alone",
+    option_b: "A sham-controlled trial showed PCI improves exercise time and angina frequency at 6 weeks",
+    option_c: "Revascularisation is only indicated when FFR is above 0.80",
+    option_d: "In unprotected left main stenosis >50%, CABG improved survival compared with medical therapy in the CASS registry, so the benefit of surgery is little argued",
+    correct_option: "D",
+    explanation: "Rationale: In unprotected left main stenosis >50%, revascularisation by CABG was shown to improve survival in the CASS registry, and the benefit of surgery over medical treatment in significant LMS is little argued. A is wrong: recent trials have not shown that initial PCI plus OMT beats OMT alone. B is wrong: in a small randomised sham-controlled trial, PCI did not improve exercise time or angina frequency at 6 weeks. C reverses the FFR logic; benefit is seen with FFR <0.75.\nReference: Malaysian CPG Stable Coronary Artery Disease 2018 (2nd Ed.), Section 7.4 (p55-56), Section 7.5.3 (p58), Section 8.3 (p81).",
+    tag: "CPG Stable CAD 2018"
+  },
+  {
+    question_text: "A 63-year-old man with type 2 diabetes, stable CAD and NYHA class III heart failure takes metformin and pioglitazone. His HbA1c is 8.1%. Which change is most appropriate?",
+    option_a: "Continue pioglitazone and add saxagliptin",
+    option_b: "Increase the dose of pioglitazone",
+    option_c: "Stop pioglitazone and add an SGLT2 inhibitor",
+    option_d: "Continue pioglitazone and add a GLP-1 receptor agonist",
+    correct_option: "C",
+    explanation: "Rationale: Thiazolidinediones are associated with increased heart failure and should be avoided in NYHA class III and IV. SGLT2 inhibitors and GLP-1 receptor agonists are associated with a reduction in CV composite end-points, and SGLT2 inhibitors reduce the risk of heart failure. Saxagliptin was associated with increased hospitalisation for heart failure, though this was not seen with other agents in the DPP-4 class, so A is wrong. B worsens the problem. D keeps the thiazolidinedione.\nReference: Malaysian CPG Stable Coronary Artery Disease 2018 (2nd Ed.), Section 10.1 (p85-86).",
+    tag: "CPG Stable CAD 2018"
+  },
+  {
+    question_text: "A 51-year-old woman with exertional chest pain has a positive exercise ECG, but angiography shows normal coronary arteries (<20% narrowing). She asks about her outlook. Which statement is most accurate?",
+    option_a: "Her prognosis is benign and no different from that of an asymptomatic woman",
+    option_b: "Excess events in women with angina reflect gender bias in treatment rather than baseline risk",
+    option_c: "Exercise ECG has higher specificity in women than in men",
+    option_d: "Her 5-year risk of MI or CV death is higher than that of asymptomatic women",
+    correct_option: "D",
+    explanation: "Rationale: In the WISE study, the 5-year rate of MI and CV death was 7.9% in women with angina and normal coronary arteries (Cardiac Syndrome X), versus 2.4% in asymptomatic controls (and 16% with non-obstructive CAD). A is therefore wrong. For B, the CPG suggests the adverse outcomes seem due to baseline risk and clinical characteristics rather than gender-dependent factors or bias in therapy. C is wrong: exercise ECG has higher false-positive rates in women, with a specificity of about 66-78%.\nReference: Malaysian CPG Stable Coronary Artery Disease 2018 (2nd Ed.), Section 10.2 (p87-88).",
+    tag: "CPG Stable CAD 2018"
+  },
+  {
+    question_text: "A 78-year-old man has CCS class III angina despite optimal medical therapy and moderate-to-severe ischaemia on dobutamine stress echocardiography. He is independent in daily activities. Which is the most appropriate approach?",
+    option_a: "Avoid invasive angiography because age >75 is a contraindication",
+    option_b: "Offer invasive angiography with similar access to younger patients, and decide on revascularisation at the Heart Team on comorbidity and frailty rather than age alone",
+    option_c: "Continue medical therapy alone, because the elderly do not benefit from revascularisation",
+    option_d: "Choose PCI over CABG whatever the anatomy, because CABG is too risky in the elderly",
+    correct_option: "B",
+    explanation: "Rationale: Elderly patients with objective evidence of moderate-to-severe ischaemia or troubling angina despite OMT should have similar access to ICA as younger patients, and elective coronary angiography is safe in this age group (though age >75 predicts contrast-induced nephropathy). Elderly patients derive the same benefit from OMT and revascularisation as younger ones, so management should consider comorbidities and not be based on age alone, with the Heart Team considering local expertise and patient preference. A and C contradict this. D is wrong: in patients >65 with multivessel disease, outcomes were better with CABG than PCI.\nReference: Malaysian CPG Stable Coronary Artery Disease 2018 (2nd Ed.), Section 10.3 (p89-90).",
+    tag: "CPG Stable CAD 2018"
+  },
+  {
+    question_text: "A 64-year-old man with CKD stage V and multivessel CAD is being considered for revascularisation. Which statement best reflects the evidence in the CPG?",
+    option_a: "Observational data show high operative mortality after CABG in advanced CKD (9-12.2% in stage V), and PCI is an alternative that carries a risk of contrast nephropathy",
+    option_b: "Randomised trials show CABG is superior to PCI in CKD",
+    option_c: "The ISCHEMIA-CKD trial has already shown that a routine invasive strategy is superior to OMT",
+    option_d: "A COURAGE subgroup showed a clear benefit of PCI over OMT in CKD",
+    correct_option: "A",
+    explanation: "Rationale: There is a paucity of data on revascularisation in CKD and no randomised trials comparing strategies. Observational data show a higher risk of serious operative complications, with operative death after CABG of 9-12.2% in CKD stage V, and 3- to 7-fold higher in CKD stage IV-V than non-CKD. PCI may be an alternative but adds the risk of contrast-induced nephropathy. B is wrong because there is no such randomised evidence. C is wrong because the CPG describes ISCHEMIA-CKD as ongoing (it was later reported without benefit on its primary endpoint). D is wrong because the COURAGE CKD subanalysis (about 320 patients with stage III-IV CKD) found no benefit from PCI.\nReference: Malaysian CPG Stable Coronary Artery Disease 2018 (2nd Ed.), Section 10.4.2 (p91-92).",
+    tag: "CPG Stable CAD 2018"
+  },
+  {
+    question_text: "A 68-year-old man has had CCS class III angina for 8 months despite maximal tolerated anti-anginal therapy. He has had two previous CABG operations, with diffuse small-calibre distal vessels and no remaining graft conduits. Which option is listed in the CPG for this patient?",
+    option_a: "Repeat PCI of the diffuse distal vessels",
+    option_b: "A third redo CABG",
+    option_c: "Enhanced external counterpulsation (EECP)",
+    option_d: "Short-acting nifedipine",
+    correct_option: "C",
+    explanation: "Rationale: Chronic refractory angina is ischaemic chest pain lasting >3 months that is not controlled by maximal medical therapy and/or revascularisation. The usual reasons revascularisation cannot be done are unsuitable anatomy (diffuse small vessels), previous CABG/PCI, lack of graft conduits, a severely depressed LV and extra-cardiac disease. Options include EECP, extracorporeal shockwave myocardial revascularisation, acupuncture, cell therapy and chelation. These are to be considered (IIb, B) only if troubling angina persists despite conventional therapy or conventional therapy is not feasible. A and B are not feasible given the stem. D should be avoided in CAD.\nReference: Malaysian CPG Stable Coronary Artery Disease 2018 (2nd Ed.), Section 9 (p84-85).",
+    tag: "CPG Stable CAD 2018"
+  },
+  {
+    question_text: "A 63-year-old man with stable CAD, revascularised by PCI 2 years ago, attends a tertiary cardiology clinic. His symptoms and medication have not changed in 2 years and he has no angina. What is the most appropriate plan according to the CPG?",
+    option_a: "Annual exercise stress ECG indefinitely",
+    option_b: "Repeat invasive angiography at 3 years",
+    option_c: "Continue 3-6 monthly specialist review",
+    option_d: "Discharge from the specialist clinic to general outpatient or Family Medicine follow-up on optimal medical therapy, with referral back if his clinical condition changes",
+    correct_option: "D",
+    explanation: "Rationale: All patients with stable CAD and no change in symptoms and medication over 1-2 years can be discharged from the speciality cardiac clinic. When there is a change in clinical condition they should be referred to tertiary centres, and can return to general outpatient clinics with Family Medicine Specialists when stable. There are no data that follow-up stress testing improves outcome in asymptomatic patients, so A and B are wrong. C is not required.\nReference: Malaysian CPG Stable Coronary Artery Disease 2018 (2nd Ed.), Section 11 (p93-94), Recommendation 8 (p95).",
+    tag: "CPG Stable CAD 2018"
+  },
+  {
+    question_text: "Four patients with stable CAD attend routine follow-up. In which patient is repeat exercise stress ECG or pharmacological stress imaging most justified?",
+    option_a: "A 66-year-old man whose echocardiogram shows worsening LV function, with new exertional breathlessness",
+    option_b: "A 60-year-old woman who is asymptomatic and wants reassurance at her annual review",
+    option_c: "A 58-year-old man who is asymptomatic and has just completed one year of follow-up",
+    option_d: "A 70-year-old woman whose LDL-C is now 1.6 mmol/L",
+    correct_option: "A",
+    explanation: "Rationale: A repeat exercise stress ECG (or pharmacological stress) may be warranted (IIa, C) if there is a change in symptoms (worsening angina or effort tolerance), a change in clinical condition such as worsening LV function on echocardiogram and/or heart failure, or development of malignant arrhythmias. The benefit of routine periodic testing in the asymptomatic patient with stable CAD is unknown, so B and C are not justified. D is a good lipid result and not an indication for testing.\nReference: Malaysian CPG Stable Coronary Artery Disease 2018 (2nd Ed.), Section 11 (p93-94), Section 6.2.1 (p43).",
+    tag: "CPG Stable CAD 2018"
+  },
+  {
+    question_text: "A 66-year-old man with stable CAD (PCI 3 years ago, now asymptomatic, not on dual antiplatelet therapy) is scheduled for elective intraperitoneal surgery, an intermediate-risk operation. He climbs two flights of stairs without symptoms. An echocardiogram 8 months ago was normal and his condition has not changed. What is the most appropriate pre-operative cardiac assessment?",
+    option_a: "Dobutamine stress echocardiography",
+    option_b: "Resting ECG compared with previous ECGs, then proceed without further cardiac testing",
+    option_c: "Invasive coronary angiography",
+    option_d: "Coronary CT angiography",
+    correct_option: "B",
+    explanation: "Rationale: A resting ECG should be performed in all patients and compared with previous ECGs (I, C). If the patient is asymptomatic with good effort tolerance (>4 METs, about housework, sweeping floors or climbing one flight of stairs), no further investigation is necessary (IIa, B). If a previous echocardiogram within 12 months was normal and symptoms have not changed, a repeat is not warranted (I, C). Non-invasive stress testing may be considered only if functional capacity is poor (<4 METs), with ≥1 clinical risk factor, in intermediate- or high-risk surgery (IIb, C), so A, C and D are not indicated for him.\nReference: Malaysian CPG Stable Coronary Artery Disease 2018 (2nd Ed.), Section 12 (p95-96).",
+    tag: "CPG Stable CAD 2018"
+  },
+  {
+    question_text: "A 47-year-old man with dilated cardiomyopathy had a baseline LVEF of 32% when he first presented with symptomatic heart failure. After 12 months of treatment with all four foundational medications he is asymptomatic. Repeat echocardiography shows an LVEF of 46%. Which is the most appropriate classification of his heart failure?",
+    option_a: "Heart failure with reduced ejection fraction",
+    option_b: "Heart failure with mildly reduced ejection fraction",
+    option_c: "Heart failure with preserved ejection fraction",
+    option_d: "Heart failure with improved ejection fraction",
+    correct_option: "D",
+    explanation: "Rationale: HFimpEF requires a baseline LVEF of 40% or less, a rise of at least 10 points from baseline, and a second measurement above 40%. Here 32% rose to 46% (a 14-point rise), so he qualifies. B is the trap: 46% falls numerically in the 41-49% range, but HFmrEF describes patients classified by their current LVEF without this history. A is wrong because the LVEF is now above 40%. C is wrong because the LVEF is below 50% and the history of reduced EF is preserved in the label.\nReference: Malaysian CPG Management of Heart Failure 2023 (5th Ed.), Section 3 (Table 8); Section 4.4; Section 12.",
+    tag: "CPG Heart Failure 2023"
+  },
+  {
+    question_text: "A 60-year-old woman with HFrEF is comfortable at rest. She becomes breathless after walking slowly for 50 metres on level ground and has to stop and rest. She can sit and chat without symptoms. Which NYHA functional class does she belong to?",
+    option_a: "Class I",
+    option_b: "Class II",
+    option_c: "Class III",
+    option_d: "Class IV",
+    correct_option: "C",
+    explanation: "Rationale: NYHA III is marked limitation of physical activity: comfortable at rest, but less than ordinary activity (such as slow level walking) causes symptoms. The CPG attaches a 1-year mortality of 15-20% to this class. A has no limitation. B has only slight limitation with ordinary activity. D means symptoms at rest or with any activity.\nReference: Malaysian CPG Management of Heart Failure 2023 (5th Ed.), Section 3, Table 9.",
+    tag: "CPG Heart Failure 2023"
+  },
+  {
+    question_text: "A 68-year-old woman attends a primary care clinic with 2 months of exertional dyspnoea and ankle swelling. A point-of-care NT-proBNP is 85 pg/ml. How should this result be interpreted?",
+    option_a: "It confirms heart failure",
+    option_b: "Heart failure is unlikely",
+    option_c: "It is indeterminate and BNP must also be measured",
+    option_d: "Natriuretic peptides are not useful in primary care",
+    correct_option: "B",
+    explanation: "Rationale: In the community setting the rule-out values are NT-proBNP below 125 pg/ml and BNP below 35 pg/ml. 85 pg/ml is well below that, so heart failure is unlikely. A is wrong because a low value does not confirm HF. C is wrong because BNP and NT-proBNP have similar diagnostic accuracy and a second test is not required. D is wrong because the CPG endorses point-of-care NP testing as a useful rule-out test in primary care.\nReference: Malaysian CPG Management of Heart Failure 2023 (5th Ed.), Section 6.2; Table 12.",
+    tag: "CPG Heart Failure 2023"
+  },
+  {
+    question_text: "A 52-year-old man with a BMI of 41 kg/m2 presents with orthopnoea, exertional dyspnoea and bilateral leg oedema. Echocardiography shows an LVEF of 30%. His NT-proBNP is only 140 pg/ml. Which factor best explains the unexpectedly low natriuretic peptide level?",
+    option_a: "Obesity",
+    option_b: "Atrial fibrillation",
+    option_c: "Renal impairment",
+    option_d: "Advanced age",
+    correct_option: "A",
+    explanation: "Rationale: Natriuretic peptide levels are reduced in obesity, which can cause a falsely low result even when HF is present. B, C and D all raise natriuretic peptides: AF increases levels even without HF, levels increase with age, and levels rise with renal impairment.\nReference: Malaysian CPG Management of Heart Failure 2023 (5th Ed.), Section 6.2.",
+    tag: "CPG Heart Failure 2023"
+  },
+  {
+    question_text: "An 81-year-old woman presents to the emergency department with acute dyspnoea. NT-proBNP results from different samples are listed below. Using the CPG cut-offs, which value indicates that acute heart failure is possible?",
+    option_a: "900 pg/ml",
+    option_b: "350 pg/ml",
+    option_c: "2,400 pg/ml",
+    option_d: "450 pg/ml",
+    correct_option: "C",
+    explanation: "Rationale: In the emergency setting, NT-proBNP below 300 pg/ml rules out acute HF, and the \"HF possible\" thresholds are age-adjusted: above 450 (under 50 years), above 900 (50-75 years) and above 1,800 (over 75 years). At 81 years, 2,400 exceeds 1,800. A is the threshold for 50-75 year olds. D is the threshold for under-50s. B lies between the rule-out and rule-in values and is not diagnostic.\nReference: Malaysian CPG Management of Heart Failure 2023 (5th Ed.), Section 6.2; Table 12.",
+    tag: "CPG Heart Failure 2023"
+  },
+  {
+    question_text: "A medical officer is teaching a student about clinical signs in a 74-year-old man with chronic HF. Which statement is most accurate?",
+    option_a: "A raised JVP and a third heart sound are the more specific signs of HF and are associated with adverse outcomes",
+    option_b: "A fourth heart sound is typical of HF in atrial fibrillation",
+    option_c: "The absence of crepitations, oedema and a raised JVP excludes elevated filling pressures",
+    option_d: "A normal chest radiograph excludes pulmonary congestion",
+    correct_option: "A",
+    explanation: "Rationale: The CPG states that an elevated JVP and a third heart sound are the more specific signs and carry adverse prognostic value. B is wrong because the fourth heart sound reflects atrial contraction, is more frequent in HFpEF and is absent in AF. C is wrong because congestion signs were absent in 42% of patients with PCWP of 22 mmHg or more. D is wrong because about 20% of patients with congestion have a normal chest X-ray.\nReference: Malaysian CPG Management of Heart Failure 2023 (5th Ed.), Section 6.1; Section 9.1.2.",
+    tag: "CPG Heart Failure 2023"
+  },
+  {
+    question_text: "A 72-year-old obese, hypertensive woman in sinus rhythm has exertional dyspnoea. Echocardiography shows an LVEF of 58% with no significant valve disease. HFpEF is suspected. Which additional echocardiographic finding supports the diagnosis?",
+    option_a: "Mean E/e' ratio of 9",
+    option_b: "Left atrial volume index of 38 ml/m2",
+    option_c: "Tricuspid regurgitation velocity of 2.2 m/s",
+    option_d: "LV mass index of 80 g/m2",
+    correct_option: "B",
+    explanation: "Rationale: Supportive features include a left atrial volume index above 34 ml/m2 (above 40 in AF), E/e' of 15 or more, TR velocity above 2.8 m/s, and LV mass index above 95 g/m2 in women (115 in men). Only B exceeds its threshold. A and C are below the cut-offs, and D is below the female LV mass threshold.\nReference: Malaysian CPG Management of Heart Failure 2023 (5th Ed.), Section 13.1.",
+    tag: "CPG Heart Failure 2023"
+  },
+  {
+    question_text: "A 66-year-old man with HFrEF (LVEF 30%) has been stable on foundational therapy for a year. Two weeks ago he was started on etoricoxib 90 mg daily for knee osteoarthritis. He now has a 3.2 kg weight gain over 3 days, orthopnoea and bilateral leg oedema. BP is 126/78 mmHg, heart rate 84/min and SpO2 96% on air. Which is the most appropriate management?",
+    option_a: "Stop the β-blocker",
+    option_b: "Add verapamil",
+    option_c: "Continue etoricoxib and add a thiazide diuretic",
+    option_d: "Stop the COX-2 inhibitor and treat the congestion with a loop diuretic",
+    correct_option: "D",
+    explanation: "Rationale: NSAIDs and COX-2 inhibitors cause sodium and water retention and are a recognised precipitant of decompensation (the \"O\" in CHAMPION). The precipitant should be withdrawn and congestion treated with a loop diuretic, with a non-NSAID analgesic strategy arranged. A is wrong because β-blockers are continued unless hypotension or significant bradycardia is present. B is wrong because verapamil is negatively inotropic and itself a precipitant. C leaves the cause in place.\nReference: Malaysian CPG Management of Heart Failure 2023 (5th Ed.), Section 5 (Table 11); Section 9.2 (precipitants).",
+    tag: "CPG Heart Failure 2023"
+  },
+  {
+    question_text: "A 57-year-old man had an anterior myocardial infarction 4 months ago. Echocardiography shows an LVEF of 35%. He has no symptoms and is NYHA class I. Which is the most appropriate pharmacological strategy?",
+    option_a: "ACE inhibitor alone",
+    option_b: "Loop diuretic and digoxin",
+    option_c: "ACE inhibitor, β-blocker and SGLT2 inhibitor",
+    option_d: "No treatment until symptoms develop",
+    correct_option: "C",
+    explanation: "Rationale: He is Stage B (structural disease, no symptoms). For LVEF below 40% irrespective of symptoms, the evidence supports an ACE-I and β-blocker, and SGLT2 inhibitors reduce HF hospitalisation regardless of diabetes status. A omits two drug classes with evidence. B uses symptomatic or rate-control agents that have no role in asymptomatic LV dysfunction. D is wrong because early treatment prevents progression to overt HF.\nReference: Malaysian CPG Management of Heart Failure 2023 (5th Ed.), Section 7.2.2; Key Recommendations #2.",
+    tag: "CPG Heart Failure 2023"
+  },
+  {
+    question_text: "A 51-year-old man has a dilated left ventricle with an LVEF of 28%. He has drunk 4-5 standard drinks nightly for 15 years and no other cause of cardiomyopathy is found. Which is the most appropriate alcohol advice?",
+    option_a: "Limit intake to 1-2 drinks per day",
+    option_b: "Abstain completely",
+    option_c: "Drink only at weekends",
+    option_d: "Switch to low-alcohol beer in unlimited amounts",
+    correct_option: "B",
+    explanation: "Rationale: Patients with alcoholic cardiomyopathy should abstain. The CPG also notes that light-to-moderate drinking cannot be recommended as a way to lower HF risk in the absence of large randomised trials, and advises abstinence. Heavy binge drinking can cause supraventricular arrhythmias, especially AF, and acute decompensation. A, C and D all continue exposure.\nReference: Malaysian CPG Management of Heart Failure 2023 (5th Ed.), Section 7.1.1; Section 8.2.1.5.",
+    tag: "CPG Heart Failure 2023"
+  },
+  {
+    question_text: "A 63-year-old man with HFrEF (LVEF 30%) has polysomnography showing central sleep apnoea with Cheyne-Stokes respiration. Which intervention is contraindicated?",
+    option_a: "Optimisation of guideline-directed medical therapy",
+    option_b: "Avoidance of alcohol and sedatives at night",
+    option_c: "Weight loss and moderate exercise",
+    option_d: "Adaptive servo-ventilation",
+    correct_option: "D",
+    explanation: "Rationale: In HF with CSA, adaptive servo-ventilation was associated with higher all-cause and cardiovascular mortality, mainly sudden cardiac death, and is contraindicated (Class III). Optimising HF therapy is the main strategy for CSA, and lifestyle measures are appropriate, so A, B and C are acceptable.\nReference: Malaysian CPG Management of Heart Failure 2023 (5th Ed.), Section 8.2.1.7; Section 7.1.1.",
+    tag: "CPG Heart Failure 2023"
+  },
+  {
+    question_text: "A 59-year-old man with NYHA II HFrEF is euvolaemic, with normal renal function and serum sodium of 138 mmol/L. He asks how much fluid he should drink each day. Which advice is most consistent with the CPG?",
+    option_a: "Individualise intake, with a general recommendation of 1-1.5 litres per day",
+    option_b: "Restrict strictly to 500 ml per day",
+    option_c: "No advice is needed because fluid has no effect",
+    option_d: "Drink 3 litres per day to protect the kidneys",
+    correct_option: "A",
+    explanation: "Rationale: The CPG recommends individualised fluid intake with a general target of 1-1.5 litres per day when renal function is normal. Evidence for restriction is mixed, and excessive restriction can worsen outcomes, so B is too severe. C ignores the recommendation. D would risk congestion.\nReference: Malaysian CPG Management of Heart Failure 2023 (5th Ed.), Section 8.4.",
+    tag: "CPG Heart Failure 2023"
+  },
+  {
+    question_text: "A 64-year-old woman with HFrEF weighs herself daily. Over 3 days her weight has risen by 2.5 kg and she has mild ankle swelling. Her breathlessness is unchanged. Which is the most appropriate self-management advice in line with the CPG?",
+    option_a: "Wait for the routine appointment in 3 months",
+    option_b: "Stop her diuretic because the swelling is not related to it",
+    option_c: "Adjust her furosemide dose with temporary fluid restriction until dry weight is regained, and seek help if she does not respond or worsens",
+    option_d: "Double her β-blocker dose",
+    correct_option: "C",
+    explanation: "Rationale: A weight gain of more than 2 kg in 3 days is a sign of worsening HF. The CPG advises educated patients to self-adjust their diuretic with fluid restriction until dry weight is regained, and to seek medical help immediately if symptoms worsen or they fail to respond. A delays care. B removes the treatment for fluid overload. D adds negative inotropy to a congested patient.\nReference: Malaysian CPG Management of Heart Failure 2023 (5th Ed.), Section 8.1; Section 10.1.1.",
+    tag: "CPG Heart Failure 2023"
+  },
+  {
+    question_text: "A 59-year-old man with stable NYHA II HFrEF asks his rehabilitation physician about exercise. Which statement best reflects the CPG?",
+    option_a: "Exercise training is safe in stable HF, reduces HF hospitalisations in HFrEF and improves quality of life",
+    option_b: "Exercise training usually normalises LVEF",
+    option_c: "Exercise is contraindicated in NYHA III",
+    option_d: "In HFpEF, high-intensity interval training is superior to moderate continuous training",
+    correct_option: "A",
+    explanation: "Rationale: Exercise training is safe in stable HF and in HFrEF reduces overall and HF-specific hospitalisations, with better HRQoL and exercise capacity. B is wrong because cardiac function did not obviously improve in most studies, though some small studies showed reverse remodelling. C is wrong because aerobic exercise is encouraged in NYHA I-III. D is wrong because HIIT gave no advantage over guideline-based exercise in HFpEF.\nReference: Malaysian CPG Management of Heart Failure 2023 (5th Ed.), Section 8.2; Section 13.3.1.",
+    tag: "CPG Heart Failure 2023"
+  },
+  {
+    question_text: "A 56-year-old man with NYHA II HFrEF takes isosorbide dinitrate and bisoprolol. He has erectile dysfunction, believes his β-blocker is the cause and wants to stop it. He also asks about buying sildenafil. Which is the most appropriate advice?",
+    option_a: "Sildenafil is safe with his nitrate",
+    option_b: "Avoid phosphodiesterase-5 inhibitors with nitrates, and continue the β-blocker after counselling",
+    option_c: "Stop bisoprolol to improve erectile function",
+    option_d: "Use traditional potency herbs instead",
+    correct_option: "B",
+    explanation: "Rationale: Nitrates interact dangerously with PDE-5 inhibitors. β-blockers may contribute to erectile dysfunction, but patients should remain adherent because of their prognostic benefit. The CPG also warns against traditional potency enhancers. A, C and D each carry avoidable risk.\nReference: Malaysian CPG Management of Heart Failure 2023 (5th Ed.), Section 8.2.1.6.",
+    tag: "CPG Heart Failure 2023"
+  },
+  {
+    question_text: "A 29-year-old woman has dilated cardiomyopathy with an LVEF of 28% and NYHA III symptoms. She asks about contraception. Which is the most appropriate advice?",
+    option_a: "Pregnancy is acceptable with close follow-up",
+    option_b: "Condoms alone are adequate",
+    option_c: "Defer contraception counselling until she is pregnant",
+    option_d: "Advise against pregnancy and recommend Tier I contraception such as an intrauterine device or implant",
+    correct_option: "D",
+    explanation: "Rationale: Patients with LVEF below 30% or NYHA III-IV should be advised against pregnancy because of high maternal mortality. Tier I methods (permanent sterilisation and long-acting reversible contraception) have typical-use failure rates below 1% and are recommended in women with cardiovascular disease. A contradicts the advice. B relies on a method with a higher typical-use failure rate. C delays counselling that should begin early.\nReference: Malaysian CPG Management of Heart Failure 2023 (5th Ed.), Section 8.2.1.6.",
+    tag: "CPG Heart Failure 2023"
+  },
+  {
+    question_text: "A 62-year-old man with an LVEF of 20% has had 5 days of worsening dyspnoea. BP is 82/50 mmHg. He has cool, clammy peripheries, capillary refill of 4 seconds, low urine output, a raised JVP and bibasal crepitations. Which is the most appropriate initial vasoactive therapy?",
+    option_a: "Intravenous nitroglycerin",
+    option_b: "Noradrenaline infusion",
+    option_c: "Adrenaline infusion",
+    option_d: "Intravenous morphine",
+    correct_option: "B",
+    explanation: "Rationale: He is \"cold and wet\" with SBP below 90 mmHg. The CPG recommends noradrenaline as the initial inotrope/vasopressor, adding dopamine if BP remains low. A and D are to be avoided until BP has stabilised (vasodilators and morphine lower BP). C is wrong because adrenaline in HF with cardiogenic shock is associated with increased mortality and should be avoided.\nReference: Malaysian CPG Management of Heart Failure 2023 (5th Ed.), Section 9.1.1 (Table 13); Section 9.2.1.4; Section 9.2.1.5.",
+    tag: "CPG Heart Failure 2023"
+  },
+  {
+    question_text: "A 70-year-old woman with acute decompensated HF is dyspnoeic but has a SpO2 of 97% on room air. Which is the most appropriate oxygen management?",
+    option_a: "High-flow oxygen by non-rebreathing mask",
+    option_b: "Oxygen by nasal prongs at 2 l/min",
+    option_c: "No supplemental oxygen",
+    option_d: "Immediate CPAP",
+    correct_option: "C",
+    explanation: "Rationale: Supplemental oxygen is recommended when SpO2 is below 94%, titrated to 95% or more. Routine oxygen in non-hypoxic patients is not recommended (Class III) because it can cause vasoconstriction and a fall in cardiac output. A and B give oxygen she does not need. D is for respiratory distress with hypoxaemia despite high-flow oxygen.\nReference: Malaysian CPG Management of Heart Failure 2023 (5th Ed.), Section 9.2.1.1.",
+    tag: "CPG Heart Failure 2023"
+  },
+  {
+    question_text: "A 68-year-old man with acute pulmonary oedema has a respiratory rate of 32/min and SpO2 of 88% despite oxygen by non-rebreathing mask. BP is 150/90 mmHg and he is alert. What is the most appropriate next step?",
+    option_a: "Early CPAP or non-invasive pressure support ventilation",
+    option_b: "Immediate intubation",
+    option_c: "Continue the same oxygen device and reassess in 4 hours",
+    option_d: "Intravenous morphine to reduce the respiratory rate",
+    correct_option: "A",
+    explanation: "Rationale: CPAP or NIPSV should be considered early in patients with respiratory distress (RR above 25/min, SpO2 below 90%) despite high-flow oxygen. There is no significant outcome difference between CPAP and bilevel, so choice depends on equipment and expertise. B is reserved for failure of NIV or exhaustion. C delays rescue. D is not recommended routinely and risks respiratory depression.\nReference: Malaysian CPG Management of Heart Failure 2023 (5th Ed.), Section 9.2.1.1.",
+    tag: "CPG Heart Failure 2023"
+  },
+  {
+    question_text: "A 72-year-old man with known HFrEF takes oral furosemide 40 mg once daily. He is admitted with acute decompensated HF and clinical congestion. SBP is 130 mmHg. What initial intravenous furosemide regimen is most appropriate?",
+    option_a: "20 mg once",
+    option_b: "40 mg once daily",
+    option_c: "100 mg once daily",
+    option_d: "50 mg twice daily",
+    correct_option: "D",
+    explanation: "Rationale: For patients already on diuretics, a reasonable initial strategy is a daily intravenous dose of 2.5 times the previous oral dose (mg for mg), given as twice-daily boluses: 2.5 x 40 = 100 mg/day, so 50 mg twice daily. A is the diuretic-naive dose (20-40 mg). B is too low. C has the right daily total but the wrong dosing pattern.\nReference: Malaysian CPG Management of Heart Failure 2023 (5th Ed.), Section 9.2.1.2; Table 14.",
+    tag: "CPG Heart Failure 2023"
+  },
+  {
+    question_text: "Six hours after receiving intravenous furosemide 40 mg for acute HF, a patient has passed 400 ml of urine. BP is 120/70 mmHg and renal function is stable. He remains congested. What is the most appropriate next step?",
+    option_a: "Wait until the next scheduled dose",
+    option_b: "Exclude urinary retention and increase the intravenous loop diuretic dose",
+    option_c: "Convert to oral furosemide",
+    option_d: "Replace furosemide with dobutamine",
+    correct_option: "B",
+    explanation: "Rationale: An adequate response is urine output above 100 ml/hour in the first 6 hours. Less than 600 ml in 6 hours is inadequate, after urinary retention is excluded. Up-titrating the loop diuretic dose is the preferred strategy and there is no need to wait for the next scheduled dose. A delays treatment. C gives poor absorption in a congested patient. D is for hypoperfusion, not diuretic resistance.\nReference: Malaysian CPG Management of Heart Failure 2023 (5th Ed.), Section 9.2.1.2.",
+    tag: "CPG Heart Failure 2023"
+  },
+  {
+    question_text: "A 77-year-old woman has acute pulmonary oedema. BP is 168/92 mmHg. She has known severe calcific aortic stenosis with an aortic valve area of 0.7 cm2. Which therapy is contraindicated?",
+    option_a: "Intravenous nitroglycerin",
+    option_b: "Intravenous furosemide",
+    option_c: "Supplemental oxygen if SpO2 is below 94%",
+    option_d: "CPAP if respiratory distress persists",
+    correct_option: "A",
+    explanation: "Rationale: Nitrates are contraindicated in severe valvular stenosis (Class III), and extreme caution is needed in aortic and mitral stenosis, because preload reduction can precipitate hypotension. Diuretics, oxygen when indicated, and non-invasive ventilation remain appropriate.\nReference: Malaysian CPG Management of Heart Failure 2023 (5th Ed.), Section 9.2.1.3; Section 14.2.5.",
+    tag: "CPG Heart Failure 2023"
+  },
+  {
+    question_text: "A 58-year-old man is admitted with a first presentation of HFrEF. On day 2 he still has basal crepitations and peripheral oedema. SBP is 112 mmHg, potassium 4.2 mmol/L and creatinine is stable. His diuretic dose has been unchanged for 24 hours and he is off vasodilators. Which medication should NOT be started until he is decongested?",
+    option_a: "Spironolactone 12.5 mg",
+    option_b: "Ramipril 2.5 mg",
+    option_c: "Bisoprolol 1.25 mg",
+    option_d: "Dapagliflozin 10 mg",
+    correct_option: "C",
+    explanation: "Rationale: β-blockers should be started when the patient is no longer congested (clear lungs, no oedema), because initiation in a congested patient can worsen congestion. MRA can be started within 24-48 hours, RAS blockers when SBP is 100 mmHg or more, and SGLT2 inhibitors once stabilised (stable diuretic dose, SBP above 100). The aim is to be on all foundational drugs at discharge.\nReference: Malaysian CPG Management of Heart Failure 2023 (5th Ed.), Section 9.3.1.1.",
+    tag: "CPG Heart Failure 2023"
+  },
+  {
+    question_text: "A 55-year-old woman with NYHA III HFrEF takes enalapril 10 mg twice daily with SBP of 120 mmHg and eGFR of 70. Sacubitril/valsartan is planned. Her last enalapril dose was taken at 8 am on Monday. When is the earliest that the first dose of sacubitril/valsartan can be given?",
+    option_a: "Monday 8 pm",
+    option_b: "Tuesday 8 am",
+    option_c: "Tuesday 12 noon",
+    option_d: "Tuesday 8 pm",
+    correct_option: "D",
+    explanation: "Rationale: An ACE inhibitor must be stopped at least 36 hours before starting an ARNI to reduce the risk of angioedema. Monday 8 am plus 36 hours is Tuesday 8 pm. A, B and C fall short of 36 hours. No washout is needed when switching from an ARB.\nReference: Malaysian CPG Management of Heart Failure 2023 (5th Ed.), Section 9.3.1.1; Section 10.1.2.2.",
+    tag: "CPG Heart Failure 2023"
+  },
+  {
+    question_text: "A 69-year-old man reaches dry weight on intravenous furosemide 40 mg twice daily and is ready for discharge. Which discharge plan is most appropriate?",
+    option_a: "Oral furosemide 40 mg twice daily, with review within 2 weeks",
+    option_b: "Oral furosemide 20 mg once daily because dyspnoea has resolved",
+    option_c: "Stop the diuretic and review in 3 months",
+    option_d: "Oral furosemide 10 mg daily",
+    correct_option: "A",
+    explanation: "Rationale: The oral diuretic dose needed is generally higher than the intravenous dose, and a mg-to-mg conversion is a reasonable guide. It is prudent to discharge on the same dose as in hospital and reduce cautiously after assessing congestion, because residual congestion strongly predicts readmission. Early follow-up within 2 weeks is advised. B, C and D reduce the dose on the basis of symptoms alone, which are unreliable markers of decongestion.\nReference: Malaysian CPG Management of Heart Failure 2023 (5th Ed.), Section 9.3.1.1; Section 9.3.1.4.",
+    tag: "CPG Heart Failure 2023"
+  },
+  {
+    question_text: "A 60-year-old man with HFrEF (LVEF 30%) and NYHA III symptoms has haemoglobin 11.5 g/dl, ferritin 150 ng/ml and transferrin saturation of 15%. Which statement is correct?",
+    option_a: "Ferritin of 150 ng/ml excludes iron deficiency",
+    option_b: "He is iron deficient and intravenous iron reduces HF hospitalisation but not cardiovascular death",
+    option_c: "He is iron deficient and intravenous iron reduces cardiovascular death",
+    option_d: "Iron deficiency is defined only when ferritin is below 100 ng/ml",
+    correct_option: "B",
+    explanation: "Rationale: In HF, iron deficiency is ferritin below 100 ng/ml, or ferritin 100-299 ng/ml with transferrin saturation below 20%. He meets the second definition. In hospitalised patients with HF, intravenous iron improved symptoms and reduced HF hospitalisation but did not reduce cardiovascular death. A and D apply the first criterion only. C overstates the benefit.\nReference: Malaysian CPG Management of Heart Failure 2023 (5th Ed.), Section 9.3.1.4.",
+    tag: "CPG Heart Failure 2023"
+  },
+  {
+    question_text: "A 61-year-old man with HFrEF develops a persistent dry cough on ramipril. Potassium and creatinine are normal and BP is 124/76 mmHg. What is the most appropriate management?",
+    option_a: "Add an ARB to ramipril",
+    option_b: "Stop all RAS blockade",
+    option_c: "Switch to a different ACE inhibitor",
+    option_d: "Switch to an ARB",
+    correct_option: "D",
+    explanation: "Rationale: Cough is the commonest form of ACE-I intolerance, and an ARB is indicated in ACE-I intolerant HFrEF. A is wrong because routine combined ACE-I and ARB therapy increases hypotension, hyperkalaemia and renal dysfunction (Class III). B loses proven benefit. C is wrong because cough is a class effect and there are no differences among ACE inhibitors.\nReference: Malaysian CPG Management of Heart Failure 2023 (5th Ed.), Section 10.1.2.1.",
+    tag: "CPG Heart Failure 2023"
+  },
+  {
+    question_text: "A 63-year-old woman with HFrEF starts ramipril. Baseline creatinine is 98 umol/L. At day 10 it is 121 umol/L. Potassium is 5.1 mmol/L, BP is 112/70 mmHg and she feels well. What is the most appropriate action?",
+    option_a: "Stop ramipril",
+    option_b: "Halve the dose of ramipril",
+    option_c: "Continue ramipril and monitor renal function periodically",
+    option_d: "Add a potassium binder and stop ramipril",
+    correct_option: "C",
+    explanation: "Rationale: Creatinine may rise by up to 30% (or eGFR fall by 25%) at 7-14 days after starting an ACE-I or ARB. No dose change is needed if the rise stabilises below 30% and potassium is below 5.5 mmol/L. Her rise is 23% with potassium of 5.1. Other causes of deterioration should be excluded, and renal function should be monitored regularly.\nReference: Malaysian CPG Management of Heart Failure 2023 (5th Ed.), Section 10.1.2.1.",
+    tag: "CPG Heart Failure 2023"
+  },
+  {
+    question_text: "A 54-year-old man with NYHA III HFrEF takes ramipril, bisoprolol, spironolactone and dapagliflozin. His clinic BP is 96/60 mmHg. His doctor considers switching to sacubitril/valsartan. Which is the most appropriate plan?",
+    option_a: "Continue ramipril because ARNI should not be started when SBP is below 100 mmHg",
+    option_b: "Stop ramipril today and start sacubitril/valsartan tomorrow",
+    option_c: "Add sacubitril/valsartan to ramipril",
+    option_d: "Stop ramipril, wait 36 hours, then start sacubitril/valsartan 49/51 mg",
+    correct_option: "A",
+    explanation: "Rationale: ARNI should not be initiated if SBP is below 100 mmHg. B and C are unsafe: an ACE-I must be stopped at least 36 hours before ARNI, and the two must never be combined (angioedema). D respects the washout but ignores the blood pressure limit. (Once on ARNI, NT-proBNP rather than BNP should be used, as BNP may be spuriously raised.)\nReference: Malaysian CPG Management of Heart Failure 2023 (5th Ed.), Section 10.1.2.2.",
+    tag: "CPG Heart Failure 2023"
+  },
+  {
+    question_text: "A pharmacist notes that a patient with HFrEF has been prescribed metoprolol tartrate. Which statement is correct?",
+    option_a: "Metoprolol tartrate is the evidence-based formulation in HF",
+    option_b: "The evidence-based formulation is metoprolol succinate, which is unavailable in Malaysia; only the tartrate form is available",
+    option_c: "Nebivolol reduces all-cause mortality in HFrEF",
+    option_d: "β-blockers are only indicated in NYHA III-IV",
+    correct_option: "B",
+    explanation: "Rationale: The CPG footnote states that the evidence-based form of metoprolol in HF is succinate (CR/XL), which is not available in Malaysia; only metoprolol tartrate is. Bisoprolol and carvedilol are the other evidence-based agents. C is wrong because nebivolol reduced the composite of all-cause mortality and CV hospitalisation, not all-cause mortality alone. D is wrong because β-blockers improve outcomes regardless of NYHA class.\nReference: Malaysian CPG Management of Heart Failure 2023 (5th Ed.), Section 10.1.3; Table 3 footnotes.",
+    tag: "CPG Heart Failure 2023"
+  },
+  {
+    question_text: "A 60-year-old man with HFrEF has developed painful gynaecomastia on spironolactone 25 mg daily. Potassium is 4.6 mmol/L and eGFR is 55 ml/min/1.73m2. What is the most appropriate management?",
+    option_a: "Stop the MRA with no replacement",
+    option_b: "Switch to finerenone",
+    option_c: "Add tamoxifen",
+    option_d: "Switch to eplerenone",
+    correct_option: "D",
+    explanation: "Rationale: Spironolactone can cause gynaecomastia in men, and the incidence is lower with eplerenone because it is more selective for aldosterone blockade. A removes a drug with mortality benefit. B is wrong because finerenone's evidence is in type 2 diabetes with CKD (reduced HF hospitalisation), not as a substitute in HFrEF. C treats the side effect rather than removing the cause.\nReference: Malaysian CPG Management of Heart Failure 2023 (5th Ed.), Section 10.1.4.",
+    tag: "CPG Heart Failure 2023"
+  },
+  {
+    question_text: "A 59-year-old non-diabetic man with HFrEF starts dapagliflozin 10 mg daily. At 2 weeks eGFR has fallen from 62 to 56 ml/min/1.73m2. He is well, euvolaemic and normotensive. What is the most appropriate management?",
+    option_a: "Continue dapagliflozin and monitor renal function",
+    option_b: "Stop dapagliflozin",
+    option_c: "Halve the dose",
+    option_d: "Replace it with a thiazide diuretic",
+    correct_option: "A",
+    explanation: "Rationale: A modest initial fall in eGFR is expected and should not lead to discontinuation, because SGLT2 inhibitors are renoprotective in the long term. The benefit in HFrEF applies irrespective of diabetes status. B and C are unnecessary. D has no role in this context.\nReference: Malaysian CPG Management of Heart Failure 2023 (5th Ed.), Section 10.1.5.",
+    tag: "CPG Heart Failure 2023"
+  },
+  {
+    question_text: "Which patient with HFrEF is the best candidate for adding ivabradine?",
+    option_a: "AF with a heart rate of 96/min, LVEF 30%, HF admission 4 months ago",
+    option_b: "Sinus rhythm at 58/min on bisoprolol 10 mg, LVEF 30%",
+    option_c: "Sinus rhythm at 78/min, LVEF 30%, HF admission 5 months ago, on an ACE inhibitor, maximally tolerated β-blocker and MRA",
+    option_d: "Sinus rhythm at 82/min, LVEF 45%, NYHA II, no HF admission",
+    correct_option: "C",
+    explanation: "Rationale: Ivabradine reduced CV death and HF hospitalisation in patients still symptomatic on optimal therapy with LVEF of 35% or less, an HF admission in the past 12 months, sinus rhythm and a heart rate of 70/min or more. Every effort should first be made to achieve target or maximally tolerated β-blocker doses. A is wrong because ivabradine is effective only in sinus rhythm. B has a heart rate below 70/min. D has an LVEF above 35% and no recent admission.\nReference: Malaysian CPG Management of Heart Failure 2023 (5th Ed.), Section 10.1.6.",
+    tag: "CPG Heart Failure 2023"
+  },
+  {
+    question_text: "Which statement about digoxin in HF is most accurate?",
+    option_a: "It improves survival in HFrEF",
+    option_b: "It may reduce hospitalisation in symptomatic HFrEF despite optimal therapy, but has no survival benefit",
+    option_c: "A loading dose is required in chronic HF",
+    option_d: "Serum levels should be used to titrate the dose",
+    correct_option: "B",
+    explanation: "Rationale: Digoxin may be considered to relieve symptoms and lower hospitalisation in symptomatic HFrEF already on ACE-I/ARB, β-blocker and MRA, but it has no survival benefit. A is wrong. C is wrong because no loading dose is required in chronic HF. D is wrong because levels are used to assess toxicity, not to guide dose adjustment; target levels are low (0.5-0.8 ng/ml).\nReference: Malaysian CPG Management of Heart Failure 2023 (5th Ed.), Section 10.1.9.",
+    tag: "CPG Heart Failure 2023"
+  },
+  {
+    question_text: "A 66-year-old man with HFrEF (LVEF 28%) has persistent AF with a controlled ventricular rate of 76/min. He had an HF hospitalisation 4 months ago and remains NYHA III on an ACE inhibitor, maximally tolerated bisoprolol, spironolactone and dapagliflozin. Which additional agent may be considered to reduce cardiovascular death or HF hospitalisation?",
+    option_a: "Ivabradine",
+    option_b: "Diltiazem",
+    option_c: "Dronedarone",
+    option_d: "Vericiguat",
+    correct_option: "D",
+    explanation: "Rationale: Vericiguat may be considered in NYHA II-IV patients with worsening HF despite optimal therapy with a RAS blocker, β-blocker and MRA, and it reduced CV mortality or HF hospitalisation. A is wrong because ivabradine works in sinus rhythm only. B is wrong because non-dihydropyridine CCBs should be avoided in HFrEF. C is an antiarrhythmic, not a drug with HF outcome benefit.\nReference: Malaysian CPG Management of Heart Failure 2023 (5th Ed.), Section 10.1.7; Section 10.1.12.",
+    tag: "CPG Heart Failure 2023"
+  },
+  {
+    question_text: "A 58-year-old man with HFrEF remains hypertensive at 160/95 mmHg despite maximally tolerated foundational therapy. Which calcium channel blocker is the most appropriate add-on?",
+    option_a: "Diltiazem",
+    option_b: "Verapamil",
+    option_c: "Amlodipine",
+    option_d: "Nifedipine",
+    correct_option: "C",
+    explanation: "Rationale: Diltiazem, verapamil and nifedipine should be avoided in HFrEF (Class III), as they worsen HF outcomes. Amlodipine and felodipine may be considered for other indications such as persistent hypertension despite optimal therapy.\nReference: Malaysian CPG Management of Heart Failure 2023 (5th Ed.), Section 10.1.12.",
+    tag: "CPG Heart Failure 2023"
+  },
+  {
+    question_text: "A 66-year-old man with HFrEF and atrial fibrillation has rheumatic moderate-to-severe mitral stenosis. He has no contraindication to anticoagulation. Which anticoagulant is most appropriate?",
+    option_a: "Warfarin",
+    option_b: "Apixaban",
+    option_c: "Dabigatran",
+    option_d: "Aspirin plus clopidogrel",
+    correct_option: "A",
+    explanation: "Rationale: DOACs are recommended over warfarin in HF with AF, except in moderate or severe mitral stenosis and mechanical prosthetic valves, where a vitamin K antagonist is used. B and C are DOACs and therefore not appropriate here. D is wrong because antiplatelet therapy is not an adequate substitute for anticoagulation in AF.\nReference: Malaysian CPG Management of Heart Failure 2023 (5th Ed.), Section 10.1.10; Section 14.2.5.",
+    tag: "CPG Heart Failure 2023"
+  },
+  {
+    question_text: "A 54-year-old man with HFrEF (LVEF 30%) has had symptomatic AF with palpitations for 5 months. He is already on optimal medical therapy. Which is the most appropriate approach?",
+    option_a: "Rate control with verapamil",
+    option_b: "Rhythm control using amiodarone or catheter ablation",
+    option_c: "Flecainide for rhythm control",
+    option_d: "Digoxin as monotherapy for rate control",
+    correct_option: "B",
+    explanation: "Rationale: In AF of under 1 year's duration, rhythm control is preferred. Amiodarone is the preferable antiarrhythmic in HFrEF because others are associated with worse outcomes, and catheter ablation has a higher chance of rhythm control than drugs and is more beneficial when done within 1 year of AF diagnosis. A is wrong because verapamil should be avoided in HFrEF. C is wrong because most other antiarrhythmics are contraindicated in HF. D is wrong because digoxin alone was associated with increased mortality.\nReference: Malaysian CPG Management of Heart Failure 2023 (5th Ed.), Section 10.1.11.1; Section 14.4.1.3.",
+    tag: "CPG Heart Failure 2023"
+  },
+  {
+    question_text: "A 41-year-old woman has an LVEF of 33%. Coronary angiography is normal and no other cause of cardiomyopathy is found. A 24-hour Holter shows frequent monomorphic PVCs with a burden of 24%. Which is the most appropriate definitive treatment?",
+    option_a: "Flecainide",
+    option_b: "Amiodarone alone",
+    option_c: "Primary-prevention ICD",
+    option_d: "Catheter ablation",
+    correct_option: "D",
+    explanation: "Rationale: PVC-induced cardiomyopathy is suspected with a burden above 10% and usually above 20%. Catheter ablation is recommended for cardiomyopathy caused by frequent monomorphic PVCs, and is preferred because most antiarrhythmic drugs are contraindicated or pro-arrhythmic in HF. Foundational HF therapy should also be started. A is wrong because most antiarrhythmic drugs are contraindicated or pro-arrhythmic in HF. B is a drug option but not the definitive treatment. C does not treat the cause.\nReference: Malaysian CPG Management of Heart Failure 2023 (5th Ed.), Section 14.4.1.4.",
+    tag: "CPG Heart Failure 2023"
+  },
+  {
+    question_text: "A 58-year-old man had an anterior myocardial infarction 5 weeks ago, treated with PCI. His LVEF is 28% and he is NYHA II on optimal medical therapy. There has been no ventricular arrhythmia. Which statement about ICD implantation is most appropriate?",
+    option_a: "Implant an ICD now because the LVEF is 35% or less",
+    option_b: "Implant a CRT-D now",
+    option_c: "Continue optimal medical therapy and reassess LVEF at least 40 days after MI and 3 months after revascularisation",
+    option_d: "An ICD is never indicated after myocardial infarction",
+    correct_option: "C",
+    explanation: "Rationale: For primary prevention in ischaemic cardiomyopathy, ICD is considered at least 40 days after MI and at least 3 months after revascularisation, with LVEF of 35% or less and NYHA II-III. He is only 5 weeks post-MI, so the LVEF should be reassessed on optimal therapy first. A ignores the timing. B has no indication (no wide QRS is stated). D is wrong because ICD is Class I in the right setting.\nReference: Malaysian CPG Management of Heart Failure 2023 (5th Ed.), Section 10.3.2.",
+    tag: "CPG Heart Failure 2023"
+  },
+  {
+    question_text: "Which patient with HFrEF on optimal medical therapy is most likely to benefit from cardiac resynchronisation therapy?",
+    option_a: "Sinus rhythm, LVEF 30%, LBBB with QRS 160 ms, NYHA III",
+    option_b: "AF, LVEF 30%, LBBB with QRS 160 ms, NYHA III",
+    option_c: "Sinus rhythm, LVEF 30%, RBBB with QRS 125 ms, NYHA III",
+    option_d: "Sinus rhythm, LVEF 45%, LBBB with QRS 150 ms, NYHA II",
+    correct_option: "A",
+    explanation: "Rationale: CRT criteria are sinus rhythm, LVEF 35% or less, LBBB, and QRS of 150 ms or more (Class I, A) or 120-149 ms (Class IIa, B), with NYHA II-III despite optimal therapy. Only A meets all of them. B is less likely to respond because patients with AF are less likely to benefit. C does not have LBBB morphology. D has an LVEF above 35%.\nReference: Malaysian CPG Management of Heart Failure 2023 (5th Ed.), Section 10.3.1.",
+    tag: "CPG Heart Failure 2023"
+  },
+  {
+    question_text: "A 69-year-old non-diabetic, obese woman has HFpEF with an LVEF of 60% and two HF admissions in the past year. She is hypertensive and now euvolaemic on a loop diuretic. Which drug class has the strongest guideline support to reduce HF hospitalisation and cardiovascular mortality?",
+    option_a: "β-blocker",
+    option_b: "ACE inhibitor",
+    option_c: "Digoxin",
+    option_d: "SGLT2 inhibitor",
+    correct_option: "D",
+    explanation: "Rationale: SGLT2 inhibitors are the only class with Class I, A support in HFpEF, reducing HF hospitalisation and CV mortality regardless of diabetes. A is wrong because there are no good data showing β-blocker benefit in HFpEF. B has only Class IIb support (reduced hospitalisation, no mortality benefit). C has no role in HFpEF.\nReference: Malaysian CPG Management of Heart Failure 2023 (5th Ed.), Section 13.3.3.",
+    tag: "CPG Heart Failure 2023"
+  },
+  {
+    question_text: "A 52-year-old woman with dilated cardiomyopathy had an LVEF of 28% 18 months ago. It is now 54%. She is asymptomatic and asks to stop all her medication. What is the most appropriate advice?",
+    option_a: "Stop all HF medication because she has recovered",
+    option_b: "Continue the foundational HF medications because symptoms and LV dysfunction can relapse if treatment is withdrawn",
+    option_c: "Stop only the SGLT2 inhibitor and MRA",
+    option_d: "Stop all medication and repeat the echocardiogram in 5 years",
+    correct_option: "B",
+    explanation: "Rationale: In HFimpEF, LV structural abnormalities do not fully normalise, and symptoms, biomarkers and LV dysfunction can relapse if HF treatment is withdrawn. Foundational medications should be continued (Class IIa, B). A, C and D all withdraw therapy that is preventing relapse.\nReference: Malaysian CPG Management of Heart Failure 2023 (5th Ed.), Section 12; Section 4.4.",
+    tag: "CPG Heart Failure 2023"
+  },
+  {
+    question_text: "A 63-year-old man with type 2 diabetes and NYHA III HFrEF has worsening ankle oedema. His eGFR is 58 ml/min/1.73m2. Which of his glucose-lowering drugs should be avoided?",
+    option_a: "Metformin",
+    option_b: "Dapagliflozin",
+    option_c: "Pioglitazone",
+    option_d: "Liraglutide",
+    correct_option: "C",
+    explanation: "Rationale: Thiazolidinediones, including pioglitazone, should be avoided in type 2 diabetes with symptomatic NYHA III-IV HF (Class III, A) because they cause fluid retention. Metformin can be used if eGFR is stable and 30 ml/min/1.73m2 or higher. SGLT2 inhibitors are indicated for HF hospitalisation reduction, and GLP-1 receptor agonists are recommended for MACE reduction in those with CVD.\nReference: Malaysian CPG Management of Heart Failure 2023 (5th Ed.), Section 14.1.6.3.",
+    tag: "CPG Heart Failure 2023"
+  },
+  {
+    question_text: "A 64-year-old man with HFrEF has CKD with an eGFR of 24 ml/min/1.73m2 and potassium of 4.8 mmol/L. He takes a loop diuretic, bisoprolol and low-dose losartan. Which additional foundational drug is supported at this level of renal function?",
+    option_a: "Dapagliflozin 10 mg",
+    option_b: "Spironolactone 25 mg",
+    option_c: "Eplerenone 25 mg",
+    option_d: "Sacubitril/valsartan 97/103 mg twice daily",
+    correct_option: "A",
+    explanation: "Rationale: SGLT2 inhibitors have been shown to be safe down to an eGFR of 20 ml/min/1.73m2 (Table 3 notes limited experience with dapagliflozin below CrCl 25, so shared decision-making applies near this threshold). Spironolactone and eplerenone are contraindicated at CrCl below 30 ml/min. ARNI safety is demonstrated for eGFR above 30 (small study above 20) and the target dose should not be used at CrCl below 30 (50 mg twice daily is the renal dose).\nReference: Malaysian CPG Management of Heart Failure 2023 (5th Ed.), Section 14.6.3; Table 3; Table 19.",
+    tag: "CPG Heart Failure 2023"
+  },
+  {
+    question_text: "A 27-year-old woman at 26 weeks' gestation has dilated cardiomyopathy (LVEF 32%) with congestion. Before pregnancy she took ramipril, spironolactone and metoprolol tartrate. Which regimen is the most appropriate?",
+    option_a: "Continue ramipril and spironolactone",
+    option_b: "Stop ramipril and spironolactone, continue metoprolol, and add furosemide for congestion",
+    option_c: "Switch ramipril to sacubitril/valsartan",
+    option_d: "Add dapagliflozin and ivabradine",
+    correct_option: "B",
+    explanation: "Rationale: Diuretics are first line for fluid overload, β-blockers can be used cautiously (metoprolol most commonly), and digoxin and nitrates/hydralazine are acceptable. ACE-I, ARB, ARNI, MRA, SGLT2 inhibitors and ivabradine are contraindicated in pregnancy. A, C and D each include contraindicated drugs.\nReference: Malaysian CPG Management of Heart Failure 2023 (5th Ed.), Section 14.7.3.",
+    tag: "CPG Heart Failure 2023"
+  },
+  {
+    question_text: "A 49-year-old woman with HER2-positive breast cancer is scheduled for doxorubicin followed by trastuzumab. She has hypertension. Her baseline echocardiographic LVEF is 48%. What is the most appropriate approach?",
+    option_a: "Withhold all cardiotoxic chemotherapy permanently",
+    option_b: "Proceed without cardiology input because LVEF is above 45%",
+    option_c: "Start digoxin prophylactically",
+    option_d: "Refer to cardiology, optimise blood pressure, consider cardioprotection and arrange regular echocardiographic surveillance",
+    correct_option: "D",
+    explanation: "Rationale: A pre-treatment LVEF below 50% warrants cardiology referral. Cardiovascular risk factors should be treated, cardioprotection with a β-blocker, MRA and/or ACE-I/ARB can be considered when LVEF is below 50%, and echocardiography should be repeated, for example 3-monthly. A is wrong because withholding is a last resort (LVEF below 45% for anthracycline, below 40% for anti-HER2 therapy). B ignores the referral threshold. C has no role.\nReference: Malaysian CPG Management of Heart Failure 2023 (5th Ed.), Section 14.5.1.",
+    tag: "CPG Heart Failure 2023"
+  },
+  {
+    question_text: "A 74-year-old man has aortic stenosis with an LVEF of 35%, a mean gradient of 28 mmHg, an aortic valve area of 0.8 cm2 and a stroke volume index of 30 ml/m2. During low-dose dobutamine stress echocardiography the mean gradient rises to 42 mmHg and the valve area stays at 0.8 cm2. How should this result be interpreted?",
+    option_a: "Pseudo-severe AS, so the valve is not significantly obstructed and medical therapy only is needed",
+    option_b: "Non-diagnostic; no further assessment is possible",
+    option_c: "True severe AS; refer to the heart team for valve intervention",
+    option_d: "Mild AS; continue heart failure medication only",
+    correct_option: "C",
+    explanation: "Rationale: In true severe AS, increased flow across a fixed orifice raises the gradient and velocity without changing the calculated valve area. In pseudo-AS, the augmented flow only mildly raises the gradient and the valve area increases to 1.0 cm2 or more. Here the area is unchanged, so this is true severe AS (valve area below 1.0 cm2), and the heart team should decide between surgery and TAVI. A, B and D misread the test.\nReference: Malaysian CPG Management of Heart Failure 2023 (5th Ed.), Section 14.2.5.1.",
+    tag: "CPG Heart Failure 2023"
+  },
+  {
+    question_text: "Which patient with heart failure is the best candidate for outpatient cardiac rehabilitation?",
+    option_a: "Stable NYHA III, last HF admission 10 weeks ago, no planned procedures",
+    option_b: "NYHA IV with symptoms at rest",
+    option_c: "NYHA II, with a CABG planned in 3 months",
+    option_d: "NYHA III, discharged 3 weeks ago after a major cardiovascular hospitalisation",
+    correct_option: "A",
+    explanation: "Rationale: CR should be recommended to all stable HF patients in NYHA II-III with no recent (6 weeks or less) or planned (within 6 months) major cardiovascular hospitalisation or procedure. B is wrong because there is insufficient data for outpatient CR in NYHA IV. C has a planned major procedure within 6 months. D had a major hospitalisation within 6 weeks.\nReference: Malaysian CPG Management of Heart Failure 2023 (5th Ed.), Section 16.1.",
+    tag: "CPG Heart Failure 2023"
+  },
+  {
+    question_text: "A 58-year-old man with HFrEF and an ICD is referred to a cardiac rehabilitation programme. Which advice is most appropriate?",
+    option_a: "An ICD is a contraindication to cardiac rehabilitation",
+    option_b: "Heavy overhead resistance training is encouraged",
+    option_c: "Rehabilitation must be home-based only",
+    option_d: "Rehabilitation is safe and beneficial, but pronounced arm-shoulder movements should be avoided",
+    correct_option: "D",
+    explanation: "Rationale: CR in HF patients with ICD and CRT devices is safe and beneficial. Pronounced arm-shoulder movements should be avoided because they may lead to an ICD discharge and loss of consciousness. A is wrong. B contradicts the arm-movement caution. C is wrong because centre-based CR is recommended initially, particularly with severe symptoms, and home-based programmes suit stable patients. (The CPG lists hydrotherapy among the activities to avoid with an ICD, though elsewhere it endorses hydrotherapy as a safe alternative in HF generally.)\nReference: Malaysian CPG Management of Heart Failure 2023 (5th Ed.), Section 16.2; Section 16.3.",
+    tag: "CPG Heart Failure 2023"
+  },
+  {
+    question_text: "A 68-year-old man with stage 4 chronic kidney disease presents with two days of vague fatigue and no chest pain. High-sensitivity troponin is above the 99th percentile on arrival and at 2 and 4 hours, with less than 20% variation between samples. The ECG is unchanged from his previous tracing and echocardiography shows no new wall motion abnormality. What is the most likely interpretation of the troponin result?",
+    option_a: "NSTEMI",
+    option_b: "Chronic myocardial injury",
+    option_c: "Unstable angina",
+    option_d: "Type 2 myocardial infarction",
+    correct_option: "B",
+    explanation: "Rationale: Troponin is a marker of myocardial necrosis, not specifically of MI. Stable levels (<20% change between serial samples) indicate chronic myocardial injury, which is common in CKD. MI needs a rise and/or fall with at least one value above the 99th percentile plus clinical, ECG or imaging evidence of ischaemia. A and D need a dynamic troponin pattern plus ischaemic evidence, which are absent. C is wrong because unstable angina has normal biomarkers, whereas his are chronically elevated. Teaching point: In CKD, look for a delta, not a single value, and compare with prior ECG and imaging.\nReference: Malaysian CPG Management of Acute Coronary Syndromes 2026 (1st Ed.), Section 2.1 and 3.4.1; Appendix VI.",
+    tag: "CPG ACS 2026"
+  },
+  {
+    question_text: "A 58-year-old man has had 90 minutes of ongoing central chest pain. The 12-lead ECG shows 1.5 mm ST depression in V1 to V3 with no ST elevation in any standard lead. Troponin is pending. Which is the most appropriate next step?",
+    option_a: "Wait for the troponin result before deciding on reperfusion",
+    option_b: "Repeat the ECG after 6 hours",
+    option_c: "Treat as low-risk NSTE-ACS and arrange an outpatient stress test",
+    option_d: "Record posterior leads (V7-V9) and repeat serial ECGs at 15-minute intervals",
+    correct_option: "D",
+    explanation: "Rationale: A normal or non-diagnostic ECG does not exclude ACS. With ongoing pain, the CPG advises serial ECGs at intervals of at least 15 minutes, additional posterior (V7-V9) or right-sided leads, and a search for other signs of an acutely occluded artery. ST depression in V1-V3 can be the reciprocal of posterior (circumflex or RCA) occlusion. A is wrong because definitive treatment should not wait for biomarkers when history and ECG suggest occlusion. B is far too late. C ignores ongoing pain, which is a very-high-risk feature. Teaching point: ST elevation has only about 44% sensitivity for acute coronary occlusion (specificity 96.5%), so extra leads and serial ECGs matter.\nReference: Malaysian CPG Management of Acute Coronary Syndromes 2026 (1st Ed.), Key Recommendation 2; Section 2.2; Table 20.",
+    tag: "CPG ACS 2026"
+  },
+  {
+    question_text: "A 72-year-old woman is admitted with haematemesis. Haemoglobin is 5.8 g/dL, BP 85/50 mmHg and heart rate 128/min. She develops central chest pain. The ECG shows sinus tachycardia with ST depression in V4-V6. High-sensitivity troponin rises from 40 to 210 ng/L (99th percentile 14 ng/L). What is the most likely classification of this event?",
+    option_a: "Type 2 myocardial infarction",
+    option_b: "Type 1 NSTEMI",
+    option_c: "Unstable angina",
+    option_d: "Chronic myocardial injury",
+    correct_option: "A",
+    explanation: "Rationale: Type 2 MI is ischaemic injury from an oxygen supply-demand imbalance unrelated to acute coronary athero-thrombosis. Severe anaemia, hypotension and tachycardia are the obvious trigger. B requires plaque rupture, erosion or dissection with thrombus. C is wrong because troponin is raised. D is wrong because the troponin is clearly rising. Teaching point: Treat the precipitant (here bleeding). Antithrombotic loading for presumed Type 1 MI would be dangerous.\nReference: Malaysian CPG Management of Acute Coronary Syndromes 2026 (1st Ed.), Section 2.1; Table 15.",
+    tag: "CPG ACS 2026"
+  },
+  {
+    question_text: "A 54-year-old man had 40 minutes of rest chest pain 5 hours ago, now resolved. The ECG at presentation showed transient T-wave inversion in V3 to V5, now normalised. High-sensitivity troponin at presentation and 2 hours later is below the 99th percentile with no change. What is the most likely diagnosis?",
+    option_a: "NSTEMI",
+    option_b: "STEMI",
+    option_c: "Unstable angina",
+    option_d: "Type 2 myocardial infarction",
+    correct_option: "C",
+    explanation: "Rationale: Unstable angina is ischaemic-type pain with or without transient ECG changes but without myocardial injury, so biomarkers stay normal. NSTEMI needs a rise and/or fall in troponin. STEMI needs persistent ST elevation. Type 2 MI also needs troponin elevation. Teaching point: UA and NSTEMI cannot always be separated early because biomarkers lag. Repeat testing at the correct interval decides it.\nReference: Malaysian CPG Management of Acute Coronary Syndromes 2026 (1st Ed.), Section 2.1; Flowchart 1; Table 15.",
+    tag: "CPG ACS 2026"
+  },
+  {
+    question_text: "A 52-year-old woman has had 60 minutes of crushing central chest pain. The ECG shows 0.17 mV ST elevation in V2 and V3 with reciprocal ST depression inferiorly. There is no LVH or LBBB. Troponin is pending. Which statement is correct?",
+    option_a: "She does not meet STEMI criteria because women need at least 0.2 mV in V2-V3",
+    option_b: "STEMI cannot be diagnosed until a rise and fall in troponin is shown",
+    option_c: "She meets the V2-V3 criterion for women and reperfusion should start without waiting for troponin",
+    option_d: "She meets STEMI criteria only if the LBBB is new",
+    correct_option: "C",
+    explanation: "Rationale: In V2-V3 the thresholds are 0.25 mV (men <40 years), 0.2 mV (men ≥40 years) and 0.15 mV (women); 0.1 mV applies in other leads. She exceeds 0.15 mV. The CPG stresses not waiting for biomarkers before definitive treatment. A applies the male ≥40 threshold. B contradicts Key Message 5. D is irrelevant, as she has no LBBB. Teaching point: Know the three V2-V3 cut-offs, and remember women have lower thresholds.\nReference: Malaysian CPG Management of Acute Coronary Syndromes 2026 (1st Ed.), Table 17 and 18; Key Message 5.",
+    tag: "CPG ACS 2026"
+  },
+  {
+    question_text: "A 41-year-old man arrives 40 minutes after onset of chest pain, which is still present. ECG is non-diagnostic. The first high-sensitivity troponin is below the 99th percentile. What is the most appropriate next step?",
+    option_a: "Repeat the high-sensitivity troponin 1 to 2 hours later",
+    option_b: "Exclude MI and discharge",
+    option_c: "Repeat the troponin after 12 hours",
+    option_d: "Order total CK",
+    correct_option: "A",
+    explanation: "Rationale: Too early a sample may be falsely negative. Troponin should be measured at first assessment and repeated 1-2 hours later (hs-cTn) or 3-6 hours later (conventional cTn) if the first value is non-diagnostic and clinical suspicion remains. A single hs-cTn should be taken at least 2-3 hours after onset, and a conventional cTn at least 6 hours. B ignores the early sampling window. C delays diagnosis unnecessarily. D is wrong because total CK is not recommended owing to poor specificity. Teaching point: hs-cTn can be detected 1-2 hours after onset but repeat testing is needed when sampled early.\nReference: Malaysian CPG Management of Acute Coronary Syndromes 2026 (1st Ed.), Key Recommendation 3; Section 3.4.1; Flowchart 6.",
+    tag: "CPG ACS 2026"
+  },
+  {
+    question_text: "A 66-year-old man has had 2 hours of chest pain. High-sensitivity troponin I on arrival is 20 ng/L (99th percentile 14 ng/L). Repeat at 3 hours is 26 ng/L. The ECG shows new ST depression in V4-V6. Which is the best interpretation?",
+    option_a: "Chronic myocardial injury because the change is less than 50%",
+    option_b: "Not significant, because a 50% rise is required when the baseline is above the 99th percentile",
+    option_c: "Non-diagnostic because the second value is not three times the upper reference limit",
+    option_d: "A rise of more than 20% from a baseline above the 99th percentile, with ischaemic ECG changes, supports acute MI",
+    correct_option: "D",
+    explanation: "Rationale: If the baseline is above the 99th percentile URL, a change of more than 20% within 3 hours is significant. If the baseline is at or below the 99th percentile, a change of at least 50% is required. Here the rise is 30% from an above-URL baseline, with dynamic ST depression, so NSTEMI is supported. A and B misapply the 50% rule. C invents a multiple-of-URL criterion. (Chronic injury shows <20% change.) Teaching point: The 20% rule applies when the baseline is above the URL, and the 50% rule when it is not.\nReference: Malaysian CPG Management of Acute Coronary Syndromes 2026 (1st Ed.), Table 21; Flowchart 6 footnote.",
+    tag: "CPG ACS 2026"
+  },
+  {
+    question_text: "A 45-year-old woman presents with 2 days of pleuritic chest pain and dyspnoea after a long-haul flight. Heart rate is 118/min, BP 100/70 mmHg and SpO2 90% on air. The ECG shows sinus tachycardia with T-wave inversion in V1 to V3. High-sensitivity troponin is twice the URL and stable on repeat. CT pulmonary angiography shows bilateral pulmonary emboli with right ventricular dilatation. What is the best explanation for the troponin result?",
+    option_a: "Type 1 MI from plaque rupture",
+    option_b: "Myocardial injury from acute right ventricular strain",
+    option_c: "Unstable angina",
+    option_d: "Type 4b MI",
+    correct_option: "B",
+    explanation: "Rationale: Troponin marks necrosis but is not specific for MI. Severe PE and pulmonary hypertension are listed causes of myocardial injury without overt ischaemic heart disease. A needs atherothrombosis. C needs normal troponin. D relates to stent thrombosis and she has no stent. Teaching point: Know the non-ischaemic causes of raised troponin (PE, sepsis, myocarditis, renal failure, extreme exertion, etc.).\nReference: Malaysian CPG Management of Acute Coronary Syndromes 2026 (1st Ed.), Section 3.4.1; Appendix VI.",
+    tag: "CPG ACS 2026"
+  },
+  {
+    question_text: "A rural clinic without access to troponin assessment sees a 61-year-old man with ischaemic-type chest pain and a non-diagnostic ECG. Which is the acceptable but less preferred alternative biomarker?",
+    option_a: "Aspartate transaminase",
+    option_b: "Lactate dehydrogenase",
+    option_c: "CK-MB",
+    option_d: "Total creatine kinase",
+    correct_option: "C",
+    explanation: "Rationale: Troponin is the biomarker of choice. Where it is unavailable, CK-MB is the alternative (less preferred). A CK-MB of at least 6% of total CK (relative index) suggests cardiac damage when trauma and chronic muscle disease are absent. AST and LDH are not encouraged because they are neither sensitive nor specific. Total CK has poor specificity because of skeletal muscle distribution. Teaching point: Troponin first, CK-MB if troponin is unavailable, and not AST, LDH or total CK.\nReference: Malaysian CPG Management of Acute Coronary Syndromes 2026 (1st Ed.), Section 3.4.",
+    tag: "CPG ACS 2026"
+  },
+  {
+    question_text: "A 66-year-old man has had 70 minutes of chest pain. The ECG shows LBBB with concordant ST elevation of 2 mm in V5 and V6. No previous ECG is available. A PCI-capable centre is 40 minutes away. Which statement is correct?",
+    option_a: "Concordant ST elevation of at least 1 mm meets the Smith-modified Sgarbossa criteria and a primary PCI strategy should be considered",
+    option_b: "LBBB alone is a STEMI equivalent, so fibrinolysis should be given",
+    option_c: "The ECG is uninterpretable, so reperfusion decisions wait for troponin",
+    option_d: "Concordant ST elevation is a non-specific finding that does not alter management",
+    correct_option: "A",
+    explanation: "Rationale: New LBBB alone is not a STEMI equivalent. The Smith-modified Sgarbossa criteria (concordant ST elevation ≥1 mm in ≥1 lead, concordant ST depression ≥1 mm in V1-V3, or proportionally excessive discordant elevation) identify occlusion MI. The CPG says patients with BBB and ongoing pain may be considered for a PCI strategy, and that those with non-interpretable ST segments should not receive fibrinolysis. B contradicts this. C and D are incorrect because the criteria make the ECG interpretable and actionable. Teaching point: Apply Sgarbossa rather than relying on \"new LBBB\".\nReference: Malaysian CPG Management of Acute Coronary Syndromes 2026 (1st Ed.), Table 17 and 20; Section 7.2.1.1.1.",
+    tag: "CPG ACS 2026"
+  },
+  {
+    question_text: "A 63-year-old man with diabetes is admitted with NSTEMI. Troponin is rising and the GRACE score is 155. In the ward he has recurrent chest pain despite intravenous nitrates and morphine. Which feature places him in the very-high-risk category?",
+    option_a: "Diabetes mellitus",
+    option_b: "Recurrent chest pain refractory to medical treatment",
+    option_c: "GRACE score above 140",
+    option_d: "Rise in cardiac troponin",
+    correct_option: "B",
+    explanation: "Rationale: Very-high-risk features include haemodynamic instability or shock, recurrent or ongoing chest pain refractory to medical treatment, recurrent dynamic ST-T change, life-threatening arrhythmia, acute HF, mechanical complications, and ECG features of occlusion MI. He should have an urgent invasive strategy (consider <24-48 hours, the sooner the better). A is an intermediate-risk feature. C and D are high-risk features (early invasive within 24-48 hours). Teaching point: Refractory pain upgrades him from high-risk to very-high-risk.\nReference: Malaysian CPG Management of Acute Coronary Syndromes 2026 (1st Ed.), Table 4 and 8; Key Recommendation 10.",
+    tag: "CPG ACS 2026"
+  },
+  {
+    question_text: "A 58-year-old man with hypertension and a smoking history presents with chest pain that is highly suspicious for angina. The ECG is normal and high-sensitivity troponin is below the 99th percentile. Using the modified HEART score, what is his score and disposition?",
+    option_a: "2, low risk: discharge",
+    option_b: "3, low risk: discharge",
+    option_c: "7, high risk: urgent intervention",
+    option_d: "4, moderate risk: further evaluation and observation",
+    correct_option: "D",
+    explanation: "Rationale: History highly suspicious = 2, ECG normal = 0, age 58 (>45 to <65) = 1, two risk factors = 1, troponin ≤ normal = 0, giving 4. A score of 0-3 is low risk, 4-6 moderate risk (further evaluation and observation) and 7-10 high risk. Options A, B and C each miscount one component. Teaching point: Do the sum component by component. A single suspicious history can push the score out of the discharge range.\nReference: Malaysian CPG Management of Acute Coronary Syndromes 2026 (1st Ed.), Appendix III; Table 7.",
+    tag: "CPG ACS 2026"
+  },
+  {
+    question_text: "A 41-year-old woman presents 3 hours after an episode of atypical chest pain, now pain free. The ECG is normal. High-sensitivity troponin is below the 99th percentile on arrival and again 2 hours later, with less than 50% change. The modified HEART score is 2. What is the most appropriate disposition?",
+    option_a: "Discharge from the ED with early outpatient cardiology review",
+    option_b: "Admit to the coronary care unit",
+    option_c: "Early invasive strategy",
+    option_d: "Repeat the troponin at 12 hours",
+    correct_option: "A",
+    explanation: "Rationale: In the rule-out pathway, hs-cTn below the 99th percentile on repeat with <50% change, a pain-free patient and a HEART score ≤3 (or TIMI 0-1) allow discharge with early outpatient cardiology review. B and C are for rule-in or high-risk patients. D is unnecessary once the pathway criteria are met. Teaching point: The pathway needs all three: serial troponin, no ongoing pain and a low score.\nReference: Malaysian CPG Management of Acute Coronary Syndromes 2026 (1st Ed.), Flowchart 6.",
+    tag: "CPG ACS 2026"
+  },
+  {
+    question_text: "A 79-year-old man with known multivessel CAD and CKD presents with 2 hours of chest tightness, now pain free. The ECG shows old inferior Q waves with no acute change. High-sensitivity troponin is mildly above the 99th percentile on arrival and 3 hours later, with less than 20% change. Which is the most appropriate management?",
+    option_a: "Discharge without follow-up",
+    option_b: "Immediate fibrinolysis",
+    option_c: "Observe or admit, look for alternative causes and reversible ischaemia, and start antiplatelet and statin if CAD likelihood is high",
+    option_d: "Primary PCI",
+    correct_option: "C",
+    explanation: "Rationale: This is the indeterminate group: elevated troponin without a significant rise or fall, typically elderly patients with pre-existing CAD and high long-term mortality. They should be observed or admitted or referred early for cardiology review, investigated for other causes, and treated with antiplatelet agents, a high-intensity statin and anti-ischaemic therapy if CAD is likely, with testing for ischaemia. A ignores their mortality risk. B and D are for STEMI. Teaching point: The indeterminate group has mortality comparable to \"rule-in\" patients.\nReference: Malaysian CPG Management of Acute Coronary Syndromes 2026 (1st Ed.), Key Message 10; Table 9.",
+    tag: "CPG ACS 2026"
+  },
+  {
+    question_text: "A 47-year-old woman is admitted with suspected unstable angina. She has had no recurrence of pain, her ECG is normal, serial troponins are negative, and she has no diabetes, heart failure or prior revascularisation. Her GRACE score is 90. What is the most appropriate plan?",
+    option_a: "Urgent angiography within 24 hours",
+    option_b: "Discharge and arrange non-invasive assessment for inducible ischaemia",
+    option_c: "Routine early angiography within 24 to 48 hours",
+    option_d: "Fibrinolytic therapy",
+    correct_option: "B",
+    explanation: "Rationale: Patients with no recurrence of symptoms and none of the higher-risk criteria are low risk. They can be discharged with further investigation as outpatients, and non-invasive assessment for inducible or silent ischaemia is recommended (I,A). Routine invasive angiography is not recommended in low-risk patients. A and C are for very-high-risk and high-risk patients. D is for STEMI. Teaching point: Low risk means test for ischaemia first, and angiography only if positive.\nReference: Malaysian CPG Management of Acute Coronary Syndromes 2026 (1st Ed.), Table 8; Section 9.2.1.1.",
+    tag: "CPG ACS 2026"
+  },
+  {
+    question_text: "A 55-year-old man with anterior STEMI is seen at a district hospital 90 minutes after symptom onset. He is haemodynamically stable with no contraindications to fibrinolysis. The nearest PCI-capable hospital is about 150 minutes away. What is the most appropriate management?",
+    option_a: "Wait for transfer and perform primary PCI",
+    option_b: "Give fibrinolysis and treat medically without angiography",
+    option_c: "Give fibrinolysis, then perform facilitated PCI within 1 hour",
+    option_d: "Give fibrinolysis, then transfer for angiography and PCI between 2 and 24 hours",
+    correct_option: "D",
+    explanation: "Rationale: If the delay to primary PCI exceeds 120 minutes, the best option is fibrinolysis followed by transfer for a pharmaco-invasive strategy (routine angiography and PCI 2-24 hours later). A would exceed the time window. B omits the pharmaco-invasive step, which lowers mortality and reinfarction. C describes facilitated PCI, which is not recommended (III,A). Teaching point: Pharmaco-invasive is not the same as facilitated PCI.\nReference: Malaysian CPG Management of Acute Coronary Syndromes 2026 (1st Ed.), Key Recommendation 9; Table 2 and 25; Section 9.1.3.",
+    tag: "CPG ACS 2026"
+  },
+  {
+    question_text: "A 58-year-old man with inferior STEMI presents to a district hospital 5 hours after onset. He was admitted two weeks ago with melaena requiring transfusion. He is haemodynamically stable. The PCI-capable hub can be reached in about 3 hours. What is the most appropriate reperfusion strategy?",
+    option_a: "Streptokinase",
+    option_b: "Half-dose tenecteplase",
+    option_c: "Transfer for primary PCI regardless of the expected delay",
+    option_d: "Medical therapy alone, as the 120-minute window has passed",
+    correct_option: "C",
+    explanation: "Rationale: GI bleeding within the past month is an absolute contraindication to fibrinolysis. When fibrinolysis is contraindicated and onset is <12 hours, primary PCI is preferred irrespective of the time delay (I,A). A and B are fibrinolytics. D is wrong because the >120 minute rule only favours fibrinolysis when it is safe. Teaching point: A contraindication to lysis overrides the time-delay rule.\nReference: Malaysian CPG Management of Acute Coronary Syndromes 2026 (1st Ed.), Key Recommendation 9; Table 2; Appendix IX.",
+    tag: "CPG ACS 2026"
+  },
+  {
+    question_text: "A 77-year-old man weighing 72 kg has anterior STEMI 2 hours after onset. He has no contraindications and PCI is more than 3 hours away. What is the appropriate tenecteplase dose?",
+    option_a: "20 mg",
+    option_b: "40 mg",
+    option_c: "30 mg",
+    option_d: "45 mg",
+    correct_option: "A",
+    explanation: "Rationale: Tenecteplase is weight-banded (30 mg <60 kg, 35 mg 60 to <70 kg, 40 mg 70 to <80 kg, 45 mg 80 to <90 kg, 50 mg ≥90 kg) and is halved in patients aged ≥75 years. At 72 kg the full dose is 40 mg, so the age-adjusted dose is 20 mg. B ignores age. C and D use the wrong weight band. Teaching point: Locate the weight band first, then halve for age ≥75 years.\nReference: Malaysian CPG Management of Acute Coronary Syndromes 2026 (1st Ed.), Table 26; Section 14.2.3.",
+    tag: "CPG ACS 2026"
+  },
+  {
+    question_text: "A 66-year-old man with anterior STEMI 1 hour after onset is being considered for fibrinolysis. PCI is not available within 2 hours. Which finding is an absolute contraindication?",
+    option_a: "Blood pressure of 190/115 mmHg on arrival",
+    option_b: "Ischaemic stroke 4 months ago",
+    option_c: "Ischaemic stroke 9 months ago",
+    option_d: "Cardiopulmonary resuscitation lasting 12 minutes",
+    correct_option: "B",
+    explanation: "Rationale: Ischaemic stroke within 6 months is an absolute contraindication. Stroke more than 6 months ago, SBP >180 or DBP >110 mmHg (reduce BP before lysis), and prolonged CPR (>10 minutes) are relative contraindications. Teaching point: Learn the 6-month stroke cut-off and the 1-month rule for surgery, trauma and GI bleeding.\nReference: Malaysian CPG Management of Acute Coronary Syndromes 2026 (1st Ed.), Appendix IX.",
+    tag: "CPG ACS 2026"
+  },
+  {
+    question_text: "A 55-year-old man received tenecteplase 90 minutes ago for anterior STEMI at a spoke hospital. He still has severe chest pain, and ST elevation in V3 has fallen by only 20% from baseline. BP is 100/60 mmHg with frequent ventricular ectopics. What is the most appropriate next step?",
+    option_a: "Give a second dose of fibrinolytic",
+    option_b: "Observe for a further 6 hours",
+    option_c: "Double the heparin infusion and give morphine",
+    option_d: "Arrange urgent transfer for rescue PCI",
+    correct_option: "D",
+    explanation: "Rationale: Failed fibrinolysis is ongoing pain, persistent ST elevation (<50% resolution in the lead with maximal elevation) and/or haemodynamic or electrical instability. Rescue PCI (I,A) is indicated, balancing the higher bleeding and stroke risk. A and C do not reopen the artery. B delays treatment. Teaching point: ST resolution of less than 50% at 60 to 90 minutes means failed lysis.\nReference: Malaysian CPG Management of Acute Coronary Syndromes 2026 (1st Ed.), Section 7.2.1.1.2.3 and 9.1.2.",
+    tag: "CPG ACS 2026"
+  },
+  {
+    question_text: "A 51-year-old man with anterior STEMI is given tenecteplase at a spoke hospital. His pain has settled, ST resolution is 70% and he is stable. What is the best plan?",
+    option_a: "Transfer for angiography and PCI between 2 and 24 hours",
+    option_b: "Immediate PCI within 1 hour",
+    option_c: "Medical therapy and a non-invasive stress test",
+    option_d: "Angiography only if pain recurs",
+    correct_option: "A",
+    explanation: "Rationale: Even when fibrinolysis appears successful, routine angiography and PCI 2-24 hours later improves outcomes (I,A). No clinical marker reliably confirms reperfusion: about 9% of patients judged to have reperfused still had an occluded artery. B is facilitated PCI (not recommended). C and D are symptom- or ischaemia-guided approaches, which are inferior. Teaching point: Symptom relief and ST resolution do not replace routine angiography after lysis.\nReference: Malaysian CPG Management of Acute Coronary Syndromes 2026 (1st Ed.), Section 7.2.1.1.2.2 and 9.1.3.",
+    tag: "CPG ACS 2026"
+  },
+  {
+    question_text: "A patient with STEMI is transferred from a non-PCI-capable hospital. The door-in-door-out time was 45 minutes, transport took 50 minutes and the door-to-wire time at the PCI centre was 25 minutes. Which interval exceeded its individual recommended target?",
+    option_a: "Transport time",
+    option_b: "Door-to-wire time",
+    option_c: "Door-in-door-out time",
+    option_d: "None, because the total is 120 minutes",
+    correct_option: "C",
+    explanation: "Rationale: The ≤120-minute target from first medical contact to wire crossing is built from DIDO ≤30 minutes, transport ≤60 minutes and door-to-wire ≤30 minutes. Transport (50) and door-to-wire (25) are within target. DIDO (45) exceeded its target, even though the total of 120 minutes is acceptable. D ignores the component targets, which are the quality indicators of the system. Teaching point: Audit each component, because a total on target can hide a failing step.\nReference: Malaysian CPG Management of Acute Coronary Syndromes 2026 (1st Ed.), Key Recommendation 9; Table 2; Flowchart 5.",
+    tag: "CPG ACS 2026"
+  },
+  {
+    question_text: "A 60-year-old man presents to a PCI-capable hospital 18 hours after onset of chest pain, which is still ongoing. BP is 110/70 mmHg and the ECG shows inferolateral ST elevation. What is the most appropriate management?",
+    option_a: "Fibrinolytic therapy",
+    option_b: "Primary PCI",
+    option_c: "Medical therapy only",
+    option_d: "Non-invasive stress test in 6 weeks",
+    correct_option: "B",
+    explanation: "Rationale: At 12 to 24 hours, primary PCI is the preferred strategy and still beneficial in patients with persistent ischaemic symptoms or instability (IIa,B). Fibrinolysis is not preferred in this window. Routine reperfusion is not recommended in asymptomatic, stable patients (III,A) and is not recommended at all beyond 24 hours (III,A), but this patient has ongoing pain. Teaching point: Ongoing symptoms keep the reperfusion window open.\nReference: Malaysian CPG Management of Acute Coronary Syndromes 2026 (1st Ed.), Table 2 and 25; Section 9.1.5.",
+    tag: "CPG ACS 2026"
+  },
+  {
+    question_text: "A 60-year-old man has NSTEMI with a rising high-sensitivity troponin and a GRACE score of 152. He is pain free and haemodynamically stable. What is the recommended timing of coronary angiography?",
+    option_a: "Early invasive strategy, consider within 24 to 48 hours of admission",
+    option_b: "Immediate, within 2 hours",
+    option_c: "Within the index admission only",
+    option_d: "Non-invasive testing first",
+    correct_option: "A",
+    explanation: "Rationale: A rise in troponin and GRACE >140 are high-risk criteria, and the early invasive strategy (consider within 24-48 hours) is recommended (IIa,A). B is reserved for very-high-risk features. C is for intermediate-risk. D is for low-risk patients. Teaching point: Very-high risk = urgent, high risk = 24-48 hours, intermediate = this admission, low = non-invasive.\nReference: Malaysian CPG Management of Acute Coronary Syndromes 2026 (1st Ed.), Key Recommendation 10; Table 4 and 8.",
+    tag: "CPG ACS 2026"
+  },
+  {
+    question_text: "A 64-year-old man with NSTEMI has PCI to the culprit LAD. Angiography also shows a 60% stenosis of the RCA with an FFR of 0.86. What is the most appropriate management of the RCA lesion?",
+    option_a: "PCI now because the stenosis exceeds 50%",
+    option_b: "PCI now because it is a non-culprit lesion",
+    option_c: "Refer for CABG",
+    option_d: "Optimal medical therapy, with no PCI",
+    correct_option: "D",
+    explanation: "Rationale: For borderline non-culprit lesions (50-70%), physiology guides treatment: intervene if FFR ≤0.8 (or iFR ≤0.89); otherwise manage medically. FFR 0.86 is not haemodynamically significant. A and B would stent a non-significant lesion. C has no basis. Teaching point: In STEMI, non-culprit lesions are significant if ≥70% visually, or 50-69% with FFR ≤0.80.\nReference: Malaysian CPG Management of Acute Coronary Syndromes 2026 (1st Ed.), Section 9.1.7 and 9.2.1.2.",
+    tag: "CPG ACS 2026"
+  },
+  {
+    question_text: "A 58-year-old man with NSTEMI undergoing PCI has been loaded with aspirin 300 mg and ticagrelor 180 mg. What is the appropriate maintenance aspirin dose?",
+    option_a: "300 mg daily",
+    option_b: "150 mg daily",
+    option_c: "75 to 100 mg daily",
+    option_d: "Stop aspirin once ticagrelor is started",
+    correct_option: "C",
+    explanation: "Rationale: With ticagrelor, aspirin maintenance should be ≤100 mg daily (I,A). Maintenance doses of 300-325 mg increase GI bleeding without extra efficacy (III,A). The usual maintenance range of 75-150 mg applies with clopidogrel, so B is wrong here. D is wrong because DAPT needs both agents. Teaching point: Ticagrelor plus aspirin above 100 mg reduces efficacy and increases bleeding.\nReference: Malaysian CPG Management of Acute Coronary Syndromes 2026 (1st Ed.), Section 8.1.1.",
+    tag: "CPG ACS 2026"
+  },
+  {
+    question_text: "An 82-year-old woman with STEMI is to receive fibrinolysis. What is the appropriate clopidogrel loading dose?",
+    option_a: "600 mg",
+    option_b: "75 mg",
+    option_c: "300 mg",
+    option_d: "No clopidogrel; ticagrelor 180 mg instead",
+    correct_option: "B",
+    explanation: "Rationale: With fibrinolysis, the clopidogrel loading dose is 300 mg for patients ≤75 years and 75 mg for those >75 years. Ticagrelor is not used with fibrinolysis and carries more bleeding in older patients. A and C are doses for younger patients or for planned PCI. Teaching point: Age >75 years means a 75 mg clopidogrel load with lysis, and half-dose tenecteplase.\nReference: Malaysian CPG Management of Acute Coronary Syndromes 2026 (1st Ed.), Key Recommendation 11; Section 14.2.3; Table 10.",
+    tag: "CPG ACS 2026"
+  },
+  {
+    question_text: "A 52-year-old man with STEMI will receive tenecteplase. Which P2Y12 inhibitor and loading dose should be given?",
+    option_a: "Clopidogrel 300 mg",
+    option_b: "Clopidogrel 600 mg",
+    option_c: "Ticagrelor 180 mg",
+    option_d: "Ticagrelor 90 mg",
+    correct_option: "A",
+    explanation: "Rationale: Clopidogrel 300 mg is given with fibrinolysis (ticagrelor is for patients undergoing PCI, not fibrinolysis). 600 mg is used when primary PCI is planned. Teaching point: Ticagrelor is not for patients undergoing fibrinolysis.\nReference: Malaysian CPG Management of Acute Coronary Syndromes 2026 (1st Ed.), Table 10; Key Recommendation 11.",
+    tag: "CPG ACS 2026"
+  },
+  {
+    question_text: "A cardiology team is deciding the duration of DAPT after PCI for ACS. Which single finding alone classifies a patient as high bleeding risk?",
+    option_a: "Age 78 years",
+    option_b: "eGFR 45 mL/min",
+    option_c: "Long-term NSAID use",
+    option_d: "Haemoglobin 10.4 g/dL",
+    correct_option: "D",
+    explanation: "Rationale: High bleeding risk is one major criterion or two minor criteria. Haemoglobin <11 g/dL is a major criterion. Age >75 years, moderate CKD (eGFR 30-59) and long-term NSAID or steroid use are minor criteria and need two. Severe CKD (eGFR <30) and long-term oral anticoagulation would also be major criteria. Teaching point: Count criteria: 1 major or 2 minor.\nReference: Malaysian CPG Management of Acute Coronary Syndromes 2026 (1st Ed.), Appendix VIII; Section 8.1.5.",
+    tag: "CPG ACS 2026"
+  },
+  {
+    question_text: "A 70-year-old man with atrial fibrillation undergoes PCI for NSTEMI. Which antithrombotic regimen is most appropriate?",
+    option_a: "Aspirin, ticagrelor and a DOAC for 12 months",
+    option_b: "Warfarin with INR 3 to 4 plus DAPT",
+    option_c: "A DOAC with aspirin and clopidogrel for 1 to 4 weeks, then a single antiplatelet (preferably clopidogrel) plus the DOAC",
+    option_d: "DAPT alone without anticoagulation",
+    correct_option: "C",
+    explanation: "Rationale: DOAC-based combination therapy has less bleeding than triple therapy with warfarin. Triple therapy is kept short (1 week to 1 month), followed by a single antiplatelet (preferably clopidogrel) plus OAC for 3-12 months, then OAC long term. Aspirin should be ≤75-100 mg. Ticagrelor or prasugrel are not recommended in triple therapy (III,A). If warfarin is used, the INR target is the lower part of the range (2-2.5). D omits stroke prevention. Teaching point: Short triple therapy, clopidogrel as the P2Y12 inhibitor, and then OAC.\nReference: Malaysian CPG Management of Acute Coronary Syndromes 2026 (1st Ed.), Section 8.3.2.",
+    tag: "CPG ACS 2026"
+  },
+  {
+    question_text: "A 61-year-old man had an ACS 6 weeks ago. He tolerates atorvastatin 80 mg and his LDL-C is 1.9 mmol/L. What is the most appropriate next step?",
+    option_a: "Continue the current dose, as the target is below 2.6 mmol/L",
+    option_b: "Add ezetimibe, and consider a PCSK9 modulator if needed",
+    option_c: "Switch to fenofibrate",
+    option_d: "Reduce the statin dose",
+    correct_option: "B",
+    explanation: "Rationale: After ACS the target LDL-C is <1.4 mmol/L with at least a 50% reduction. If LDL-C remains ≥1.4 mmol/L on maximally tolerated statin, non-statin therapy (ezetimibe, PCSK9 inhibitors or siRNA) should be added (I,A). A uses the target for lower-risk patients. C targets triglycerides, not LDL-C. D is inappropriate. Teaching point: For recurrent ACS the goal is even lower (≤1.0 mmol/L).\nReference: Malaysian CPG Management of Acute Coronary Syndromes 2026 (1st Ed.), Key Recommendation 14; Section 8.4; Table 11.",
+    tag: "CPG ACS 2026"
+  },
+  {
+    question_text: "A 55-year-old man with anterior STEMI has heart rate 100/min and BP 150/90 mmHg. There is no heart failure and no contraindication to beta-blockers. Which statement about beta-blocker use is correct?",
+    option_a: "An oral beta-blocker may be considered, but intravenous beta-blockers are not advocated",
+    option_b: "Give intravenous metoprolol immediately",
+    option_c: "Withhold beta-blockers for one year",
+    option_d: "Start verapamil instead",
+    correct_option: "A",
+    explanation: "Rationale: Oral beta-blockers may be considered at presentation in patients without acute heart failure and with SBP >120 mmHg (I,A). IV beta-blockers are associated with more shock and are not advocated (III,B). C is wrong because long-term beta-blockers are indicated for LVEF ≤40%, angina or arrhythmias. D is not first-line here. Teaching point: Oral yes, IV no, and only with SBP >120 mmHg and no acute heart failure.\nReference: Malaysian CPG Management of Acute Coronary Syndromes 2026 (1st Ed.), Section 8.5.",
+    tag: "CPG ACS 2026"
+  },
+  {
+    question_text: "A 63-year-old man with anterior STEMI has LVEF 32%. BP is 118/72 mmHg, potassium 4.4 mmol/L and eGFR 70. He is already on an ACE inhibitor and a beta-blocker. Which additional therapies are recommended?",
+    option_a: "Digoxin",
+    option_b: "Ivabradine and amlodipine",
+    option_c: "Colchicine",
+    option_d: "An MRA and an SGLT2 inhibitor",
+    correct_option: "D",
+    explanation: "Rationale: For LVEF ≤40% the four pillars are recommended: RAAS blocker (or ARNI), beta-blocker, MRA and SGLT2 inhibitor (I,A). MRAs are considered when there is no renal failure. A, B and C are not part of the foundational regimen. Colchicine and SGLT2 inhibitors started soon after MI did not improve outcomes (IIb,B), but the SGLT2 inhibitor is indicated here for reduced EF and may be started after discharge. Teaching point: Pillars: ACEi/ARB/ARNI, beta-blocker, MRA, SGLT2 inhibitor.\nReference: Malaysian CPG Management of Acute Coronary Syndromes 2026 (1st Ed.), Key Recommendation 14; Sections 8.6, 8.7 and 8.9.",
+    tag: "CPG ACS 2026"
+  },
+  {
+    question_text: "A 59-year-old man has inferior STEMI. BP is 80/50 mmHg, JVP is raised and the chest is clear. The ECG shows ST elevation in V4R. What is the most appropriate management?",
+    option_a: "Sublingual GTN and intravenous furosemide",
+    option_b: "Dopamine infusion",
+    option_c: "Intravenous fluid resuscitation and primary PCI",
+    option_d: "Atropine 3 mg",
+    correct_option: "C",
+    explanation: "Rationale: Hypotension, clear lungs and raised JVP in inferior STEMI suggest RV infarct, and ST elevation in V4R is the most specific ECG finding. Management is primary PCI with restoration of flow to the RV branches and IV fluids to optimise preload, adding noradrenaline if needed. Nitrates and diuretics reduce preload and are avoided (III,C). Dopamine is not preferred. Teaching point: The RV infarct triad is hypotension, clear lungs and raised JVP.\nReference: Malaysian CPG Management of Acute Coronary Syndromes 2026 (1st Ed.), Section 11.4.",
+    tag: "CPG ACS 2026"
+  },
+  {
+    question_text: "A 64-year-old man has anterior STEMI. The ECG shows second-degree AV block Mobitz type 2. BP is 120/70 mmHg and he is haemodynamically stable. What is the most appropriate management?",
+    option_a: "Observation only",
+    option_b: "Temporary pacing",
+    option_c: "Atropine 3 mg",
+    option_d: "Permanent pacemaker insertion",
+    correct_option: "B",
+    explanation: "Rationale: Patients with anterior infarcts who develop Mobitz 2 or complete AV block have a worse prognosis and need temporary pacing even if stable. In inferior MI, a stable patient with such block may not need treatment. Atropine (maximum 3 mg) is only an interim measure in unstable patients. Teaching point: Anterior MI with high-grade block means pace, even if stable.\nReference: Malaysian CPG Management of Acute Coronary Syndromes 2026 (1st Ed.), Table 27.",
+    tag: "CPG ACS 2026"
+  },
+  {
+    question_text: "A 60-year-old man has a large anterior STEMI treated with primary PCI. A follow-up echocardiogram shows an apical LV thrombus. What is the most appropriate management?",
+    option_a: "Anticoagulation for at least 3 months, with repeat imaging",
+    option_b: "Aspirin alone",
+    option_c: "Anticoagulation for 4 weeks only",
+    option_d: "No specific treatment, as he has had PCI",
+    correct_option: "A",
+    explanation: "Rationale: If LV thrombus is detected after MI, anticoagulation (warfarin or DOAC), especially beyond 3 months, lowers MACE and mortality (I,B). Repeat imaging at 3 months guides discontinuation, and periodic imaging every 6-12 months is advised afterwards. Longer anticoagulation may be considered with low EF, apical aneurysm, large anterior STEMI or prior embolism. Teaching point: Large anterior MI means looking for thrombus at about one week and again within 3 months.\nReference: Malaysian CPG Management of Acute Coronary Syndromes 2026 (1st Ed.), Key Message 11; Section 11.5.2.",
+    tag: "CPG ACS 2026"
+  },
+  {
+    question_text: "A 58-year-old man presents 3 weeks after an anterior STEMI with pleuritic chest pain that eases on sitting forward and a pericardial rub. ECG shows no new ischaemia. What is the most appropriate treatment?",
+    option_a: "Repeat coronary angiography for suspected reinfarction",
+    option_b: "Prednisolone 1 mg/kg as first-line therapy",
+    option_c: "Therapeutic LMWH",
+    option_d: "High-dose aspirin (600 mg three to four times daily)",
+    correct_option: "D",
+    explanation: "Rationale: This is late post-MI pericarditis (Dressler syndrome, 2-8 weeks after MI). First-line therapy is aspirin 600 mg three to four times daily for 1 to 2 weeks, followed by tapering, with acetaminophen or narcotic analgesics if inadequate. Glucocorticoids (0.25-0.5 mg/kg/day) are reserved for aspirin/NSAID contraindication or refractory symptoms. Anticoagulation is not indicated. The positional pain and rub argue against reinfarction. Teaching point: Pain that is pleuritic and positional with a rub and no new ECG ischaemia points to pericarditis.\nReference: Malaysian CPG Management of Acute Coronary Syndromes 2026 (1st Ed.), Section 11.5.1.3.",
+    tag: "CPG ACS 2026"
+  },
+  {
+    question_text: "A 70-year-old woman is on day 4 after an inferior STEMI treated with fibrinolysis. She develops sudden hypotension and a new loud pansystolic murmur. Echocardiography shows a ventricular septal rupture. What is the most appropriate definitive management?",
+    option_a: "Diuretics and ACE inhibitor alone",
+    option_b: "Intra-aortic balloon pump alone",
+    option_c: "Urgent surgical or percutaneous closure",
+    option_d: "Repeat fibrinolysis",
+    correct_option: "C",
+    explanation: "Rationale: Mechanical complications (free wall rupture, septal rupture, papillary muscle rupture) are suspected with sudden deterioration and new murmurs, confirmed by echocardiography. Ventricular septal rupture needs urgent surgical or percutaneous closure. Medical therapy alone and IABP are only temporising. Fibrinolysis is irrelevant. Teaching point: New murmur plus sudden deterioration should prompt immediate echocardiography.\nReference: Malaysian CPG Management of Acute Coronary Syndromes 2026 (1st Ed.), Section 11.3.",
+    tag: "CPG ACS 2026"
+  },
+  {
+    question_text: "A 62-year-old woman with NSTE-ACS has been stabilised on medical therapy. Serial troponins remain negative and she has no recurrent pain. Which strategy is recommended?",
+    option_a: "Immediate coronary angiography",
+    option_b: "A conservative, ischaemia-guided strategy with non-invasive testing",
+    option_c: "Fibrinolytic therapy",
+    option_d: "Discharge with no further testing",
+    correct_option: "B",
+    explanation: "Rationale: A conservative strategy is recommended for women who are stabilised and remain biomarker negative (IIa,A). Women with high-risk features (troponin positive) should have an early invasive strategy. D is wrong because conservatively treated patients need periodic non-invasive evaluation for reversible ischaemia. Teaching point: In women, troponin status guides invasive versus conservative management.\nReference: Malaysian CPG Management of Acute Coronary Syndromes 2026 (1st Ed.), Section 9.2.1.2; Section 14.1.5.",
+    tag: "CPG ACS 2026"
+  },
+  {
+    question_text: "An 82-year-old frail woman has NSTEMI and medical management is planned. Which regimen is most appropriate?",
+    option_a: "Aspirin, ticagrelor and enoxaparin 1 mg/kg twice daily",
+    option_b: "Aspirin, prasugrel and UFH",
+    option_c: "Aspirin, ticagrelor and UFH",
+    option_d: "Aspirin, clopidogrel and fondaparinux",
+    correct_option: "D",
+    explanation: "Rationale: Clopidogrel is the P2Y12 inhibitor of choice in people >75 years, as ticagrelor carries a greater bleeding risk. Fondaparinux is recommended in older NSTE-ACS patients because it causes less bleeding than heparin with similar efficacy. Enoxaparin at age ≥75 should be reduced (0.75-1.0 mg/kg twice daily) and still carries more bleeding. Teaching point: In the elderly, favour clopidogrel and fondaparinux.\nReference: Malaysian CPG Management of Acute Coronary Syndromes 2026 (1st Ed.), Section 14.2.3.",
+    tag: "CPG ACS 2026"
+  },
+  {
+    question_text: "A 62-year-old man with STEMI has received tenecteplase. His creatinine clearance is 24 mL/min. What is the appropriate enoxaparin regimen after fibrinolysis?",
+    option_a: "1 mg/kg subcutaneously once daily",
+    option_b: "1 mg/kg subcutaneously twice daily",
+    option_c: "Fondaparinux 2.5 mg daily",
+    option_d: "0.75 mg/kg subcutaneously twice daily",
+    correct_option: "A",
+    explanation: "Rationale: After fibrin-specific fibrinolysis, enoxaparin for patients <75 years is a 30 mg IV bolus then 1 mg/kg subcutaneously twice daily, but with CrCl <30 mL/min it is 1 mg/kg once daily. Fondaparinux should be avoided if CrCl <30 mL/min. D is the age ≥75 regimen. Teaching point: Use creatinine clearance, not eGFR, when dosing antithrombotics.\nReference: Malaysian CPG Management of Acute Coronary Syndromes 2026 (1st Ed.), Section 7.2.1.1.2; Section 14.3.2.",
+    tag: "CPG ACS 2026"
+  },
+  {
+    question_text: "A 55-year-old man is on day 3 after uncomplicated primary PCI. His LVEF is 55%. Which statement about cardiac rehabilitation is correct?",
+    option_a: "It should start only after 3 months",
+    option_b: "It is for patients with heart failure only",
+    option_c: "It should be offered to all patients with ACS, preferably starting as an inpatient",
+    option_d: "It is needed only if the stress test is positive",
+    correct_option: "C",
+    explanation: "Rationale: All patients with ACS should undergo cardiac rehabilitation (I,A), which reduces CV hospitalisation, MI, CV and all-cause mortality. It should ideally start as early as possible, preferably as an inpatient. Despite this, referral and participation rates are low, particularly in women and older people. Teaching point: Referral is for everyone, not selected high-risk patients.\nReference: Malaysian CPG Management of Acute Coronary Syndromes 2026 (1st Ed.), Key Recommendation 17; Section 15.",
+    tag: "CPG ACS 2026"
+  },
+  {
+    question_text: "A 57-year-old man is discharged on day 4 after uncomplicated primary PCI. He asks about exercise. What is the recommended target?",
+    option_a: "At least 15 minutes daily",
+    option_b: "At least 30 minutes of low-to-moderate aerobic activity such as brisk walking on at least 5 days per week within 2 weeks of discharge",
+    option_c: "No exercise for 6 weeks",
+    option_d: "High-intensity interval training three times weekly from discharge",
+    correct_option: "B",
+    explanation: "Rationale: Post-ACS patients should achieve ≥30 minutes of low-moderate aerobic activity on at least 5 days/week within 2 weeks of discharge (I,A). Exercise training should not be prescribed in the first week after an acute MI or in unstable angina. Early return matters because each week of delay needs a month of exercise to recoup the benefit. Teaching point: The long-term goal is 150 min/week of moderate or 75 min/week of vigorous activity.\nReference: Malaysian CPG Management of Acute Coronary Syndromes 2026 (1st Ed.), Section 15.3.1; Table 11.",
+    tag: "CPG ACS 2026"
+  },
+  {
+    question_text: "A 63-year-old man with NSTEMI is managed medically without revascularisation. He wants to start regular exercise. What is the most appropriate approach?",
+    option_a: "Unrestricted gym training",
+    option_b: "High-intensity exercise to improve fitness quickly",
+    option_c: "Defer all exercise indefinitely",
+    option_d: "A symptom-limited stress ECG first; if unavailable, limit him to light exercise such as a 6-minute walk",
+    correct_option: "D",
+    explanation: "Rationale: In patients who have not been revascularised, a symptom-limited stress ECG before regular exercise is advised (I,C). If unavailable, exercise should be limited, for example a 6-minute walk. Exercise should begin below the angina threshold. Residual ischaemia adds restrictions. Teaching point: The prescription depends on LV function, functional capacity and residual ischaemia.\nReference: Malaysian CPG Management of Acute Coronary Syndromes 2026 (1st Ed.), Section 15.3.1.",
+    tag: "CPG ACS 2026"
+  },
+  {
+    question_text: "A 48-year-old lorry driver is assessed 3 months after STEMI. LVEF is 48%. On the Bruce treadmill test he exercised for 7 minutes (stage 2) with 1 mm ST depression. What is the most appropriate advice about resuming commercial driving?",
+    option_a: "Not yet, because his exercise tolerance is below the required 9 minutes (stage 3)",
+    option_b: "Yes, because LVEF is above 40%",
+    option_c: "No, because any ST depression disqualifies him",
+    option_d: "Yes, as for private drivers after 2 weeks",
+    correct_option: "A",
+    explanation: "Rationale: Commercial drivers are assessed at 3 months. Criteria are exercise tolerance >9 minutes (stage 3) on the Bruce protocol, <2 mm ST depression and LVEF >40%. He meets the ST and EF criteria but not the exercise criterion. Private drivers may resume after about 2 weeks if uncomplicated and LVEF >40%. Teaching point: All three criteria must be met for commercial drivers.\nReference: Malaysian CPG Management of Acute Coronary Syndromes 2026 (1st Ed.), Section 15.7.",
+    tag: "CPG ACS 2026"
+  },
+  {
+    question_text: "A 58-year-old man had his first STEMI treated with successful primary PCI. LVEF is 50%, there were no complications and no further investigations or interventions are planned. When can he fly commercially?",
+    option_a: "After 24 hours",
+    option_b: "After 10 days",
+    option_c: "After 3 days",
+    option_d: "After 6 weeks",
+    correct_option: "C",
+    explanation: "Rationale: Low-risk patients (age <65, first event, successful reperfusion, LVEF >45%, no complications, no planned investigations or interventions) can fly after 3 days. Medium-risk patients (EF >40%, no heart failure, no inducible ischaemia or arrhythmia) can fly after 10 days. High-risk patients (EF <40%, heart failure, pending investigations or revascularisation) should defer until stable. Teaching point: Low risk = 3 days, medium = 10 days, high = defer.\nReference: Malaysian CPG Management of Acute Coronary Syndromes 2026 (1st Ed.), Section 15.8; Table 29.",
+    tag: "CPG ACS 2026"
+  },
+  {
+    question_text: "A 52-year-old man after uncomplicated STEMI treated with primary PCI is symptom free on mild-to-moderate exertion. He asks when he can resume sexual activity. What is the most appropriate advice?",
+    option_a: "Avoid for 3 months regardless of recovery",
+    option_b: "Resume at about 1 week",
+    option_c: "Resume only after repeat coronary angiography",
+    option_d: "Resume only after completing 12 months of DAPT",
+    correct_option: "B",
+    explanation: "Rationale: Sexual counselling is advised. Sexual activity may generally be resumed one week after uncomplicated STEMI following revascularisation when there are no cardiac symptoms after mild-to-moderate activity; it should be individualised if there are complications. A, C and D impose unsupported restrictions. Teaching point: Counsel that nitrates must not be combined with PDE5 inhibitors (sildenafil, tadalafil) within 24-48 hours.\nReference: Malaysian CPG Management of Acute Coronary Syndromes 2026 (1st Ed.), Section 15.6; Section 8.8.1.",
+    tag: "CPG ACS 2026"
+  },
+  {
+    question_text: "A new cardiac rehabilitation programme wants a single validated questionnaire to screen all post-ACS patients for depression, anxiety and stress together. Which tool is most suitable?",
+    option_a: "DASS-21",
+    option_b: "PHQ-9",
+    option_c: "GAD-7",
+    option_d: "HADS",
+    correct_option: "A",
+    explanation: "Rationale: DASS-21 measures depression, anxiety and stress. PHQ-9 is specific to depression and GAD-7 to anxiety. HADS (not named in the CPG) covers only anxiety and depression, not stress. Patients with heart disease have about twice the risk of anxiety and mood disorders, and these are associated with worse outcomes. Teaching point: Regular screening with validated tools during follow-up is recommended.\nReference: Malaysian CPG Management of Acute Coronary Syndromes 2026 (1st Ed.), Section 15.5.",
+    tag: "CPG ACS 2026"
+  },
+  {
+    question_text: "A 76-year-old man with hypertension, diabetes and current smoking attends the clinic 4 months after an MI. He has no heart failure, eGFR 75 mL/min/1.73m², no prior CABG, stroke or peripheral artery disease. What is his TIMI Risk Score for secondary prevention and its implication?",
+    option_a: "2, intermediate risk",
+    option_b: "3, intermediate risk",
+    option_c: "5, high risk",
+    option_d: "4, high risk: closer follow-up and intensified secondary prevention",
+    correct_option: "D",
+    explanation: "Rationale: One point each for age ≥75, hypertension, diabetes and current smoking gives 4. Risk categories are low 0, intermediate 1-2, high ≥3. High-risk patients should be followed more closely, with lower treatment targets, optimised HF therapy if HFrEF, smoking cessation emphasis, renal assessment and adherence monitoring. Age ≥75 and heart failure are the strongest predictors. Teaching point: Score ≥3 is high risk, so tighten targets and follow-up intervals.\nReference: Malaysian CPG Management of Acute Coronary Syndromes 2026 (1st Ed.), Section 16.2 and 16.3; Table 30.",
+    tag: "CPG ACS 2026"
+  },
+  {
+    question_text: "A hospital is setting up an outpatient cardiac rehabilitation programme. Which description of the programme structure is correct?",
+    option_a: "Two weeks of daily supervised sessions only",
+    option_b: "Twelve weeks of once-weekly sessions only",
+    option_c: "An initial phase of 4 to 6 weeks with closely supervised sessions 2 to 3 times per week, followed by an ongoing maintenance phase",
+    option_d: "Six months of unsupervised home-based exercise",
+    correct_option: "C",
+    explanation: "Rationale: The initial phase is usually 4-6 weeks at 2-3 sessions per week with closely supervised exercise and education, based at the clinic. The maintenance phase is ongoing, with one group session weekly plus 2-3 home-based sessions. The individualised treatment plan is signed by a doctor and updated every 30 days. Functional assessment (activities of daily living, 5x sit-to-stand, gait and balance, 6-minute walk, stress ECG if available) is done before, after the initial phase and every 3-4 months. Home-based delivery may be synchronous or asynchronous, but the structure is not unsupervised-only. Teaching point: Core components: assessment, risk-factor control, exercise, diet, tobacco counselling, education, psychosocial and vocational support.\nReference: Malaysian CPG Management of Acute Coronary Syndromes 2026 (1st Ed.), Section 15.1; Appendix XI.",
+    tag: "CPG ACS 2026"
   }
 ];
