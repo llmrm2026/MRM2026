@@ -7174,7 +7174,7 @@ const cpgBank = [
     tag: "CPG Type 2 Diabetes 2020"
   },
   {
-    question_text: "A 41-year-old Malaysian-Chinese man attends an insurance medical. He weighs 80 kg and is 1.70 m tall. Waist circumference is 94 cm, BP 126/78 mmHg and fasting glucose 5.3 mmol/l. He has no symptoms and takes no medication. Adapted from CPG Table 2-1 (BMI classification for Asian adults): | Class | BMI (kg/m2) |\n|---|---|\n| Normal | 18.5-22.9 |\n| Pre-obese | 23.0-27.4 |\n| Obese I | 27.5-32.4 |\n| Obese II | 32.5-37.4 |\n| Obese III | ≥37.5 | Which is the correct classification and most appropriate next step?",
+    question_text: "A 41-year-old Malaysian-Chinese man attends an insurance medical. He weighs 80 kg and is 1.70 m tall. Waist circumference is 94 cm, BP 126/78 mmHg and fasting glucose 5.3 mmol/l. He has no symptoms and takes no medication.\n\nAdapted from CPG Table 2-1 (BMI classification for Asian adults):\n\nClass  |  BMI (kg/m2)\nNormal  |  18.5-22.9\nPre-obese  |  23.0-27.4\nObese I  |  27.5-32.4\nObese II  |  32.5-37.4\nObese III  |  ≥37.5\n\nWhich is the correct classification and most appropriate next step?",
     option_a: "Pre-obese; reassure and rescreen in 5 years",
     option_b: "Obese I; start orlistat",
     option_c: "Obese I; lifestyle intervention and assess for associated conditions",
@@ -7214,7 +7214,7 @@ const cpgBank = [
     tag: "CPG Obesity 2023"
   },
   {
-    question_text: "A 52-year-old woman with BMI 36 kg/m2 has T2DM of 2 years' duration (HbA1c 7.6%), moderate obstructive sleep apnoea, and an ultrasound showing fatty liver with raised ALT. She asks what weight loss she should aim for and what each comorbidity needs. Adapted from CPG Table 2-3 (treatment targets by diagnosis): | Diagnosis | Weight loss target (%) |\n|---|---|\n| Metabolic syndrome | 10 |\n| T2DM | 5-15 |\n| Hypertension | 5-15 |\n| Sleep apnoea | 7-11 |\n| MAFLD | 10-40 | What is the best single weight-loss target to cover all three of her conditions?",
+    question_text: "A 52-year-old woman with BMI 36 kg/m2 has T2DM of 2 years' duration (HbA1c 7.6%), moderate obstructive sleep apnoea, and an ultrasound showing fatty liver with raised ALT. She asks what weight loss she should aim for and what each comorbidity needs.\n\nAdapted from CPG Table 2-3 (treatment targets by diagnosis):\n\nDiagnosis  |  Weight loss target (%)\nMetabolic syndrome  |  10\nT2DM  |  5-15\nHypertension  |  5-15\nSleep apnoea  |  7-11\nMAFLD  |  10-40\n\nWhat is the best single weight-loss target to cover all three of her conditions?",
     option_a: "At least 5%",
     option_b: "7-8%",
     option_c: "10-15%",
@@ -7424,7 +7424,7 @@ const cpgBank = [
     tag: "CPG Obesity 2023"
   },
   {
-    question_text: "A 43-year-old man with BMI 38 kg/m2 and T2DM asks which drug gives the biggest weight loss. His doctor shows him CPG Table 4-5 (mean weight loss in excess of placebo): | Drug | Weight loss vs placebo |\n|---|---|\n| Orlistat | 2.63 kg |\n| Naltrexone/bupropion | 4.95 kg |\n| Liraglutide 3 mg | 5.24 kg |\n| Phentermine/topiramate | 8.8 kg |\n| Semaglutide 2.4 mg | 12.7 kg | Which statement is the most accurate?",
+    question_text: "A 43-year-old man with BMI 38 kg/m2 and T2DM asks which drug gives the biggest weight loss. His doctor shows him CPG Table 4-5 (mean weight loss in excess of placebo):\n\nDrug  |  Weight loss vs placebo\nOrlistat  |  2.63 kg\nNaltrexone/bupropion  |  4.95 kg\nLiraglutide 3 mg  |  5.24 kg\nPhentermine/topiramate  |  8.8 kg\nSemaglutide 2.4 mg  |  12.7 kg\n\nWhich statement is the most accurate?",
     option_a: "Semaglutide 2.4 mg and phentermine/topiramate gave the largest effect, but there are no head-to-head trials between agents",
     option_b: "Orlistat is the most effective, as it acts locally",
     option_c: "Liraglutide 3 mg is superior to semaglutide on head-to-head testing",
@@ -7494,7 +7494,7 @@ const cpgBank = [
     tag: "CPG Obesity 2023"
   },
   {
-    question_text: "Adapted from CPG Table 4-6 (Malaysian indications for bariatric surgery): | Situation | Recommendation |\n|---|---|\n| Morbid obesity, no comorbidities | BMI ≥37.5 kg/m2 |\n| Morbid obesity with metabolic syndrome | BMI ≥32.5 kg/m2 after inadequate weight loss on medical therapy |\n| Low BMI with or without comorbidities | BMI <32.5: only under a clinical study protocol |\n| Age | 18-65 years | A 45-year-old man has BMI 34 kg/m2, metabolic syndrome and T2DM. He has failed 12 months of lifestyle change and medical therapy. What is the most appropriate position?",
+    question_text: "Adapted from CPG Table 4-6 (Malaysian indications for bariatric surgery):\n\nSituation  |  Recommendation\nMorbid obesity, no comorbidities  |  BMI ≥37.5 kg/m2\nMorbid obesity with metabolic syndrome  |  BMI ≥32.5 kg/m2 after inadequate weight loss on medical therapy\nLow BMI with or without comorbidities  |  BMI <32.5: only under a clinical study protocol\nAge  |  18-65 years\n\nA 45-year-old man has BMI 34 kg/m2, metabolic syndrome and T2DM. He has failed 12 months of lifestyle change and medical therapy.\n\nWhat is the most appropriate position?",
     option_a: "Not eligible, as BMI must be 37.5 or above in all cases",
     option_b: "Eligible only under a research protocol",
     option_c: "Eligible only if he is under 18",
@@ -7514,7 +7514,7 @@ const cpgBank = [
     tag: "CPG Obesity 2023"
   },
   {
-    question_text: "A 39-year-old woman is choosing between sleeve gastrectomy, Roux-en-Y gastric bypass and adjustable gastric banding. Adapted from CPG Section 4.3.1 (percentage weight loss at 1 year and 5 years): | Procedure | 1-year loss | 5-year loss |\n|---|---|---|\n| RYGB | 31.2% | 25.5% |\n| Sleeve gastrectomy | 25.2% | 18.8% |\n| Gastric banding | 13.7% | 11.7% | Which statement best reflects the table?",
+    question_text: "A 39-year-old woman is choosing between sleeve gastrectomy, Roux-en-Y gastric bypass and adjustable gastric banding.\n\nAdapted from CPG Section 4.3.1 (percentage weight loss at 1 year and 5 years):\n\nProcedure  |  1-year loss  |  5-year loss\nRYGB  |  31.2%  |  25.5%\nSleeve gastrectomy  |  25.2%  |  18.8%\nGastric banding  |  13.7%  |  11.7%\n\nWhich statement best reflects the table?",
     option_a: "Banding gives the greatest weight loss at both time points",
     option_b: "RYGB gives the greatest weight loss at 1 and 5 years, and banding the least",
     option_c: "Sleeve gastrectomy outperforms RYGB at 5 years",
@@ -7574,7 +7574,7 @@ const cpgBank = [
     tag: "CPG Obesity 2023"
   },
   {
-    question_text: "A 9-year-old boy has BMI 22.6 kg/m2. On the WHO 2007 growth reference his BMI is 2.3 standard deviations above the median. Adapted from CPG Table 5-1: | Age | Overweight | Obese |\n|---|---|---|\n| 5-19 years | BMI >1 SD above WHO median | BMI >2 SD above WHO median |\n| Under 5 years | BMI >2 SD above WHO median | BMI >3 SD above WHO median | How is he classified?",
+    question_text: "A 9-year-old boy has BMI 22.6 kg/m2. On the WHO 2007 growth reference his BMI is 2.3 standard deviations above the median.\n\nAdapted from CPG Table 5-1:\n\nAge  |  Overweight  |  Obese\n5-19 years  |  BMI >1 SD above WHO median  |  BMI >2 SD above WHO median\nUnder 5 years  |  BMI >2 SD above WHO median  |  BMI >3 SD above WHO median\n\nHow is he classified?",
     option_a: "Normal weight",
     option_b: "Overweight",
     option_c: "Obese",
