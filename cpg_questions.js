@@ -4662,5 +4662,505 @@ const cpgBank = [
     correct_option: "D",
     explanation: "Rationale: Discharge criteria include inhaled bronchodilator needed no more often than every 4 hours, ability to walk across the room, eating and sleeping without frequent waking by dyspnoea, clinical and ABG/SpO2 stability for 12-24 hours, understanding of treatment, and organised follow-up. Review should be within 8 weeks, covering spirometry, inhaler technique, smoking, LTOT, rehabilitation and vaccination. A and B set impossible targets. C omits planned follow-up. Teaching point: Discharge when bronchodilator needs are ≤4-hourly and stable 12-24 hours; review within 8 weeks.\nReference: Malaysian CPG Management of COPD 2009 (2nd Ed.), Sections 8.13 and 8.14.",
     tag: "CPG COPD 2009"
+  },
+  {
+    question_text: "A 54-year-old man with long-standing poorly controlled hypertension develops sudden right hemiparesis, facial weakness, dysarthria and a right homonymous hemianopia. CT shows a deep haematoma. Which site is the most common location of spontaneous ICH according to the CPG?",
+    option_a: "Basal ganglia",
+    option_b: "Thalamus",
+    option_c: "Lobar/cortical",
+    option_d: "Cerebellum",
+    correct_option: "A",
+    explanation: "Rationale: The common locations are basal ganglia (40-60%), thalamus (~30%), lobar/cortical (~20%), and brainstem or cerebellum (<10%). His picture (hemiparesis, facial weakness, dysarthria, hemianopia, gaze palsy) is typical of a putaminal (basal ganglia) haematoma. Teaching point: Basal ganglia is the commonest ICH site, then thalamus, then lobar.\nReference: Malaysian CPG Management of Spontaneous Intracerebral Haemorrhage 2025 (1st Ed.), Diagnosis of ICH.",
+    tag: "CPG ICH 2025"
+  },
+  {
+    question_text: "A 66-year-old woman presents with sudden vertigo, vomiting and inability to walk. She has gait and limb ataxia but no hemiparesis. She is drowsy but rousable. Which haematoma location best explains her presentation?",
+    option_a: "Putamen",
+    option_b: "Thalamus",
+    option_c: "Cerebellum",
+    option_d: "Frontal lobe",
+    correct_option: "C",
+    explanation: "Rationale: Cerebellar haematoma manifests as ataxia, clumsiness and vertigo. Putaminal haematoma causes hemiparesis, dysarthria and hemianopia. Thalamic haematoma causes hemisensory loss, and extension to the midbrain causes gaze palsy and reduced consciousness. Cortical bleeds cause cortical signs. Drowsiness here is a warning sign of brainstem compression or hydrocephalus. Teaching point: Vertigo, vomiting and ataxia without hemiparesis suggests cerebellar ICH.\nReference: Malaysian CPG Management of Spontaneous Intracerebral Haemorrhage 2025 (1st Ed.), Diagnosis of ICH.",
+    tag: "CPG ICH 2025"
+  },
+  {
+    question_text: "A medical student asks why only some patients with ICH have headache. Which explanation is consistent with the CPG?",
+    option_a: "Brain parenchyma has abundant pain receptors",
+    option_b: "Headache reflects stretching of meningeal pain fibres or blood in the CSF and ventricles, as brain tissue lacks pain receptors",
+    option_c: "Headache only occurs with subdural haematoma",
+    option_d: "Headache is universal in ICH",
+    correct_option: "B",
+    explanation: "Rationale: Bleeding into the parenchyma does not itself cause headache because brain tissue is devoid of pain receptors. Headache occurs in about half of patients due to stretching of meningeal pain fibres or irritation by blood in the CSF and ventricles. Vomiting may signify raised ICP. A is wrong. C and D overstate it. Teaching point: About half of ICH patients have headache, from meningeal stretch or intraventricular blood.\nReference: Malaysian CPG Management of Spontaneous Intracerebral Haemorrhage 2025 (1st Ed.), Diagnosis of ICH.",
+    tag: "CPG ICH 2025"
+  },
+  {
+    question_text: "A 71-year-old woman has a right parietal lobar haemorrhage. Which statement about seizures in spontaneous ICH is most accurate?",
+    option_a: "Seizures are more common in lobar/cortical haemorrhage and occur in about 4-14% of acute ICH",
+    option_b: "Seizures are more common in brainstem haemorrhage",
+    option_c: "Seizures never occur after the first day",
+    option_d: "All patients should receive prophylactic levetiracetam",
+    correct_option: "A",
+    explanation: "Rationale: Seizures are more common in lobar/cortical haemorrhage and occur in 4-14% of patients with acute ICH; most occur within the first 72 hours and are often subclinical. B is wrong. C contradicts the timing data. D is wrong because prophylactic antiseizure medication should not be given. Teaching point: Lobar bleeds seize more, but do not give prophylactic antiseizure drugs.\nReference: Malaysian CPG Management of Spontaneous Intracerebral Haemorrhage 2025 (1st Ed.), Diagnosis of ICH; Seizure Prophylaxis; Recommendation 13.",
+    tag: "CPG ICH 2025"
+  },
+  {
+    question_text: "A district hospital without a CT scanner wants to use the Siriraj stroke score to decide whether a patient has haemorrhagic stroke. Which statement best reflects the CPG?",
+    option_a: "The Siriraj score reliably distinguishes ICH from ischaemic stroke",
+    option_b: "Guy's hospital score is preferred over imaging",
+    option_c: "Clinical scores are unreliable; neuroimaging should be used in all cases",
+    option_d: "Clinical scores are reliable for cerebellar haemorrhage",
+    correct_option: "C",
+    explanation: "Rationale: Clinical scores such as the Siriraj and Guy's hospital scores are unreliable in diagnosing ICH, and neuroimaging should be used in all cases. Patients should be transported to the nearest stroke-ready hospital with CT. A, B and D contradict this. Teaching point: No clinical score replaces CT or MRI for diagnosing ICH.\nReference: Malaysian CPG Management of Spontaneous Intracerebral Haemorrhage 2025 (1st Ed.), Diagnosis of ICH; Recommendations 1 and 3.",
+    tag: "CPG ICH 2025"
+  },
+  {
+    question_text: "A 59-year-old man arrives 40 minutes after sudden left hemiparesis. The hospital has both CT and MRI. Which statement about initial imaging is most consistent with the CPG?",
+    option_a: "MRI is mandatory before any treatment",
+    option_b: "Lumbar puncture should precede imaging",
+    option_c: "Imaging can wait until the next day if he is stable",
+    option_d: "CT or MRI may confirm ICH; CT is the standard of care locally, and MRI should only be used if it can match CT speed and triage efficiency",
+    correct_option: "D",
+    explanation: "Rationale: Recommendation 1 states that CT or MRI, depending on availability, should be used to confirm ICH. CT is the standard of care in Malaysia because of availability and practicality. MRI is highly accurate but should only be used in the acute workflow if centres can achieve speed and triage efficiency similar to CT. A, B and C would delay diagnosis. Teaching point: CT is the practical first-line test; MRI only if it is just as fast.\nReference: Malaysian CPG Management of Spontaneous Intracerebral Haemorrhage 2025 (1st Ed.), Neuroimaging; Recommendation 1.",
+    tag: "CPG ICH 2025"
+  },
+  {
+    question_text: "A 38-year-old normotensive woman has a left temporal lobar ICH. There are no white matter changes on CT. What is the most appropriate next investigation?",
+    option_a: "No further imaging; manage as hypertensive ICH",
+    option_b: "CT angiography (or MRA/MRI) to look for a macrovascular cause",
+    option_c: "Repeat non-contrast CT in 6 months only",
+    option_d: "Carotid Doppler",
+    correct_option: "B",
+    explanation: "Rationale: Vascular imaging (CTA/MRA) and/or MRI is recommended for ICH that is lobar or posterior fossa, in patients aged <45, without cerebral small vessel disease, non-hypertensive, or with subarachnoid haemorrhage. She has several of these features, raising the likelihood of AVM, aneurysm, dural AVF, cavernoma or venous thrombosis. A ignores her risk profile. C and D do not address intracranial vascular causes. Teaching point: Young, normotensive, lobar ICH without small vessel disease: look for a macrovascular cause.\nReference: Malaysian CPG Management of Spontaneous Intracerebral Haemorrhage 2025 (1st Ed.), Non-Invasive Vascular Imaging; Recommendation 2; Key Recommendations.",
+    tag: "CPG ICH 2025"
+  },
+  {
+    question_text: "A 47-year-old man has a frontal ICH with extensive subarachnoid blood on CT. When should CT angiography be performed?",
+    option_a: "Emergently, because subarachnoid haemorrhage is present",
+    option_b: "At outpatient follow-up in 3 months",
+    option_c: "Only if he deteriorates",
+    option_d: "Never, because DSA must be done first",
+    correct_option: "A",
+    explanation: "Rationale: Recommendation 2 advises CTA preferably within the same admission, and emergently when there is concomitant subarachnoid haemorrhage, which suggests a ruptured aneurysm needing urgent treatment. B and C delay diagnosis of a treatable cause. D is wrong because CTA is a suitable first-line test, with DSA considered if CTA is negative. Teaching point: ICH with SAH: emergency CTA for an aneurysm.\nReference: Malaysian CPG Management of Spontaneous Intracerebral Haemorrhage 2025 (1st Ed.), Recommendation 2; Table 1.",
+    tag: "CPG ICH 2025"
+  },
+  {
+    question_text: "A 34-year-old woman with a lobar ICH has a normal CT angiogram. Suspicion of an underlying vascular lesion remains. What is the most appropriate next step?",
+    option_a: "Repeat CTA weekly until positive",
+    option_b: "Discharge with no further imaging",
+    option_c: "Consider referral to an interventional neuroradiologist for digital subtraction angiography",
+    option_d: "Start anticoagulation empirically",
+    correct_option: "C",
+    explanation: "Rationale: If CTA is negative, referral for DSA may be considered. DSA remains the gold standard for macrovascular causes and allows endovascular treatment in the same session, though it carries a low risk of neurological complications (1.3-1.8%) and permanent deficit (0.2-0.3%). CTA alone has modest sensitivity (74%). A and B are inadequate. D is dangerous. Teaching point: Negative CTA with persisting suspicion: consider DSA.\nReference: Malaysian CPG Management of Spontaneous Intracerebral Haemorrhage 2025 (1st Ed.), Non-Invasive Vascular Imaging; Recommendation 2.",
+    tag: "CPG ICH 2025"
+  },
+  {
+    question_text: "A 41-year-old man with ICH and suspected vascular malformation has eGFR 22 ml/min/1.73 m2 and a previous anaphylactic reaction to iodinated contrast. Which vascular imaging is the most appropriate alternative to CTA?",
+    option_a: "Contrast-enhanced CT with premedication",
+    option_b: "Magnetic resonance angiography, such as time-of-flight",
+    option_c: "Plain skull radiograph",
+    option_d: "No vascular imaging is possible",
+    correct_option: "B",
+    explanation: "Rationale: MRA is an alternative to CTA in patients with renal impairment or contrast allergy. Time-of-flight or arterial spin labelling protocols visualise vessels without contrast. MRI may also help identify non-macrovascular causes such as amyloid angiopathy or malignancy. A repeats the contrast risk. C is useless. D is wrong. Teaching point: Renal impairment or contrast allergy: use non-contrast MRA.\nReference: Malaysian CPG Management of Spontaneous Intracerebral Haemorrhage 2025 (1st Ed.), Non-Invasive Vascular Imaging; Recommendation 2.",
+    tag: "CPG ICH 2025"
+  },
+  {
+    question_text: "A 63-year-old man's non-contrast CT shows a hypodense region adjacent to a hyperdense region within the haematoma, with a sharp boundary and a density difference of 22 HU. Which sign is this, and what does it predict?",
+    option_a: "Island sign, predicting a vascular malformation",
+    option_b: "Swirl sign, predicting cerebral venous thrombosis",
+    option_c: "Fluid level, predicting abscess",
+    option_d: "Blend sign, predicting haematoma expansion and poor outcome",
+    correct_option: "D",
+    explanation: "Rationale: The blend sign is a hypodense region adjacent to a hyperdense region with a clear boundary and a density difference exceeding 18 HU. With other NCCT markers (heterogeneous density, hypodensities, black hole sign, fluid level, swirl sign, irregular shape, island sign) it predicts haematoma expansion and poor outcome. The black hole sign requires a difference of >28 HU. The island sign is three or more small scattered haematomas. Teaching point: NCCT expansion markers include blend (>18 HU) and black hole (>28 HU) signs.\nReference: Malaysian CPG Management of Spontaneous Intracerebral Haemorrhage 2025 (1st Ed.), Radiological Signs that Predict Haematoma Expansion, Table 2.",
+    tag: "CPG ICH 2025"
+  },
+  {
+    question_text: "A 58-year-old woman's CT angiogram shows a 2 mm spot of contrast enhancement within the haematoma, separate from adjacent vessels. What is the significance of this finding?",
+    option_a: "It indicates an underlying arteriovenous malformation that must be resected",
+    option_b: "It predicts haematoma expansion and is associated with increased death or poor outcome",
+    option_c: "It is an artefact without clinical importance",
+    option_d: "It indicates the haematoma has stopped expanding",
+    correct_option: "B",
+    explanation: "Rationale: The CTA spot sign is unifocal or multifocal contrast enhancement within an ICH, separate from vessels, >1.5 mm in diameter and at least double the density of the background haematoma. It predicts haematoma expansion and is associated with increased risk of death or poor outcome. A misreads it as a vascular lesion. C and D are wrong. Teaching point: The spot sign means active bleeding and a high risk of expansion.\nReference: Malaysian CPG Management of Spontaneous Intracerebral Haemorrhage 2025 (1st Ed.), Radiological Signs that Predict Haematoma Expansion, Table 2.",
+    tag: "CPG ICH 2025"
+  },
+  {
+    question_text: "A paramedic team attends a 65-year-old man with sudden right-sided weakness 30 minutes ago. The nearest stroke-ready hospital with CT is 15 minutes away; a neurosurgical centre is 60 minutes away. Where should he be taken?",
+    option_a: "The neurosurgical centre directly, bypassing the nearer hospital",
+    option_b: "A clinic without imaging for initial assessment",
+    option_c: "Home, with outpatient follow-up",
+    option_d: "The nearest stroke-ready hospital with CT, with transfer later if neurosurgery is indicated",
+    correct_option: "D",
+    explanation: "Rationale: Recommendation 3 states that patients with suspected intracranial haemorrhage should go to the nearest stroke-ready hospital with CT, and be transferred to a neurosurgical centre if there is an indication for surgery. In the RACECAT ICH subgroup, direct transfer to a distant centre delayed arrival, worsened 90-day function and increased mortality, and only a minority needed surgery. A is the trap. B and C delay diagnosis. Teaching point: Nearest CT-capable stroke hospital first; transfer for surgery only if indicated.\nReference: Malaysian CPG Management of Spontaneous Intracerebral Haemorrhage 2025 (1st Ed.), Pre-hospital Bypass; Recommendation 3.",
+    tag: "CPG ICH 2025"
+  },
+  {
+    question_text: "A 52-year-old woman with a large ICH has a GCS of 7 and is vomiting. The team decides to secure her airway. Which approach does the CPG recommend?",
+    option_a: "Awake fibreoptic intubation without sedation",
+    option_b: "Rapid sequence intubation",
+    option_c: "Laryngeal mask airway as definitive airway",
+    option_d: "Delay intubation until after CT",
+    correct_option: "B",
+    explanation: "Rationale: Securing the airway is the initial vital step in ICH with impaired consciousness, to maintain oxygenation and ventilation and prevent aspiration. Because airway manipulation can raise ICP and lower cerebral perfusion pressure, rapid sequence intubation is recommended (Recommendation 4). A and C are inappropriate for this patient. D risks aspiration and hypoxia. Teaching point: Intubate ICH patients with rapid sequence intubation.\nReference: Malaysian CPG Management of Spontaneous Intracerebral Haemorrhage 2025 (1st Ed.), Management in Emergency Department, Table 3; Recommendation 4.",
+    tag: "CPG ICH 2025"
+  },
+  {
+    question_text: "A 49-year-old man with ICH needs rapid sequence intubation. His potassium is 6.1 mmol/L because of rhabdomyolysis from lying on the floor for hours. Which paralytic agent is most appropriate?",
+    option_a: "Succinylcholine 1.5 mg/kg",
+    option_b: "Midazolam alone",
+    option_c: "Rocuronium 1.0-1.2 mg/kg, which can be reversed with sugammadex",
+    option_d: "No paralytic agent",
+    correct_option: "C",
+    explanation: "Rationale: Table 3 lists succinylcholine (1.0-1.5 mg/kg), which may cause hyperkalaemia, and rocuronium (1.0-1.2 mg/kg, by ideal body weight), reversible with sugammadex. With existing hyperkalaemia, succinylcholine is the trap. Midazolam is an induction agent, not a paralytic, and is used only if no superior agent is available. D compromises intubating conditions. Teaching point: Avoid succinylcholine with hyperkalaemia; rocuronium is reversible with sugammadex.\nReference: Malaysian CPG Management of Spontaneous Intracerebral Haemorrhage 2025 (1st Ed.), Table 3.",
+    tag: "CPG ICH 2025"
+  },
+  {
+    question_text: "A 61-year-old man presents 2 hours after onset of a 14 mL left basal ganglia ICH. BP is 188/104 mmHg. GCS is 14. What is the most appropriate BP management?",
+    option_a: "Intensive lowering within one hour to a target SBP of 130-140 mmHg",
+    option_b: "Lower SBP to below 110 mmHg as quickly as possible",
+    option_c: "Avoid lowering BP for the first 7 days",
+    option_d: "Target SBP below 180 mmHg over 24 hours",
+    correct_option: "A",
+    explanation: "Rationale: Recommendation 5 advises intensive BP treatment within one hour of presentation to a target SBP of 130-140 mmHg. Intensive reduction was associated with less haematoma growth, especially in patients presenting within 6 hours with smaller haematomas. In INTERACT3 the target was <140 mmHg but not below 130 mmHg, which makes B the trap. C and D are too lenient. Teaching point: Acute ICH: SBP 130-140 mmHg within one hour, not below 130.\nReference: Malaysian CPG Management of Spontaneous Intracerebral Haemorrhage 2025 (1st Ed.), Blood Pressure Reduction; Recommendation 5; Care Bundle.",
+    tag: "CPG ICH 2025"
+  },
+  {
+    question_text: "A 58-year-old woman with acute ICH has an initial SBP of 236 mmHg. Which approach to BP lowering is most appropriate?",
+    option_a: "Reduce SBP to 110-139 mmHg within 30 minutes",
+    option_b: "Aim for a more gradual reduction, as rapid intensive lowering from SBP ≥220 mmHg was associated with neurological deterioration and kidney adverse events",
+    option_c: "Do not treat BP above 220 mmHg",
+    option_d: "Give a single bolus to normalise BP immediately",
+    correct_option: "B",
+    explanation: "Rationale: In a post-hoc analysis of ATACH-II in patients with SBP ≥220 mmHg, intensive reduction to 110-139 mmHg increased neurological deterioration within 24 hours (RR 2.28) and kidney adverse events within 7 days. The CPG therefore advises a more gradual reduction when initial SBP is ≥220 mmHg. A and D are the risky intensive approach. C leaves severe hypertension untreated. Teaching point: SBP ≥220 mmHg: lower BP more gradually.\nReference: Malaysian CPG Management of Spontaneous Intracerebral Haemorrhage 2025 (1st Ed.), Blood Pressure Reduction; Recommendation 5.",
+    tag: "CPG ICH 2025"
+  },
+  {
+    question_text: "A 64-year-old woman with type 2 diabetes is admitted with acute ICH. Her capillary glucose is 16 mmol/L. What glucose target does the ICH care bundle recommend for her?",
+    option_a: "4.0-6.0 mmol/L",
+    option_b: "6.1-7.8 mmol/L",
+    option_c: "10.0-14.0 mmol/L",
+    option_d: "7.8-10.0 mmol/L",
+    correct_option: "D",
+    explanation: "Rationale: The care bundle targets glucose of 6.1-7.8 mmol/L in patients without diabetes and 7.8-10.0 mmol/L in patients with diabetes. Hyperglycaemia is associated with haematoma expansion, oedema, mortality and poor function. B is the non-diabetic target. A risks hypoglycaemia. C is too high. Teaching point: ICH glucose: 6.1-7.8 (no diabetes), 7.8-10.0 mmol/L (diabetes).\nReference: Malaysian CPG Management of Spontaneous Intracerebral Haemorrhage 2025 (1st Ed.), Hyperglycaemia; Care Bundle; Recommendation 9.",
+    tag: "CPG ICH 2025"
+  },
+  {
+    question_text: "A 70-year-old man with ICH develops a temperature of 38.4°C on day 1. What is the CPG target for body temperature as part of the care bundle?",
+    option_a: "≤37.5°C, achieved within one hour of treatment initiation",
+    option_b: "≤38.5°C, treated only if infection is proven",
+    option_c: "Therapeutic hypothermia to 33°C",
+    option_d: "No temperature target is specified",
+    correct_option: "A",
+    explanation: "Rationale: Fever is an independent predictor of haematoma expansion, oedema, poor function and mortality. The care bundle includes treating pyrexia to achieve a body temperature of ≤37.5°C within one hour of initiation. B is too lenient, C is not recommended, and D is wrong. Teaching point: Keep temperature ≤37.5°C in acute ICH.\nReference: Malaysian CPG Management of Spontaneous Intracerebral Haemorrhage 2025 (1st Ed.), Fever; Care Bundle; Recommendation 9.",
+    tag: "CPG ICH 2025"
+  },
+  {
+    question_text: "A hospital audits its ICH pathway against INTERACT3. Which set of interventions forms the CPG care bundle, to be achieved within one hour of treatment initiation?",
+    option_a: "Mannitol, ICP monitoring, early tracheostomy and seizure prophylaxis",
+    option_b: "Platelet transfusion, tranexamic acid, hypothermia and steroids",
+    option_c: "Intensive BP reduction, fever treatment, glycaemic control and warfarin reversal to INR <1.5",
+    option_d: "Craniotomy, EVD, hyperosmolar therapy and decompressive craniectomy",
+    correct_option: "C",
+    explanation: "Rationale: The care bundle consists of intensive BP lowering (SBP 130-140 mmHg), treatment of pyrexia to ≤37.5°C, glycaemic control, and reversal of warfarin to INR <1.5 with PCC or FFP, all within one hour. In INTERACT3 it reduced poor functional outcome (OR 0.86) and serious adverse events. A and B include measures the CPG advises against. D lists surgical procedures for selected patients. Teaching point: Bundle = BP, temperature, glucose and anticoagulation reversal, within an hour.\nReference: Malaysian CPG Management of Spontaneous Intracerebral Haemorrhage 2025 (1st Ed.), Care Bundle; Recommendation 9.",
+    tag: "CPG ICH 2025"
+  },
+  {
+    question_text: "A 72-year-old woman on warfarin for AF presents with a 22 mL thalamic ICH. Her INR is 3.4. What is the most appropriate reversal strategy?",
+    option_a: "4-factor prothrombin complex concentrate as soon as possible, together with IV vitamin K, aiming for INR <1.5",
+    option_b: "IV vitamin K alone",
+    option_c: "Platelet transfusion",
+    option_d: "Stop warfarin and recheck INR in 24 hours",
+    correct_option: "A",
+    explanation: "Rationale: Recommendation 6 advises 4-factor PCC or FFP as soon as possible, with PCC preferred, targeting INR <1.5. IV vitamin K should be given with PCC or FFP to sustain reversal. In INCH, PCC normalised INR faster than FFP (67% vs 9% within 3 hours) with less early haematoma expansion. B is too slow (vitamin K takes up to 12 hours to peak). C is for nothing here. D allows expansion. Teaching point: Warfarin ICH: PCC plus IV vitamin K, target INR <1.5.\nReference: Malaysian CPG Management of Spontaneous Intracerebral Haemorrhage 2025 (1st Ed.), Reversal of VKA; Recommendation 6; Appendix 4.",
+    tag: "CPG ICH 2025"
+  },
+  {
+    question_text: "A registrar gives 4-factor PCC to a patient with warfarin-related ICH and asks why IV vitamin K is also needed. What is the best explanation?",
+    option_a: "Vitamin K is the main reversal agent and acts within minutes",
+    option_b: "Vitamin K prevents thrombosis caused by PCC",
+    option_c: "Vitamin K is not required if PCC is given",
+    option_d: "PCC acts rapidly but transiently; vitamin K takes up to 12 hours to peak and sustains the reversal, preventing a later INR rise",
+    correct_option: "D",
+    explanation: "Rationale: The effect of IV vitamin K takes up to 12 hours to peak and persists to 24 hours. It should be given directly after coagulation factor replacement to prevent a subsequent rise in INR and further haematoma expansion. A reverses the pharmacology. B is wrong. C contradicts Recommendation 6. Teaching point: PCC works fast; vitamin K keeps the INR down.\nReference: Malaysian CPG Management of Spontaneous Intracerebral Haemorrhage 2025 (1st Ed.), Reversal of VKA; Recommendation 6.",
+    tag: "CPG ICH 2025"
+  },
+  {
+    question_text: "A 76-year-old man taking dabigatran 110 mg twice daily presents 2 hours after onset of a lobar ICH. Which reversal agent may be considered?",
+    option_a: "Andexanet alfa",
+    option_b: "Intravenous idarucizumab",
+    option_c: "Protamine sulphate",
+    option_d: "Fresh frozen plasma alone",
+    correct_option: "B",
+    explanation: "Rationale: Idarucizumab, a monoclonal antibody fragment, reverses dabigatran (a direct thrombin inhibitor). In RE-VERSE AD, 5 g IV completely reversed elevated dilute thrombin and ecarin clotting times. Recommendation 7 states that dabigatran-related ICH may be considered for IV idarucizumab. A is for factor Xa inhibitors. C reverses heparin. D is not the specific agent. Teaching point: Dabigatran: idarucizumab. Factor Xa inhibitors: andexanet alfa (or PCC).\nReference: Malaysian CPG Management of Spontaneous Intracerebral Haemorrhage 2025 (1st Ed.), Reversal of DOAC; Recommendation 7.",
+    tag: "CPG ICH 2025"
+  },
+  {
+    question_text: "A 69-year-old woman on apixaban presents with an expanding ICH. Andexanet alfa is not available at her hospital. What is the most appropriate alternative?",
+    option_a: "4-factor prothrombin complex concentrate",
+    option_b: "Idarucizumab",
+    option_c: "Tranexamic acid 1 g IV as the main therapy",
+    option_d: "Platelet transfusion",
+    correct_option: "A",
+    explanation: "Rationale: Recommendation 7 states that factor Xa inhibitor-related ICH may be considered for IV andexanet alfa if available, with 4-factor PCC as an alternative. Andexanet was superior to usual care for haemostatic efficacy in ANNEXA-I (with more thrombotic events). B reverses dabigatran only. C did not reduce haematoma expansion or death in TICH-NOAC. D is harmful in antiplatelet-associated ICH and irrelevant here. Teaching point: No andexanet for a factor Xa inhibitor ICH: use 4-factor PCC.\nReference: Malaysian CPG Management of Spontaneous Intracerebral Haemorrhage 2025 (1st Ed.), Reversal of DOAC; Recommendation 7.",
+    tag: "CPG ICH 2025"
+  },
+  {
+    question_text: "A 68-year-old man on aspirin and clopidogrel after coronary stenting 2 years ago has a 12 mL basal ganglia ICH. No neurosurgery is planned. Which treatment should be avoided?",
+    option_a: "BP lowering to SBP 130-140 mmHg",
+    option_b: "Admission to a stroke unit",
+    option_c: "Platelet transfusion",
+    option_d: "Swallowing assessment",
+    correct_option: "C",
+    explanation: "Rationale: Recommendation 8 states that platelet transfusion should not be used in ICH with concurrent antiplatelet use. In PATCH, platelet transfusion in antiplatelet-associated ICH not planned for surgery increased the odds of adverse events, death and dependency (OR 2.05). A, B and D are recommended care. Teaching point: Antiplatelet-related ICH: no platelet transfusion.\nReference: Malaysian CPG Management of Spontaneous Intracerebral Haemorrhage 2025 (1st Ed.), Antiplatelet-associated ICH; Recommendation 8.",
+    tag: "CPG ICH 2025"
+  },
+  {
+    question_text: "A district hospital admits ICH patients to a general medical ward because the stroke unit is \"for ischaemic strokes\". Which statement best reflects the CPG?",
+    option_a: "Stroke units benefit only ischaemic stroke",
+    option_b: "ICH patients should be in intensive care, not stroke units",
+    option_c: "Stroke unit care prolongs hospital stay without benefit",
+    option_d: "All acute ICH patients should be admitted to an organised stroke unit; the mortality benefit was more pronounced in ICH than in ischaemic stroke",
+    correct_option: "D",
+    explanation: "Rationale: Stroke unit care reduced death or dependency compared with general ward care in ICH, and the mortality reduction was more pronounced in ICH (RR 0.73) than in ischaemic stroke (RR 0.82). A Cochrane network meta-analysis showed fewer poor outcomes (OR 0.37) without a significant increase in length of stay. Recommendation 10 advises admission of all acute ICH patients to an organised stroke unit. A, B and C contradict this. Teaching point: ICH patients belong in a stroke unit, where the mortality benefit is greatest.\nReference: Malaysian CPG Management of Spontaneous Intracerebral Haemorrhage 2025 (1st Ed.), Admission to an Organised Stroke Unit; Recommendation 10.",
+    tag: "CPG ICH 2025"
+  },
+  {
+    question_text: "An 82-year-old man has a 35 mL supratentorial ICH with a GCS of 9. A junior doctor calculates the ICH score and proposes a palliative approach based on it alone. Which statement best reflects the CPG?",
+    option_a: "The ICH score may be used for mortality prognostication but should not be the sole indicator for deciding direction of care",
+    option_b: "The ICH score accurately predicts each individual's outcome",
+    option_c: "The FUNC score is more extensively validated than the ICH score",
+    option_d: "Prognostic scores should never be used",
+    correct_option: "A",
+    explanation: "Rationale: The ICH score (GCS, volume, infratentorial location, age and other components) is the most extensively validated mortality tool, with the highest pooled discrimination (C-statistic 0.84), and haematoma volume can be estimated with ABC/2. Recommendation 11 states it may be used for prognostication but should not be the sole indicator for the direction of care. B overstates it. C is wrong. D is too absolute. Teaching point: Use the ICH score to communicate risk, not to decide care on its own.\nReference: Malaysian CPG Management of Spontaneous Intracerebral Haemorrhage 2025 (1st Ed.), Prognostic Scores; Recommendation 11; Appendices 5 and 6.",
+    tag: "CPG ICH 2025"
+  },
+  {
+    question_text: "A 67-year-old woman with no previous advance directive is admitted with a large lobar ICH and GCS 8. On day 1 her family asks about a DNAR order. What is the most appropriate advice?",
+    option_a: "Place a DNAR order immediately, as early prognosis is accurate",
+    option_b: "Avoid an early DNAR decision in the first 48 hours, as early care limitation is associated with higher mortality",
+    option_c: "Withdraw all treatment if the ICH score is 2",
+    option_d: "DNAR decisions should be made by the triage nurse",
+    correct_option: "B",
+    explanation: "Rationale: Early DNAR within 24 hours was associated with higher hospital mortality (OR 3.28), and early care limitation with doubled 30-day mortality. Early prognostication is often inaccurate. Recommendation 12 advises avoiding early DNAR decisions in the first 48 hours in patients without pre-existing DNAR status. A, C and D contradict this. Teaching point: No new DNAR order in the first 48 hours after ICH.\nReference: Malaysian CPG Management of Spontaneous Intracerebral Haemorrhage 2025 (1st Ed.), Avoidance of early DNAR; Recommendation 12.",
+    tag: "CPG ICH 2025"
+  },
+  {
+    question_text: "A 56-year-old man has a right frontal lobar ICH without any clinical seizures. A colleague suggests levetiracetam \"to be safe\". What is the most appropriate response?",
+    option_a: "Start levetiracetam, as lobar ICH always causes seizures",
+    option_b: "Start phenytoin for 3 months",
+    option_c: "Do not give prophylactic antiseizure medication; consider it only if clinical seizures occur",
+    option_d: "Give sodium valproate loading dose",
+    correct_option: "C",
+    explanation: "Rationale: Recommendation 13 states that prophylactic antiseizure medications should not be given in spontaneous ICH without seizures, and should be considered in patients with early clinical seizures. Although prophylaxis reduced early electrographic seizures, it did not improve haematoma change, functional outcome or quality of life. A, B and D give unwarranted prophylaxis. Teaching point: No prophylactic antiseizure drugs; treat seizures if they occur.\nReference: Malaysian CPG Management of Spontaneous Intracerebral Haemorrhage 2025 (1st Ed.), Seizure Prophylaxis; Recommendation 13.",
+    tag: "CPG ICH 2025"
+  },
+  {
+    question_text: "A 74-year-old woman with a 10 mL thalamic ICH is bed-bound. A repeat CT at 24 hours shows a stable haematoma. Which VTE prophylaxis plan is most consistent with the CPG?",
+    option_a: "Graduated compression stockings alone from day 1",
+    option_b: "Intermittent pneumatic compression from the day of diagnosis, then heparin prophylaxis after 24 hours of admission",
+    option_c: "Therapeutic enoxaparin from admission",
+    option_d: "No prophylaxis for 4 weeks",
+    correct_option: "B",
+    explanation: "Rationale: Recommendation 14 advises intermittent pneumatic compression on the day of diagnosis and heparin prophylaxis after 24 hours of admission in non-ambulatory patients, considering individual risk and haematoma stability. CLOTS 3 showed IPC reduced DVT. Graduated compression/TED stockings alone should not be prescribed, so A is wrong. C uses treatment doses. D leaves her unprotected. Teaching point: IPC from day one, heparin prophylaxis after 24 hours, never stockings alone.\nReference: Malaysian CPG Management of Spontaneous Intracerebral Haemorrhage 2025 (1st Ed.), Thromboembolism Prophylaxis; Recommendation 14.",
+    tag: "CPG ICH 2025"
+  },
+  {
+    question_text: "A 69-year-old man with ICH is awake and alert, respiratory rate 16/min, SpO2 97% on air, with minimal secretions. The nurse wants to start oral feeding. What should happen first?",
+    option_a: "Give a full meal and observe",
+    option_b: "Insert a nasogastric tube routinely without assessment",
+    option_c: "Wait for a videofluoroscopy before any assessment",
+    option_d: "A standardised swallowing assessment, starting with a water swallow screen and proceeding to clinical and instrumental assessment if risk is detected",
+    correct_option: "D",
+    explanation: "Rationale: Dysphagia affects about 64% of patients acutely and increases aspiration pneumonia. Recommendation 15 advises swallowing assessment using standardised protocols such as the MOH SOP: a stepwise approach from screening (water swallow test) to clinical examination and instrumental assessment (FEES, VFSS). He meets the stability criteria (awake, RR 12-20, SpO2 ≥95%, manageable secretions). A risks aspiration. B and C skip the screening step. Teaching point: Screen swallowing with a standardised protocol before feeding.\nReference: Malaysian CPG Management of Spontaneous Intracerebral Haemorrhage 2025 (1st Ed.), Swallowing Assessment, Table 4; Recommendation 15.",
+    tag: "CPG ICH 2025"
+  },
+  {
+    question_text: "A medical team reviews four patients with spontaneous ICH. Which patient meets a CPG criterion for referral to neurosurgery?",
+    option_a: "A 60-year-old man with an 8 mL putaminal ICH, stable GCS 15",
+    option_b: "A 66-year-old woman with a 6 mL cerebellar ICH, GCS 15",
+    option_c: "A 58-year-old man with a 12 mL thalamic ICH and stable GCS 14",
+    option_d: "A 70-year-old woman with a 15 mL lobar ICH and stable GCS 15",
+    correct_option: "B",
+    explanation: "Rationale: Referral criteria are large and/or expanding supratentorial ICH (>20 mL), any intraventricular extension, posterior fossa ICH irrespective of volume, deteriorating consciousness or raised ICP, and suspected vascular malformation. The cerebellar (posterior fossa) haematoma qualifies regardless of its small volume. A, C and D are small, stable supratentorial bleeds without listed features. Teaching point: Any posterior fossa ICH should be referred to neurosurgery, whatever its size.\nReference: Malaysian CPG Management of Spontaneous Intracerebral Haemorrhage 2025 (1st Ed.), Neurosurgery; Recommendation 20; Algorithm 2.",
+    tag: "CPG ICH 2025"
+  },
+  {
+    question_text: "A 63-year-old man has an 18 mL cerebellar haemorrhage with early fourth ventricle effacement. His GCS is falling from 14 to 12. What is the most appropriate management?",
+    option_a: "Haematoma evacuation, with or without an external ventricular drain",
+    option_b: "Conservative management, as surgery worsens outcome in all cerebellar bleeds",
+    option_c: "Intraventricular alteplase alone",
+    option_d: "Decompressive craniectomy of the supratentorial skull",
+    correct_option: "A",
+    explanation: "Rationale: Recommendation 18 advises considering haematoma evacuation with or without EVD in cerebellar ICH with volume ≥15 mL, as a life-saving treatment. In observational data, surgery improved survival in haematomas ≥15 mL but worsened good functional outcome in those ≤12 mL, which makes B the trap only for small bleeds. C and D are for other scenarios. Teaching point: Cerebellar ICH ≥15 mL: consider evacuation ± EVD.\nReference: Malaysian CPG Management of Spontaneous Intracerebral Haemorrhage 2025 (1st Ed.), Neurosurgery; Recommendation 18.",
+    tag: "CPG ICH 2025"
+  },
+  {
+    question_text: "A 59-year-old woman with a thalamic ICH has extension into the ventricles and acute hydrocephalus, with a falling GCS. What is the most appropriate neurosurgical management?",
+    option_a: "Hyperosmolar therapy alone",
+    option_b: "Lumbar drain",
+    option_c: "External ventricular drain, with intraventricular fibrinolysis (alteplase) or neuroendoscopy considered",
+    option_d: "Observation for 72 hours",
+    correct_option: "C",
+    explanation: "Rationale: Recommendation 19 states that in ICH with intraventricular haemorrhage and hydrocephalus, an EVD should be offered, and intraventricular alteplase or neuroendoscopy may be considered. In CLEAR III, intraventricular alteplase lowered mortality and ventriculitis without improving mRS 0-3. A is not recommended routinely. B is unsafe with obstructive hydrocephalus. D delays treatment. Teaching point: IVH with hydrocephalus: EVD, ± intraventricular alteplase or neuroendoscopy.\nReference: Malaysian CPG Management of Spontaneous Intracerebral Haemorrhage 2025 (1st Ed.), Neurosurgery; Recommendation 19.",
+    tag: "CPG ICH 2025"
+  },
+  {
+    question_text: "A 62-year-old man has a 45 mL right frontal lobar ICH, 10 hours after onset. GCS is 11. Which surgical option may be considered according to the CPG?",
+    option_a: "Minimally invasive haematoma evacuation, as he has a lobar ICH of 30-80 mL within 24 hours",
+    option_b: "Open craniotomy is mandatory for all lobar bleeds",
+    option_c: "Surgery is never indicated for supratentorial ICH",
+    option_d: "EVD alone",
+    correct_option: "A",
+    explanation: "Rationale: Recommendation 17 states minimally invasive surgery may be considered for lobar ICH of 30-80 mL within 24 hours of onset. In ENRICH, MIS improved 180-day outcome, with benefit in lobar but not deep basal ganglia haemorrhage. B overstates open surgery. C is wrong. D addresses hydrocephalus, not the clot. Teaching point: Lobar ICH 30-80 mL within 24 hours: consider minimally invasive surgery.\nReference: Malaysian CPG Management of Spontaneous Intracerebral Haemorrhage 2025 (1st Ed.), Neurosurgery; Recommendation 17; Key Recommendations.",
+    tag: "CPG ICH 2025"
+  },
+  {
+    question_text: "A 55-year-old woman has a 60 mL left basal ganglia ICH with GCS 10. Which surgical option may be considered for a severe, large deep supratentorial ICH?",
+    option_a: "Minimally invasive surgery, which showed clear benefit in deep bleeds",
+    option_b: "Cerebellar decompression",
+    option_c: "Routine ICP monitoring",
+    option_d: "Decompressive craniectomy",
+    correct_option: "D",
+    explanation: "Rationale: In patients with severe and large supratentorial deep ICH, decompressive craniectomy may be considered. In SWITCH (age <75, deep ICH 30-100 mL, GCS 8-13), decompressive craniectomy without evacuation lowered the rate of mRS 5-6 at 180 days (44% vs 58%). Open craniotomy for deep ICH may be considered only in deteriorating patients as a life-saving measure. A is wrong because ENRICH showed benefit in lobar, not deep, bleeds. C is not routine. Teaching point: Large deep supratentorial ICH: decompressive craniectomy may be considered.\nReference: Malaysian CPG Management of Spontaneous Intracerebral Haemorrhage 2025 (1st Ed.), Neurosurgery; Recommendation 16; Key Recommendations.",
+    tag: "CPG ICH 2025"
+  },
+  {
+    question_text: "A 57-year-old man with a 40 mL putaminal ICH is intubated in the ICU with GCS 6. A registrar proposes routine ICP monitoring. Which statement best reflects the CPG?",
+    option_a: "ICP monitoring is mandatory in all ventilated ICH patients",
+    option_b: "ICP monitoring should not be routinely performed, as evidence of benefit is inconsistent",
+    option_c: "ICP monitoring improves functional outcome in all GCS ranges",
+    option_d: "ICP monitoring replaces the need for CT",
+    correct_option: "B",
+    explanation: "Rationale: Studies of ICP monitoring in ICH are observational and inconsistent: one cohort showed benefit only for GCS 9-12, ERICH showed no mortality difference, and a MISTIE III analysis showed worse outcomes with monitors. Recommendation 21 states ICP monitoring may not be routinely performed. A, C and D overstate its role. Teaching point: No routine ICP monitoring in ICH.\nReference: Malaysian CPG Management of Spontaneous Intracerebral Haemorrhage 2025 (1st Ed.), Intensive Care; Recommendation 21.",
+    tag: "CPG ICH 2025"
+  },
+  {
+    question_text: "A 66-year-old woman with ICH has perihaematomal oedema on day 3 without signs of herniation. What does the CPG say about routine mannitol or hypertonic saline?",
+    option_a: "Hyperosmolar therapy should not be routinely administered, as it was associated with worse outcomes",
+    option_b: "It should be given to all patients with oedema on CT",
+    option_c: "It should be given prophylactically from admission",
+    option_d: "Hypertonic saline is mandatory, but mannitol is not",
+    correct_option: "A",
+    explanation: "Rationale: In ERICH, hyperosmolar therapy was associated with higher mRS and, on post-hoc analysis, more brain oedema, herniation and death at discharge. Recommendation 23 states it may not be routinely administered for cerebral oedema. B, C and D advocate routine use. Teaching point: No routine mannitol or hypertonic saline for ICH oedema.\nReference: Malaysian CPG Management of Spontaneous Intracerebral Haemorrhage 2025 (1st Ed.), Pharmacological agents for cerebral oedema; Recommendation 23.",
+    tag: "CPG ICH 2025"
+  },
+  {
+    question_text: "A 61-year-old man ventilated after ICH remains at GCS 8 on day 4. The team considers early tracheostomy. Which statement best reflects the evidence in the CPG?",
+    option_a: "Early tracheostomy (<5 days) halves mortality",
+    option_b: "Early tracheostomy shortens ICU stay significantly",
+    option_c: "Early tracheostomy improves mRS at 6 months",
+    option_d: "Early tracheostomy conferred no mortality, neurological or length-of-stay benefit and should not be routinely performed",
+    correct_option: "D",
+    explanation: "Rationale: A meta-analysis of 13 studies (mostly ICH) found early tracheostomy (<5 days) gave no mortality benefit, no improvement in mRS, and no reduction in ICU or hospital length of stay versus late tracheostomy (>10 days). Recommendation 22 states early tracheostomy may not be routinely performed. A, B and C contradict this. Teaching point: Do not routinely perform early tracheostomy after ICH.\nReference: Malaysian CPG Management of Spontaneous Intracerebral Haemorrhage 2025 (1st Ed.), Ventilation and tracheostomy; Recommendation 22.",
+    tag: "CPG ICH 2025"
+  },
+  {
+    question_text: "A 58-year-old woman is admitted with a 10 mL ICH. The physiotherapist asks when to start mobilising her. What is the most appropriate timing?",
+    option_a: "Very early intensive mobilisation within the first 12 hours",
+    option_b: "Wait until discharge",
+    option_c: "Start rehabilitation within 24-72 hours of admission, avoiding very early intensive rehabilitation within 24 hours",
+    option_d: "Bed rest for 2 weeks",
+    correct_option: "C",
+    explanation: "Rationale: Recommendation 24 advises starting rehabilitation within 24-72 hours of admission and avoiding very early intensive rehabilitation (<24 hours), which was associated with higher 14-day mortality (OR 3.21). A is the harmful approach. B and D delay rehabilitation and increase complications. Teaching point: Rehabilitate from 24-72 hours, but not intensively before 24 hours.\nReference: Malaysian CPG Management of Spontaneous Intracerebral Haemorrhage 2025 (1st Ed.), Rehabilitation; Recommendation 24.",
+    tag: "CPG ICH 2025"
+  },
+  {
+    question_text: "A 63-year-old man has elbow flexor spasticity (MAS 2) 6 weeks after a right ICH, limiting hygiene and dressing. Which treatment and timing does the CPG support?",
+    option_a: "Botulinum toxin injection, with optimal timing 4-12 weeks after stroke, alongside therapy",
+    option_b: "Botulinum toxin only after 12 months",
+    option_c: "Surgical tendon release as first line",
+    option_d: "No treatment, as spasticity always resolves",
+    correct_option: "A",
+    explanation: "Rationale: Recommendation 27 states botulinum toxin should be considered to treat spasticity after ICH, with optimal timing 4-12 weeks after stroke. Oral relaxants (dantrolene, benzodiazepines, gabapentin, baclofen) and TENS as an adjunct may also be considered. B is too late. C and D are not CPG recommendations. Teaching point: Post-ICH spasticity: botulinum toxin, ideally at 4-12 weeks.\nReference: Malaysian CPG Management of Spontaneous Intracerebral Haemorrhage 2025 (1st Ed.), Rehabilitation; Recommendations 26-28.",
+    tag: "CPG ICH 2025"
+  },
+  {
+    question_text: "A 60-year-old woman with ICH asks whether deferoxamine or intravenous magnesium could protect her brain. Which statement best reflects the CPG?",
+    option_a: "Deferoxamine improved mRS 0-2 at 90 days",
+    option_b: "Magnesium sulphate reduced 90-day mortality",
+    option_c: "Both are recommended as routine adjuncts",
+    option_d: "Neuroprotective agents should not be routinely given, as neither deferoxamine nor IV magnesium improved outcomes",
+    correct_option: "D",
+    explanation: "Rationale: Deferoxamine 32 mg/kg IV daily for 3 days showed no difference in mRS 0-2 at day 90 (34% vs 33%), and IV MgSO4 gave no functional or mortality benefit. Recommendation 29 states neuroprotective agents should not be routinely given. A, B and C contradict the trials. Teaching point: No routine neuroprotective drugs after ICH.\nReference: Malaysian CPG Management of Spontaneous Intracerebral Haemorrhage 2025 (1st Ed.), Neuroprotective agents; Recommendation 29.",
+    tag: "CPG ICH 2025"
+  },
+  {
+    question_text: "A 57-year-old man is being discharged after a hypertensive basal ganglia ICH. His BP is 148/92 mmHg. Which long-term BP strategy does the CPG recommend?",
+    option_a: "Target <150/90 mmHg with a beta-blocker",
+    option_b: "Target <140/90 mmHg with a calcium channel blocker alone",
+    option_c: "Target <130/80 mmHg; an ACE inhibitor plus thiazide diuretic may be the agents of choice",
+    option_d: "No treatment until 3 months after the bleed",
+    correct_option: "C",
+    explanation: "Rationale: Recommendation 30 advises long-term strict BP lowering with SBP <130 mmHg and DBP <80 mmHg. In the trial cited (perindopril with or without indapamide), an average reduction of 9/4 mmHg reduced recurrent stroke by 50%, including in amyloid-related ICH. A and B use targets that are too lenient. D delays treatment. Teaching point: After ICH: BP <130/80 mmHg, ACEi plus thiazide preferred.\nReference: Malaysian CPG Management of Spontaneous Intracerebral Haemorrhage 2025 (1st Ed.), Secondary Prevention; Recommendation 30.",
+    tag: "CPG ICH 2025"
+  },
+  {
+    question_text: "A 70-year-old woman with non-valvular AF (CHA2DS2-VASc 5) had a lobar ICH 10 days ago while on warfarin. Which plan for anticoagulation is most consistent with the CPG?",
+    option_a: "Resume warfarin immediately at the previous dose",
+    option_b: "Never restart anticoagulation after ICH",
+    option_c: "Restart within 48 hours to prevent stroke",
+    option_d: "Resumption may be considered, preferring a NOAC over warfarin, with timing individualised and preferably not earlier than two weeks",
+    correct_option: "D",
+    explanation: "Rationale: Recommendation 31 states that resumption of OAC may be considered in ICH with non-valvular AF, with NOAC preferred over warfarin, and timing individualised to bleeding and thrombotic risk, preferably not earlier than two weeks. NOACs had lower recurrent ICH and mortality than warfarin. A uses the higher-risk drug too early. B ignores the thromboembolic benefit. C is too early. Teaching point: AF after ICH: consider a NOAC, not before 2 weeks.\nReference: Malaysian CPG Management of Spontaneous Intracerebral Haemorrhage 2025 (1st Ed.), Secondary Prevention; Recommendation 31.",
+    tag: "CPG ICH 2025"
+  },
+  {
+    question_text: "A 52-year-old man with a mechanical mitral valve had a small ICH 3 days ago. Warfarin was reversed on admission. When is the earliest that anticoagulation should be resumed?",
+    option_a: "At least six days after the ICH, with vigilant monitoring for bleeding and thromboembolism",
+    option_b: "Within 24 hours",
+    option_c: "After 3 months",
+    option_d: "Never, as the valve can be managed with aspirin",
+    correct_option: "A",
+    explanation: "Rationale: The composite risk of haemorrhagic and thromboembolic events is high within six days of ICH, and resuming therapeutic anticoagulation within 13 days was associated with more haemorrhagic complications. Recommendation 32 states the earliest timing should be at least six days after ICH, with vigilant monitoring. B is too early. C exposes a mechanical valve to prolonged thrombotic risk. D is inadequate for a mechanical valve. Teaching point: Mechanical valve after ICH: restart anticoagulation no earlier than day 6.\nReference: Malaysian CPG Management of Spontaneous Intracerebral Haemorrhage 2025 (1st Ed.), Secondary Prevention; Recommendation 32.",
+    tag: "CPG ICH 2025"
+  },
+  {
+    question_text: "A 66-year-old man had an ICH 3 months ago. He has a history of myocardial infarction and coronary stenting 4 years ago. Which statement about restarting aspirin is most consistent with the CPG?",
+    option_a: "Antiplatelets must never be restarted after ICH",
+    option_b: "Resuming antiplatelet therapy may be considered based on individual risk; RESTART showed no significant increase in recurrent ICH",
+    option_c: "Dual antiplatelet therapy should be started immediately",
+    option_d: "Aspirin doubles the recurrent ICH rate",
+    correct_option: "B",
+    explanation: "Rationale: In RESTART, resuming antiplatelet therapy did not significantly increase recurrent symptomatic ICH (8.2% vs 9.3%; HR 0.87). Recommendation 33 states resumption may be considered based on individual risk assessment, with monitoring for recurrent bleeding. A is too absolute. C is unsupported. D contradicts the data. Teaching point: Restarting antiplatelets after ICH is reasonable when indicated.\nReference: Malaysian CPG Management of Spontaneous Intracerebral Haemorrhage 2025 (1st Ed.), Resumption of anti-platelet therapy; Recommendation 33.",
+    tag: "CPG ICH 2025"
+  },
+  {
+    question_text: "A 64-year-old woman with a previous ICH has dyslipidaemia and diabetes. A statin is to be started. Which statin type does the CPG prefer?",
+    option_a: "Lipophilic statins such as simvastatin",
+    option_b: "Statins are contraindicated after ICH",
+    option_c: "Hydrophilic statins such as pravastatin or rosuvastatin",
+    option_d: "High-dose atorvastatin 80 mg in all patients",
+    correct_option: "C",
+    explanation: "Rationale: Statins were not associated with ICH occurrence in a meta-analysis of 31 RCTs. In a Taiwanese cohort, hydrophilic statins (pravastatin, rosuvastatin) had a lower risk of recurrent ICH than lipophilic statins (HR 0.69). Recommendation 34 states statins may be used, with hydrophilic statins preferred. A is the less preferred class. B is wrong. D is not specified. Teaching point: After ICH, prefer a hydrophilic statin (pravastatin or rosuvastatin).\nReference: Malaysian CPG Management of Spontaneous Intracerebral Haemorrhage 2025 (1st Ed.), Statins; Recommendation 34.",
+    tag: "CPG ICH 2025"
+  },
+  {
+    question_text: "An 84-year-old woman with ICH becomes agitated and inattentive on night 2. She was previously mildly frail, living with her daughter. Which approach is most consistent with the CPG?",
+    option_a: "Assess for delirium with a validated tool, treat underlying causes, and use frailty level to plan individualised care",
+    option_b: "Sedate with high-dose benzodiazepines",
+    option_c: "Frailty is not relevant to ICH management",
+    option_d: "Transfer repeatedly between wards to find a quieter bed",
+    correct_option: "A",
+    explanation: "Rationale: Recommendations 35 and 36 advise assessing pre-morbid frailty in every older person with ICH to individualise care, assessing for delirium (e.g. CAM or CAM-ICU), and treating underlying causes, with measures such as avoiding multiple bed moves. B can worsen delirium. C ignores the recommendation. D is explicitly discouraged. Teaching point: In older ICH patients: assess frailty and delirium; avoid multiple bed moves.\nReference: Malaysian CPG Management of Spontaneous Intracerebral Haemorrhage 2025 (1st Ed.), ICH in the Elderly Population; Recommendations 35 and 36.",
+    tag: "CPG ICH 2025"
+  },
+  {
+    question_text: "An 87-year-old frail man on amlodipine and perindopril after an ICH reports dizziness on standing. His SBP falls by 26 mmHg on standing. What is the most appropriate action?",
+    option_a: "Increase both drugs to reach <120/70 mmHg",
+    option_b: "Add a diuretic",
+    option_c: "Recognise that conventional targets may not suit frail older adults, and adjust doses or change medications because of orthostatic hypotension",
+    option_d: "Ignore it, as postural drops are normal in the elderly",
+    correct_option: "C",
+    explanation: "Rationale: Recommendation 37 states the conventional BP target after ICH may not be suitable for frailer older persons, who should be assessed for orthostatic hypotension (SBP drop >20 mmHg and/or DBP >10 mmHg). Dosage adjustment or medication change should be done when adverse effects occur. A and B worsen his symptoms. D ignores fall risk. Teaching point: Frail older ICH survivors: check for postural drops and relax targets if needed.\nReference: Malaysian CPG Management of Spontaneous Intracerebral Haemorrhage 2025 (1st Ed.), ICH in the Elderly Population; Recommendation 37.",
+    tag: "CPG ICH 2025"
+  },
+  {
+    question_text: "A 79-year-old ambulant woman is recovering from an ICH with mild left-sided weakness. Which assessment does the CPG recommend before discharge?",
+    option_a: "Falls and fracture risk assessment by a multidisciplinary team, with osteoporosis screening (renal profile, calcium, vitamin D, bone turnover markers and DEXA)",
+    option_b: "Falls assessment is only needed after a fall occurs",
+    option_c: "DEXA only if she has a previous fracture",
+    option_d: "Start bisphosphonates in all patients without assessment",
+    correct_option: "A",
+    explanation: "Rationale: Recommendation 39 states that ambulant older persons with ICH should be assessed for falls and fracture risk by a multidisciplinary team, and screened for osteoporosis with blood tests (renal profile, calcium, vitamin D, bone turnover markers) and DEXA, treating according to the Malaysian Osteoporosis CPG. B and C wait for harm. D skips assessment. Teaching point: Older ICH survivors need falls risk assessment and osteoporosis screening.\nReference: Malaysian CPG Management of Spontaneous Intracerebral Haemorrhage 2025 (1st Ed.), ICH in the Elderly Population; Recommendation 39.",
+    tag: "CPG ICH 2025"
   }
 ];
