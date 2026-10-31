@@ -812,5 +812,505 @@ const cpgBank = [
     correct_option: "B",
     explanation: "Rationale: For patients on glucocorticoids with osteoporotic fractures, densitometric osteoporosis and/or very high fracture risk, oral bisphosphonates are first-line treatment (A).\nReference: Malaysian CPG Management of Osteoporosis 2022 (3rd Ed.), Key Statements, p. 22.",
     tag: "CPG Osteoporosis 2022"
+  },
+  {
+    question_text: "A 30-year-old man has had 4 months of nocturnal cough and wheeze, worse with colds and cold air, and has a history of eczema. He has never used inhalers. Examination is normal. Treatment-naive spirometry shows FEV1/FVC 0.79 and no significant bronchodilator response. Which is the most appropriate next step?",
+    option_a: "Diagnose asthma and start low-dose inhaled corticosteroid",
+    option_b: "Exclude asthma and discharge him from follow-up",
+    option_c: "Consider further history, further investigations and alternative diagnoses",
+    option_d: "Start montelukast as a diagnostic trial",
+    correct_option: "C",
+    explanation: "Rationale: In treatment-naive patients, asthma is diagnosed when FEV1/FVC is <0.7 (or below LLN) AND the bronchodilator reversibility test is positive. If not, the CPG algorithm says to consider further history, investigations (for example PEFR variability monitoring or bronchoprovocation) and alternative diagnoses. A diagnoses asthma without objective airflow obstruction. B is wrong because spirometry can be normal between symptoms, so asthma is not excluded. D: LTRA is not a diagnostic test and is not first-line.\nReference: Malaysian CPG Management of Asthma in Adults 2024 (2nd Ed.), CPG Section 3, Figure 1, Table 3; Recommendation 1.",
+    tag: "CPG Asthma 2024"
+  },
+  {
+    question_text: "A 36-year-old woman with suspected asthma records her highest of three peak flow readings each morning and evening for 2 weeks. On one day her readings are 350 L/min in the morning and 450 L/min in the evening. Using the CPG method, what is that day's diurnal PEF variability?",
+    option_a: "22%",
+    option_b: "25%",
+    option_c: "29%",
+    option_d: "12.5%",
+    correct_option: "B",
+    explanation: "Rationale: Variability = (day's highest - day's lowest) / mean of the day's highest and lowest x 100 = (450 - 350) / 400 x 100 = 25%. The daily values are then averaged over 1-2 weeks, and a variability of ≥20% suggests asthma. A divides by the highest value (100/450). C divides by the lowest value (100/350). D is a halving error.\nReference: Malaysian CPG Management of Asthma in Adults 2024 (2nd Ed.), CPG Section 3, Table 3; Appendix 3.",
+    tag: "CPG Asthma 2024"
+  },
+  {
+    question_text: "A 27-year-old woman with eczema and allergic rhinitis has episodic wheeze and cough. Spirometry is normal. Her FeNO is 62 ppb. Which statement about FeNO in suspected asthma is most accurate according to the CPG?",
+    option_a: "A normal FeNO excludes asthma",
+    option_b: "A raised FeNO is diagnostic of asthma",
+    option_c: "FeNO is raised only in asthma and not in other conditions",
+    option_d: "A high FeNO (>50 ppb) predicts better response to ICS, but a low level should not be used to withhold ICS",
+    correct_option: "D",
+    explanation: "Rationale: FeNO is not a definitive test for asthma. It can be raised in eosinophilic bronchitis, allergic rhinitis and eczema (so B and C are wrong). A FeNO >50 ppb predicts better ICS response, but non-T2 asthma does not raise FeNO, so a low value must not be used to withhold ICS (A is wrong).\nReference: Malaysian CPG Management of Asthma in Adults 2024 (2nd Ed.), CPG Section 3, Table 3.",
+    tag: "CPG Asthma 2024"
+  },
+  {
+    question_text: "Four adults with suspected asthma and normal spirometry undergo challenge testing. Which result is a positive test?",
+    option_a: "Exercise challenge: FEV1 fall of 12% from baseline",
+    option_b: "Methacholine challenge: PC20 of 12 mg/mL",
+    option_c: "Mannitol challenge: FEV1 fall of 12% at a cumulative dose of 635 mg",
+    option_d: "Exercise challenge: FEV1 fall of 8% from baseline",
+    correct_option: "A",
+    explanation: "Rationale: The CPG thresholds are: exercise, FEV1 fall of ≥10%; methacholine, PC20 ≤8 mg/mL; mannitol, FEV1 fall of ≥15% at a cumulative dose of ≤635 mg. Only A meets its threshold. B (12 mg/mL is above 8), C (12% is below 15%) and D (8% is below 10%) are negative. These tests are not routinely performed in clinical practice.\nReference: Malaysian CPG Management of Asthma in Adults 2024 (2nd Ed.), CPG Section 3, Table 3.",
+    tag: "CPG Asthma 2024"
+  },
+  {
+    question_text: "A 26-year-old woman at 12 weeks of gestation has had 6 months of recurrent nocturnal wheeze and cough triggered by dust and exercise, and has a past history of eczema. Examination is normal and no alternative diagnosis is found. Which is the most appropriate approach to diagnosis and treatment?",
+    option_a: "Methacholine challenge now, then treat if positive",
+    option_b: "Defer all treatment until after delivery",
+    option_c: "Start ICS-containing therapy and postpone confirmatory testing until after delivery",
+    option_d: "Mannitol challenge now, then treat if positive",
+    correct_option: "C",
+    explanation: "Rationale: Bronchoprovocation tests are contraindicated in pregnancy. If the history is consistent with asthma and no alternative diagnosis is found, treatment may be started and confirmatory investigations delayed until after delivery. A and D use contraindicated tests. B leaves her untreated, but uncontrolled asthma harms both mother and fetus.\nReference: Malaysian CPG Management of Asthma in Adults 2024 (2nd Ed.), CPG Section 8.2(a); Recommendation 16.",
+    tag: "CPG Asthma 2024"
+  },
+  {
+    question_text: "A 34-year-old man with suspected eosinophilic asthma has several T2 biomarkers measured. Which one result meets the CPG threshold for T2-high inflammation?",
+    option_a: "Allergen-specific IgE 0.6 kU/L",
+    option_b: "Blood eosinophils 120 cells/µL",
+    option_c: "Total serum IgE 80 kU/L",
+    option_d: "FeNO 35 ppb",
+    correct_option: "A",
+    explanation: "Rationale: CPG thresholds for T2-high inflammation are: blood eosinophils ≥150 cells/µL (or >4%), total serum IgE >100 kU/L, any allergen-specific IgE >0.35 kU/L, and FeNO ≥50 ppb. Only A (0.6 kU/L, above 0.35) meets its threshold. B, C and D are all below threshold.\nReference: Malaysian CPG Management of Asthma in Adults 2024 (2nd Ed.), CPG Section 3, Table 3.",
+    tag: "CPG Asthma 2024"
+  },
+  {
+    question_text: "Four adults on ICS-LABA have been reviewed. Which patient is the most suitable candidate for stepping down treatment?",
+    option_a: "Well controlled for 6 months, FEV1 72% predicted, no exacerbations in 12 months",
+    option_b: "Well controlled for 2 months, FEV1 95% predicted, no exacerbations in 12 months",
+    option_c: "Well controlled for 6 months, FEV1 88% predicted, one oral prednisolone course 8 months ago",
+    option_d: "Well controlled for 5 months, FEV1 91% predicted, post-bronchodilator FEV1/FVC 0.78, no exacerbations in 12 months",
+    correct_option: "D",
+    explanation: "Rationale: Step-down is considered after 3-6 months of good control, with FEV1 ≥80% predicted, post-bronchodilator FEV1/FVC ≥70%, and no exacerbations in the last 12 months. D meets all of these. A fails on FEV1. B is controlled for under 3 months. C had an exacerbation within 12 months.\nReference: Malaysian CPG Management of Asthma in Adults 2024 (2nd Ed.), CPG Section 6.1(a), Section 4.2(c); Recommendation 2.",
+    tag: "CPG Asthma 2024"
+  },
+  {
+    question_text: "A clinic wants to standardise one control-assessment tool that the physician completes at each visit. Which tool is physician-assessed, has 4 items and uses a 4-week recall?",
+    option_a: "Asthma Control Test (ACT)",
+    option_b: "GINA assessment of asthma control",
+    option_c: "Asthma Control Questionnaire (ACQ-5)",
+    option_d: "RCP 3 Questions",
+    correct_option: "B",
+    explanation: "Rationale: The GINA assessment is physician-completed, has 4 items and uses a 4-week recall. ACT is patient-completed with 5 items and 4-week recall. ACQ-5 is patient-completed with 5 items and 1-week recall. RCP 3 is patient-completed with 3 items. The same tool should be used at every review to keep assessment consistent.\nReference: Malaysian CPG Management of Asthma in Adults 2024 (2nd Ed.), CPG Section 6.1(a), Tables 5 and 6.",
+    tag: "CPG Asthma 2024"
+  },
+  {
+    question_text: "A 40-year-old man takes low-dose budesonide twice daily with salbutamol as needed. His ACT today is 21 and he has had no exacerbations. Pharmacy records show five 200-dose salbutamol canisters dispensed in the last year, though he says he is \"fine\". Which is the most appropriate interpretation?",
+    option_a: "No concern, because an ACT ≥20 means he has no future exacerbation risk",
+    option_b: "SABA overuse (≥3 canisters a year) is a risk factor and should prompt review of adherence, technique and treatment",
+    option_c: "This is appropriate use, as SABA is the preferred sole reliever",
+    option_d: "He should be given oral salbutamol tablets as a convenient alternative",
+    correct_option: "B",
+    explanation: "Rationale: Using ≥3 canisters of SABA a year is a risk factor for exacerbation and mortality. Even well-controlled patients can be at risk, so exacerbation risk should be checked at every review. A is wrong because good symptom control does not remove future exacerbation risk. C is wrong because SABA should not be used as monotherapy. D is wrong because oral SABA is not recommended.\nReference: Malaysian CPG Management of Asthma in Adults 2024 (2nd Ed.), CPG Section 6.1(b), Section 6.2.1(a); Recommendation 5.",
+    tag: "CPG Asthma 2024"
+  },
+  {
+    question_text: "A 78-year-old woman with mild cognitive impairment and weak inspiratory effort cannot coordinate her pMDI or generate the forceful inhalation her dry powder inhaler needs. Which is the most appropriate inhaler option?",
+    option_a: "Continue the DPI after a single further education session",
+    option_b: "Switch to a different brand of DPI",
+    option_c: "pMDI with a valved holding chamber",
+    option_d: "Stop inhalers and use oral montelukast instead",
+    correct_option: "C",
+    explanation: "Rationale: For patients with difficulty performing the inhalation manoeuvre or with cognitive impairment, a pMDI with a valved holding chamber (VHC) is recommended. It is also recommended where inspiratory flow is insufficient for a DPI (a soft mist inhaler is another option there). A and B keep a device she cannot use effectively. D abandons ICS-containing therapy, which all asthma patients need.\nReference: Malaysian CPG Management of Asthma in Adults 2024 (2nd Ed.), CPG Section 5.3(b).",
+    tag: "CPG Asthma 2024"
+  },
+  {
+    question_text: "A 32-year-old man has correct inhaler technique but stops his budesonide-formoterol maintenance whenever symptoms settle. He believes treatment can be stopped when he feels well. His TAI score shows poor adherence. Which intervention best matches his type of non-adherence?",
+    option_a: "Counselling on the chronic nature of asthma and the long-term benefit of maintenance therapy",
+    option_b: "Daily reminders such as an alarm or smart inhaler",
+    option_c: "Simplifying the regimen to fewer devices",
+    option_d: "Teach-to-goal demonstration of inhaler technique",
+    correct_option: "A",
+    explanation: "Rationale: This is intelligent (intentional) non-adherence, a reasoned decision to stop treatment, including the false belief that it can stop once symptoms improve. Strategies are education and counselling, motivational goal-setting and shared decision-making. B suits erratic (forgetful) non-adherence. C and D suit unwitting non-adherence (misunderstanding or poor technique).\nReference: Malaysian CPG Management of Asthma in Adults 2024 (2nd Ed.), CPG Section 5.4.",
+    tag: "CPG Asthma 2024"
+  },
+  {
+    question_text: "A 35-year-old man is being given a PEFR-based asthma action plan. He has no known personal best PEFR. How should the action points be set?",
+    option_a: "Use his lowest PEFR recorded during a previous exacerbation",
+    option_b: "Use the PEFR measured 1 hour after bronchodilator at his last ED visit",
+    option_c: "Do not use a PEFR-based plan, as symptom-based plans are the only valid option",
+    option_d: "Use the predicted PEFR (from the nomogram)",
+    correct_option: "D",
+    explanation: "Rationale: In PEFR-based plans, action points use the patient's known personal best under stable conditions (not measured during an exacerbation). Where there is no known personal best, the predicted value may be used. A and B use values measured during acute illness. C is wrong because a PEFR-based plan is equivalent to a symptom-based plan for hospitalisation and ED visits.\nReference: Malaysian CPG Management of Asthma in Adults 2024 (2nd Ed.), CPG Section 5.2(b); Appendix 4.",
+    tag: "CPG Asthma 2024"
+  },
+  {
+    question_text: "A 38-year-old woman has newly diagnosed asthma. She has symptoms on most days and an ACT of 17, but no night waking and FEV1 88% predicted. She is treatment-naive and has allergic rhinitis. Which initial maintenance regimen is most appropriate?",
+    option_a: "As-needed salbutamol alone",
+    option_b: "Medium-dose ICS-LABA with a LAMA",
+    option_c: "Maintenance low-dose ICS-LABA",
+    option_d: "Montelukast alone",
+    correct_option: "C",
+    explanation: "Rationale: She is not well controlled (ACT <20, symptoms on most days) but has no night waking and normal FEV1. Algorithm 1 gives maintenance low-dose ICS-LABA, or low-to-medium-dose ICS (low-dose ICS with LTRA may be used because of her rhinitis). A is SABA monotherapy, which is not recommended. B is for daily symptoms or night waking together with FEV1 <80% predicted. D: LTRA alone is less effective than ICS.\nReference: Malaysian CPG Management of Asthma in Adults 2024 (2nd Ed.), CPG Section 4.2(a); Algorithm 1.",
+    tag: "CPG Asthma 2024"
+  },
+  {
+    question_text: "A 45-year-old man has daily symptoms, wakes at night 3 times a week, has an ACT of 11 and FEV1 58% predicted. He is treatment-naive and a non-smoker. Which initial regimen is most appropriate?",
+    option_a: "Low-dose ICS with as-needed SABA",
+    option_b: "Medium-to-high-dose maintenance ICS-LABA",
+    option_c: "As-needed ICS-formoterol alone",
+    option_d: "Low-dose ICS plus montelukast",
+    correct_option: "B",
+    explanation: "Rationale: Daily symptoms with night waking AND FEV1 <80% predicted indicate poor control. Algorithm 1 recommends maintenance medium-to-high-dose ICS-LABA (or medium-dose ICS-LABA with add-on LAMA). A, C and D are lower-intensity regimens meant for well-controlled or milder disease. His FEV1 <60% is also an exacerbation risk factor.\nReference: Malaysian CPG Management of Asthma in Adults 2024 (2nd Ed.), CPG Section 4.2(a); Algorithm 1.",
+    tag: "CPG Asthma 2024"
+  },
+  {
+    question_text: "A 31-year-old woman takes low-dose budesonide-formoterol twice daily and salbutamol as needed. She has had two exacerbations needing oral prednisolone in 12 months despite good adherence and technique, and she often confuses her two inhalers. Which change is most appropriate and best supported by the CPG evidence?",
+    option_a: "Replace salbutamol with a regular LABA alone",
+    option_b: "Increase to high-dose ICS alone",
+    option_c: "Add oral montelukast and continue salbutamol",
+    option_d: "Use budesonide-formoterol as both maintenance and reliever (MART)",
+    correct_option: "D",
+    explanation: "Rationale: Low-dose MART was significantly more effective than ICS-LABA with as-needed SABA at preventing severe exacerbations, and using one inhaler avoids confusion between devices. A: LABA without ICS should not be used as reliever monotherapy. B: raising ICS alone to high dose is not recommended. C does not address the evidence-based reliever strategy.\nReference: Malaysian CPG Management of Asthma in Adults 2024 (2nd Ed.), CPG Section 6.2.1(b)(iii); Recommendation 6.",
+    tag: "CPG Asthma 2024"
+  },
+  {
+    question_text: "A 33-year-old man is on MART with budesonide-formoterol, one inhalation twice daily plus extra inhalations as needed. During a viral illness he asks how many inhalations he can take in one day. What is the maximum total daily number of puffs in the CPG?",
+    option_a: "12",
+    option_b: "8",
+    option_c: "16",
+    option_d: "24",
+    correct_option: "A",
+    explanation: "Rationale: The CPG states that for ICS-formoterol used as reliever (and as maintenance in MART) the maximum total dose is 12 puffs a day. If he repeatedly needs more than this or symptoms persist, he should seek medical review rather than self-escalate.\nReference: Malaysian CPG Management of Asthma in Adults 2024 (2nd Ed.), CPG Section 4.2; Algorithm 2.",
+    tag: "CPG Asthma 2024"
+  },
+  {
+    question_text: "A medical officer is reviewing reliever options for an adult with asthma. Which statement is consistent with the CPG?",
+    option_a: "Oral salbutamol is acceptable if the patient cannot use inhalers",
+    option_b: "Formoterol alone is a suitable reliever without ICS",
+    option_c: "ICS-formoterol or ICS-SABA may be used as anti-inflammatory reliever (AIR)",
+    option_d: "Adding ipratropium to SABA gives extra benefit in chronic asthma",
+    correct_option: "C",
+    explanation: "Rationale: The CPG says anti-inflammatory reliever therapy (ICS with formoterol, or ICS with SABA) may be used. A is wrong because oral SABA should not be used. B is wrong because LABA without ICS should not be used as reliever monotherapy. D is wrong because SAMA plus SABA offers no additional advantage in chronic asthma (the benefit is in acute exacerbations).\nReference: Malaysian CPG Management of Asthma in Adults 2024 (2nd Ed.), CPG Section 6.2.1(a); Recommendation 5.",
+    tag: "CPG Asthma 2024"
+  },
+  {
+    question_text: "A 44-year-old man takes beclometasone dipropionate (standard-particle HFA pMDI) 250 µg, two puffs twice daily, with salbutamol as needed. Which ICS dose category is this?",
+    option_a: "Low",
+    option_b: "Medium",
+    option_c: "High",
+    option_d: "Cannot be categorised",
+    correct_option: "B",
+    explanation: "Rationale: The total daily dose is 250 µg x 2 puffs x 2 = 1000 µg. For standard-particle HFA pMDI beclometasone, low is 200-500 µg, medium is >500-1000 µg and high is >1000 µg, so 1000 µg is medium.\nReference: Malaysian CPG Management of Asthma in Adults 2024 (2nd Ed.), CPG Section 6.2.1(b), Table 7.",
+    tag: "CPG Asthma 2024"
+  },
+  {
+    question_text: "A 50-year-old woman on high-dose ICS-LABA by pMDI without a spacer develops hoarseness and oral candidiasis. Her asthma is otherwise well controlled. Which is the most appropriate management?",
+    option_a: "Improve inhaler technique (for example with a spacer) and advise rinsing the mouth after each use",
+    option_b: "Stop all inhaled corticosteroid",
+    option_c: "Switch to long-term oral prednisolone",
+    option_d: "Replace the ICS with montelukast alone",
+    correct_option: "A",
+    explanation: "Rationale: Local ICS side effects such as oral thrush and dysphonia can be managed by improving inhaler technique and rinsing the mouth after each use. B, C and D abandon ICS-based control or expose her to greater harm. Long-term OCS is a last resort in severe asthma, and LTRA alone is less effective than ICS.\nReference: Malaysian CPG Management of Asthma in Adults 2024 (2nd Ed.), CPG Section 6.1(c), Section 6.2.1(b)(i).",
+    tag: "CPG Asthma 2024"
+  },
+  {
+    question_text: "A 29-year-old woman with asthma and allergic rhinitis is started on montelukast as an add-on to low-dose ICS. Which adverse effect should she be specifically counselled about?",
+    option_a: "Hepatic failure",
+    option_b: "Tachyarrhythmia",
+    option_c: "Oral candidiasis and dysphonia",
+    option_d: "Neuropsychiatric effects such as nightmares, behavioural change and suicidal ideation",
+    correct_option: "D",
+    explanation: "Rationale: Patients should be told about the potential neuropsychiatric effects of montelukast: new-onset nightmares, behavioural changes and, in some cases, suicidal ideation. C is a local ICS effect. A and B are not recognised principal adverse effects of montelukast in the CPG.\nReference: Malaysian CPG Management of Asthma in Adults 2024 (2nd Ed.), CPG Section 6.2.1(b)(iv).",
+    tag: "CPG Asthma 2024"
+  },
+  {
+    question_text: "A 48-year-old woman remains uncontrolled on medium-dose budesonide-formoterol despite good adherence and correct technique. Phenotypic assessment has been done. Which is the most appropriate step-up?",
+    option_a: "Replace the LABA with a LAMA",
+    option_b: "Add a LAMA (tiotropium) to the ICS-LABA",
+    option_c: "Double the ICS dose",
+    option_d: "Add oral theophylline",
+    correct_option: "B",
+    explanation: "Rationale: LAMA may be added if asthma remains uncontrolled despite medium or high-dose ICS-LABA. Triple therapy reduces severe exacerbation (RR 0.83) and is recommended (Recommendation 6). A: there is insufficient evidence for substituting LAMA for LABA. C: raising ICS alone is not recommended. D: theophylline should not be used for asthma.\nReference: Malaysian CPG Management of Asthma in Adults 2024 (2nd Ed.), CPG Section 6.2.1(b)(vi); Algorithm 2; Recommendation 6.",
+    tag: "CPG Asthma 2024"
+  },
+  {
+    question_text: "A 55-year-old man with severe eosinophilic asthma remains uncontrolled on high-dose ICS-LABA-LAMA. His respiratory physician plans to add azithromycin. Which assessment is essential before starting?",
+    option_a: "Echocardiography",
+    option_b: "HLA typing",
+    option_c: "Investigation for non-tuberculous mycobacterial infection",
+    option_d: "Methacholine challenge",
+    correct_option: "C",
+    explanation: "Rationale: Before starting azithromycin it is essential to investigate for potential non-tuberculous mycobacterial infection. An ECG and/or audiogram should also be considered if he is on QTc-prolonging drugs or has risk factors for hearing loss. The suggested dose is 500 mg three times a week or 250 mg daily, for up to one year. Long-term macrolides should be started after specialist consultation.\nReference: Malaysian CPG Management of Asthma in Adults 2024 (2nd Ed.), CPG Section 6.2.1(b)(vii), Section 8.1(b)(iii); Recommendation 15.",
+    tag: "CPG Asthma 2024"
+  },
+  {
+    question_text: "A 41-year-old woman has been well controlled on medium-dose ICS-LABA for 5 months. Which is the most appropriate timing to step down treatment?",
+    option_a: "During a current viral upper respiratory tract infection",
+    option_b: "The week before a long overseas trip",
+    option_c: "Immediately after her next exacerbation",
+    option_d: "At a stable time with no respiratory infection, travel or pregnancy, with follow-up arranged",
+    correct_option: "D",
+    explanation: "Rationale: When stepping down, choose an appropriate time (for example no respiratory infection, no travel, not pregnant), find the lowest effective dose, and ensure follow-up. A and B are poorly timed. C is wrong because after an exacerbation treatment should be reviewed and stepped up if indicated, not reduced.\nReference: Malaysian CPG Management of Asthma in Adults 2024 (2nd Ed.), CPG Section 4.2(c); Recommendation 2.",
+    tag: "CPG Asthma 2024"
+  },
+  {
+    question_text: "A 36-year-old man on low-dose ICS-formoterol MART has a written action plan. He develops a viral cold, follows his action plan for 3 days, but his symptoms persist. What is the most appropriate advice?",
+    option_a: "Seek further medical assistance",
+    option_b: "Quadruple his ICS dose indefinitely",
+    option_c: "Continue the action plan alone for another 2 weeks",
+    option_d: "Start leftover antibiotics",
+    correct_option: "A",
+    explanation: "Rationale: A short-term step-up (1-2 weeks) with an action plan can be used for identifiable triggers such as viral infection. Increasing the ICS dose does not benefit all patients, so those whose symptoms persist despite following the plan should seek medical assistance. B and C are unsupervised escalation. D has no role in a viral cold.\nReference: Malaysian CPG Management of Asthma in Adults 2024 (2nd Ed.), CPG Section 4.2(b), Section 5.2(b).",
+    tag: "CPG Asthma 2024"
+  },
+  {
+    question_text: "A 50-year-old woman with asthma is well controlled on medium-dose budesonide-formoterol (ICS-LABA), with good adherence and technique. According to the CPG severity classification, her asthma is:",
+    option_a: "Mild",
+    option_b: "Severe",
+    option_c: "Moderate",
+    option_d: "Difficult-to-treat",
+    correct_option: "C",
+    explanation: "Rationale: Severity is classified retrospectively by the treatment needed for control. Mild is well controlled on low-intensity treatment (for example PRN low-dose ICS-formoterol, or low-dose ICS with PRN SABA). Moderate is well controlled on low or medium-dose ICS-LABA. Severe needs high-dose ICS-LABA, or is uncontrolled despite it. She is well controlled, so D does not apply.\nReference: Malaysian CPG Management of Asthma in Adults 2024 (2nd Ed.), CPG Section 6.1.",
+    tag: "CPG Asthma 2024"
+  },
+  {
+    question_text: "A 33-year-old woman with well-controlled asthma asks whether breathing exercises taught by a physiotherapist would help. Which statement is correct?",
+    option_a: "They reduce the frequency of exacerbations",
+    option_b: "They can improve dyspnoea and quality of life but do not reduce exacerbations or improve lung function",
+    option_c: "They improve FEV1 significantly",
+    option_d: "They can replace inhaled corticosteroids",
+    correct_option: "B",
+    explanation: "Rationale: Breathing exercise programmes can be offered as a complementary approach. They reduce dyspnoea and emotional stress and improve quality of life, but they do not reduce exacerbation risk or improve lung function. They are never a replacement for ICS-containing therapy.\nReference: Malaysian CPG Management of Asthma in Adults 2024 (2nd Ed.), CPG Section 6.2.2(d).",
+    tag: "CPG Asthma 2024"
+  },
+  {
+    question_text: "A 47-year-old man with asthma has needed four courses of oral prednisolone in the past year. Which vaccination advice is most appropriate?",
+    option_a: "No vaccines while taking steroids",
+    option_b: "Influenza only, as pneumococcal vaccine is contraindicated",
+    option_c: "Influenza vaccination is not recommended in asthma",
+    option_d: "Influenza vaccination, plus pneumococcal vaccination",
+    correct_option: "D",
+    explanation: "Rationale: Influenza vaccination is encouraged in adults with asthma. Pneumococcal vaccination is recommended for patients who need maintenance corticosteroids or frequently repeated systemic corticosteroids, as he does. A, B and C contradict these recommendations.\nReference: Malaysian CPG Management of Asthma in Adults 2024 (2nd Ed.), CPG Section 6.2.2(j).",
+    tag: "CPG Asthma 2024"
+  },
+  {
+    question_text: "A 64-year-old man with asthma well controlled on ICS-LABA is diagnosed with glaucoma. The ophthalmologist plans timolol eye drops. Which advice is most appropriate?",
+    option_a: "Non-selective β-blocker eye drops can cause bronchospasm, so use only with great caution and close monitoring, if at all",
+    option_b: "Eye drops have no systemic effects and are safe",
+    option_c: "They are safe provided he continues ICS",
+    option_d: "Switch to oral propranolol instead",
+    correct_option: "A",
+    explanation: "Rationale: Non-selective β-blockers, including eye drops, can precipitate bronchospasm. If indicated, they should be started cautiously, case by case, under close monitoring. Cardio-selective β-blockers are not absolutely contraindicated. B and C are wrong because topical timolol is absorbed systemically and ICS does not protect against it. D uses an oral non-selective agent, which is worse.\nReference: Malaysian CPG Management of Asthma in Adults 2024 (2nd Ed.), CPG Section 6.2.2(k).",
+    tag: "CPG Asthma 2024"
+  },
+  {
+    question_text: "A 58-year-old woman with well-controlled asthma needs analgesia for knee osteoarthritis. She has taken ibuprofen before with no reaction. Which statement is correct?",
+    option_a: "NSAIDs are absolutely contraindicated in asthma",
+    option_b: "NSAIDs are not contraindicated unless there is a history of adverse reaction to them",
+    option_c: "Only selective COX-2 inhibitors may ever be used",
+    option_d: "Paracetamol is contraindicated in asthma",
+    correct_option: "B",
+    explanation: "Rationale: Aspirin and NSAIDs are generally not contraindicated in asthma unless there is a history of adverse reaction, so patients should be asked about previous reactions. If NSAIDs are needed in someone who has reacted, selective COX-2 inhibitors (celecoxib, etoricoxib) or paracetamol may be used.\nReference: Malaysian CPG Management of Asthma in Adults 2024 (2nd Ed.), CPG Section 6.2.2(k).",
+    tag: "CPG Asthma 2024"
+  },
+  {
+    question_text: "A 45-year-old woman with BMI 33 kg/m² has poorly controlled asthma despite medium-dose ICS-LABA and good technique. Which is the most appropriate additional measure?",
+    option_a: "Increase ICS to high dose alone",
+    option_b: "Stop ICS because response is reduced in obesity",
+    option_c: "Advocate weight loss alongside continued ICS, as a loss of at least 5% can improve FEV1",
+    option_d: "Start maintenance prednisolone",
+    correct_option: "C",
+    explanation: "Rationale: Obesity (BMI >27.5 kg/m² in the CPG) is associated with poor control and reduced ICS response, but ICS remains the mainstay. Weight loss improves symptoms, lung function and health status, and at least 5% loss can improve FEV1. A, B and D escalate or withdraw drug therapy instead of addressing the modifiable factor.\nReference: Malaysian CPG Management of Asthma in Adults 2024 (2nd Ed.), CPG Section 8.5(a), Section 6.2.2(h); Recommendation 7.",
+    tag: "CPG Asthma 2024"
+  },
+  {
+    question_text: "A 52-year-old obese man has uncontrolled asthma and frequent exacerbations despite optimal therapy. His wife reports loud snoring and witnessed apnoeas, and he has daytime somnolence. Which is the most appropriate next step?",
+    option_a: "Assess for obstructive sleep apnoea and treat with CPAP if confirmed",
+    option_b: "Increase the LABA dose",
+    option_c: "Start maintenance azithromycin",
+    option_d: "Add a LAMA only",
+    correct_option: "A",
+    explanation: "Rationale: Obstructive sleep apnoea is a recognised comorbidity of difficult asthma. CPAP is the recommended treatment for OSA and has been shown to reduce asthma exacerbation risk. B, C and D intensify asthma drug therapy without addressing the likely contributing comorbidity.\nReference: Malaysian CPG Management of Asthma in Adults 2024 (2nd Ed.), CPG Section 8.5(b), Section 8.1(a).",
+    tag: "CPG Asthma 2024"
+  },
+  {
+    question_text: "A 27-year-old woman with asthma has persistent allergic rhinitis with nasal blockage and sneezing. Which is the most effective treatment for her rhinitis?",
+    option_a: "Oral montelukast alone",
+    option_b: "Oral antihistamine alone",
+    option_c: "Oral prednisolone",
+    option_d: "Intranasal corticosteroid",
+    correct_option: "D",
+    explanation: "Rationale: Intranasal corticosteroids are the most effective therapy for allergic rhinitis. LTRA can be useful as an add-on in patients with concomitant seasonal allergic rhinitis and asthma, but it is not the most effective rhinitis treatment. Oral prednisolone is not appropriate for routine rhinitis control.\nReference: Malaysian CPG Management of Asthma in Adults 2024 (2nd Ed.), CPG Section 8.5(c).",
+    tag: "CPG Asthma 2024"
+  },
+  {
+    question_text: "A 49-year-old woman with asthma has nocturnal cough and wheeze, with troublesome heartburn and regurgitation, despite adherent ICS-LABA use. Which statement about GERD in asthma is most accurate?",
+    option_a: "Treating GERD universally improves lung function",
+    option_b: "β2-agonists tighten the lower oesophageal sphincter",
+    option_c: "PPIs have shown benefit in patients with symptomatic reflux and nocturnal respiratory symptoms",
+    option_d: "GERD is not associated with asthma",
+    correct_option: "C",
+    explanation: "Rationale: Treatment of GERD has no clear effect on asthma symptoms, lung function or airway responsiveness in general. However, PPIs have shown benefit in asthma patients who have symptomatic reflux and nocturnal respiratory symptoms, as she does. GERD is more common in asthma, partly because β2-agonists relax (not tighten) the lower oesophageal sphincter, so A, B and D are wrong.\nReference: Malaysian CPG Management of Asthma in Adults 2024 (2nd Ed.), CPG Section 8.5(e).",
+    tag: "CPG Asthma 2024"
+  },
+  {
+    question_text: "A 42-year-old man with asthma on fluticasone-salmeterol develops COVID-19 and is prescribed ritonavir-boosted nirmatrelvir. Which is the most appropriate advice?",
+    option_a: "Stop ICS during the infection",
+    option_b: "Continue ICS-containing therapy but review the drug interaction, as ritonavir boosting can increase cardiac toxicity of LABA",
+    option_c: "Avoid all nebulisers in every circumstance",
+    option_d: "Convert all treatment to oral prednisolone",
+    correct_option: "B",
+    explanation: "Rationale: During COVID-19 infection, patients with asthma should continue their ICS-containing medications. Potential interactions should be assessed, in particular ritonavir-boosted nirmatrelvir with ICS-salmeterol or ICS-vilanterol, which can increase LABA cardiac toxicity. Nebuliser use should not be discouraged when clinically indicated, especially in life-threatening asthma.\nReference: Malaysian CPG Management of Asthma in Adults 2024 (2nd Ed.), CPG Section 8.6.",
+    tag: "CPG Asthma 2024"
+  },
+  {
+    question_text: "A medical officer in a district clinic reviews four adults with asthma. Which one should be referred to a respiratory physician according to the CPG?",
+    option_a: "A 35-year-old baker whose symptoms improve at weekends and on holiday, with suspected occupational asthma",
+    option_b: "A 24-year-old woman well controlled on low-dose ICS with PRN SABA",
+    option_c: "A 30-year-old man with mild intermittent symptoms and a normal FEV1",
+    option_d: "A 50-year-old woman with ACT 24 for the past year on stable therapy",
+    correct_option: "A",
+    explanation: "Rationale: Indications for referral include difficulty confirming the diagnosis, severe or uncontrolled asthma, severe or life-threatening exacerbations, asthma in pregnancy, frequent unscheduled visits, frequent OCS bursts, multiple comorbidities, food allergy or anaphylaxis, and suspected occupational asthma. B, C and D are stable, well-controlled patients.\nReference: Malaysian CPG Management of Asthma in Adults 2024 (2nd Ed.), CPG Section 9.",
+    tag: "CPG Asthma 2024"
+  },
+  {
+    question_text: "A 30-year-old man attends a primary care clinic with breathlessness. He is alert and speaks in phrases. Respiratory rate is 24/min, pulse 112/min, BP is normal and SpO2 is 92% on air, with wheeze and accessory muscle use. He has his pMDI and spacer with him. Which is the most appropriate initial management?",
+    option_a: "Oral salbutamol and review in 1 week",
+    option_b: "IV aminophylline and urgent transfer",
+    option_c: "Oral antibiotics and observation",
+    option_d: "SABA 4-10 puffs by pMDI with spacer every 20 minutes for 1 hour, prednisolone, and controlled oxygen targeting SpO2 ≥94%",
+    correct_option: "D",
+    explanation: "Rationale: For mild-to-moderate exacerbation in primary care: SABA 4-10 puffs by pMDI plus spacer (or nebuliser) every 20 minutes for 1 hour, prednisolone 0.5-1 mg/kg (maximum 50 mg), and controlled oxygen. Recommendation 9 states SpO2 of at least 94% should be maintained in hypoxic patients (the Algorithm 3 target range is 93-95%). A is wrong because oral SABA should not be used. B is wrong because IV aminophylline is not routinely used. C is wrong because antibiotics are not indicated without evidence of bacterial infection.\nReference: Malaysian CPG Management of Asthma in Adults 2024 (2nd Ed.), CPG Section 7.2; Algorithm 3; Recommendations 9-11.",
+    tag: "CPG Asthma 2024"
+  },
+  {
+    question_text: "A 40-year-old woman has an asthma exacerbation. She is alert, speaks in phrases, has a respiratory rate of 27/min, a pulse of 108/min and SpO2 of 93% on air, with wheeze. According to the CPG, how is this exacerbation classified?",
+    option_a: "Moderate",
+    option_b: "Severe",
+    option_c: "Life-threatening",
+    option_d: "Mild",
+    correct_option: "B",
+    explanation: "Rationale: Speech in phrases, pulse 100-120/min and SpO2 90-94% are all moderate features. A respiratory rate >25/min is a severe feature. The CPG says not all parameters need to be met and that severity is classified using the most severe parameter, so this is severe. There is no life-threatening feature present.\nReference: Malaysian CPG Management of Asthma in Adults 2024 (2nd Ed.), CPG Section 7.1, Table 9.",
+    tag: "CPG Asthma 2024"
+  },
+  {
+    question_text: "A 33-year-old man with a severe exacerbation has received repeated nebulised salbutamol, ipratropium and IV hydrocortisone. He is now exhausted, speaking in single words, with a quiet chest. ABG on oxygen shows PaO2 54 mmHg and PaCO2 42 mmHg. How should the PaCO2 of 42 mmHg be interpreted?",
+    option_a: "Reassuring, as it is within the normal range",
+    option_b: "Suggests hyperventilation is resolving",
+    option_c: "Ominous, as a normal or rising PaCO2 with hypoxaemia indicates impending respiratory failure",
+    option_d: "Suggests an alternative diagnosis such as heart failure",
+    correct_option: "C",
+    explanation: "Rationale: In a severe exacerbation a tachypnoeic patient would typically have a low PaCO2 (Table 9 gives <40 mmHg for severe, or normal). A PaO2 <60 mmHg with a normal or increased PaCO2 (especially >45 mmHg) indicates respiratory failure, and a rising or normal PaCO2 may herald impending respiratory arrest. ABGs should be done in severe or life-threatening asthma.\nReference: Malaysian CPG Management of Asthma in Adults 2024 (2nd Ed.), CPG Section 7.3; Recommendation 13.",
+    tag: "CPG Asthma 2024"
+  },
+  {
+    question_text: "A 28-year-old woman at 30 weeks of gestation presents with a moderate asthma exacerbation (speaks in phrases, RR 24/min, SpO2 91% on air). She is worried that steroids and inhaled bronchodilators may harm the baby. Which is the most appropriate management?",
+    option_a: "Withhold systemic corticosteroids until after delivery",
+    option_b: "Avoid SABA and use ipratropium alone",
+    option_c: "Treat with reduced doses to limit fetal exposure",
+    option_d: "Treat as in non-pregnant patients with prompt bronchodilators, oxygen (SpO2 94-98%) and systemic corticosteroids, and consider continuous fetal monitoring",
+    correct_option: "D",
+    explanation: "Rationale: Exacerbations in pregnancy are treated as in non-pregnant patients. Prompt bronchodilators, oxygen and systemic corticosteroids are needed to avoid fetal hypoxia. Oxygen saturation should be kept at 94-98%, magnesium sulphate can be given if indicated, continuous fetal monitoring should be considered, and early critical care referral is recommended for moderate to severe exacerbations. A, B and C risk fetal hypoxia from undertreated asthma.\nReference: Malaysian CPG Management of Asthma in Adults 2024 (2nd Ed.), CPG Section 8.2(c); Recommendation 16.",
+    tag: "CPG Asthma 2024"
+  },
+  {
+    question_text: "A 38-year-old man in the ED is drowsy with a silent chest, RR 10/min and BP 86/50 mmHg. SpO2 is 86% on high-flow oxygen. He has been given oxygen-driven nebulised salbutamol and ipratropium, IV hydrocortisone and IV magnesium sulphate 2 g, and is deteriorating. Which is the most appropriate next step?",
+    option_a: "Early intubation and referral to critical care",
+    option_b: "Repeat IV magnesium sulphate 2 g",
+    option_c: "IV aminophylline infusion and observe",
+    option_d: "Oral prednisolone and observe in the ED",
+    correct_option: "A",
+    explanation: "Rationale: Patients with life-threatening exacerbation who have respiratory distress, worsening hypoxaemia, hypercapnia, altered mental status, or failure to respond to maximal medical therapy should be considered for early intubation and critical care referral. B is wrong because there is no evidence for repeat dosing and it risks hypermagnesaemia. C is wrong because IV aminophylline has limited benefit and unfavourable adverse effects. D is far too weak for this deterioration.\nReference: Malaysian CPG Management of Asthma in Adults 2024 (2nd Ed.), Section 7.2 (early intubation; magnesium sulphate), Algorithm 4; Recommendations 12 and 14.",
+    tag: "CPG Asthma 2024"
+  },
+  {
+    question_text: "A patient in the ED has improved after treatment for a moderate asthma exacerbation. Which factor, if present, would favour admission rather than discharge?",
+    option_a: "Age 25 years",
+    option_b: "Use of more than eight salbutamol puffs in the previous 24 hours",
+    option_c: "Positive family history of atopy",
+    option_d: "Concurrent allergic rhinitis",
+    correct_option: "B",
+    explanation: "Rationale: Factors that may be considered for admission include older age, use of more than eight SABA puffs in the previous 24 hours, past severe exacerbations (intubation, admissions), past unscheduled visits needing OCS, and living alone, psychological problems or physical disability. Atopy and rhinitis do not influence disposition. Young age (A) does not favour admission.\nReference: Malaysian CPG Management of Asthma in Adults 2024 (2nd Ed.), CPG Section 7.4; Recommendation 14.",
+    tag: "CPG Asthma 2024"
+  },
+  {
+    question_text: "A 29-year-old woman has improved after treatment for a moderate exacerbation and is ready for discharge from the ED. Her symptoms have resolved and she can use her prescribed treatment at home. Which is the most appropriate discharge plan?",
+    option_a: "Oral prednisolone for 5-7 days and no review unless she worsens",
+    option_b: "Stop ICS until review",
+    option_c: "Oral salbutamol and review as needed",
+    option_d: "Prednisolone for 5-7 days, continue ICS, review inhaler technique and adherence, give an asthma action plan and arrange follow-up",
+    correct_option: "D",
+    explanation: "Rationale: After an exacerbation all patients should be given a follow-up plan on discharge. The plan includes 5-7 days of prednisolone, continuing maintenance ICS, assessing inhaler technique and adherence, step-up if indicated, and an asthma action plan. A lacks follow-up. B wrongly withdraws ICS. C wrongly uses oral SABA.\nReference: Malaysian CPG Management of Asthma in Adults 2024 (2nd Ed.), CPG Section 7.5; Algorithms 3-4; Recommendations 11 and 14.",
+    tag: "CPG Asthma 2024"
+  },
+  {
+    question_text: "Four adults with asthma are being reviewed. Which patient is at the highest risk of asthma-related death?",
+    option_a: "A 30-year-old woman with ACT 22, adherent to ICS-formoterol, with a written action plan",
+    option_b: "A 45-year-old man with allergic rhinitis on low-dose ICS and one ED visit 3 years ago",
+    option_c: "A 38-year-old man with a previous intubation for asthma, not on ICS, using about three salbutamol canisters a month and with no written action plan",
+    option_d: "A 55-year-old woman on ICS-LABA with good adherence and good control",
+    correct_option: "C",
+    explanation: "Rationale: Risk factors for asthma-related death include previous exacerbation needing mechanical ventilation or intubation, frequent ED visits or admissions, not using ICS, poor adherence, SABA overuse, no written asthma action plan, comorbidities and psychosocial barriers. Patient C has several of these. A, B and D have few or none.\nReference: Malaysian CPG Management of Asthma in Adults 2024 (2nd Ed.), CPG Section 7.1, Table 8.",
+    tag: "CPG Asthma 2024"
+  },
+  {
+    question_text: "A 31-year-old woman has taken prednisolone 10 mg daily for 3 weeks for severe asthma and is now in labour at term. What should be done in addition to continuing her maintenance inhaler?",
+    option_a: "Give IV hydrocortisone 100 mg every 6-8 hours during labour",
+    option_b: "Stop prednisolone to avoid fetal effects",
+    option_c: "Use prostaglandin F2α for induction as it is safe in asthma",
+    option_d: "Prefer general anaesthesia over regional blockade if anaesthesia is needed",
+    correct_option: "A",
+    explanation: "Rationale: In patients on prednisolone >7.5 mg/day for more than 2 weeks before delivery, IV hydrocortisone 100 mg every 6-8 hours should be given in labour to prevent adrenal insufficiency. The maintenance inhaler continues with reliever as needed. B is wrong because stopping risks adrenal crisis. C is wrong because prostaglandin F2α should be used with caution due to the risk of bronchoconstriction. D is wrong because regional blockade is preferred.\nReference: Malaysian CPG Management of Asthma in Adults 2024 (2nd Ed.), CPG Section 8.2(c).",
+    tag: "CPG Asthma 2024"
+  },
+  {
+    question_text: "A 38-year-old woman works in a chemical laboratory. Serial peak flow monitoring over 3 weeks shows a mean daily variability of 28% on workdays and 6% on non-workdays. Using the CPG method, what is the work-related variability and how is it interpreted?",
+    option_a: "17%, not suggestive",
+    option_b: "22%, suggestive of work-related asthma",
+    option_c: "34%, suggestive of work-related asthma",
+    option_d: "4.7%, not suggestive",
+    correct_option: "B",
+    explanation: "Rationale: Work-related variability = mean workday variability - mean non-workday variability = 28% - 6% = 22%. A variability of ≥20% on workdays compared with off days is suggestive of work-related asthma. A averages the two numbers (17%). C adds them (34%). D divides them.\nReference: Malaysian CPG Management of Asthma in Adults 2024 (2nd Ed.), CPG Section 8.3(b); Appendix 11.",
+    tag: "CPG Asthma 2024"
+  },
+  {
+    question_text: "A 45-year-old man with long-standing well-controlled asthma notices his symptoms worsen at his factory on dusty days. No specific workplace sensitiser has been identified and the trigger is non-specific. Which term best describes his condition?",
+    option_a: "Occupational asthma caused by a specific sensitiser",
+    option_b: "Exercise-induced bronchoconstriction",
+    option_c: "Severe asthma",
+    option_d: "Work-aggravated asthma",
+    correct_option: "D",
+    explanation: "Rationale: Patients with pre-existing asthma, or new adult-onset asthma, whose symptoms worsen because of non-specific workplace factors have work-aggravated asthma, which is not occupational asthma. Occupational asthma is caused by specific workplace exposures acting through immunological or non-immunological stimuli. Exercise and disease severity are not the issue here.\nReference: Malaysian CPG Management of Asthma in Adults 2024 (2nd Ed.), CPG Section 8.3.",
+    tag: "CPG Asthma 2024"
+  },
+  {
+    question_text: "A 46-year-old woman remains uncontrolled on high-dose ICS-LABA. Observation shows she misses doses, uses her DPI with weak inhalation, and still smokes. Her doctor wonders whether to label this \"severe asthma\" and refer for biologics. Which statement is most appropriate?",
+    option_a: "Diagnose severe asthma now because she is on high-dose therapy",
+    option_b: "Start maintenance oral corticosteroids",
+    option_c: "Address inhaler technique, adherence and smoking first, as severe asthma applies only if she remains uncontrolled despite optimised treatment",
+    option_d: "Proceed to biologic therapy without phenotyping",
+    correct_option: "C",
+    explanation: "Rationale: The CPG distinguishes difficult-to-treat asthma, which may be driven by incorrect technique, poor adherence, smoking or comorbidities, from severe asthma, a subset that persists despite optimised high-dose therapy and management of contributory factors. Modifiable factors should be addressed before diagnosing severe asthma. A is premature. B: long-term OCS is a last resort. D: phenotype assessment is mandatory before biologics.\nReference: Malaysian CPG Management of Asthma in Adults 2024 (2nd Ed.), CPG Section 8.1; Section 6.1.",
+    tag: "CPG Asthma 2024"
+  },
+  {
+    question_text: "A 52-year-old man with severe asthma uncontrolled despite optimised high-dose ICS-LABA-LAMA is being considered for biologic therapy. According to the CPG, which step is required before choosing a biologic?",
+    option_a: "Phenotypic assessment (for example blood eosinophils, FeNO, IgE and comorbidities such as nasal polyps)",
+    option_b: "Methacholine challenge",
+    option_c: "A 3-month trial of maintenance prednisolone",
+    option_d: "Bronchial thermoplasty",
+    correct_option: "A",
+    explanation: "Rationale: Biologics are add-on treatment for severe asthma after optimising therapy, and phenotype assessment is mandatory before selecting one. Factors guiding choice include exacerbation number, OCS use, lung function, biomarkers (blood eosinophils, FeNO, total and specific IgE) and comorbidities such as nasal polyposis or atopic dermatitis. B, C and D are not prerequisites.\nReference: Malaysian CPG Management of Asthma in Adults 2024 (2nd Ed.), CPG Section 8.1(b)(ii); Recommendation 15; Appendix 10.",
+    tag: "CPG Asthma 2024"
+  },
+  {
+    question_text: "A 22-year-old woman with asthma on regular low-dose ICS has chest tightness during football, though her asthma is otherwise controlled. Which is the most appropriate pre-exercise reliever?",
+    option_a: "Regular LABA alone",
+    option_b: "Oral prednisolone before exercise",
+    option_c: "SABA alone, as in non-asthmatic EIB",
+    option_d: "ICS-SABA or low-dose ICS-formoterol before exercise, together with regular daily ICS",
+    correct_option: "D",
+    explanation: "Rationale: For EIB in patients with asthma, as-needed ICS-SABA or low-dose ICS-formoterol before exercise is recommended with a regular daily ICS regimen. SABA alone is appropriate for EIB without asthma. A is wrong because LABA without ICS is not recommended. B has no role. Gradual warm-up also helps, and avoidance of exercise is not necessary.\nReference: Malaysian CPG Management of Asthma in Adults 2024 (2nd Ed.), CPG Section 8.4.",
+    tag: "CPG Asthma 2024"
+  },
+  {
+    question_text: "A 35-year-old woman in the ED has a severe asthma exacerbation with hypoxaemia (SpO2 87% on air) after initial SABA, ipratropium and IV hydrocortisone. She is alert but fatigued. Which oxygen strategy is best supported by the CPG?",
+    option_a: "100% oxygen by non-rebreather mask regardless of saturation",
+    option_b: "Controlled oxygen targeting SpO2 ≥94%, and consider high-flow nasal cannula over conventional oxygen",
+    option_c: "Withhold oxygen to avoid CO2 retention",
+    option_d: "Intubate immediately",
+    correct_option: "B",
+    explanation: "Rationale: Oxygen saturation of ≥94% should be maintained in hypoxic asthma patients, and in the ED high-flow nasal cannula should be considered over conventional oxygen therapy (better comfort and dyspnoea scores). A is uncontrolled oxygen. C is wrong because hypoxaemia must be corrected. D is premature because she is alert and has not yet failed maximal therapy.\nReference: Malaysian CPG Management of Asthma in Adults 2024 (2nd Ed.), CPG Section 7.2(i); Recommendation 9.",
+    tag: "CPG Asthma 2024"
   }
 ];
