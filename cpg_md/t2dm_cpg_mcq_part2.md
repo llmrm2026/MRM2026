@@ -1543,3 +1543,311 @@ D. Empagliflozin
 **Teaching point:** Adolescent T2DM: metformin and insulin, with liraglutide as an option. Escalate early.
 
 **Reference:** CPG Section 6.2 (T2DM in adolescents).
+
+---
+
+### Q71
+**Topic:** GLP1-RA and established retinopathy
+
+A 55-year-old man with T2DM for 15 years has HbA1c 9.8% and background retinopathy with a recent laser session. He is about to start weekly semaglutide, which should lower HbA1c by about 2%. He is anxious about his eyes.
+
+**What is the most appropriate precaution?**
+
+A. Avoid semaglutide altogether
+B. Start semaglutide; no eye review needed
+C. Dose at 1 mg from the start
+D. Slower titration with ophthalmology monitoring
+
+**Answer:** D
+
+**Explanation:** The CPG advises that patients with a history of diabetic retinopathy started on semaglutide be monitored for progression, and that slower dose titration may be warranted. Rapid glycaemic improvement in established retinopathy can transiently worsen it, so co-management with an ophthalmologist and a gradual fall in HbA1c are advised. Retinopathy is not a contraindication, and starting at the full dose is the opposite of the advice.
+
+**Teaching point:** Rapid HbA1c falls can worsen retinopathy. Titrate slowly and involve ophthalmology.
+
+**Reference:** CPG Section 3.6.2 (Semaglutide); Section 5.1.
+
+---
+
+### Q72
+**Topic:** Gastroparesis and incretin choice
+
+A 49-year-old woman with T2DM for 18 years has early satiety, postprandial vomiting and erratic glucose. Gastric emptying scintigraphy confirms delayed emptying. HbA1c is 8.4% on metformin and basal insulin, and she wants to lose weight.
+
+**Which add-on is most appropriate?**
+
+A. Exenatide
+B. Lixisenatide
+C. Empagliflozin
+D. Liraglutide
+
+**Answer:** C
+
+**Explanation:** Exenatide and lixisenatide should not be used in patients with gastroparesis. Liraglutide also delays gastric emptying and causes nausea and vomiting, so it would aggravate her symptoms. SGLT2 inhibitors do not affect gastric emptying and give weight loss with a low hypoglycaemia risk.
+
+**Teaching point:** Gastroparesis: avoid GLP1-RAs. Use an SGLT2 inhibitor if suitable.
+
+**Reference:** CPG Section 3.6.2 (Precautions for GLP1-RA); Section 5.3.
+
+---
+
+### Q73
+**Topic:** Gold standard for gastroparesis
+
+A 58-year-old man with T2DM has early satiety and bloating after small meals. Upper endoscopy is normal and there is no mechanical obstruction.
+
+**Which test is the gold standard for confirming the diagnosis?**
+
+A. Gastric emptying scintigraphy
+B. Barium meal
+C. Electrogastrography
+D. Gastric manometry
+
+**Answer:** A
+
+**Explanation:** The CPG names gastric emptying scintigraphy as the gold-standard test for diagnosing gastroparesis. Barium studies, electrogastrography and manometry can add information but are not the reference standard. Drugs that delay emptying, such as GLP1-RAs, should be stopped before testing.
+
+**Teaching point:** Diagnose gastroparesis with gastric emptying scintigraphy.
+
+**Reference:** CPG Section 5.3 (Autonomic neuropathy).
+
+---
+
+### Q74
+**Topic:** Postural hypotension in autonomic neuropathy
+
+A 63-year-old woman with T2DM has light-headedness on standing. BP falls from 142/80 mmHg lying to 112/62 mmHg standing at 3 minutes. Resting heart rate is 92/min and does not change on standing. Cardiovascular autonomic reflex tests (CART) show 3 abnormal results.
+
+**How does the CPG classify her autonomic neuropathy?**
+
+A. Early cardiac autonomic neuropathy
+B. Severe or advanced CAN
+C. Not neuropathic; due to drugs
+D. Borderline; repeat in 6 months
+
+**Answer:** B
+
+**Explanation:** Two or more abnormal CART results are diagnostic of cardiac autonomic neuropathy. An abnormal CART with orthostatic hypotension (fall of more than 20/10 mmHg) identifies severe or advanced CAN. Her fall is 30/18 mmHg with a fixed heart rate. Treatment includes avoiding drugs that cause orthostatic hypotension.
+
+**Teaching point:** CART ≥2 abnormal is CAN. Orthostatic hypotension (>20/10 mmHg) marks severe disease.
+
+**Reference:** CPG Section 5.3 (Autonomic neuropathy).
+
+---
+
+### Q75
+**Topic:** Screening for neuropathy
+
+A 52-year-old man has had T2DM for 3 years. He has no foot symptoms. His GP wants to screen for distal symmetrical polyneuropathy.
+
+**Which examination combination does the CPG describe?**
+
+A. Ankle reflexes alone
+B. 10-g monofilament plus one other modality
+C. Nerve conduction study as first test
+D. Vibration with 128-Hz tuning fork alone
+
+**Answer:** B
+
+**Explanation:** DSPN is assessed with a 10-g monofilament (starting at the dorsum of the hallux and moving proximally) plus one other modality: pin-prick, 128-Hz tuning fork vibration, ankle reflexes or vibration perception threshold. Single modalities are inadequate for screening, and nerve conduction studies are reserved for atypical cases.
+
+**Teaching point:** Screen for DSPN with a 10-g monofilament plus one other test, at diagnosis and yearly.
+
+**Reference:** CPG Section 5.3 (Screening and diagnosis).
+
+---
+
+### Q76
+**Topic:** Frequency of eye screening
+
+A 50-year-old woman had T2DM diagnosed 18 months ago. A retinal examination at diagnosis showed no retinopathy. She asks when the next screen is due.
+
+**What is the recommended interval?**
+
+A. 6 months
+B. 1-2 years
+C. 3 years
+D. 5 years
+
+**Answer:** B
+
+**Explanation:** Screening is done at diagnosis, and for people without retinopathy the interval is 1-2 years. The interval is shorter once retinopathy is found, based on its severity. Longer intervals are not supported.
+
+**Teaching point:** Retinal screening at diagnosis, then every 1-2 years if none. Shorter with retinopathy.
+
+**Reference:** CPG Section 5.1 (Recommendations: Retinopathy).
+
+---
+
+### Q77
+**Topic:** Erectile dysfunction as a marker
+
+A 54-year-old man with T2DM for 6 years has had erectile dysfunction for 8 months. He has no chest pain, and his resting ECG is normal. BP is 134/80 mmHg and LDL-C 2.1 mmol/l on a statin.
+
+**What additional step is most appropriate beyond treating the ED?**
+
+A. Testosterone replacement
+B. Screen for coronary heart disease
+C. Prostate-specific antigen only
+D. No further evaluation
+
+**Answer:** B
+
+**Explanation:** ED has been reported to be a marker of potential CVD, and the CPG recommends screening for CHD in men with T2DM and ED. Hypogonadism should also be excluded before testosterone is considered. PSA does not address vascular risk.
+
+**Teaching point:** ED in a man with diabetes may signal coronary disease. Screen for CHD and check testosterone.
+
+**Reference:** CPG Section 5.6 (Summary of updates); Section 5.6.1.
+
+---
+
+### Q78
+**Topic:** Depression screening
+
+A 48-year-old woman with T2DM of 5 years presents with a worsening HbA1c (from 7.0% to 8.9%), poor sleep and loss of interest. She misses insulin doses and clinic visits. She denies suicidal thoughts.
+
+**What does the CPG advise?**
+
+A. Assess psychological wellbeing for distress or depression
+B. Intensify insulin only
+C. Refer for diabetes education only
+D. Defer assessment until HbA1c improves
+
+**Answer:** A
+
+**Explanation:** Diabetes distress and depression are common, and the CPG advises assessing psychological and social wellbeing as part of continuing care: at diagnosis, at onset of complications, when diabetes is out of control and whenever indicated. Poor control with missed doses and anhedonia fits this scenario. Intensifying treatment first does not address why she is not taking it.
+
+**Teaching point:** Poorly controlled diabetes with disengagement: screen for distress or depression.
+
+**Reference:** CPG Section 5.7 (Recommendations: Mental health issues in T2DM).
+
+---
+
+### Q79
+**Topic:** ICU glycaemic target
+
+A 59-year-old man with T2DM is admitted to ICU with septic shock. Glucose on arrival is 17 mmol/l. The intensivist wants to aim for 4.5-6.0 mmol/l "to reduce infection".
+
+**What does the CPG recommend?**
+
+A. Maintain 7.8-10 mmol/l
+B. Aim for 4.5-6.0 mmol/l
+C. Aim for 10-14 mmol/l
+D. Aim for 6.0-8.0 mmol/l
+
+**Answer:** A
+
+**Explanation:** Intensive insulin therapy (4.5-6.0 mmol/l) was associated with more hypoglycaemia and higher mortality in ICU than conventional control (<10 mmol/l). The CPG recommends 7.8-10 mmol/l in critically ill patients, using variable-rate IV insulin protocols with proven safety.
+
+**Teaching point:** ICU glucose target is 7.8-10 mmol/l. Tight control raises mortality.
+
+**Reference:** CPG Section 6.1 (In critically ill patients).
+
+---
+
+### Q80
+**Topic:** Sliding scale alone
+
+A ward audit finds that most diabetic inpatients with high glucose are given short-acting insulin only when the reading is above 12 mmol/l (a "sliding scale"), with no scheduled insulin.
+
+**What does the CPG say about this practice?**
+
+A. Preferred for non-critical inpatients
+B. Acceptable if combined with OGLDs
+C. Strongly discouraged
+D. Required before surgery
+
+**Answer:** C
+
+**Explanation:** The CPG strongly discourages sliding-scale insulin alone. Compared with basal-bolus regimens it increases glycaemic variability and prolongs time to target. Scheduled regimens (basal-bolus or basal-plus) are recommended, with VRIII for those who are nil by mouth.
+
+**Teaching point:** Avoid sliding-scale-only insulin. Use scheduled regimens.
+
+**Reference:** CPG Section 6.1 (Use of insulin).
+
+---
+
+### Q81
+**Topic:** VTE prophylaxis in HHS
+
+A 71-year-old man with HHS on day 1 has glucose 38 mmol/l, osmolality 342 mOsm/kg and marked dehydration. He is immobile, has no bleeding and platelets are 240 x10^9/l.
+
+**Which additional measure is recommended by the CPG?**
+
+A. Prophylactic LMWH
+B. Therapeutic heparin infusion
+C. Aspirin 300 mg
+D. No prophylaxis
+
+**Answer:** A
+
+**Explanation:** HHS is strongly prothrombotic, with MI, stroke and arterial thrombosis common. The CPG recommends prophylactic LMWH unless contraindicated. Therapeutic anticoagulation is not recommended without another indication.
+
+**Teaching point:** Give prophylactic LMWH in HHS unless contraindicated.
+
+**Reference:** CPG Section 4.4 (Principles of treatment).
+
+---
+
+### Q82
+**Topic:** HHS resolution
+
+A 68-year-old woman with HHS has been treated with 0.9% saline and FRIII for 18 hours. She is alert and eating. Glucose is 13 mmol/l and effective serum osmolality is 335 mOsm/kg.
+
+**Is HHS resolved?**
+
+A. No; osmolality is too high
+B. Yes; she is alert and eating
+C. Yes; glucose is below 14
+D. No; ketones must be below 0.6
+
+**Answer:** A
+
+**Explanation:** HHS is resolved when the patient is alert, eating well, effective osmolality is below 320 mOsm/kg and glucose is below 14 mmol/l. Her osmolality remains above 320, so treatment continues, with a gradual fall of 3-8 mOsm/kg/h. The ketone criterion (below 0.6 mmol/l) belongs to DKA.
+
+**Teaching point:** HHS resolves with osmolality <320 mOsm/kg and glucose <14 mmol/l, plus alertness and eating.
+
+**Reference:** CPG Section 4.4 (Principles of treatment).
+
+---
+
+### Q83
+**Topic:** SGLT2 inhibitor in Ramadan
+
+A 52-year-old man with T2DM, eGFR 78 ml/min/1.73 m2, takes metformin and empagliflozin 25 mg each morning. He is moderate risk and wants to fast.
+
+**What advice is most appropriate?**
+
+A. Continue in the morning
+B. Stop during Ramadan
+C. Take at Iftar; ensure hydration
+D. Take at Sahur and Iftar
+
+**Answer:** C
+
+**Explanation:** SGLT2 inhibitors have a low hypoglycaemia risk but carry dehydration concerns, and they are generally safe in patients without advanced renal disease. The CPG's adjustment table advises switching the timing to Iftar, with adequate fluids. Taking it in the morning puts the osmotic diuresis in the fasting day. Splitting the dose does not fit its once-daily use.
+
+**Teaching point:** In Ramadan, move the SGLT2 inhibitor to Iftar. Take care with hydration and CKD ≥3.
+
+**Reference:** CPG Section 6.4, Table 6-5.
+
+---
+
+### Q84
+**Topic:** Glycaemic memory
+
+A 44-year-old man newly diagnosed with T2DM asks whether strict control in the first few years really matters if he later takes insulin anyway.
+
+**What is the key message in the CPG?**
+
+A. Early control has no lasting effect
+B. Only blood pressure control matters
+C. Metformin prevents all complications
+D. Early good control has legacy effects
+
+**Answer:** D
+
+**Explanation:** The CPG recommends emphasising the legacy effect or metabolic memory of good early glucose control to all newly diagnosed patients (Grade A). Early tight control gives lasting protection against complications even if control later slips.
+
+**Teaching point:** Good control early in T2DM has lasting legacy benefits.
+
+**Reference:** CPG Section 3.3 (Recommendations: Assessment, aims of treatment and education).

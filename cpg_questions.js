@@ -7032,5 +7032,845 @@ const cpgBank = [
     correct_option: "C",
     explanation: "Rationale: Metformin and insulin remain the mainstay of adolescent T2DM treatment. The CPG adds that the GLP1-RA liraglutide may be considered. Adolescent T2DM progresses faster, with β-cell loss of 20-35% a year compared with 7-11% in adults, so treatment needs early escalation. The other drugs are adult options not endorsed for adolescents in the CPG. Teaching point: Adolescent T2DM: metformin and insulin, with liraglutide as an option. Escalate early.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 6.2 (T2DM in adolescents).",
     tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 46-year-old man weighing 80 kg presents with vomiting and abdominal pain after 3 days of a febrile illness. Capillary glucose is 26 mmol/l, ketones 5.1 mmol/l, venous pH 7.12, bicarbonate 9 mmol/l and potassium 3.2 mmol/l. SBP is 104 mmHg. One litre of 0.9% saline is running. What is the most appropriate insulin management at this point?",
+    option_a: "FRIII 8 U/h now",
+    option_b: "8 U IV bolus, then FRIII",
+    option_c: "FRIII 4 U/h until potassium normalises",
+    option_d: "Delay insulin; replace potassium first",
+    correct_option: "D",
+    explanation: "Rationale: All three DKA criteria are met. The CPG FRIII rate is 0.1 U/kg/h (8 U/h here), but insulin should be delayed if the initial potassium is below 3.5 mmol/l until it is corrected, because insulin drives potassium into cells. A half-rate infusion still lowers potassium. A bolus is not part of the CPG regimen. Teaching point: In DKA, if K+ is below 3.5 mmol/l, replace potassium before starting the 0.1 U/kg/h FRIII.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 4.2 (DKA: insulin and potassium).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 52-year-old woman weighing 60 kg is 6 hours into DKA treatment on FRIII at 6 U/h with 0.9% saline and KCl. Capillary glucose is now 12.5 mmol/l, blood ketones 2.8 mmol/l, venous pH 7.24 and potassium 4.4 mmol/l. What is the most appropriate adjustment?",
+    option_a: "Keep the FRIII rate and add 10% dextrose",
+    option_b: "Stop the FRIII and give basal insulin",
+    option_c: "Halve the FRIII and add 5% dextrose",
+    option_d: "Halve the FRIII and add 10% dextrose",
+    correct_option: "A",
+    explanation: "Rationale: Once glucose falls below 14 mmol/l, the usual step is to add 5% dextrose and halve the insulin rate. However, the CPG states that if ketonaemia persists, the insulin rate should be maintained and 10% dextrose used instead. Her ketones are still 2.8 mmol/l and she is acidotic, so the insulin is still needed to clear ketones. DKA has not resolved (pH >7.3 and ketones <0.6 mmol/l), so stopping the FRIII is premature. Teaching point: In DKA, glucose below 14 mmol/l with persistent ketones means keep the insulin rate and switch to 10% dextrose.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 4.2 (Insulin; Resolution).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 74-year-old man with HHS weighs 70 kg. On admission: glucose 48 mmol/l, sodium 142 mmol/l, urea 22 mmol/l and calculated osmolality 332 mOsm/kg. Ketones are 0.8 mmol/l. After 2 hours of 0.9% saline (no insulin yet), glucose is 38 mmol/l, sodium 146 mmol/l and osmolality is falling by 5 mOsm/kg/h. What is the most appropriate fluid management?",
+    option_a: "Switch to 0.45% saline",
+    option_b: "Switch to 5% dextrose",
+    option_c: "Switch to 0.18% saline with 4% dextrose",
+    option_d: "Continue 0.9% saline",
+    correct_option: "D",
+    explanation: "Rationale: As glucose falls, water moves out of cells and the measured sodium rises. The CPG states that an initial rise in sodium is expected and is not, on its own, an indication for hypotonic fluid. 0.45% saline is used if sodium is above 145 mmol/l *and* osmolality is not falling (by less than 3 mOsm/kg/h) despite adequate hydration. His osmolality is falling at 5 mOsm/kg/h, within the 3-8 target, so 0.9% saline should continue. Dextrose is added only once glucose is below 14 mmol/l. Teaching point: In HHS, a rising sodium with appropriately falling osmolality is expected. Change to 0.45% saline only if osmolality stalls.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 4.4 (HHS: principles of treatment).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 79-year-old woman weighing 60 kg with HHS (glucose 41 mmol/l, osmolality 338 mOsm/kg, ketones 1.1 mmol/l, pH 7.36) has had 2 litres of 0.9% saline. Glucose has fallen to 33 mmol/l and is no longer falling with fluids alone. The team starts IV insulin. What is the most appropriate initial FRIII rate?",
+    option_a: "1 U/h",
+    option_b: "3 U/h",
+    option_c: "6 U/h",
+    option_d: "9 U/h",
+    correct_option: "B",
+    explanation: "Rationale: HHS uses a lower insulin rate than DKA: FRIII 0.05 U/kg/h, which is 3 U/h for 60 kg. 6 U/h is the DKA rate (0.1 U/kg/h), and it risks a rapid fall in glucose and osmolality, with osmotic demyelination and cerebral oedema. The target fall in glucose is 4-6 mmol/l/h. Patients with HHS are more insulin sensitive. Teaching point: FRIII is 0.05 U/kg/h in HHS and 0.1 U/kg/h in DKA.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 4.4; Figure 4-3.",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 58-year-old woman on metformin and empagliflozin is admitted 2 days after a laparoscopic cholecystectomy with nausea and tachypnoea. Glucose is 9.8 mmol/l, blood ketones 4.6 mmol/l, pH 7.18, bicarbonate 11 mmol/l and anion gap 24. She is clinically dry. Which IV fluid should accompany the insulin infusion?",
+    option_a: "5% dextrose saline",
+    option_b: "Hartmann's solution",
+    option_c: "0.9% saline alone",
+    option_d: "0.45% saline",
+    correct_option: "A",
+    explanation: "Rationale: Ketoacidosis with glucose below 11 mmol/l on an SGLT2 inhibitor after surgery is euglycaemic DKA. Treatment follows the standard DKA protocol, except that dehydration is corrected with 5% dextrose saline or 5% dextrose, so that insulin can continue without causing hypoglycaemia. 10% dextrose may be needed if glucose is low and she is not dehydrated. Saline alone would force the insulin to be cut back before the ketones clear. The SGLT2 inhibitor should be withheld until she has recovered and is eating. Teaching point: Euglycaemic DKA: standard FRIII plus dextrose-containing fluid, and stop the SGLT2 inhibitor.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 4.3 (Euglycaemic ketoacidosis).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 66-year-old man takes gliclazide MR 120 mg, metformin and acarbose 100 mg three times daily. Mid-afternoon at clinic he becomes sweaty and tremulous. Capillary glucose is 3.1 mmol/l. He is alert and able to swallow. What is the most appropriate immediate treatment?",
+    option_a: "150-200 ml orange juice",
+    option_b: "3 teaspoons sugar in water",
+    option_c: "Regular soft drink 200 ml",
+    option_d: "Glucose (dextrose) tablets 15 g",
+    correct_option: "D",
+    explanation: "Rationale: Acarbose inhibits α-glucosidase, so sucrose and complex carbohydrates are absorbed slowly. The CPG says people taking acarbose must treat hypoglycaemia with glucose (dextrose) tablets, or with milk or honey if tablets are unavailable. Juice, table sugar and soft drinks are the standard 15 g remedies for other patients, but their sucrose depends on the inhibited enzyme. Glucose should be rechecked at 15 minutes. Teaching point: On acarbose, treat hypoglycaemia with pure glucose, not sucrose.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 4.1 (Treatment of hypoglycaemia).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 70-year-old woman on basal insulin records a glucose of 2.8 mmol/l at 03:00 during a check prompted by night sweats. She woke, felt shaky, and treated herself with juice without help. Her next reading 15 minutes later was 5.2 mmol/l. How is this episode classified under the CPG?",
+    option_a: "Level 1 hypoglycaemia",
+    option_b: "Level 2 hypoglycaemia",
+    option_c: "Level 3 hypoglycaemia",
+    option_d: "Pseudo-hypoglycaemia",
+    correct_option: "B",
+    explanation: "Rationale: Level 1 is glucose <3.9 but ≥3.0 mmol/l. Level 2 is glucose <3.0 mmol/l, the threshold for neuroglycopenic symptoms, which needs immediate action. Level 3 is defined by altered mental or physical function needing another person's help, not by a glucose value. She treated herself, so the event is level 2 rather than level 3. Nocturnal hypoglycaemia on basal insulin should prompt checks at 2-5 am and a switch to an analogue if she is on human basal insulin. Teaching point: Below 3.0 mmol/l is level 2. Level 3 is defined by needing assistance, whatever the glucose.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 4.1, Table 4-2.",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 61-year-old man weighing 80 kg takes metformin, a DPP4 inhibitor and glargine 34 U at night, titrated over 4 months. Fasting glucose now runs at 5.5-6.5 mmol/l without hypoglycaemia. HbA1c is 8.6%. Post-dinner readings are 13-15 mmol/l. Adherence is good. What is the most appropriate next step?",
+    option_a: "Increase glargine by 2 U every 3 days",
+    option_b: "Add prandial insulin 4 U before dinner",
+    option_c: "Switch glargine to glargine U300",
+    option_d: "Add a sulphonylurea",
+    correct_option: "B",
+    explanation: "Rationale: Fasting glucose is at target, but HbA1c is high and post-dinner glucose is elevated. That pattern calls for intensification with prandial insulin (4 U per meal, or 10% of the basal dose) at the largest meal, or a switch to premixed insulin. Increasing the basal dose further risks nocturnal hypoglycaemia and \"over-basalisation\" (his dose is 0.43 U/kg). U300 changes the insulin profile but does not address post-meal spikes. A sulphonylurea is usually reduced or stopped when insulin is intensified. Teaching point: Fasting glucose at target with a high HbA1c means adding prandial insulin, not more basal insulin.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 3.6.5; Figure 3-2.",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 48-year-old woman with BMI 31 kg/m2 (90 kg) takes a basal-bolus regimen totalling 190 U/day. HbA1c remains 9.4%. She injects into the same area of her abdomen, which has a soft, rubbery swelling. There is no fever. What is the most appropriate next step?",
+    option_a: "Review injection technique and sites",
+    option_b: "Switch to an insulin pump",
+    option_c: "Increase total dose by 10%",
+    option_d: "Add pioglitazone 45 mg",
+    correct_option: "A",
+    explanation: "Rationale: Her total daily dose is 2.1 U/kg, above the 1.5-2.0 U/kg threshold that the CPG says should prompt a search for a secondary cause: non-adherence, incorrect dose, timing or injection technique, or occult infection. Lipohypertrophy from repeated injection into one site causes erratic absorption. Escalating the dose, moving to a pump, or adding pioglitazone (which adds fluid retention with insulin) are all premature. Teaching point: If total insulin exceeds 1.5-2.0 U/kg/day, check adherence, technique and injection sites before escalating.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 3.6.5 (General guidelines for long-term use of insulin).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "An 81-year-old woman with T2DM has heart failure, CKD stage 3b, osteoarthritis limiting mobility and mild cognitive impairment (MoCA 21/30). She lives with her daughter. She has had two falls this year. HbA1c is 7.4% on gliclazide MR 60 mg and linagliptin. What is the most appropriate HbA1c goal?",
+    option_a: "≤6.5%",
+    option_b: "≤7.0%",
+    option_c: "<8.0%",
+    option_d: "<8.5%",
+    correct_option: "C",
+    explanation: "Rationale: With several coexisting chronic illnesses and mild cognitive impairment, she falls in the CPG's \"complex/intermediate\" category, which has an HbA1c goal of <8.0% (fasting glucose 5-8.3 mmol/l). <8.5% is for \"very complex/poor health\" patients: long-term care, end-stage illness, or moderate-to-severe cognitive impairment. ≤7.0% and ≤6.5% are for healthier or newly diagnosed patients. Her sulphonylurea, falls and an HbA1c of 7.4% suggest that treatment could be de-intensified. Teaching point: Older people: healthy ≤7.5%, complex <8.0%, very complex <8.5%. Base the category on frailty, not age.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 6.3, Table 6-2.",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 63-year-old man with T2DM and severely increased albuminuria (UACR 85 mg/mmol) was started on dapagliflozin 10 mg 2 years ago, when his eGFR was 41 ml/min/1.73 m2. His eGFR is now 27 ml/min/1.73 m2. He is not on dialysis and has no genital infections or volume depletion. What is the most appropriate action regarding dapagliflozin?",
+    option_a: "Stop; eGFR now below 30",
+    option_b: "Continue dapagliflozin",
+    option_c: "Reduce to 5 mg daily",
+    option_d: "Switch to empagliflozin 10 mg",
+    correct_option: "B",
+    explanation: "Rationale: The CPG says not to *initiate* an SGLT2 inhibitor at eGFR below 30, but it may be *continued* if already started, and can be used until dialysis begins for renoprotection, even though its glucose-lowering effect is reduced. Stopping it removes a proven slowing of DKD progression. A lower dose or a different drug in the same class adds nothing. Teaching point: SGLT2 inhibitors: do not start below eGFR 30, but continue for renoprotection until dialysis.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 3.6.1 (SGLT2-i); Section 5.2.",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 59-year-old woman with T2DM, hypertension and moderately increased albuminuria starts perindopril 4 mg. Two weeks later her creatinine has risen from 90 to 110 µmol/l (22%) and her eGFR from 64 to 51 ml/min/1.73 m2 (20%). Potassium is 5.1 mmol/l. She is well and euvolaemic. What is the most appropriate action?",
+    option_a: "Continue perindopril and recheck",
+    option_b: "Stop perindopril",
+    option_c: "Halve the perindopril dose",
+    option_d: "Switch to an ARB",
+    correct_option: "A",
+    explanation: "Rationale: The CPG advises reducing or stopping an ACE inhibitor or ARB within 2 months if creatinine stays 30% or more above baseline, eGFR falls by 25% or more, or potassium reaches 5.6 mmol/l or above. Her changes (22%, 20%, K+ 5.1) are all below these thresholds, so the haemodynamic dip is acceptable and the drug should be continued and titrated up. Switching to an ARB gives similar benefits and risks and is pointless. Teaching point: After starting ACEi/ARB, act only if creatinine rises ≥30%, eGFR falls ≥25% or K+ is ≥5.6 mmol/l.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 5.2 (ACE inhibitors/ARB).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 47-year-old man diagnosed with T2DM a year ago has a negative urine protein dipstick. An early morning spot UACR is 4.2 mg/mmol. He has no fever, urinary symptoms or heart failure. BP is 128/78 mmHg off treatment and eGFR is 96 ml/min/1.73 m2. What is the most appropriate next step?",
+    option_a: "Start an ACE inhibitor now",
+    option_b: "Renal ultrasound",
+    option_c: "Repeat UACR twice within 3-6 months",
+    option_d: "24-hour urine protein collection",
+    correct_option: "C",
+    explanation: "Rationale: Albuminuria varies with hydration, exercise and infection. When microalbuminuria is detected, the CPG requires confirmation by repeating the test twice within 3-6 months, after excluding UTI and heart failure. DKD is diagnosed if 2 of 3 tests are positive. Starting treatment on a single result is premature. Ultrasound is for rapid decline or suspected obstruction. A 24-hour collection is less practical than UACR. Teaching point: One abnormal UACR is not DKD. Confirm with 2 of 3 positive tests over 3-6 months.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 5.2 (Assessment of albuminuria; Figure 5-1).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 66-year-old woman with T2DM and DKD is on maximum-dose losartan and empagliflozin. Over 12 months her eGFR has fallen from 52 to 44 ml/min/1.73 m2 and her uPCR is stable at 0.5 g/day. BP is 128/76 mmHg and HbA1c is 7.1%. What is the most appropriate next step?",
+    option_a: "Refer to a nephrologist",
+    option_b: "Add an ACE inhibitor to losartan",
+    option_c: "Continue and recheck in a year",
+    option_d: "Stop empagliflozin",
+    correct_option: "A",
+    explanation: "Rationale: The CPG lists rapid decline as an indication for nephrology referral: eGFR loss of more than 5 ml/min/1.73 m2 in 1 year (she lost 8), or more than 10 in 5 years. Other indications are eGFR below 30 and heavy proteinuria (≥1 g/day) despite treatment. Combining an ACE inhibitor with an ARB is not recommended because it causes hyperkalaemia and AKI without benefit. Empagliflozin is renoprotective and should continue. Teaching point: Refer DKD if eGFR falls more than 5 ml/min/1.73 m2 per year, eGFR is below 30, or proteinuria is ≥1 g/day.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 5.2 (Referral to nephrologist).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 78-year-old woman with T2DM has burning pain in both feet that disturbs her sleep. Monofilament sensation is absent to the ankles. She has had two falls this year, lying-standing BP is 146/80 falling to 118/68 mmHg, and she lives alone. Which neuropathic pain drug is the least suitable for her?",
+    option_a: "Pregabalin",
+    option_b: "Duloxetine",
+    option_c: "Gabapentin",
+    option_d: "Amitriptyline",
+    correct_option: "D",
+    explanation: "Rationale: All four drug classes are CPG options for painful DSPN. However, tricyclic antidepressants carry a higher risk of sedation and orthostatic hypotension and should be used with caution in older people at risk of falls. She already has a postural drop of 28 mmHg and has had falls. If response is poor, switching class or combining two drugs is preferred to escalating one. Teaching point: Avoid tricyclics for painful neuropathy in fallers with postural hypotension.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 5.3 (Treatment of DSPN).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 71-year-old man with T2DM for 20 years and CKD stage 4 has a non-healing ulcer on the right great toe. Foot pulses are difficult to feel. The ankle-brachial index is 1.42 on the right and 1.38 on the left. What is the most appropriate next step?",
+    option_a: "Reassure; PAD excluded",
+    option_b: "Toe-brachial index",
+    option_c: "Repeat the ABI in 3 months",
+    option_d: "Treat as neuropathic ulcer only",
+    correct_option: "B",
+    explanation: "Rationale: An ABI above 1.3 may reflect medial arterial calcification, which is common in long-standing diabetes and CKD, so it does not exclude PAD. The CPG recommends another test, such as the toe-brachial index (diagnostic if below 0.70) or continuous wave Doppler. In a patient with a foot ulcer, clinical examination alone may not exclude PAD, so combined testing is advised. Falsely reassuring results lead to missed ischaemia. Teaching point: ABI above 1.3 is non-diagnostic because of calcification. Use TBI or Doppler waveforms.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 5.4C (Peripheral arterial disease), Table 5-7.",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 62-year-old man with T2DM and stable angina reports erectile dysfunction for a year. He takes metformin, atorvastatin, bisoprolol and isosorbide mononitrate 60 mg daily. Morning testosterone is normal. What is the most appropriate management?",
+    option_a: "Sildenafil 50 mg as required",
+    option_b: "Tadalafil 5 mg daily",
+    option_c: "Testosterone replacement",
+    option_d: "Urology referral for non-PDE5 therapy",
+    correct_option: "D",
+    explanation: "Rationale: PDE5 inhibitors are first line for ED but are contraindicated with nitrates, unstable angina or poor exercise tolerance. A daily low-dose PDE5 inhibitor is still a PDE5 inhibitor. Testosterone helps only symptomatic hypogonadal men, and his level is normal. The CPG advises urology referral when PDE5 inhibitors are contraindicated, for options such as intracavernosal therapy, intraurethral alprostadil or vacuum devices. Teaching point: Nitrates mean no PDE5 inhibitor at any dose. Refer to urology for other options.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 5.6.1 (Erectile dysfunction).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 56-year-old woman with T2DM notices blurring of central vision in her right eye. Visual acuity is 6/18. Fundoscopy shows moderate non-proliferative retinopathy with hard exudates near the fovea, and optical coherence tomography confirms centre-involving macular oedema. There are no new vessels. What is the most appropriate treatment?",
+    option_a: "Pan-retinal photocoagulation",
+    option_b: "Focal macular laser",
+    option_c: "Intravitreal anti-VEGF",
+    option_d: "Observation and glucose control",
+    correct_option: "C",
+    explanation: "Rationale: For sight-threatening centre-involving diabetic macular oedema, intravitreal anti-VEGF is the treatment of choice and is superior to laser for visual gain. Pan-retinal laser is for high-risk proliferative (and some severe non-proliferative) retinopathy, which she does not have. Glucose control alone is insufficient for sight-threatening DMO. Teaching point: Centre-involving DMO: anti-VEGF. Proliferative retinopathy: pan-retinal laser.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 5.1 (Retinopathy).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 60-year-old man with T2DM and moderate non-proliferative retinopathy is on atorvastatin 40 mg. LDL-C is 1.6 mmol/l, triglycerides 1.5 mmol/l and HDL-C 1.1 mmol/l. He has no ASCVD. The ophthalmologist asks whether any lipid drug could slow his retinopathy. Which addition is most appropriate?",
+    option_a: "Ezetimibe",
+    option_b: "Omega-3 fatty acids 4 g",
+    option_c: "Nicotinic acid",
+    option_d: "Fenofibrate",
+    correct_option: "D",
+    explanation: "Rationale: In patients with established retinopathy, fenofibrate reduces progression of retinopathy whatever the baseline triglyceride or HDL-C level. Normal triglycerides are the trap. His LDL-C already meets the high-risk target, so ezetimibe adds nothing for the eye. Omega-3 and nicotinic acid are reserved for marked hypertriglyceridaemia. Teaching point: Fenofibrate slows diabetic retinopathy even when triglycerides are normal.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 3.9.2 (Hyperlipidaemia: management).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 54-year-old man takes metformin and repaglinide 2 mg with meals because he eats irregularly. Fasting triglycerides are 6.4 mmol/l despite improved diet and glucose control. Secondary causes have been excluded. A fibrate is planned. Which drug should not be used with his current regimen?",
+    option_a: "Fenofibrate",
+    option_b: "Gemfibrozil",
+    option_c: "Omega-3 fatty acids",
+    option_d: "Atorvastatin",
+    correct_option: "B",
+    explanation: "Rationale: Repaglinide combined with gemfibrozil is contraindicated because of a high risk of prolonged hypoglycaemia (gemfibrozil inhibits repaglinide metabolism). Fenofibrate is the safer fibrate for him. Fish oil 2-4 g/day is an option for TG above 5.7 mmol/l, and a statin may be combined. Meglitinides can be added to other OGLDs except sulphonylureas. Teaching point: Never combine repaglinide with gemfibrozil, because of prolonged hypoglycaemia.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 3.6.1 (Meglitinides); Section 3.9.2.",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 64-year-old man with T2DM has ischaemic cardiomyopathy (LVEF 32%) and was admitted with decompensated heart failure 2 months ago. He takes metformin 1 g twice daily, sacubitril/valsartan, bisoprolol and spironolactone. HbA1c is 7.8% and eGFR is 58 ml/min/1.73 m2. Which glucose-lowering add-on is most appropriate?",
+    option_a: "Saxagliptin",
+    option_b: "Pioglitazone",
+    option_c: "Dapagliflozin",
+    option_d: "Glimepiride",
+    correct_option: "C",
+    explanation: "Rationale: SGLT2 inhibitors reduce CV death and heart failure hospitalisation in HFrEF (DAPA-HF, EMPEROR-Reduced), with or without diabetes. The CPG says they should be considered even when HbA1c is at target. Saxagliptin increased heart failure admissions and should be avoided in pre-existing heart failure. TZDs are contraindicated in CCF. Glimepiride is CV-neutral and gives no heart failure benefit. Teaching point: HFrEF plus T2DM: add an SGLT2 inhibitor. Avoid saxagliptin and TZDs.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 5.4A (CVD management); Section 3.6.1.",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 58-year-old woman with T2DM had a non-ST-elevation MI a year ago. She takes metformin 1 g twice daily, and her HbA1c is 6.6%. BMI is 33 kg/m2 and eGFR 85 ml/min/1.73 m2. She is keen to lose weight and asks whether any change to her diabetes treatment is needed. What is the most appropriate change?",
+    option_a: "None; HbA1c at target",
+    option_b: "Add liraglutide",
+    option_c: "Add exenatide extended-release",
+    option_d: "Add sitagliptin",
+    correct_option: "B",
+    explanation: "Rationale: With established ASCVD, the CPG recommends adding an SGLT2 inhibitor or a GLP1-RA *with demonstrated CV benefit*, whatever the HbA1c achieved. Liraglutide reduced MACE in LEADER, and it also helps weight. Exenatide ER showed no significant MACE reduction in EXSCEL. Sitagliptin is CV-safe but not cardioprotective. An HbA1c at target is the trap. Teaching point: In ASCVD, add a GLP1-RA or SGLT2 inhibitor with proven CV benefit, even if HbA1c is at target.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 5.4A (Recommendation 5); Section 3.6.2.",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 45-year-old woman with T2DM and BMI 36 kg/m2 has HbA1c 8.2% on metformin and gliclazide. Her brother had a total thyroidectomy for medullary thyroid carcinoma and was found to carry a RET mutation (MEN 2A). eGFR is 90 ml/min/1.73 m2. Which add-on is most appropriate?",
+    option_a: "Semaglutide weekly",
+    option_b: "Dulaglutide weekly",
+    option_c: "Liraglutide daily",
+    option_d: "Empagliflozin",
+    correct_option: "D",
+    explanation: "Rationale: GLP1-RAs should not be used in patients with a personal or family history of MEN 2A/2B or medullary thyroid cancer. That excludes all three GLP1-RAs, however weight-effective. An SGLT2 inhibitor adds weight loss with a low risk of hypoglycaemia. Teaching point: A family history of MTC or MEN2 rules out all GLP1-RAs.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 3.6.2 (Precautions for GLP1-RA).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 52-year-old man with T2DM takes metformin 1 g twice daily and sitagliptin 100 mg daily. HbA1c is 8.4% and BMI 34 kg/m2. Liraglutide 0.6 mg daily is to be started, titrating to 1.2-1.8 mg. What change should be made to his existing tablets?",
+    option_a: "Stop metformin",
+    option_b: "Halve sitagliptin",
+    option_c: "Stop sitagliptin",
+    option_d: "No change needed",
+    correct_option: "C",
+    explanation: "Rationale: GLP1-RAs should not be combined with DPP4 inhibitors, as both act on the incretin pathway. A half dose of sitagliptin is still the same class. Metformin should continue as the base therapy. Keeping all three drugs is the error the question is testing. Teaching point: Starting a GLP1-RA means stopping the DPP4 inhibitor.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 3.6.2 (Precautions for GLP1-RA).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 60-year-old woman injects semaglutide 1 mg every Sunday. On Wednesday morning she realises she forgot Sunday's dose. Her next scheduled dose is in 4 days. What is the most appropriate advice?",
+    option_a: "Inject now, then next Sunday",
+    option_b: "Skip it; resume next Sunday",
+    option_c: "Inject now; make Wednesday the new day",
+    option_d: "Inject 2 mg next Sunday",
+    correct_option: "B",
+    explanation: "Rationale: For semaglutide, if 5 or more days remain until the next dose, the missed dose is given as soon as possible. If fewer than 5 days remain, it is skipped and the next scheduled dose given. She has 4 days, so she should skip. The dulaglutide cut-off is 3 days, so under the dulaglutide rule she would have injected now, which is the near-miss. Doses are never doubled. Teaching point: Missed weekly GLP1-RA: semaglutide, inject if ≥5 days to the next dose; dulaglutide, if ≥3 days.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 3.6.2, Table 3-16.",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 49-year-old man is diagnosed with T2DM on routine screening. He has no symptoms and no weight loss. HbA1c is 9.2% and fasting glucose 11.2 mmol/l. Urine ketones are negative. eGFR is 92 ml/min/1.73 m2 and he has no CVD. According to the CPG treatment algorithm, what is the most appropriate initial pharmacological approach?",
+    option_a: "Metformin monotherapy",
+    option_b: "Dual combination therapy",
+    option_c: "Triple combination therapy",
+    option_d: "Basal insulin with OGLD",
+    correct_option: "C",
+    explanation: "Rationale: The CPG algorithm for newly diagnosed T2DM uses HbA1c bands: <6.5% consider metformin; 6.5-7.4% mono or dual therapy; 7.5-8.4% dual; 8.5-10.0% (FPG 10.0-13.0) triple combination; >10.0% (FPG >13.0) or symptomatic, basal or premixed insulin with combination therapy. At 9.2% and asymptomatic, he is in the triple combination band. Teaching point: New T2DM by HbA1c: 6.5-7.4% mono/dual, 7.5-8.4% dual, 8.5-10% triple, >10% or symptomatic insulin.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 3.7, Figure 3-3.",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 38-year-old woman presents with 6 weeks of thirst, polyuria and 5 kg weight loss. HbA1c is 11.8% and fasting glucose 15.6 mmol/l. Blood ketones are 0.4 mmol/l and venous pH 7.38. GAD antibodies are negative. BMI is 29 kg/m2. What is the most appropriate initial treatment?",
+    option_a: "Metformin plus sitagliptin",
+    option_b: "Triple oral combination",
+    option_c: "GLP1-RA plus metformin",
+    option_d: "Basal insulin plus metformin",
+    correct_option: "D",
+    explanation: "Rationale: Symptomatic hyperglycaemia with catabolism (weight loss) and HbA1c above 10% or FPG above 13.0 mmol/l are CPG indications for insulin as initial therapy, combined with OGLDs. She is not in DKA, so this is outpatient basal insulin (10 U, or 0.1-0.2 U/kg/day) plus metformin. Oral combinations or a GLP1-RA are too slow for catabolic hyperglycaemia and are not a substitute for insulin. Teaching point: Weight loss with HbA1c >10% or FPG >13 mmol/l: start insulin from diagnosis.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 3.6.5; Figure 3-2; Figure 3-3.",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 42-year-old man has had T2DM for 3 years. He is a non-smoker, normotensive, with no albuminuria, retinopathy or CVD. LDL-C is 2.3 mmol/l, which is below his moderate-risk target of 2.6 mmol/l. He asks whether he really needs a statin. What is the most appropriate advice?",
+    option_a: "Start a statin",
+    option_b: "No statin; LDL-C at target",
+    option_c: "Recheck LDL-C at age 50",
+    option_d: "Diet alone, then reassess",
+    correct_option: "A",
+    explanation: "Rationale: The CPG recommends that all patients with T2DM over the age of 40 receive a statin regardless of baseline LDL-C (Grade A). Using the risk-based LDL-C target as the reason not to start is the trap: the target guides intensity, not whether to treat. A statin is generally not recommended only in those under 21 without ASCVD. Teaching point: T2DM over 40: statin whatever the LDL-C. Targets guide intensity.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 3.9.2 (Recommendations: Dyslipidaemia).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 61-year-old man with T2DM had an anterior MI 2 years ago. He takes atorvastatin 80 mg with good adherence and no side effects. LDL-C is 1.7 mmol/l, TG 1.4 mmol/l and HDL-C 1.0 mmol/l. What is the most appropriate lipid management?",
+    option_a: "Continue; LDL-C below 1.8",
+    option_b: "Switch to rosuvastatin 10 mg",
+    option_c: "Add ezetimibe",
+    option_d: "Add a PCSK9 inhibitor",
+    correct_option: "C",
+    explanation: "Rationale: T2DM with established CVD is very high risk, with an LDL-C target below 1.4 mmol/l. A target of 1.8 applies only to high risk, which is the trap. If the target is not reached on the maximum tolerated statin, ezetimibe is added. A PCSK9 inhibitor is considered only if statin plus ezetimibe fails. Rosuvastatin 10 mg is less intense than atorvastatin 80 mg. Teaching point: Diabetes with CVD: LDL-C <1.4 mmol/l. Escalate statin, then ezetimibe, then PCSK9 inhibitor.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 3.9.2, Table 3-26.",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 68-year-old woman with T2DM on metformin and glimepiride is admitted with pneumonia. She is eating less than half her meals. Creatinine has risen from 80 to 145 µmol/l. Glucose readings are 13-16 mmol/l. She is not critically ill. What is the most appropriate glucose management?",
+    option_a: "Continue home OGLDs",
+    option_b: "Sliding-scale insulin alone",
+    option_c: "Stop OGLDs; basal-plus insulin",
+    option_d: "Stop metformin; increase glimepiride",
+    correct_option: "C",
+    explanation: "Rationale: OGLDs should be stopped in hospital when there is poor oral intake, AKI, IV contrast, critical illness or organ failure. She has poor intake and AKI. For non-critically ill patients who are not eating well, the options are a basal-plus insulin regimen or VRIII, with a target of 7.8-10 mmol/l. Sliding-scale insulin alone is strongly discouraged. Increasing a sulphonylurea with AKI and poor intake risks prolonged hypoglycaemia. Teaching point: Inpatient with poor intake and AKI: stop OGLDs and use basal-plus insulin. Never use a sliding scale alone.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 6.1 (Management of T2DM in acute illness).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 55-year-old man with T2DM takes premixed insulin 30/70: 24 U before breakfast and 16 U before dinner. HbA1c is 7.2%. After a pre-Ramadan assessment he is judged at moderate risk and plans to fast. What is the most appropriate insulin adjustment?",
+    option_a: "24 U at Iftar; 16 U reduced by 20-50% at Sahur",
+    option_b: "16 U at Iftar; 24 U at Sahur",
+    option_c: "24 U at Iftar; 16 U unchanged at Sahur",
+    option_d: "40 U once daily at Sahur",
+    correct_option: "A",
+    explanation: "Rationale: For twice-daily premixed insulin, the doses are reversed: the usual morning dose is given at Iftar, and the evening dose at Sahur, reduced by 20-50% to prevent daytime hypoglycaemia (or a switch to short- or rapid-acting insulin). Giving the larger dose at Sahur, or not reducing the Sahur dose, exposes him to hypoglycaemia late in the fast. A single large Sahur dose is worse still. Teaching point: Premixed BD in Ramadan: morning dose at Iftar, and the evening dose at Sahur reduced by 20-50%.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 6.4, Table 6-6.",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 61-year-old woman on gliclazide MR 60 mg and metformin is fasting in Ramadan. Two hours after Imsak (dawn) she feels slightly shaky. Capillary glucose is 3.7 mmol/l. She would like to complete the fast if possible. What is the most appropriate advice?",
+    option_a: "Continue; break only if below 3.3",
+    option_b: "Continue; recheck in 1 hour",
+    option_c: "Break the fast now",
+    option_d: "Continue; take dates at Iftar",
+    correct_option: "C",
+    explanation: "Rationale: The CPG's criteria for ending a fast are: glucose below 3.3 mmol/l at any time; glucose below 3.9 mmol/l within the first few hours of fasting, especially in those on SUs, meglitinides or insulin; glucose above 16.7 mmol/l or dehydration; or hypoglycaemic symptoms when SMBG is not available. She is on a sulphonylurea, early in the fast, with glucose below 3.9 mmol/l, so she must break the fast. The 3.3 threshold applies \"at any time\", which is the near-miss. Teaching point: Early in the fast on an SU or insulin, glucose below 3.9 mmol/l means break the fast.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 6.4, Table 6-3.",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 58-year-old man takes metformin 1 g twice daily and gliclazide MR 90 mg each morning. HbA1c is 7.0%. He is moderate risk and intends to fast. What is the most appropriate change to his gliclazide MR?",
+    option_a: "Take at Iftar; consider a dose reduction",
+    option_b: "Take at Sahur, same dose",
+    option_c: "Split between Sahur and Iftar",
+    option_d: "Stop for the whole month",
+    correct_option: "A",
+    explanation: "Rationale: Under the CPG's Ramadan adjustment table, gliclazide MR (and glimepiride) is switched to Iftar and the dose may need to be reduced. Taking a long-acting SU at Sahur puts its peak in the fasting day, when hypoglycaemia risk is highest. Splitting the dose is not the recommended approach. Stopping it is unnecessary at moderate risk. Metformin needs no change. Teaching point: In Ramadan, move gliclazide MR or glimepiride to Iftar and consider reducing the dose. Metformin is unchanged.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 6.4, Table 6-5.",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 50-year-old woman uses glargine 30 U at 07:00, with metformin. HbA1c is 6.6% and she has occasional pre-lunch readings of 4.2 mmol/l. She is moderate risk and plans to fast. What is the most appropriate glargine adjustment?",
+    option_a: "Same dose at Sahur",
+    option_b: "Same dose after Iftar",
+    option_c: "Reduce 50%, give at Sahur",
+    option_d: "Reduce 15-30%, give after Iftar",
+    correct_option: "D",
+    explanation: "Rationale: For basal insulin only, the dose is taken at bedtime or after Iftar. Patients who are well or tightly controlled should reduce the dose by 15-30% to avoid daytime hypoglycaemia. She is tightly controlled with low pre-lunch readings, so the dose should be both moved and reduced. Giving it at Sahur puts the most insulin into the fasting hours. A 50% cut is excessive. Teaching point: Basal insulin in Ramadan: give after Iftar or at bedtime, reduced by 15-30% if tightly controlled.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 6.4, Table 6-6.",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 66-year-old man with T2DM on metformin is started on prednisolone 40 mg each morning for a COPD exacerbation. Over 2 days his fasting glucose is 6.5-7.5 mmol/l, but readings at 16:00 and 20:00 are 16-19 mmol/l. He is eating normally. What is the most appropriate insulin regimen?",
+    option_a: "Morning NPH insulin",
+    option_b: "Bedtime glargine",
+    option_c: "Correction (sliding-scale) insulin only",
+    option_d: "Pre-breakfast rapid-acting insulin",
+    correct_option: "A",
+    explanation: "Rationale: Morning prednisolone causes afternoon and evening hyperglycaemia with near-normal fasting values. The CPG options for glucocorticoid-related hyperglycaemia include bolus plus NPH given in the morning (or twice daily), basal-bolus, or VRIII. Morning NPH matches the steroid profile. Bedtime glargine mainly lowers fasting glucose, which is already acceptable, and risks nocturnal hypoglycaemia. Sliding scale alone is discouraged. A single pre-breakfast rapid-acting dose wanes before the afternoon peak. Teaching point: Morning steroids cause afternoon hyperglycaemia. Morning NPH matches that profile.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 6.1 (Patients receiving corticosteroid therapy).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 63-year-old woman with T2DM on basal insulin and metformin is having an elective hemicolectomy. The anaesthetist asks what plasma glucose range to aim for during the perioperative period, while she is on VRIII. What target does the CPG recommend?",
+    option_a: "4.4-7.0 mmol/l",
+    option_b: "6.0-10.0 mmol/l",
+    option_c: "7.8-10.0 mmol/l",
+    option_d: "8.0-12.0 mmol/l",
+    correct_option: "B",
+    explanation: "Rationale: The surgical target is 6.0-10.0 mmol/l, with OGLDs stopped and replaced by basal-plus insulin or VRIII during fasting. 7.8-10.0 mmol/l is the target for general critically ill and non-critically ill inpatients, which is the near-miss. 4.4-7.0 mmol/l is the outpatient fasting target. 8-12 mmol/l is the post-DKA maintenance range. Teaching point: Glucose targets: surgery 6-10, inpatients 7.8-10, outpatients fasting 4.4-7.0 mmol/l.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 6.1 (In surgery).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 13-year-old girl weighing 40 kg has acanthosis nigricans, a mother with T2DM, and fasting glucose of 6.4 mmol/l. An OGTT is planned. What glucose load should she receive?",
+    option_a: "75 g",
+    option_b: "70 g",
+    option_c: "52.5 g",
+    option_d: "35 g",
+    correct_option: "B",
+    explanation: "Rationale: For adolescents, the OGTT glucose load is 1.75 g/kg up to a maximum of 75 g: 1.75 × 40 = 70 g. 75 g is the adult (maximum) dose. 52.5 g and 35 g come from wrong multipliers (1.3 and 0.875 g/kg). Teaching point: Paediatric OGTT: 1.75 g/kg, maximum 75 g.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 6.2 (Recommendations: T2DM in adolescents).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 9-year-old girl with obesity (BMI above the 97th centile) has a father with T2DM. She began puberty at 8 years 6 months. A fasting glucose done today is normal. When should she be screened for diabetes from now on?",
+    option_a: "Annually from age 10",
+    option_b: "Every 3 years from age 12",
+    option_c: "Annually from now",
+    option_d: "Every 2 years from now",
+    correct_option: "D",
+    explanation: "Rationale: For at-risk children, screening starts at 10 years of age, or at the onset of puberty if that is earlier, and is repeated every 2 years. She entered puberty before 10, so screening starts now and repeats every 2 years. The adult rule (annual screening with risk factors) is the near-miss. Teaching point: At-risk children: screen from age 10 or puberty, whichever is earlier, every 2 years.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 6.2.",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 41-year-old woman who had gestational diabetes 3 years ago has impaired glucose tolerance on OGTT (2-hour glucose 9.4 mmol/l). She completed a 6-month structured lifestyle programme but lost only 2% of her body weight, and a repeat OGTT is unchanged. BMI is 31 kg/m2 and eGFR is normal. What is the most appropriate next step?",
+    option_a: "Start metformin",
+    option_b: "Continue lifestyle change alone",
+    option_c: "Start acarbose",
+    option_d: "Start vitamin D",
+    correct_option: "A",
+    explanation: "Rationale: Metformin should be considered for people at very high risk: prediabetes, previous GDM, or failure of lifestyle therapy after 6 months. She has all three. Lifestyle change remains the mainstay (target weight loss of at least 7%), but she has not responded. Acarbose reduced progression from IGT by 23%, but metformin is the CPG choice. Vitamin D did not slow progression. Teaching point: Previous GDM, prediabetes or lifestyle failure at 6 months means adding metformin for prevention.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 7 (Recommendations: Prevention of T2DM); Section 8.1.",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 54-year-old man with T2DM has ALT 68 U/l and AST 52 U/l. Ultrasound shows a fatty liver with no focal lesion. Viral, autoimmune and iron studies are negative and he drinks no alcohol. Platelets are 168 x10^9/l. His FIB-4 score is in the indeterminate range. What is the most appropriate next step?",
+    option_a: "Liver biopsy",
+    option_b: "Repeat ALT in 1 year",
+    option_c: "Liver stiffness measurement",
+    option_d: "Start pioglitazone",
+    correct_option: "C",
+    explanation: "Rationale: For patients with indeterminate or high serum fibrosis markers, the CPG advises referral for liver stiffness measurement. Biopsy may be considered for a definitive diagnosis later, but it is not the next step. Annual repeat ALT ignores possible advanced fibrosis. For suspected NASH, the CPG favours a GLP1-RA and/or SGLT2 inhibitor, alongside lifestyle intervention as the mainstay. Teaching point: NAFLD with indeterminate fibrosis markers: elastography next.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 3.9.4 (Recommendations: Assessment and treatment of NAFLD).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 67-year-old man on a basal-bolus regimen has had three episodes in 2 months in which his wife found him confused, with glucose of 2.1-2.6 mmol/l. He no longer feels sweaty or shaky beforehand. HbA1c is 6.4%. He has a history of stable angina. What is the most appropriate strategy?",
+    option_a: "Relax targets; avoid hypoglycaemia for 3 months",
+    option_b: "Keep HbA1c ≤6.5%; add a bedtime snack",
+    option_c: "Switch to premixed insulin twice daily",
+    option_d: "Tighten targets to retrain awareness",
+    correct_option: "A",
+    explanation: "Rationale: This is hypoglycaemia unawareness, which should trigger a re-evaluation of the regimen. Patients with unawareness or CVD should relax their glycaemic targets. Strictly avoiding hypoglycaemia for up to 3 months can restore warning symptoms and counter-regulation. Keeping tight targets with a snack, or tightening further, perpetuates the problem. Premixed insulin does not reduce hypoglycaemia risk. Teaching point: Hypoglycaemia unawareness: relax targets and avoid every hypo for 3 months.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 4.1 (Hypoglycaemia unawareness; Recommendations).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 72-year-old woman on insulin is brought to the ED unresponsive, with capillary glucose 1.8 mmol/l. She has thin, sclerosed veins and two attempts at IV cannulation have failed. Her airway is maintained with a head tilt. What is the most appropriate immediate treatment?",
+    option_a: "Honey into the buccal cavity",
+    option_b: "50 ml of 50% dextrose IV",
+    option_c: "Glucagon 1 mg IM",
+    option_d: "15 g oral glucose gel",
+    correct_option: "C",
+    explanation: "Rationale: For unconscious (level 3) hypoglycaemia, the options are 20-50 ml of 50% dextrose IV, 75-100 ml of 20% dextrose, or glucagon 1 mg SC/IM if IV access is not available. She has no IV access. Honey in the mouth is the CPG option *outside* hospital. Oral gel risks aspiration in an unconscious patient. Glucose is rechecked every 15 minutes, and a meal is given once she is awake. Teaching point: Unconscious hypo: IV dextrose, or IM glucagon 1 mg if there is no IV access. Honey is for out-of-hospital use only.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 4.1, Figure 4-1.",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 34-year-old man with DKA has received 2 litres of 0.9% saline with KCl and has been on FRIII at 0.1 U/kg/h for 3 hours. His perfusion has improved. Venous pH was 6.82 on admission and is still 6.86. Potassium is 4.2 mmol/l. What is the most appropriate additional treatment?",
+    option_a: "No bicarbonate; continue protocol",
+    option_b: "50 ml 8.4% NaHCO3 in 200 ml 5% dextrose over 1 hour",
+    option_c: "100 ml 8.4% NaHCO3 IV bolus",
+    option_d: "500 ml 1.26% NaHCO3 over 30 minutes",
+    correct_option: "B",
+    explanation: "Rationale: IV bicarbonate is not routinely indicated in DKA because of paradoxical CSF acidosis, delayed ketone clearance and cerebral oedema risk. However, it may be considered if pH stays below 6.9 despite adequate fluids and insulin. The CPG regimen is one ampoule (50 ml) of 8.4% NaHCO3 in 200 ml of 5% dextrose over 1 hour, repeated every 1-2 hours until pH is 7.0 or above. Withholding bicarbonate is right only above 6.9. A bolus or isotonic litre is not the CPG regimen. Teaching point: In DKA, give bicarbonate only if pH stays below 6.9 despite treatment: 50 ml 8.4% in 200 ml D5% over 1 hour.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 4.2 (IV bicarbonate).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 40-year-old woman weighing 80 kg with BMI 34 kg/m2 and acanthosis nigricans has recovered from DKA (pH 7.36, ketones 0.3 mmol/l). She is eating and drinking. She was not on insulin before admission. A basal-bolus regimen is to be started. What is the most appropriate bedtime long-acting insulin dose?",
+    option_a: "20 U",
+    option_b: "30 U",
+    option_c: "40 U",
+    option_d: "60 U",
+    correct_option: "B",
+    explanation: "Rationale: The CPG estimates total daily dose as 0.5-0.75 U/kg, using 0.75 U/kg for insulin-resistant patients (obesity, acanthosis): 0.75 × 80 = 60 U. Half (30 U) is given as long-acting insulin at bedtime, and the other 30 U is split equally before the three meals (10 U each). 20 U is half of 0.5 U/kg, which ignores the insulin resistance. 60 U is the whole daily dose given as basal. Teaching point: After DKA: TDD 0.5-0.75 U/kg (0.75 if insulin resistant), 50% as basal and 50% split across three meals.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 4.2 (Transitioning from IV to SC insulin).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 49-year-old man with DKA has been on FRIII and 10% dextrose for 14 hours. He feels better and asks to eat. Venous pH is 7.32, bicarbonate 17 mmol/l, blood ketones 0.9 mmol/l, glucose 10.4 mmol/l and potassium 4.3 mmol/l. What is the most appropriate next step?",
+    option_a: "DKA resolved; start SC insulin and stop FRIII",
+    option_b: "Resolved; stop FRIII, then start SC tomorrow",
+    option_c: "Not resolved; add IV bicarbonate",
+    option_d: "Not resolved; continue FRIII",
+    correct_option: "D",
+    explanation: "Rationale: DKA resolution is defined as pH above 7.3 *and* plasma ketones below 0.6 mmol/l. His pH qualifies, but ketones of 0.9 mmol/l do not, so the FRIII should continue (he may eat if able). Switching early risks rebound ketosis. Bicarbonate has no role at pH 7.32. When the switch is made, SC insulin should overlap the infusion. Teaching point: DKA resolution needs both pH >7.3 and ketones <0.6 mmol/l.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 4.2 (Resolution).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 58-year-old man has recovered from DKA. He is eating breakfast and has been restarted on his usual human premixed insulin (Mixtard 30), given 30 minutes before the meal. The nurse asks when to stop the IV insulin infusion. When should the FRIII be stopped?",
+    option_a: "At the time of the SC injection",
+    option_b: "30 minutes after the SC injection",
+    option_c: "1 hour after the SC injection",
+    option_d: "4 hours after the SC injection",
+    correct_option: "C",
+    explanation: "Rationale: SC insulin should overlap the infusion for 30 minutes for insulin analogues and 1 hour for human insulin, to prevent rebound hyperglycaemia and ketosis. Mixtard is human insulin, so the overlap is 1 hour. 30 minutes is the analogue overlap and is the near-miss. Stopping at the time of injection leaves a gap in insulin cover. Teaching point: IV-to-SC overlap: analogue 30 minutes, human insulin 1 hour.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 4.2 (Transitioning).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 27-year-old woman with DKA has BP 84/50 mmHg, pulse 128/min, cool peripheries and a capillary refill time of 4 seconds. She has no history of heart or kidney disease. Large-bore IV access is in place. What is the most appropriate initial fluid?",
+    option_a: "500 ml 0.9% saline over 10-15 minutes",
+    option_b: "1 litre 0.9% saline over 1 hour",
+    option_c: "1 litre 0.9% saline with KCl over 2 hours",
+    option_d: "Colloid 500 ml as the first fluid",
+    correct_option: "A",
+    explanation: "Rationale: When admission SBP is below 90 mmHg, the CPG gives 500 ml of 0.9% saline over 10-15 minutes, repeated if SBP remains below 90 mmHg, and considers colloid only if there is still no response. 1 litre over 1 hour is the regimen for SBP of 90 mmHg or above. Potassium is usually added in the second litre, guided by levels and urine output. Teaching point: DKA with SBP <90: 500 ml saline boluses over 10-15 minutes. SBP ≥90: 1 litre over the first hour.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 4.2, Tables 4-3 and 4-4.",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 64-year-old woman with T2DM for 12 years has taken metformin 1 g twice daily throughout. She has 6 months of tingling in both feet, mild unsteadiness and a sore tongue. Hb is 108 g/l with MCV 104 fl. HbA1c is 6.9%. What is the most appropriate next step?",
+    option_a: "Start pregabalin",
+    option_b: "Nerve conduction studies",
+    option_c: "Stop metformin",
+    option_d: "Check vitamin B12",
+    correct_option: "D",
+    explanation: "Rationale: Vitamin B12 deficiency is a recognised long-term complication of metformin. Macrocytic anaemia and glossitis with neuropathy point to it rather than to diabetic neuropathy alone. B12 should be checked and replaced if low. Metformin need not be stopped. Treating the pain, or arranging nerve studies first, misses a reversible cause. Teaching point: On long-term metformin, check B12 if there is neuropathy, macrocytosis or glossitis.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 3.6.1 (Metformin).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 72-year-old man takes glibenclamide 5 mg twice daily and metformin 500 mg twice daily. His eGFR has fallen to 38 ml/min/1.73 m2. He has had two episodes of hypoglycaemia overnight. HbA1c is 7.1%. What is the most appropriate change to his sulphonylurea?",
+    option_a: "Halve the glibenclamide",
+    option_b: "Switch to glimepiride 6 mg",
+    option_c: "Switch to gliclazide, low dose",
+    option_d: "Move glibenclamide to bedtime",
+    correct_option: "C",
+    explanation: "Rationale: Glibenclamide's active metabolites are renally excreted, so it is contraindicated in renal impairment. The WHO also advises against it over 60, and it carries the highest hypoglycaemia risk. Gliclazide, glipizide and glimepiride can be used with caution in CKD. A low dose of gliclazide is safer, whereas 6 mg is the *maximum* glimepiride dose. Reducing glibenclamide or moving it to bedtime keeps a contraindicated drug (and the bedtime dose worsens nocturnal hypoglycaemia). Teaching point: Avoid glibenclamide in CKD and over 60. Switch to a low-dose shorter-acting SU.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 3.6.1 (Sulphonylureas, Table 3-9 note); Section 6.3.",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 60-year-old woman with T2DM takes basal insulin 40 U, metformin and pioglitazone 30 mg (added 4 months ago). She has gained 5 kg and has bilateral pitting ankle oedema. JVP is not raised, the chest is clear, and NT-proBNP and echo are normal. HbA1c is 7.2%. What is the most appropriate management?",
+    option_a: "Add furosemide 40 mg",
+    option_b: "Reduce basal insulin by 20%",
+    option_c: "Switch pioglitazone to saxagliptin",
+    option_d: "Stop pioglitazone",
+    correct_option: "D",
+    explanation: "Rationale: TZDs cause weight gain and fluid retention, and the CPG specifically cautions about using them with insulin because of aggravated fluid retention. With no heart failure, stopping the pioglitazone addresses the cause. A diuretic treats the effect while keeping the cause. Reducing insulin does not remove the TZD effect. Saxagliptin is a poor choice if fluid or heart failure concerns arise. Teaching point: Pioglitazone plus insulin causes fluid retention. Stop the TZD, rather than add a diuretic.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 3.6.1 (Thiazolidinediones, Table 3-12 caution).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 50-year-old man with T2DM for 4 years has home and clinic BP averaging 136/86 mmHg. UACR is 1.2 mg/mmol, eGFR 88 ml/min/1.73 m2, and he has no retinopathy or CVD. He is overweight and eats a high-salt diet. What is the most appropriate BP management?",
+    option_a: "Start perindopril",
+    option_b: "Start amlodipine",
+    option_c: "Lifestyle change; no drug yet",
+    option_d: "Start perindopril and losartan",
+    correct_option: "C",
+    explanation: "Rationale: In T2DM, drug treatment starts at BP ≥140 and/or ≥90 mmHg. No CV benefit has been shown for starting drugs at high-normal BP (130-139/80-89 mmHg). He has no albuminuria (UACR <3), so there is no renal indication for RAS blockade regardless of BP. Combining an ACE inhibitor with an ARB is never recommended. Teaching point: T2DM: start BP drugs at ≥140/90 mmHg, or earlier with RAS blockade if there is albuminuria.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 3.9.1 (Recommendations: Hypertension and T2DM); Section 5.2.",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 61-year-old woman with T2DM and DKD takes perindopril 10 mg (maximum dose), amlodipine and metformin. BP is 128/78 mmHg. UACR remains 46 mg/mmol, eGFR 48 ml/min/1.73 m2, potassium 4.8 mmol/l and HbA1c 7.4%. What is the most appropriate addition to slow DKD progression?",
+    option_a: "Empagliflozin",
+    option_b: "Losartan",
+    option_c: "Sitagliptin",
+    option_d: "Increase amlodipine",
+    correct_option: "A",
+    explanation: "Rationale: SGLT2 inhibitors should be considered at eGFR ≥30, particularly with albuminuria, to reduce DKD progression (Grade A). Adding an ARB to an ACE inhibitor is not recommended: it gives no added benefit but more hyperkalaemia and AKI. Her BP is already at target, so more amlodipine is not needed. Sitagliptin is safe in DKD but not renoprotective. Teaching point: Albuminuric DKD on maximum ACEi: add an SGLT2 inhibitor, not an ARB.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 5.2 (Recommendations: Management of DKD).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 73-year-old man with T2DM and DKD (eGFR 36 ml/min/1.73 m2, UACR 60 mg/mmol) takes losartan 100 mg, amlodipine 10 mg and indapamide. He reports light-headedness on standing. Seated BP is 116/64 mmHg and standing BP is 104/60 mmHg. What is the most appropriate change?",
+    option_a: "Continue; lower BP protects the kidney",
+    option_b: "Stop losartan",
+    option_c: "Add spironolactone for albuminuria",
+    option_d: "Reduce amlodipine or indapamide",
+    correct_option: "D",
+    explanation: "Rationale: In DKD the BP target is ≤130/80 mmHg, but systolic BP should not fall below 120 mmHg and diastolic not below 70 mmHg. He is below both floors and is symptomatic, so his BP treatment should be reduced. The ARB is renoprotective for his albuminuria and should be kept, so it is the non-RAS drugs that are reduced. Adding an MRA would lower BP further and raise potassium. Teaching point: DKD BP target ≤130/80, but not below 120/70. Reduce non-RAS drugs first.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 5.2 (BP targets); Section 3.9.1.",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 46-year-old woman has had T2DM for 2 years. She has no hypertension, smoking, albuminuria or family history of premature CVD. LDL-C is 2.2 mmol/l on atorvastatin and HbA1c is 7.0%. She asks whether she should take \"a baby aspirin like my father\". What is the most appropriate advice?",
+    option_a: "Aspirin 100 mg daily",
+    option_b: "No aspirin",
+    option_c: "Clopidogrel 75 mg daily",
+    option_d: "Aspirin once HbA1c is above 8%",
+    correct_option: "B",
+    explanation: "Rationale: In people at low risk (under 50 with no major ASCVD risk factor), the CPG does not recommend aspirin for primary prevention. Aspirin (100 mg) is considered only in those at *increased* CV risk, after discussing bleeding. Clopidogrel is for patients with ASCVD who are allergic to aspirin. HbA1c is not an aspirin threshold. Teaching point: Primary prevention aspirin in diabetes: only for increased CV risk after shared discussion, not routinely.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 5.4A (Antiplatelet therapy; Recommendation 4).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 62-year-old man with T2DM and stable angina has coronary angiography showing severe stenoses in the proximal LAD, circumflex and right coronary arteries. LVEF is 50%. His coronary anatomy is suitable for either PCI or surgery, and his predicted surgical mortality is low. What is the most appropriate revascularisation?",
+    option_a: "Multivessel PCI with DES",
+    option_b: "CABG",
+    option_c: "Optimal medical therapy alone",
+    option_d: "Staged PCI, culprit vessel first",
+    correct_option: "B",
+    explanation: "Rationale: In T2DM with multivessel or complex LAD disease, with anatomy suitable for both procedures and low surgical risk, CABG is superior to PCI for death, MI and stroke (Grade A). The CPG regards diabetes as a distinct entity in this decision. PCI options are the near-miss, as they are reasonable in people without diabetes. He has symptomatic three-vessel disease, so medical therapy alone is inferior. Teaching point: Diabetes with multivessel CAD and suitable anatomy: CABG over PCI.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 5.4A (Revascularisation; Recommendation 7).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 57-year-old woman with T2DM and treated proliferative diabetic retinopathy (laser 2 years ago) presents to a district hospital 2 hours after onset of an inferior STEMI. The nearest PCI centre is 4 hours away. She has no other contraindication to thrombolysis. What is the most appropriate reperfusion strategy?",
+    option_a: "Transfer for primary PCI",
+    option_b: "Withhold lysis; anticoagulate",
+    option_c: "Give fibrinolysis",
+    option_d: "Half-dose fibrinolysis",
+    correct_option: "C",
+    explanation: "Rationale: The CPG states that diabetic retinopathy is not a contraindication to thrombolytic therapy. With a transfer time of 4 hours, primary PCI cannot be delivered in time, so fibrinolysis is indicated. Withholding or halving the dose because of retinopathy is a common misconception. Teaching point: Diabetic retinopathy, even proliferative, does not contraindicate thrombolysis.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 5.4A (Revascularisation).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 59-year-old man with T2DM for 8 years and hypertension is asymptomatic. He walks 5 km daily without chest pain or breathlessness. BP is 132/78 mmHg, LDL-C 1.7 mmol/l and HbA1c 7.0%. His employer's health plan offers a treadmill test. What cardiac investigation is most appropriate?",
+    option_a: "Resting 12-lead ECG",
+    option_b: "Exercise treadmill test",
+    option_c: "CT coronary calcium score",
+    option_d: "No cardiac investigation",
+    correct_option: "A",
+    explanation: "Rationale: Routine screening for CAD in asymptomatic people with diabetes is not recommended, because it does not improve outcomes when risk factors are treated to target. His are at target. However, a resting ECG *is* indicated in T2DM with hypertension, or when CVD is suspected. \"No test at all\" misses that recommendation. Stress testing and calcium scoring are routine screening. Teaching point: Asymptomatic T2DM: no stress test, but a resting ECG if hypertensive.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 5.4A (Recommendations: Screening for CVD).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 44-year-old woman has just been diagnosed with T2DM (HbA1c 7.6%). She has no gum bleeding, loose teeth or dental pain, and last saw a dentist 4 years ago. What is the most appropriate dental advice?",
+    option_a: "Refer only if gum symptoms develop",
+    option_b: "Refer if HbA1c stays above 8%",
+    option_c: "No referral; advise brushing only",
+    option_d: "Periodontal examination now",
+    correct_option: "D",
+    explanation: "Rationale: All newly diagnosed people with diabetes should be referred for a periodontal examination as part of their management, with annual periodontal review even if no periodontitis is found. Periodontal disease has a two-way relationship with glycaemia, and treating it improves metabolic parameters. Symptom-triggered or HbA1c-triggered referral misses silent disease. Teaching point: Every new diagnosis needs a periodontal referral and then an annual review.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 5.8 (Recommendations: Periodontal disease).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 52-year-old man on basal-bolus insulin has an HbA1c of 8.7%, yet his logbook shows pre-meal readings of 6-8 mmol/l. He reports occasional morning headaches and vivid dreams. He tests 3 times a day before meals. What is the most appropriate next step?",
+    option_a: "Continuous glucose monitoring",
+    option_b: "Increase basal insulin by 10%",
+    option_c: "Repeat HbA1c in 1 month",
+    option_d: "Add a GLP1-RA",
+    correct_option: "A",
+    explanation: "Rationale: CGM may be considered in patients on intensive insulin with suboptimal HbA1c or suspected unrecognised hypoglycaemia. The discordance between his HbA1c and pre-meal readings suggests undetected post-prandial peaks, and the headaches and vivid dreams suggest nocturnal hypoglycaemia. Increasing basal insulin blindly could worsen night-time lows. Repeating HbA1c, or adding a drug, does not explain the pattern. Teaching point: HbA1c out of keeping with SMBG, plus nocturnal symptoms, on intensive insulin: use CGM.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 3.8 (Recommendations: Monitoring); Section 4.1 (Nocturnal hypoglycaemia).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 66-year-old woman returns from abroad with a laboratory report giving her HbA1c as 53 mmol/mol (IFCC). She asks whether she has met her clinic target of ≤7.0% (NGSP). What is her NGSP HbA1c?",
+    option_a: "6.0%",
+    option_b: "6.5%",
+    option_c: "7.0%",
+    option_d: "7.5%",
+    correct_option: "C",
+    explanation: "Rationale: On the CPG conversion table, NGSP 7.0% corresponds to IFCC 53 mmol/mol (estimated average glucose 8.6 mmol/l). NGSP 6.0% is 42 mmol/mol and 8.0% is 64 mmol/mol. IFCC numbers are not percentages, so mistaking one unit system for the other is the trap. She is exactly at target. Teaching point: HbA1c 7.0% = 53 mmol/mol = eAG 8.6 mmol/l. 6.0% = 42 and 8.0% = 64.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 3.8.1, Table 3-20.",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 57-year-old man takes metformin 1 g three times daily with meals. He has persistent loose stools and bloating, and HbA1c is 7.6%. eGFR is 82 ml/min/1.73 m2. He is reluctant to start an injection. What is the most appropriate change to his metformin?",
+    option_a: "Stop metformin",
+    option_b: "Switch to metformin XR 2000 mg daily",
+    option_c: "Reduce to 500 mg three times daily",
+    option_d: "Take it 30 minutes before meals",
+    correct_option: "B",
+    explanation: "Rationale: Metformin doses above 2000 mg/day give no further glycaemic benefit and significantly increase GI side effects. The extended-release formulation also reduces GI symptoms. Switching to XR 2000 mg once daily keeps the full effective dose with better tolerance. Halving the dose loses efficacy, and stopping metformin is unnecessary. Metformin should be taken with or after meals, not before. Teaching point: Metformin above 2 g/day adds side effects without benefit. Switch to XR 2 g for intolerance.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 3.6.1 (Metformin, Table 3-8).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 74-year-old woman on gliclazide 160 mg twice daily and metformin has been stable for years. She is admitted with a glucose of 2.2 mmol/l and confusion, 4 days after her GP started a new medicine. Her renal function is unchanged. Which new medicine is most likely responsible?",
+    option_a: "Co-trimoxazole",
+    option_b: "Amoxicillin",
+    option_c: "Paracetamol",
+    option_d: "Omeprazole",
+    correct_option: "A",
+    explanation: "Rationale: Sulphonylureas are highly protein bound. Drugs that displace them, such as sulpha drugs, NSAIDs, anti-thyroid drugs, anticoagulants and α-blockers, increase hypoglycaemia risk. Co-trimoxazole is a sulpha drug. The other options have no such interaction. Older age adds to the risk, and she is on the maximum gliclazide dose. Teaching point: Sulpha drugs, NSAIDs, anticoagulants and α-blockers potentiate SUs and cause hypoglycaemia.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 3.6.1 (Sulphonylureas).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 68-year-old woman with T2DM had a distal radius fracture after a minor fall last year. DXA shows osteoporosis. She takes metformin, and HbA1c is 7.9%. eGFR is 70 ml/min/1.73 m2 and she has no heart failure. Which add-on is the least suitable for her?",
+    option_a: "Sitagliptin",
+    option_b: "Empagliflozin",
+    option_c: "Gliclazide MR",
+    option_d: "Pioglitazone",
+    correct_option: "D",
+    explanation: "Rationale: TZD side effects include weight gain, fluid retention, heart failure, macular oedema and osteoporosis. TZD-associated fractures mainly affect the distal upper and lower limbs, which matches her previous fracture site. The other agents have no comparable bone risk, although gliclazide's hypoglycaemia risk needs attention in a faller. Teaching point: Avoid pioglitazone in osteoporosis, especially with distal limb fractures.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 3.6.1 (Thiazolidinediones).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 45-year-old man has newly diagnosed T2DM with HbA1c 7.2%. He has no CVD, DKD or heart failure. He is keen to \"keep things under control for as long as possible\" and is willing to take two tablets from the start. Which initial combination has trial evidence of more durable glycaemic control?",
+    option_a: "Metformin plus gliclazide",
+    option_b: "Metformin plus pioglitazone",
+    option_c: "Metformin plus vildagliptin",
+    option_d: "Metformin plus acarbose",
+    correct_option: "C",
+    explanation: "Rationale: The VERIFY trial showed that starting metformin plus vildagliptin within 24 months of diagnosis delayed loss of glycaemic control compared with sequential therapy. The CPG algorithm footnote specifically suggests a DPP4 inhibitor (vildagliptin) for the HbA1c 6.5-7.4% band. The other combinations are acceptable but lack this durability evidence. Teaching point: VERIFY: early metformin plus vildagliptin delays treatment failure.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 3.6.3; Figure 3-3 (footnote c).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 63-year-old woman takes glargine U100 30 U at night and has recurrent nocturnal hypoglycaemia despite reasonable control. She is switched to glargine U300 at the same number of units, with weekly titration. What final dose change is most likely to be needed?",
+    option_a: "About 20% lower than U100",
+    option_b: "Same dose as U100",
+    option_c: "About 10-17% higher than U100",
+    option_d: "About double the U100 dose",
+    correct_option: "C",
+    explanation: "Rationale: Glargine U300 is non-inferior to U100 for control, with less overall and nocturnal hypoglycaemia, but the dose needed is generally 10-17% higher. A lower dose is the intuitive error, because the switch is for hypoglycaemia. Unit-for-unit conversion followed by upward titration is the usual practice. Teaching point: U300 glargine reduces nocturnal hypoglycaemia but needs 10-17% more units.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 3.6.5 (Insulin types).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 70-year-old man takes NPH (Insulatard) 22 U at 18:00 with his evening tablets. He has had three episodes of sweating and confusion at around 02:00-03:00 with glucose of 3.1-3.4 mmol/l. His fasting glucose is 8-9 mmol/l. What is the most appropriate change?",
+    option_a: "Reduce NPH by 50% at 18:00",
+    option_b: "Move NPH to bedtime, after 22:00",
+    option_c: "Add a bedtime snack, same NPH",
+    option_d: "Move NPH to before breakfast",
+    correct_option: "B",
+    explanation: "Rationale: Basal intermediate-acting insulin should be given pre-bed (preferably not earlier than 22:00), because an earlier dose peaks at 2-5 am and causes nocturnal hypoglycaemia. Moving it later both prevents the 3 am low and lowers his high fasting glucose. Halving the dose worsens the fasting hyperglycaemia. Snacks are not needed with intermediate or long-acting insulin. A morning dose does not cover the night. Teaching point: Give bedtime NPH no earlier than 22:00. An early dose causes 3 am hypos with high fasting glucose.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 3.6.5 (General guidelines for long-term use of insulin).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 58-year-old woman weighing 70 kg uses glargine 18 U and aspart 16 U before each meal (total 66 U/day). She has frequent post-meal hypoglycaemia, yet fasting glucose is 10-11 mmol/l. Adherence and technique are good. What is the most appropriate adjustment?",
+    option_a: "Increase glargine; reduce aspart",
+    option_b: "Increase all aspart doses",
+    option_c: "Add a fourth bolus at supper",
+    option_d: "Switch to premixed three times daily",
+    correct_option: "A",
+    explanation: "Rationale: Prandial insulin should generally not exceed 50% of the total daily dose. Hers is 48/66 (73%), while basal is only 27%. Excess bolus causes post-meal lows, and insufficient basal leaves fasting hyperglycaemia. Rebalancing towards basal and reducing the bolus doses corrects both. More or extra boluses worsen the imbalance. Premixed insulin three times daily still links basal to meal doses. Teaching point: Prandial insulin should be no more than 50% of TDD. A high fasting glucose with post-meal lows means basal is too low and bolus too high.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 3.6.5 (General guidelines).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 62-year-old man with T2DM for 15 years, a 40 pack-year smoking history and intermittent claudication has been sedentary for years. He wants to start training for a 10 km run. He has no chest pain. BP is 138/84 mmHg. What is the most appropriate advice?",
+    option_a: "Start running now, building gradually",
+    option_b: "Walking only; avoid vigorous exercise",
+    option_c: "Exercise treadmill test for all diabetics",
+    option_d: "Pre-exercise assessment first",
+    correct_option: "D",
+    explanation: "Rationale: Before vigorous exercise, older, previously sedentary people with long-standing T2DM, multiple risk factors or known atherosclerosis (he has PAD) should be considered for pre-exercise assessment, including for complications that limit exercise. Starting straight away ignores his risk. Banning vigorous exercise outright is unnecessary. Screening every diabetic is not recommended. His eventual target is 150 min/week moderate (or 75 vigorous) plus two resistance sessions. Teaching point: High-risk sedentary patients need assessment before vigorous exercise, not a blanket ban.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 3.5.2 (Recommendations: Physical activity).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 33-year-old woman with T2DM delivered 6 weeks ago and is exclusively breastfeeding. She was switched to insulin during pregnancy. HbA1c is now 6.8% on 12 U basal insulin and she would like to come off injections. Which option is supported by the CPG while she is breastfeeding?",
+    option_a: "Low-dose metformin",
+    option_b: "Empagliflozin",
+    option_c: "Glibenclamide",
+    option_d: "Dulaglutide",
+    correct_option: "A",
+    explanation: "Rationale: The CPG states that low-dose metformin can be safely prescribed to lactating mothers. Insulin is also suitable during breastfeeding. None of the other options is supported in lactation in the CPG. Glibenclamide carries a high hypoglycaemia risk. Teaching point: Breastfeeding: insulin or low-dose metformin.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 3.6.1 (Metformin); Section 3.6.5.",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 15-year-old boy with T2DM and BMI 34 kg/m2 has HbA1c 8.3% on metformin 1 g twice daily, despite good adherence and dietitian input. He has no ketosis. His family are keen to avoid insulin if possible. Which add-on does the CPG suggest may be considered?",
+    option_a: "Sitagliptin",
+    option_b: "Gliclazide",
+    option_c: "Liraglutide",
+    option_d: "Empagliflozin",
+    correct_option: "C",
+    explanation: "Rationale: Metformin and insulin remain the mainstay of adolescent T2DM treatment. The CPG adds that the GLP1-RA liraglutide may be considered. Adolescent T2DM progresses faster, with β-cell loss of 20-35% a year compared with 7-11% in adults, so treatment needs early escalation. The other drugs are adult options not endorsed for adolescents in the CPG. Teaching point: Adolescent T2DM: metformin and insulin, with liraglutide as an option. Escalate early.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 6.2 (T2DM in adolescents).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 55-year-old man with T2DM for 15 years has HbA1c 9.8% and background retinopathy with a recent laser session. He is about to start weekly semaglutide, which should lower HbA1c by about 2%. He is anxious about his eyes. What is the most appropriate precaution?",
+    option_a: "Avoid semaglutide altogether",
+    option_b: "Start semaglutide; no eye review needed",
+    option_c: "Dose at 1 mg from the start",
+    option_d: "Slower titration with ophthalmology monitoring",
+    correct_option: "D",
+    explanation: "Rationale: The CPG advises that patients with a history of diabetic retinopathy started on semaglutide be monitored for progression, and that slower dose titration may be warranted. Rapid glycaemic improvement in established retinopathy can transiently worsen it, so co-management with an ophthalmologist and a gradual fall in HbA1c are advised. Retinopathy is not a contraindication, and starting at the full dose is the opposite of the advice. Teaching point: Rapid HbA1c falls can worsen retinopathy. Titrate slowly and involve ophthalmology.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 3.6.2 (Semaglutide); Section 5.1.",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 49-year-old woman with T2DM for 18 years has early satiety, postprandial vomiting and erratic glucose. Gastric emptying scintigraphy confirms delayed emptying. HbA1c is 8.4% on metformin and basal insulin, and she wants to lose weight. Which add-on is most appropriate?",
+    option_a: "Exenatide",
+    option_b: "Lixisenatide",
+    option_c: "Empagliflozin",
+    option_d: "Liraglutide",
+    correct_option: "C",
+    explanation: "Rationale: Exenatide and lixisenatide should not be used in patients with gastroparesis. Liraglutide also delays gastric emptying and causes nausea and vomiting, so it would aggravate her symptoms. SGLT2 inhibitors do not affect gastric emptying and give weight loss with a low hypoglycaemia risk. Teaching point: Gastroparesis: avoid GLP1-RAs. Use an SGLT2 inhibitor if suitable.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 3.6.2 (Precautions for GLP1-RA); Section 5.3.",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 58-year-old man with T2DM has early satiety and bloating after small meals. Upper endoscopy is normal and there is no mechanical obstruction. Which test is the gold standard for confirming the diagnosis?",
+    option_a: "Gastric emptying scintigraphy",
+    option_b: "Barium meal",
+    option_c: "Electrogastrography",
+    option_d: "Gastric manometry",
+    correct_option: "A",
+    explanation: "Rationale: The CPG names gastric emptying scintigraphy as the gold-standard test for diagnosing gastroparesis. Barium studies, electrogastrography and manometry can add information but are not the reference standard. Drugs that delay emptying, such as GLP1-RAs, should be stopped before testing. Teaching point: Diagnose gastroparesis with gastric emptying scintigraphy.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 5.3 (Autonomic neuropathy).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 63-year-old woman with T2DM has light-headedness on standing. BP falls from 142/80 mmHg lying to 112/62 mmHg standing at 3 minutes. Resting heart rate is 92/min and does not change on standing. Cardiovascular autonomic reflex tests (CART) show 3 abnormal results. How does the CPG classify her autonomic neuropathy?",
+    option_a: "Early cardiac autonomic neuropathy",
+    option_b: "Severe or advanced CAN",
+    option_c: "Not neuropathic; due to drugs",
+    option_d: "Borderline; repeat in 6 months",
+    correct_option: "B",
+    explanation: "Rationale: Two or more abnormal CART results are diagnostic of cardiac autonomic neuropathy. An abnormal CART with orthostatic hypotension (fall of more than 20/10 mmHg) identifies severe or advanced CAN. Her fall is 30/18 mmHg with a fixed heart rate. Treatment includes avoiding drugs that cause orthostatic hypotension. Teaching point: CART ≥2 abnormal is CAN. Orthostatic hypotension (>20/10 mmHg) marks severe disease.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 5.3 (Autonomic neuropathy).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 52-year-old man has had T2DM for 3 years. He has no foot symptoms. His GP wants to screen for distal symmetrical polyneuropathy. Which examination combination does the CPG describe?",
+    option_a: "Ankle reflexes alone",
+    option_b: "10-g monofilament plus one other modality",
+    option_c: "Nerve conduction study as first test",
+    option_d: "Vibration with 128-Hz tuning fork alone",
+    correct_option: "B",
+    explanation: "Rationale: DSPN is assessed with a 10-g monofilament (starting at the dorsum of the hallux and moving proximally) plus one other modality: pin-prick, 128-Hz tuning fork vibration, ankle reflexes or vibration perception threshold. Single modalities are inadequate for screening, and nerve conduction studies are reserved for atypical cases. Teaching point: Screen for DSPN with a 10-g monofilament plus one other test, at diagnosis and yearly.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 5.3 (Screening and diagnosis).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 50-year-old woman had T2DM diagnosed 18 months ago. A retinal examination at diagnosis showed no retinopathy. She asks when the next screen is due. What is the recommended interval?",
+    option_a: "6 months",
+    option_b: "1-2 years",
+    option_c: "3 years",
+    option_d: "5 years",
+    correct_option: "B",
+    explanation: "Rationale: Screening is done at diagnosis, and for people without retinopathy the interval is 1-2 years. The interval is shorter once retinopathy is found, based on its severity. Longer intervals are not supported. Teaching point: Retinal screening at diagnosis, then every 1-2 years if none. Shorter with retinopathy.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 5.1 (Recommendations: Retinopathy).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 54-year-old man with T2DM for 6 years has had erectile dysfunction for 8 months. He has no chest pain, and his resting ECG is normal. BP is 134/80 mmHg and LDL-C 2.1 mmol/l on a statin. What additional step is most appropriate beyond treating the ED?",
+    option_a: "Testosterone replacement",
+    option_b: "Screen for coronary heart disease",
+    option_c: "Prostate-specific antigen only",
+    option_d: "No further evaluation",
+    correct_option: "B",
+    explanation: "Rationale: ED has been reported to be a marker of potential CVD, and the CPG recommends screening for CHD in men with T2DM and ED. Hypogonadism should also be excluded before testosterone is considered. PSA does not address vascular risk. Teaching point: ED in a man with diabetes may signal coronary disease. Screen for CHD and check testosterone.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 5.6 (Summary of updates); Section 5.6.1.",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 48-year-old woman with T2DM of 5 years presents with a worsening HbA1c (from 7.0% to 8.9%), poor sleep and loss of interest. She misses insulin doses and clinic visits. She denies suicidal thoughts. What does the CPG advise?",
+    option_a: "Assess psychological wellbeing for distress or depression",
+    option_b: "Intensify insulin only",
+    option_c: "Refer for diabetes education only",
+    option_d: "Defer assessment until HbA1c improves",
+    correct_option: "A",
+    explanation: "Rationale: Diabetes distress and depression are common, and the CPG advises assessing psychological and social wellbeing as part of continuing care: at diagnosis, at onset of complications, when diabetes is out of control and whenever indicated. Poor control with missed doses and anhedonia fits this scenario. Intensifying treatment first does not address why she is not taking it. Teaching point: Poorly controlled diabetes with disengagement: screen for distress or depression.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 5.7 (Recommendations: Mental health issues in T2DM).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 59-year-old man with T2DM is admitted to ICU with septic shock. Glucose on arrival is 17 mmol/l. The intensivist wants to aim for 4.5-6.0 mmol/l \"to reduce infection\". What does the CPG recommend?",
+    option_a: "Maintain 7.8-10 mmol/l",
+    option_b: "Aim for 4.5-6.0 mmol/l",
+    option_c: "Aim for 10-14 mmol/l",
+    option_d: "Aim for 6.0-8.0 mmol/l",
+    correct_option: "A",
+    explanation: "Rationale: Intensive insulin therapy (4.5-6.0 mmol/l) was associated with more hypoglycaemia and higher mortality in ICU than conventional control (<10 mmol/l). The CPG recommends 7.8-10 mmol/l in critically ill patients, using variable-rate IV insulin protocols with proven safety. Teaching point: ICU glucose target is 7.8-10 mmol/l. Tight control raises mortality.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 6.1 (In critically ill patients).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A ward audit finds that most diabetic inpatients with high glucose are given short-acting insulin only when the reading is above 12 mmol/l (a \"sliding scale\"), with no scheduled insulin. What does the CPG say about this practice?",
+    option_a: "Preferred for non-critical inpatients",
+    option_b: "Acceptable if combined with OGLDs",
+    option_c: "Strongly discouraged",
+    option_d: "Required before surgery",
+    correct_option: "C",
+    explanation: "Rationale: The CPG strongly discourages sliding-scale insulin alone. Compared with basal-bolus regimens it increases glycaemic variability and prolongs time to target. Scheduled regimens (basal-bolus or basal-plus) are recommended, with VRIII for those who are nil by mouth. Teaching point: Avoid sliding-scale-only insulin. Use scheduled regimens.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 6.1 (Use of insulin).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 71-year-old man with HHS on day 1 has glucose 38 mmol/l, osmolality 342 mOsm/kg and marked dehydration. He is immobile, has no bleeding and platelets are 240 x10^9/l. Which additional measure is recommended by the CPG?",
+    option_a: "Prophylactic LMWH",
+    option_b: "Therapeutic heparin infusion",
+    option_c: "Aspirin 300 mg",
+    option_d: "No prophylaxis",
+    correct_option: "A",
+    explanation: "Rationale: HHS is strongly prothrombotic, with MI, stroke and arterial thrombosis common. The CPG recommends prophylactic LMWH unless contraindicated. Therapeutic anticoagulation is not recommended without another indication. Teaching point: Give prophylactic LMWH in HHS unless contraindicated.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 4.4 (Principles of treatment).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 68-year-old woman with HHS has been treated with 0.9% saline and FRIII for 18 hours. She is alert and eating. Glucose is 13 mmol/l and effective serum osmolality is 335 mOsm/kg. Is HHS resolved?",
+    option_a: "No; osmolality is too high",
+    option_b: "Yes; she is alert and eating",
+    option_c: "Yes; glucose is below 14",
+    option_d: "No; ketones must be below 0.6",
+    correct_option: "A",
+    explanation: "Rationale: HHS is resolved when the patient is alert, eating well, effective osmolality is below 320 mOsm/kg and glucose is below 14 mmol/l. Her osmolality remains above 320, so treatment continues, with a gradual fall of 3-8 mOsm/kg/h. The ketone criterion (below 0.6 mmol/l) belongs to DKA. Teaching point: HHS resolves with osmolality <320 mOsm/kg and glucose <14 mmol/l, plus alertness and eating.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 4.4 (Principles of treatment).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 52-year-old man with T2DM, eGFR 78 ml/min/1.73 m2, takes metformin and empagliflozin 25 mg each morning. He is moderate risk and wants to fast. What advice is most appropriate?",
+    option_a: "Continue in the morning",
+    option_b: "Stop during Ramadan",
+    option_c: "Take at Iftar; ensure hydration",
+    option_d: "Take at Sahur and Iftar",
+    correct_option: "C",
+    explanation: "Rationale: SGLT2 inhibitors have a low hypoglycaemia risk but carry dehydration concerns, and they are generally safe in patients without advanced renal disease. The CPG's adjustment table advises switching the timing to Iftar, with adequate fluids. Taking it in the morning puts the osmotic diuresis in the fasting day. Splitting the dose does not fit its once-daily use. Teaching point: In Ramadan, move the SGLT2 inhibitor to Iftar. Take care with hydration and CKD ≥3.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 6.4, Table 6-5.",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 44-year-old man newly diagnosed with T2DM asks whether strict control in the first few years really matters if he later takes insulin anyway. What is the key message in the CPG?",
+    option_a: "Early control has no lasting effect",
+    option_b: "Only blood pressure control matters",
+    option_c: "Metformin prevents all complications",
+    option_d: "Early good control has legacy effects",
+    correct_option: "D",
+    explanation: "Rationale: The CPG recommends emphasising the legacy effect or metabolic memory of good early glucose control to all newly diagnosed patients (Grade A). Early tight control gives lasting protection against complications even if control later slips. Teaching point: Good control early in T2DM has lasting legacy benefits.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 3.3 (Recommendations: Assessment, aims of treatment and education).",
+    tag: "CPG Type 2 Diabetes 2020"
   }
 ];
