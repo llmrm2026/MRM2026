@@ -61,7 +61,7 @@ A 72-year-old woman with COPD arrives with right hemiparesis and expressive dysp
 
 A. Nasal oxygen 2 l/min
 B. Venturi mask 28%
-C. Reservoir mask 15 l/min
+C. Oxygen to keep SpO2 ≥98%
 D. No supplemental oxygen
 
 **Answer:** D
@@ -327,7 +327,7 @@ A 68-year-old man is found by a neighbour with right hemiplegia and global aphas
 
 A. Wait for the relative's consent
 B. IV alteplase in his best interests
-C. Aspirin while tracing the family
+C. Alteplase 0.6 mg/kg as a compromise
 D. Two-doctor consent, then decide at 4 hours
 
 **Answer:** B
@@ -482,7 +482,7 @@ A 64-year-old woman with type 2 diabetes received alteplase 4 hours ago. She is 
 A. 4.0-7.0 mmol/l
 B. 7.8-10.0 mmol/l
 C. 10.0-14.0 mmol/l
-D. Below 15.0 mmol/l
+D. 6.0-10.0 mmol/l
 
 **Answer:** B
 
@@ -925,8 +925,8 @@ An 84-year-old woman with diabetes, CKD stage 3 and AF is admitted with a modera
 
 A. Stroke unit
 B. General medical ward
-C. Geriatric ward without stroke team input
-D. High-dependency unit
+C. Geriatric ward with stroke review
+D. Stroke unit only if NIHSS >15
 
 **Answer:** A
 

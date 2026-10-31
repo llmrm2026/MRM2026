@@ -62,7 +62,7 @@ A 54-year-old woman with troublesome vasomotor symptoms has a mother and sister 
 A. HRT reduces stroke risk if started early
 B. HRT is neutral for stroke risk
 C. HRT may increase stroke risk
-D. Oestrogen-only HRT prevents stroke
+D. HRT is neutral if transdermal
 
 **Answer:** C
 
@@ -793,8 +793,8 @@ A 51-year-old woman has a lacunar stroke. Fasting homocysteine is 24 µmol/l (no
 
 A. Vitamins can replace aspirin
 B. They lower homocysteine only
-C. Vitamins are contraindicated after stroke
-D. Vitamins prevent stroke in women only
+C. They reduce recurrence by 25%
+D. They help only if B12 is low
 
 **Answer:** B
 
@@ -862,11 +862,11 @@ A 31-year-old woman at 24 weeks' gestation develops sudden left face and arm wea
 A. Non-contrast MRI brain
 B. Gadolinium-enhanced MRI
 C. CT perfusion
-D. Catheter angiography
+D. Non-contrast CT brain
 
 **Answer:** A
 
-**Explanation:** MRI brain without gadolinium is the modality of choice for stroke in pregnancy. Antenatal MRI has not been associated with fetal harm, but antenatal gadolinium exposure has been linked to stillbirth, neonatal death and skin conditions. CTP adds contrast and radiation, and DSA is invasive and is reserved for intervention.
+**Explanation:** MRI brain without gadolinium is the modality of choice for stroke in pregnancy. Antenatal MRI has not been associated with fetal harm, but antenatal gadolinium exposure has been linked to stillbirth, neonatal death and skin conditions. CT involves radiation and is not the CPG modality of choice in pregnancy. CTP adds contrast as well.
 
 **Teaching point:** Stroke in pregnancy: MRI without gadolinium.
 
