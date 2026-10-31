@@ -1323,3 +1323,223 @@ D. 7.5%
 **Teaching point:** HbA1c 7.0% = 53 mmol/mol = eAG 8.6 mmol/l. 6.0% = 42 and 8.0% = 64.
 
 **Reference:** CPG Section 3.8.1, Table 3-20.
+
+---
+
+### Q61
+**Topic:** Metformin intolerance at high dose
+
+A 57-year-old man takes metformin 1 g three times daily with meals. He has persistent loose stools and bloating, and HbA1c is 7.6%. eGFR is 82 ml/min/1.73 m2. He is reluctant to start an injection.
+
+**What is the most appropriate change to his metformin?**
+
+A. Stop metformin
+B. Switch to metformin XR 2000 mg daily
+C. Reduce to 500 mg three times daily
+D. Take it 30 minutes before meals
+
+**Answer:** B
+
+**Explanation:** Metformin doses above 2000 mg/day give no further glycaemic benefit and significantly increase GI side effects. The extended-release formulation also reduces GI symptoms. Switching to XR 2000 mg once daily keeps the full effective dose with better tolerance. Halving the dose loses efficacy, and stopping metformin is unnecessary. Metformin should be taken with or after meals, not before.
+
+**Teaching point:** Metformin above 2 g/day adds side effects without benefit. Switch to XR 2 g for intolerance.
+
+**Reference:** CPG Section 3.6.1 (Metformin, Table 3-8).
+
+---
+
+### Q62
+**Topic:** New hypoglycaemia after a prescription
+
+A 74-year-old woman on gliclazide 160 mg twice daily and metformin has been stable for years. She is admitted with a glucose of 2.2 mmol/l and confusion, 4 days after her GP started a new medicine. Her renal function is unchanged.
+
+**Which new medicine is most likely responsible?**
+
+A. Co-trimoxazole
+B. Amoxicillin
+C. Paracetamol
+D. Omeprazole
+
+**Answer:** A
+
+**Explanation:** Sulphonylureas are highly protein bound. Drugs that displace them, such as sulpha drugs, NSAIDs, anti-thyroid drugs, anticoagulants and α-blockers, increase hypoglycaemia risk. Co-trimoxazole is a sulpha drug. The other options have no such interaction. Older age adds to the risk, and she is on the maximum gliclazide dose.
+
+**Teaching point:** Sulpha drugs, NSAIDs, anticoagulants and α-blockers potentiate SUs and cause hypoglycaemia.
+
+**Reference:** CPG Section 3.6.1 (Sulphonylureas).
+
+---
+
+### Q63
+**Topic:** Add-on choice with fragility fracture
+
+A 68-year-old woman with T2DM had a distal radius fracture after a minor fall last year. DXA shows osteoporosis. She takes metformin, and HbA1c is 7.9%. eGFR is 70 ml/min/1.73 m2 and she has no heart failure.
+
+**Which add-on is the least suitable for her?**
+
+A. Sitagliptin
+B. Empagliflozin
+C. Gliclazide MR
+D. Pioglitazone
+
+**Answer:** D
+
+**Explanation:** TZD side effects include weight gain, fluid retention, heart failure, macular oedema and osteoporosis. TZD-associated fractures mainly affect the distal upper and lower limbs, which matches her previous fracture site. The other agents have no comparable bone risk, although gliclazide's hypoglycaemia risk needs attention in a faller.
+
+**Teaching point:** Avoid pioglitazone in osteoporosis, especially with distal limb fractures.
+
+**Reference:** CPG Section 3.6.1 (Thiazolidinediones).
+
+---
+
+### Q64
+**Topic:** Early combination therapy
+
+A 45-year-old man has newly diagnosed T2DM with HbA1c 7.2%. He has no CVD, DKD or heart failure. He is keen to "keep things under control for as long as possible" and is willing to take two tablets from the start.
+
+**Which initial combination has trial evidence of more durable glycaemic control?**
+
+A. Metformin plus gliclazide
+B. Metformin plus pioglitazone
+C. Metformin plus vildagliptin
+D. Metformin plus acarbose
+
+**Answer:** C
+
+**Explanation:** The VERIFY trial showed that starting metformin plus vildagliptin within 24 months of diagnosis delayed loss of glycaemic control compared with sequential therapy. The CPG algorithm footnote specifically suggests a DPP4 inhibitor (vildagliptin) for the HbA1c 6.5-7.4% band. The other combinations are acceptable but lack this durability evidence.
+
+**Teaching point:** VERIFY: early metformin plus vildagliptin delays treatment failure.
+
+**Reference:** CPG Section 3.6.3; Figure 3-3 (footnote c).
+
+---
+
+### Q65
+**Topic:** Changing basal insulin formulation
+
+A 63-year-old woman takes glargine U100 30 U at night and has recurrent nocturnal hypoglycaemia despite reasonable control. She is switched to glargine U300 at the same number of units, with weekly titration.
+
+**What final dose change is most likely to be needed?**
+
+A. About 20% lower than U100
+B. Same dose as U100
+C. About 10-17% higher than U100
+D. About double the U100 dose
+
+**Answer:** C
+
+**Explanation:** Glargine U300 is non-inferior to U100 for control, with less overall and nocturnal hypoglycaemia, but the dose needed is generally 10-17% higher. A lower dose is the intuitive error, because the switch is for hypoglycaemia. Unit-for-unit conversion followed by upward titration is the usual practice.
+
+**Teaching point:** U300 glargine reduces nocturnal hypoglycaemia but needs 10-17% more units.
+
+**Reference:** CPG Section 3.6.5 (Insulin types).
+
+---
+
+### Q66
+**Topic:** Timing of intermediate-acting insulin
+
+A 70-year-old man takes NPH (Insulatard) 22 U at 18:00 with his evening tablets. He has had three episodes of sweating and confusion at around 02:00-03:00 with glucose of 3.1-3.4 mmol/l. His fasting glucose is 8-9 mmol/l.
+
+**What is the most appropriate change?**
+
+A. Reduce NPH by 50% at 18:00
+B. Move NPH to bedtime, after 22:00
+C. Add a bedtime snack, same NPH
+D. Move NPH to before breakfast
+
+**Answer:** B
+
+**Explanation:** Basal intermediate-acting insulin should be given pre-bed (preferably not earlier than 22:00), because an earlier dose peaks at 2-5 am and causes nocturnal hypoglycaemia. Moving it later both prevents the 3 am low and lowers his high fasting glucose. Halving the dose worsens the fasting hyperglycaemia. Snacks are not needed with intermediate or long-acting insulin. A morning dose does not cover the night.
+
+**Teaching point:** Give bedtime NPH no earlier than 22:00. An early dose causes 3 am hypos with high fasting glucose.
+
+**Reference:** CPG Section 3.6.5 (General guidelines for long-term use of insulin).
+
+---
+
+### Q67
+**Topic:** Balancing basal and prandial insulin
+
+A 58-year-old woman weighing 70 kg uses glargine 18 U and aspart 16 U before each meal (total 66 U/day). She has frequent post-meal hypoglycaemia, yet fasting glucose is 10-11 mmol/l. Adherence and technique are good.
+
+**What is the most appropriate adjustment?**
+
+A. Increase glargine; reduce aspart
+B. Increase all aspart doses
+C. Add a fourth bolus at supper
+D. Switch to premixed three times daily
+
+**Answer:** A
+
+**Explanation:** Prandial insulin should generally not exceed 50% of the total daily dose. Hers is 48/66 (73%), while basal is only 27%. Excess bolus causes post-meal lows, and insufficient basal leaves fasting hyperglycaemia. Rebalancing towards basal and reducing the bolus doses corrects both. More or extra boluses worsen the imbalance. Premixed insulin three times daily still links basal to meal doses.
+
+**Teaching point:** Prandial insulin should be no more than 50% of TDD. A high fasting glucose with post-meal lows means basal is too low and bolus too high.
+
+**Reference:** CPG Section 3.6.5 (General guidelines).
+
+---
+
+### Q68
+**Topic:** Before vigorous exercise
+
+A 62-year-old man with T2DM for 15 years, a 40 pack-year smoking history and intermittent claudication has been sedentary for years. He wants to start training for a 10 km run. He has no chest pain. BP is 138/84 mmHg.
+
+**What is the most appropriate advice?**
+
+A. Start running now, building gradually
+B. Walking only; avoid vigorous exercise
+C. Exercise treadmill test for all diabetics
+D. Pre-exercise assessment first
+
+**Answer:** D
+
+**Explanation:** Before vigorous exercise, older, previously sedentary people with long-standing T2DM, multiple risk factors or known atherosclerosis (he has PAD) should be considered for pre-exercise assessment, including for complications that limit exercise. Starting straight away ignores his risk. Banning vigorous exercise outright is unnecessary. Screening every diabetic is not recommended. His eventual target is 150 min/week moderate (or 75 vigorous) plus two resistance sessions.
+
+**Teaching point:** High-risk sedentary patients need assessment before vigorous exercise, not a blanket ban.
+
+**Reference:** CPG Section 3.5.2 (Recommendations: Physical activity).
+
+---
+
+### Q69
+**Topic:** Breastfeeding mother with T2DM
+
+A 33-year-old woman with T2DM delivered 6 weeks ago and is exclusively breastfeeding. She was switched to insulin during pregnancy. HbA1c is now 6.8% on 12 U basal insulin and she would like to come off injections.
+
+**Which option is supported by the CPG while she is breastfeeding?**
+
+A. Low-dose metformin
+B. Empagliflozin
+C. Glibenclamide
+D. Dulaglutide
+
+**Answer:** A
+
+**Explanation:** The CPG states that low-dose metformin can be safely prescribed to lactating mothers. Insulin is also suitable during breastfeeding. None of the other options is supported in lactation in the CPG. Glibenclamide carries a high hypoglycaemia risk.
+
+**Teaching point:** Breastfeeding: insulin or low-dose metformin.
+
+**Reference:** CPG Section 3.6.1 (Metformin); Section 3.6.5.
+
+---
+
+### Q70
+**Topic:** Adolescent failing metformin
+
+A 15-year-old boy with T2DM and BMI 34 kg/m2 has HbA1c 8.3% on metformin 1 g twice daily, despite good adherence and dietitian input. He has no ketosis. His family are keen to avoid insulin if possible.
+
+**Which add-on does the CPG suggest may be considered?**
+
+A. Sitagliptin
+B. Gliclazide
+C. Liraglutide
+D. Empagliflozin
+
+**Answer:** C
+
+**Explanation:** Metformin and insulin remain the mainstay of adolescent T2DM treatment. The CPG adds that the GLP1-RA liraglutide may be considered. Adolescent T2DM progresses faster, with β-cell loss of 20-35% a year compared with 7-11% in adults, so treatment needs early escalation. The other drugs are adult options not endorsed for adolescents in the CPG.
+
+**Teaching point:** Adolescent T2DM: metformin and insulin, with liraglutide as an option. Escalate early.
+
+**Reference:** CPG Section 6.2 (T2DM in adolescents).
