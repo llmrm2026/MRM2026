@@ -6432,5 +6432,105 @@ const cpgBank = [
     correct_option: "C",
     explanation: "Rationale: With several coexisting chronic illnesses and mild cognitive impairment, she falls in the CPG's \"complex/intermediate\" category, which has an HbA1c goal of <8.0% (fasting glucose 5-8.3 mmol/l). <8.5% is for \"very complex/poor health\" patients: long-term care, end-stage illness, or moderate-to-severe cognitive impairment. ≤7.0% and ≤6.5% are for healthier or newly diagnosed patients. Her sulphonylurea, falls and an HbA1c of 7.4% suggest that treatment could be de-intensified. Teaching point: Older people: healthy ≤7.5%, complex <8.0%, very complex <8.5%. Base the category on frailty, not age.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 6.3, Table 6-2.",
     tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 63-year-old man with T2DM and severely increased albuminuria (UACR 85 mg/mmol) was started on dapagliflozin 10 mg 2 years ago, when his eGFR was 41 ml/min/1.73 m2. His eGFR is now 27 ml/min/1.73 m2. He is not on dialysis and has no genital infections or volume depletion. What is the most appropriate action regarding dapagliflozin?",
+    option_a: "Stop; eGFR now below 30",
+    option_b: "Continue dapagliflozin",
+    option_c: "Reduce to 5 mg daily",
+    option_d: "Switch to empagliflozin 10 mg",
+    correct_option: "B",
+    explanation: "Rationale: The CPG says not to *initiate* an SGLT2 inhibitor at eGFR below 30, but it may be *continued* if already started, and can be used until dialysis begins for renoprotection, even though its glucose-lowering effect is reduced. Stopping it removes a proven slowing of DKD progression. A lower dose or a different drug in the same class adds nothing. Teaching point: SGLT2 inhibitors: do not start below eGFR 30, but continue for renoprotection until dialysis.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 3.6.1 (SGLT2-i); Section 5.2.",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 59-year-old woman with T2DM, hypertension and moderately increased albuminuria starts perindopril 4 mg. Two weeks later her creatinine has risen from 90 to 110 µmol/l (22%) and her eGFR from 64 to 51 ml/min/1.73 m2 (20%). Potassium is 5.1 mmol/l. She is well and euvolaemic. What is the most appropriate action?",
+    option_a: "Continue perindopril and recheck",
+    option_b: "Stop perindopril",
+    option_c: "Halve the perindopril dose",
+    option_d: "Switch to an ARB",
+    correct_option: "A",
+    explanation: "Rationale: The CPG advises reducing or stopping an ACE inhibitor or ARB within 2 months if creatinine stays 30% or more above baseline, eGFR falls by 25% or more, or potassium reaches 5.6 mmol/l or above. Her changes (22%, 20%, K+ 5.1) are all below these thresholds, so the haemodynamic dip is acceptable and the drug should be continued and titrated up. Switching to an ARB gives similar benefits and risks and is pointless. Teaching point: After starting ACEi/ARB, act only if creatinine rises ≥30%, eGFR falls ≥25% or K+ is ≥5.6 mmol/l.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 5.2 (ACE inhibitors/ARB).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 47-year-old man diagnosed with T2DM a year ago has a negative urine protein dipstick. An early morning spot UACR is 4.2 mg/mmol. He has no fever, urinary symptoms or heart failure. BP is 128/78 mmHg off treatment and eGFR is 96 ml/min/1.73 m2. What is the most appropriate next step?",
+    option_a: "Start an ACE inhibitor now",
+    option_b: "Renal ultrasound",
+    option_c: "Repeat UACR twice within 3-6 months",
+    option_d: "24-hour urine protein collection",
+    correct_option: "C",
+    explanation: "Rationale: Albuminuria varies with hydration, exercise and infection. When microalbuminuria is detected, the CPG requires confirmation by repeating the test twice within 3-6 months, after excluding UTI and heart failure. DKD is diagnosed if 2 of 3 tests are positive. Starting treatment on a single result is premature. Ultrasound is for rapid decline or suspected obstruction. A 24-hour collection is less practical than UACR. Teaching point: One abnormal UACR is not DKD. Confirm with 2 of 3 positive tests over 3-6 months.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 5.2 (Assessment of albuminuria; Figure 5-1).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 66-year-old woman with T2DM and DKD is on maximum-dose losartan and empagliflozin. Over 12 months her eGFR has fallen from 52 to 44 ml/min/1.73 m2 and her uPCR is stable at 0.5 g/day. BP is 128/76 mmHg and HbA1c is 7.1%. What is the most appropriate next step?",
+    option_a: "Refer to a nephrologist",
+    option_b: "Add an ACE inhibitor to losartan",
+    option_c: "Continue and recheck in a year",
+    option_d: "Stop empagliflozin",
+    correct_option: "A",
+    explanation: "Rationale: The CPG lists rapid decline as an indication for nephrology referral: eGFR loss of more than 5 ml/min/1.73 m2 in 1 year (she lost 8), or more than 10 in 5 years. Other indications are eGFR below 30 and heavy proteinuria (≥1 g/day) despite treatment. Combining an ACE inhibitor with an ARB is not recommended because it causes hyperkalaemia and AKI without benefit. Empagliflozin is renoprotective and should continue. Teaching point: Refer DKD if eGFR falls more than 5 ml/min/1.73 m2 per year, eGFR is below 30, or proteinuria is ≥1 g/day.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 5.2 (Referral to nephrologist).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 78-year-old woman with T2DM has burning pain in both feet that disturbs her sleep. Monofilament sensation is absent to the ankles. She has had two falls this year, lying-standing BP is 146/80 falling to 118/68 mmHg, and she lives alone. Which neuropathic pain drug is the least suitable for her?",
+    option_a: "Pregabalin",
+    option_b: "Duloxetine",
+    option_c: "Gabapentin",
+    option_d: "Amitriptyline",
+    correct_option: "D",
+    explanation: "Rationale: All four drug classes are CPG options for painful DSPN. However, tricyclic antidepressants carry a higher risk of sedation and orthostatic hypotension and should be used with caution in older people at risk of falls. She already has a postural drop of 28 mmHg and has had falls. If response is poor, switching class or combining two drugs is preferred to escalating one. Teaching point: Avoid tricyclics for painful neuropathy in fallers with postural hypotension.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 5.3 (Treatment of DSPN).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 71-year-old man with T2DM for 20 years and CKD stage 4 has a non-healing ulcer on the right great toe. Foot pulses are difficult to feel. The ankle-brachial index is 1.42 on the right and 1.38 on the left. What is the most appropriate next step?",
+    option_a: "Reassure; PAD excluded",
+    option_b: "Toe-brachial index",
+    option_c: "Repeat the ABI in 3 months",
+    option_d: "Treat as neuropathic ulcer only",
+    correct_option: "B",
+    explanation: "Rationale: An ABI above 1.3 may reflect medial arterial calcification, which is common in long-standing diabetes and CKD, so it does not exclude PAD. The CPG recommends another test, such as the toe-brachial index (diagnostic if below 0.70) or continuous wave Doppler. In a patient with a foot ulcer, clinical examination alone may not exclude PAD, so combined testing is advised. Falsely reassuring results lead to missed ischaemia. Teaching point: ABI above 1.3 is non-diagnostic because of calcification. Use TBI or Doppler waveforms.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 5.4C (Peripheral arterial disease), Table 5-7.",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 62-year-old man with T2DM and stable angina reports erectile dysfunction for a year. He takes metformin, atorvastatin, bisoprolol and isosorbide mononitrate 60 mg daily. Morning testosterone is normal. What is the most appropriate management?",
+    option_a: "Sildenafil 50 mg as required",
+    option_b: "Tadalafil 5 mg daily",
+    option_c: "Testosterone replacement",
+    option_d: "Urology referral for non-PDE5 therapy",
+    correct_option: "D",
+    explanation: "Rationale: PDE5 inhibitors are first line for ED but are contraindicated with nitrates, unstable angina or poor exercise tolerance. A daily low-dose PDE5 inhibitor is still a PDE5 inhibitor. Testosterone helps only symptomatic hypogonadal men, and his level is normal. The CPG advises urology referral when PDE5 inhibitors are contraindicated, for options such as intracavernosal therapy, intraurethral alprostadil or vacuum devices. Teaching point: Nitrates mean no PDE5 inhibitor at any dose. Refer to urology for other options.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 5.6.1 (Erectile dysfunction).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 56-year-old woman with T2DM notices blurring of central vision in her right eye. Visual acuity is 6/18. Fundoscopy shows moderate non-proliferative retinopathy with hard exudates near the fovea, and optical coherence tomography confirms centre-involving macular oedema. There are no new vessels. What is the most appropriate treatment?",
+    option_a: "Pan-retinal photocoagulation",
+    option_b: "Focal macular laser",
+    option_c: "Intravitreal anti-VEGF",
+    option_d: "Observation and glucose control",
+    correct_option: "C",
+    explanation: "Rationale: For sight-threatening centre-involving diabetic macular oedema, intravitreal anti-VEGF is the treatment of choice and is superior to laser for visual gain. Pan-retinal laser is for high-risk proliferative (and some severe non-proliferative) retinopathy, which she does not have. Glucose control alone is insufficient for sight-threatening DMO. Teaching point: Centre-involving DMO: anti-VEGF. Proliferative retinopathy: pan-retinal laser.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 5.1 (Retinopathy).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 60-year-old man with T2DM and moderate non-proliferative retinopathy is on atorvastatin 40 mg. LDL-C is 1.6 mmol/l, triglycerides 1.5 mmol/l and HDL-C 1.1 mmol/l. He has no ASCVD. The ophthalmologist asks whether any lipid drug could slow his retinopathy. Which addition is most appropriate?",
+    option_a: "Ezetimibe",
+    option_b: "Omega-3 fatty acids 4 g",
+    option_c: "Nicotinic acid",
+    option_d: "Fenofibrate",
+    correct_option: "D",
+    explanation: "Rationale: In patients with established retinopathy, fenofibrate reduces progression of retinopathy whatever the baseline triglyceride or HDL-C level. Normal triglycerides are the trap. His LDL-C already meets the high-risk target, so ezetimibe adds nothing for the eye. Omega-3 and nicotinic acid are reserved for marked hypertriglyceridaemia. Teaching point: Fenofibrate slows diabetic retinopathy even when triglycerides are normal.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 3.9.2 (Hyperlipidaemia: management).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 54-year-old man takes metformin and repaglinide 2 mg with meals because he eats irregularly. Fasting triglycerides are 6.4 mmol/l despite improved diet and glucose control. Secondary causes have been excluded. A fibrate is planned. Which drug should not be used with his current regimen?",
+    option_a: "Fenofibrate",
+    option_b: "Gemfibrozil",
+    option_c: "Omega-3 fatty acids",
+    option_d: "Atorvastatin",
+    correct_option: "B",
+    explanation: "Rationale: Repaglinide combined with gemfibrozil is contraindicated because of a high risk of prolonged hypoglycaemia (gemfibrozil inhibits repaglinide metabolism). Fenofibrate is the safer fibrate for him. Fish oil 2-4 g/day is an option for TG above 5.7 mmol/l, and a statin may be combined. Meglitinides can be added to other OGLDs except sulphonylureas. Teaching point: Never combine repaglinide with gemfibrozil, because of prolonged hypoglycaemia.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 3.6.1 (Meglitinides); Section 3.9.2.",
+    tag: "CPG Type 2 Diabetes 2020"
   }
 ];
