@@ -1103,3 +1103,223 @@ D. Stop pioglitazone
 **Teaching point:** Pioglitazone plus insulin causes fluid retention. Stop the TZD, rather than add a diuretic.
 
 **Reference:** CPG Section 3.6.1 (Thiazolidinediones, Table 3-12 caution).
+
+---
+
+### Q51
+**Topic:** High-normal BP in diabetes
+
+A 50-year-old man with T2DM for 4 years has home and clinic BP averaging 136/86 mmHg. UACR is 1.2 mg/mmol, eGFR 88 ml/min/1.73 m2, and he has no retinopathy or CVD. He is overweight and eats a high-salt diet.
+
+**What is the most appropriate BP management?**
+
+A. Start perindopril
+B. Start amlodipine
+C. Lifestyle change; no drug yet
+D. Start perindopril and losartan
+
+**Answer:** C
+
+**Explanation:** In T2DM, drug treatment starts at BP ≥140 and/or ≥90 mmHg. No CV benefit has been shown for starting drugs at high-normal BP (130-139/80-89 mmHg). He has no albuminuria (UACR <3), so there is no renal indication for RAS blockade regardless of BP. Combining an ACE inhibitor with an ARB is never recommended.
+
+**Teaching point:** T2DM: start BP drugs at ≥140/90 mmHg, or earlier with RAS blockade if there is albuminuria.
+
+**Reference:** CPG Section 3.9.1 (Recommendations: Hypertension and T2DM); Section 5.2.
+
+---
+
+### Q52
+**Topic:** Persistent albuminuria on maximum ACE inhibitor
+
+A 61-year-old woman with T2DM and DKD takes perindopril 10 mg (maximum dose), amlodipine and metformin. BP is 128/78 mmHg. UACR remains 46 mg/mmol, eGFR 48 ml/min/1.73 m2, potassium 4.8 mmol/l and HbA1c 7.4%.
+
+**What is the most appropriate addition to slow DKD progression?**
+
+A. Empagliflozin
+B. Losartan
+C. Sitagliptin
+D. Increase amlodipine
+
+**Answer:** A
+
+**Explanation:** SGLT2 inhibitors should be considered at eGFR ≥30, particularly with albuminuria, to reduce DKD progression (Grade A). Adding an ARB to an ACE inhibitor is not recommended: it gives no added benefit but more hyperkalaemia and AKI. Her BP is already at target, so more amlodipine is not needed. Sitagliptin is safe in DKD but not renoprotective.
+
+**Teaching point:** Albuminuric DKD on maximum ACEi: add an SGLT2 inhibitor, not an ARB.
+
+**Reference:** CPG Section 5.2 (Recommendations: Management of DKD).
+
+---
+
+### Q53
+**Topic:** Over-treated BP in DKD
+
+A 73-year-old man with T2DM and DKD (eGFR 36 ml/min/1.73 m2, UACR 60 mg/mmol) takes losartan 100 mg, amlodipine 10 mg and indapamide. He reports light-headedness on standing. Seated BP is 116/64 mmHg and standing BP is 104/60 mmHg.
+
+**What is the most appropriate change?**
+
+A. Continue; lower BP protects the kidney
+B. Stop losartan
+C. Add spironolactone for albuminuria
+D. Reduce amlodipine or indapamide
+
+**Answer:** D
+
+**Explanation:** In DKD the BP target is ≤130/80 mmHg, but systolic BP should not fall below 120 mmHg and diastolic not below 70 mmHg. He is below both floors and is symptomatic, so his BP treatment should be reduced. The ARB is renoprotective for his albuminuria and should be kept, so it is the non-RAS drugs that are reduced. Adding an MRA would lower BP further and raise potassium.
+
+**Teaching point:** DKD BP target ≤130/80, but not below 120/70. Reduce non-RAS drugs first.
+
+**Reference:** CPG Section 5.2 (BP targets); Section 3.9.1.
+
+---
+
+### Q54
+**Topic:** Aspirin in a young adult with diabetes
+
+A 46-year-old woman has had T2DM for 2 years. She has no hypertension, smoking, albuminuria or family history of premature CVD. LDL-C is 2.2 mmol/l on atorvastatin and HbA1c is 7.0%. She asks whether she should take "a baby aspirin like my father".
+
+**What is the most appropriate advice?**
+
+A. Aspirin 100 mg daily
+B. No aspirin
+C. Clopidogrel 75 mg daily
+D. Aspirin once HbA1c is above 8%
+
+**Answer:** B
+
+**Explanation:** In people at low risk (under 50 with no major ASCVD risk factor), the CPG does not recommend aspirin for primary prevention. Aspirin (100 mg) is considered only in those at *increased* CV risk, after discussing bleeding. Clopidogrel is for patients with ASCVD who are allergic to aspirin. HbA1c is not an aspirin threshold.
+
+**Teaching point:** Primary prevention aspirin in diabetes: only for increased CV risk after shared discussion, not routinely.
+
+**Reference:** CPG Section 5.4A (Antiplatelet therapy; Recommendation 4).
+
+---
+
+### Q55
+**Topic:** Revascularisation strategy
+
+A 62-year-old man with T2DM and stable angina has coronary angiography showing severe stenoses in the proximal LAD, circumflex and right coronary arteries. LVEF is 50%. His coronary anatomy is suitable for either PCI or surgery, and his predicted surgical mortality is low.
+
+**What is the most appropriate revascularisation?**
+
+A. Multivessel PCI with DES
+B. CABG
+C. Optimal medical therapy alone
+D. Staged PCI, culprit vessel first
+
+**Answer:** B
+
+**Explanation:** In T2DM with multivessel or complex LAD disease, with anatomy suitable for both procedures and low surgical risk, CABG is superior to PCI for death, MI and stroke (Grade A). The CPG regards diabetes as a distinct entity in this decision. PCI options are the near-miss, as they are reasonable in people without diabetes. He has symptomatic three-vessel disease, so medical therapy alone is inferior.
+
+**Teaching point:** Diabetes with multivessel CAD and suitable anatomy: CABG over PCI.
+
+**Reference:** CPG Section 5.4A (Revascularisation; Recommendation 7).
+
+---
+
+### Q56
+**Topic:** Proliferative retinopathy and STEMI
+
+A 57-year-old woman with T2DM and treated proliferative diabetic retinopathy (laser 2 years ago) presents to a district hospital 2 hours after onset of an inferior STEMI. The nearest PCI centre is 4 hours away. She has no other contraindication to thrombolysis.
+
+**What is the most appropriate reperfusion strategy?**
+
+A. Transfer for primary PCI
+B. Withhold lysis; anticoagulate
+C. Give fibrinolysis
+D. Half-dose fibrinolysis
+
+**Answer:** C
+
+**Explanation:** The CPG states that diabetic retinopathy is not a contraindication to thrombolytic therapy. With a transfer time of 4 hours, primary PCI cannot be delivered in time, so fibrinolysis is indicated. Withholding or halving the dose because of retinopathy is a common misconception.
+
+**Teaching point:** Diabetic retinopathy, even proliferative, does not contraindicate thrombolysis.
+
+**Reference:** CPG Section 5.4A (Revascularisation).
+
+---
+
+### Q57
+**Topic:** Cardiac screening in an asymptomatic patient
+
+A 59-year-old man with T2DM for 8 years and hypertension is asymptomatic. He walks 5 km daily without chest pain or breathlessness. BP is 132/78 mmHg, LDL-C 1.7 mmol/l and HbA1c 7.0%. His employer's health plan offers a treadmill test.
+
+**What cardiac investigation is most appropriate?**
+
+A. Resting 12-lead ECG
+B. Exercise treadmill test
+C. CT coronary calcium score
+D. No cardiac investigation
+
+**Answer:** A
+
+**Explanation:** Routine screening for CAD in asymptomatic people with diabetes is not recommended, because it does not improve outcomes when risk factors are treated to target. His are at target. However, a resting ECG *is* indicated in T2DM with hypertension, or when CVD is suspected. "No test at all" misses that recommendation. Stress testing and calcium scoring are routine screening.
+
+**Teaching point:** Asymptomatic T2DM: no stress test, but a resting ECG if hypertensive.
+
+**Reference:** CPG Section 5.4A (Recommendations: Screening for CVD).
+
+---
+
+### Q58
+**Topic:** Oral health at diagnosis
+
+A 44-year-old woman has just been diagnosed with T2DM (HbA1c 7.6%). She has no gum bleeding, loose teeth or dental pain, and last saw a dentist 4 years ago.
+
+**What is the most appropriate dental advice?**
+
+A. Refer only if gum symptoms develop
+B. Refer if HbA1c stays above 8%
+C. No referral; advise brushing only
+D. Periodontal examination now
+
+**Answer:** D
+
+**Explanation:** All newly diagnosed people with diabetes should be referred for a periodontal examination as part of their management, with annual periodontal review even if no periodontitis is found. Periodontal disease has a two-way relationship with glycaemia, and treating it improves metabolic parameters. Symptom-triggered or HbA1c-triggered referral misses silent disease.
+
+**Teaching point:** Every new diagnosis needs a periodontal referral and then an annual review.
+
+**Reference:** CPG Section 5.8 (Recommendations: Periodontal disease).
+
+---
+
+### Q59
+**Topic:** Discordant HbA1c on intensive insulin
+
+A 52-year-old man on basal-bolus insulin has an HbA1c of 8.7%, yet his logbook shows pre-meal readings of 6-8 mmol/l. He reports occasional morning headaches and vivid dreams. He tests 3 times a day before meals.
+
+**What is the most appropriate next step?**
+
+A. Continuous glucose monitoring
+B. Increase basal insulin by 10%
+C. Repeat HbA1c in 1 month
+D. Add a GLP1-RA
+
+**Answer:** A
+
+**Explanation:** CGM may be considered in patients on intensive insulin with suboptimal HbA1c or suspected unrecognised hypoglycaemia. The discordance between his HbA1c and pre-meal readings suggests undetected post-prandial peaks, and the headaches and vivid dreams suggest nocturnal hypoglycaemia. Increasing basal insulin blindly could worsen night-time lows. Repeating HbA1c, or adding a drug, does not explain the pattern.
+
+**Teaching point:** HbA1c out of keeping with SMBG, plus nocturnal symptoms, on intensive insulin: use CGM.
+
+**Reference:** CPG Section 3.8 (Recommendations: Monitoring); Section 4.1 (Nocturnal hypoglycaemia).
+
+---
+
+### Q60
+**Topic:** Converting HbA1c units
+
+A 66-year-old woman returns from abroad with a laboratory report giving her HbA1c as 53 mmol/mol (IFCC). She asks whether she has met her clinic target of ≤7.0% (NGSP).
+
+**What is her NGSP HbA1c?**
+
+A. 6.0%
+B. 6.5%
+C. 7.0%
+D. 7.5%
+
+**Answer:** C
+
+**Explanation:** On the CPG conversion table, NGSP 7.0% corresponds to IFCC 53 mmol/mol (estimated average glucose 8.6 mmol/l). NGSP 6.0% is 42 mmol/mol and 8.0% is 64 mmol/mol. IFCC numbers are not percentages, so mistaking one unit system for the other is the trap. She is exactly at target.
+
+**Teaching point:** HbA1c 7.0% = 53 mmol/mol = eAG 8.6 mmol/l. 6.0% = 42 and 8.0% = 64.
+
+**Reference:** CPG Section 3.8.1, Table 3-20.

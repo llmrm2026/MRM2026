@@ -6832,5 +6832,105 @@ const cpgBank = [
     correct_option: "D",
     explanation: "Rationale: TZDs cause weight gain and fluid retention, and the CPG specifically cautions about using them with insulin because of aggravated fluid retention. With no heart failure, stopping the pioglitazone addresses the cause. A diuretic treats the effect while keeping the cause. Reducing insulin does not remove the TZD effect. Saxagliptin is a poor choice if fluid or heart failure concerns arise. Teaching point: Pioglitazone plus insulin causes fluid retention. Stop the TZD, rather than add a diuretic.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 3.6.1 (Thiazolidinediones, Table 3-12 caution).",
     tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 50-year-old man with T2DM for 4 years has home and clinic BP averaging 136/86 mmHg. UACR is 1.2 mg/mmol, eGFR 88 ml/min/1.73 m2, and he has no retinopathy or CVD. He is overweight and eats a high-salt diet. What is the most appropriate BP management?",
+    option_a: "Start perindopril",
+    option_b: "Start amlodipine",
+    option_c: "Lifestyle change; no drug yet",
+    option_d: "Start perindopril and losartan",
+    correct_option: "C",
+    explanation: "Rationale: In T2DM, drug treatment starts at BP ≥140 and/or ≥90 mmHg. No CV benefit has been shown for starting drugs at high-normal BP (130-139/80-89 mmHg). He has no albuminuria (UACR <3), so there is no renal indication for RAS blockade regardless of BP. Combining an ACE inhibitor with an ARB is never recommended. Teaching point: T2DM: start BP drugs at ≥140/90 mmHg, or earlier with RAS blockade if there is albuminuria.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 3.9.1 (Recommendations: Hypertension and T2DM); Section 5.2.",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 61-year-old woman with T2DM and DKD takes perindopril 10 mg (maximum dose), amlodipine and metformin. BP is 128/78 mmHg. UACR remains 46 mg/mmol, eGFR 48 ml/min/1.73 m2, potassium 4.8 mmol/l and HbA1c 7.4%. What is the most appropriate addition to slow DKD progression?",
+    option_a: "Empagliflozin",
+    option_b: "Losartan",
+    option_c: "Sitagliptin",
+    option_d: "Increase amlodipine",
+    correct_option: "A",
+    explanation: "Rationale: SGLT2 inhibitors should be considered at eGFR ≥30, particularly with albuminuria, to reduce DKD progression (Grade A). Adding an ARB to an ACE inhibitor is not recommended: it gives no added benefit but more hyperkalaemia and AKI. Her BP is already at target, so more amlodipine is not needed. Sitagliptin is safe in DKD but not renoprotective. Teaching point: Albuminuric DKD on maximum ACEi: add an SGLT2 inhibitor, not an ARB.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 5.2 (Recommendations: Management of DKD).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 73-year-old man with T2DM and DKD (eGFR 36 ml/min/1.73 m2, UACR 60 mg/mmol) takes losartan 100 mg, amlodipine 10 mg and indapamide. He reports light-headedness on standing. Seated BP is 116/64 mmHg and standing BP is 104/60 mmHg. What is the most appropriate change?",
+    option_a: "Continue; lower BP protects the kidney",
+    option_b: "Stop losartan",
+    option_c: "Add spironolactone for albuminuria",
+    option_d: "Reduce amlodipine or indapamide",
+    correct_option: "D",
+    explanation: "Rationale: In DKD the BP target is ≤130/80 mmHg, but systolic BP should not fall below 120 mmHg and diastolic not below 70 mmHg. He is below both floors and is symptomatic, so his BP treatment should be reduced. The ARB is renoprotective for his albuminuria and should be kept, so it is the non-RAS drugs that are reduced. Adding an MRA would lower BP further and raise potassium. Teaching point: DKD BP target ≤130/80, but not below 120/70. Reduce non-RAS drugs first.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 5.2 (BP targets); Section 3.9.1.",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 46-year-old woman has had T2DM for 2 years. She has no hypertension, smoking, albuminuria or family history of premature CVD. LDL-C is 2.2 mmol/l on atorvastatin and HbA1c is 7.0%. She asks whether she should take \"a baby aspirin like my father\". What is the most appropriate advice?",
+    option_a: "Aspirin 100 mg daily",
+    option_b: "No aspirin",
+    option_c: "Clopidogrel 75 mg daily",
+    option_d: "Aspirin once HbA1c is above 8%",
+    correct_option: "B",
+    explanation: "Rationale: In people at low risk (under 50 with no major ASCVD risk factor), the CPG does not recommend aspirin for primary prevention. Aspirin (100 mg) is considered only in those at *increased* CV risk, after discussing bleeding. Clopidogrel is for patients with ASCVD who are allergic to aspirin. HbA1c is not an aspirin threshold. Teaching point: Primary prevention aspirin in diabetes: only for increased CV risk after shared discussion, not routinely.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 5.4A (Antiplatelet therapy; Recommendation 4).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 62-year-old man with T2DM and stable angina has coronary angiography showing severe stenoses in the proximal LAD, circumflex and right coronary arteries. LVEF is 50%. His coronary anatomy is suitable for either PCI or surgery, and his predicted surgical mortality is low. What is the most appropriate revascularisation?",
+    option_a: "Multivessel PCI with DES",
+    option_b: "CABG",
+    option_c: "Optimal medical therapy alone",
+    option_d: "Staged PCI, culprit vessel first",
+    correct_option: "B",
+    explanation: "Rationale: In T2DM with multivessel or complex LAD disease, with anatomy suitable for both procedures and low surgical risk, CABG is superior to PCI for death, MI and stroke (Grade A). The CPG regards diabetes as a distinct entity in this decision. PCI options are the near-miss, as they are reasonable in people without diabetes. He has symptomatic three-vessel disease, so medical therapy alone is inferior. Teaching point: Diabetes with multivessel CAD and suitable anatomy: CABG over PCI.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 5.4A (Revascularisation; Recommendation 7).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 57-year-old woman with T2DM and treated proliferative diabetic retinopathy (laser 2 years ago) presents to a district hospital 2 hours after onset of an inferior STEMI. The nearest PCI centre is 4 hours away. She has no other contraindication to thrombolysis. What is the most appropriate reperfusion strategy?",
+    option_a: "Transfer for primary PCI",
+    option_b: "Withhold lysis; anticoagulate",
+    option_c: "Give fibrinolysis",
+    option_d: "Half-dose fibrinolysis",
+    correct_option: "C",
+    explanation: "Rationale: The CPG states that diabetic retinopathy is not a contraindication to thrombolytic therapy. With a transfer time of 4 hours, primary PCI cannot be delivered in time, so fibrinolysis is indicated. Withholding or halving the dose because of retinopathy is a common misconception. Teaching point: Diabetic retinopathy, even proliferative, does not contraindicate thrombolysis.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 5.4A (Revascularisation).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 59-year-old man with T2DM for 8 years and hypertension is asymptomatic. He walks 5 km daily without chest pain or breathlessness. BP is 132/78 mmHg, LDL-C 1.7 mmol/l and HbA1c 7.0%. His employer's health plan offers a treadmill test. What cardiac investigation is most appropriate?",
+    option_a: "Resting 12-lead ECG",
+    option_b: "Exercise treadmill test",
+    option_c: "CT coronary calcium score",
+    option_d: "No cardiac investigation",
+    correct_option: "A",
+    explanation: "Rationale: Routine screening for CAD in asymptomatic people with diabetes is not recommended, because it does not improve outcomes when risk factors are treated to target. His are at target. However, a resting ECG *is* indicated in T2DM with hypertension, or when CVD is suspected. \"No test at all\" misses that recommendation. Stress testing and calcium scoring are routine screening. Teaching point: Asymptomatic T2DM: no stress test, but a resting ECG if hypertensive.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 5.4A (Recommendations: Screening for CVD).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 44-year-old woman has just been diagnosed with T2DM (HbA1c 7.6%). She has no gum bleeding, loose teeth or dental pain, and last saw a dentist 4 years ago. What is the most appropriate dental advice?",
+    option_a: "Refer only if gum symptoms develop",
+    option_b: "Refer if HbA1c stays above 8%",
+    option_c: "No referral; advise brushing only",
+    option_d: "Periodontal examination now",
+    correct_option: "D",
+    explanation: "Rationale: All newly diagnosed people with diabetes should be referred for a periodontal examination as part of their management, with annual periodontal review even if no periodontitis is found. Periodontal disease has a two-way relationship with glycaemia, and treating it improves metabolic parameters. Symptom-triggered or HbA1c-triggered referral misses silent disease. Teaching point: Every new diagnosis needs a periodontal referral and then an annual review.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 5.8 (Recommendations: Periodontal disease).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 52-year-old man on basal-bolus insulin has an HbA1c of 8.7%, yet his logbook shows pre-meal readings of 6-8 mmol/l. He reports occasional morning headaches and vivid dreams. He tests 3 times a day before meals. What is the most appropriate next step?",
+    option_a: "Continuous glucose monitoring",
+    option_b: "Increase basal insulin by 10%",
+    option_c: "Repeat HbA1c in 1 month",
+    option_d: "Add a GLP1-RA",
+    correct_option: "A",
+    explanation: "Rationale: CGM may be considered in patients on intensive insulin with suboptimal HbA1c or suspected unrecognised hypoglycaemia. The discordance between his HbA1c and pre-meal readings suggests undetected post-prandial peaks, and the headaches and vivid dreams suggest nocturnal hypoglycaemia. Increasing basal insulin blindly could worsen night-time lows. Repeating HbA1c, or adding a drug, does not explain the pattern. Teaching point: HbA1c out of keeping with SMBG, plus nocturnal symptoms, on intensive insulin: use CGM.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 3.8 (Recommendations: Monitoring); Section 4.1 (Nocturnal hypoglycaemia).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 66-year-old woman returns from abroad with a laboratory report giving her HbA1c as 53 mmol/mol (IFCC). She asks whether she has met her clinic target of ≤7.0% (NGSP). What is her NGSP HbA1c?",
+    option_a: "6.0%",
+    option_b: "6.5%",
+    option_c: "7.0%",
+    option_d: "7.5%",
+    correct_option: "C",
+    explanation: "Rationale: On the CPG conversion table, NGSP 7.0% corresponds to IFCC 53 mmol/mol (estimated average glucose 8.6 mmol/l). NGSP 6.0% is 42 mmol/mol and 8.0% is 64 mmol/mol. IFCC numbers are not percentages, so mistaking one unit system for the other is the trap. She is exactly at target. Teaching point: HbA1c 7.0% = 53 mmol/mol = eAG 8.6 mmol/l. 6.0% = 42 and 8.0% = 64.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 3.8.1, Table 3-20.",
+    tag: "CPG Type 2 Diabetes 2020"
   }
 ];
