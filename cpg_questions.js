@@ -8672,5 +8672,505 @@ const cpgBank = [
     correct_option: "A",
     explanation: "Rationale: The treat-to-target strategy aims for a serum urate below 360 µmol/l (6 mg/dl) for all patients receiving ULT, with a lower target of below 300 µmol/l in severe disease. The 480 µmol/l figure was used to define uncontrolled gout in a cross-sectional study, 540 µmol/l is the urate level that, with CKD stage 3 or more or urolithiasis, favours starting ULT after a first flare, and below 180 µmol/l is not recommended long term. Teaching point: Gout T2T: serum urate below 360 µmol/l. Below 300 in severe disease. Avoid prolonged levels below 180.\nReference: Malaysian CPG Management of Gout (2nd Ed.), Section 11; Recommendation 4; Section 17.",
     tag: "CPG Gout 2021"
+  },
+  {
+    question_text: "A 62-year-old woman has 2 years of aching and stiffness in both hands. Examination shows hard bony enlargement of the 2nd and 3rd DIP joints and the 1st carpometacarpal joint bilaterally, with bony enlargement of both 2nd and 3rd PIP joints, and only one mildly swollen MCP joint. RF is negative.\n\nAdapted from CPG Table 1 (ACR 1990 clinical criteria for idiopathic hand OA):\n\nCriterion  |  Requirement\n1  |  Hand pain, aching or stiffness\n2  |  Hard tissue enlargement of ≥2 of 10 selected joints (2nd, 3rd DIP; 2nd, 3rd PIP; 1st CMC, both hands)\n3  |  Fewer than 3 swollen MCP joints\n4a  |  Hard tissue enlargement of ≥2 DIP joints\n4b  |  Deformity of ≥2 of the 10 selected joints\n\nDiagnosis (clinical only): criteria 1, 2, 3 plus 4a or 4b.\n\nDoes she fulfil the criteria, and what is the performance of these criteria?",
+    option_a: "No; RF positivity is required",
+    option_b: "No; more than 3 swollen MCP joints are required",
+    option_c: "Yes; sensitivity 98% and specificity 92%",
+    option_d: "Yes; sensitivity 92% and specificity 98%",
+    correct_option: "D",
+    explanation: "Rationale: She has hand pain and stiffness (1), hard tissue enlargement of at least 2 of the 10 selected joints (2), fewer than 3 swollen MCP joints (3), and hard tissue enlargement of at least 2 DIP joints (4a), so she fulfils the criteria. The CPG gives sensitivity 92% and specificity 98% for these hand OA criteria. RF positivity is not part of them, and OA features fewer than 3 swollen MCP joints (more would suggest inflammatory arthritis). Teaching point: Hand OA is clinical: pain/stiffness, bony enlargement of at least 2 of 10 selected joints, fewer than 3 swollen MCPs, and DIP enlargement or deformity.\nReference: Malaysian CPG Management of Osteoarthritis (2013), Section 4.2a, Table 1.",
+    tag: "CPG Osteoarthritis 2013"
+  },
+  {
+    question_text: "A 67-year-old man has 8 months of right groin pain on walking. ESR is 14 mm/hr. A standing pelvic radiograph shows femoral and acetabular osteophytes with preserved axial joint space. Adapted from CPG Table 2 (ACR 1991 criteria, hip OA): hip pain plus at least 2 of 3: (1) ESR <20 mm/hr; (2) femoral and acetabular osteophytes on X-ray; (3) axial joint space narrowing on X-ray. Sensitivity 89%, specificity 91%. Does he meet the criteria?",
+    option_a: "Yes, but only if RF is negative",
+    option_b: "No; all three features are required",
+    option_c: "Yes; hip pain plus two of the three (ESR <20 and osteophytes)",
+    option_d: "No; joint space narrowing is mandatory",
+    correct_option: "C",
+    explanation: "Rationale: The hip OA classification needs hip pain plus at least 2 of 3 features. He has hip pain, ESR below 20 mm/hr and osteophytes on both sides of the joint, which is two of three, so he meets the criteria (sensitivity 89%, specificity 91%). Joint space narrowing is one of the options, not a requirement. The criteria use ESR, not RF. Teaching point: Hip OA: hip pain plus any 2 of ESR <20 mm/hr, osteophytes, axial joint space narrowing.\nReference: Malaysian CPG Management of Osteoarthritis (2013), Section 4.2b, Table 2.",
+    tag: "CPG Osteoarthritis 2013"
+  },
+  {
+    question_text: "A 58-year-old woman presents with 1 year of right knee pain. Morning stiffness lasts 15 minutes. There is crepitus on movement and bony enlargement of the knee, with no palpable warmth. No bloods or radiographs have been done. She asks whether the diagnosis can be made today. Adapted from CPG Table 3 (ACR 1986 criteria, knee OA, clinical only): knee pain plus at least 3 of 6: age >50, stiffness <30 min, crepitus, bony tenderness, bony enlargement, no palpable warmth. Sensitivity 95% and specificity 69% with 3 of 6; sensitivity 84% and specificity 89% with 4 of 6. What is the most appropriate statement?",
+    option_a: "She needs an ESR and RF before diagnosis",
+    option_b: "She meets 5 of 6 criteria (age >50, stiffness <30 min, crepitus, bony enlargement, no warmth), so knee OA can be diagnosed clinically",
+    option_c: "She does not meet the criteria without osteophytes on X-ray",
+    option_d: "The diagnosis needs an MRI",
+    correct_option: "B",
+    explanation: "Rationale: Knee pain plus at least 3 of 6 clinical features allows a clinical-only diagnosis, and she has 5 (age over 50, stiffness under 30 minutes, crepitus, bony enlargement, no palpable warmth). The CPG states OA should be diagnosed clinically (Recommendation 1), with radiographs as supportive, and laboratory tests only to exclude other inflammatory joint disease. Requiring 4 of 6 increases specificity from 69% to 89%. Teaching point: Knee OA can be diagnosed clinically: pain plus 3 of 6 features. Radiographs and bloods are optional.\nReference: Malaysian CPG Management of Osteoarthritis (2013), Section 4.2c, Table 3; Recommendation 1.",
+    tag: "CPG Osteoarthritis 2013"
+  },
+  {
+    question_text: "A 55-year-old man has pain and stiffness in both knees. His stiffness after rising from a chair lasts 5 minutes, and in the morning about 10 minutes. A colleague suggests that morning stiffness means inflammatory arthritis. What is the most accurate statement?",
+    option_a: "Stiffness occurs only after prolonged rest of several hours and never on rising from a chair",
+    option_b: "Stiffness in OA usually lasts a few minutes and almost always under 30 minutes, unlike inflammatory arthritis",
+    option_c: "Stiffness in OA usually lasts 30-60 minutes and is worst after inactivity, similar to early RA",
+    option_d: "Stiffness in OA lasts over an hour in the morning and improves after exercise, which distinguishes it from inflammatory arthritis",
+    correct_option: "B",
+    explanation: "Rationale: Stiffness in OA is a sensation of tightening after inactivity (in the morning or on arising from sitting) that usually lasts only a few minutes and almost always less than 30 minutes, in contrast to inflammatory arthritis such as RA where it is prolonged. Pain in OA is insidious, worse with use and relieved by rest, though night pain may occur in severe disease. Teaching point: OA stiffness: minutes, almost always under 30 minutes.\nReference: Malaysian CPG Management of Osteoarthritis (2013), Section 4.1.",
+    tag: "CPG Osteoarthritis 2013"
+  },
+  {
+    question_text: "A 66-year-old woman with known knee OA has a swollen right knee. Aspiration yields 20 ml of clear yellow, viscous fluid. Fluid analysis is shown.\n\nAdapted from CPG Table 4 (synovial fluid categories):\n\nMeasure  |  Non-inflammatory  |  Inflammatory  |  Septic\nClarity  |  Transparent  |  Translucent  |  Opaque\nViscosity  |  High  |  Low  |  Variable\nWBC per mm3  |  200-2,000  |  2,000-10,000  |  >100,000\nPMNs  |  <25%  |  ≥50%  |  ≥75%\nCulture  |  Negative  |  Negative  |  Often positive\n\nHer fluid has a WBC of 1,200 per mm3 with 15% PMNs, high viscosity and a negative culture.\n\nHow is the fluid classified?",
+    option_a: "Non-inflammatory, consistent with OA",
+    option_b: "Inflammatory",
+    option_c: "Septic",
+    option_d: "Haemorrhagic",
+    correct_option: "A",
+    explanation: "Rationale: A WBC of 200-2,000 per mm3 with fewer than 25% PMNs, transparent, yellow, viscous fluid and negative culture is non-inflammatory, which is typical of OA. Inflammatory fluid has 2,000-10,000 cells with 50% or more PMNs and low viscosity. Septic fluid usually has over 100,000 cells and is opaque. Synovial fluid analysis is seldom required in OA, except to exclude septic, inflammatory or crystal arthropathy. Teaching point: OA synovial fluid is non-inflammatory: WBC 200-2,000, PMN <25%, high viscosity.\nReference: Malaysian CPG Management of Osteoarthritis (2013), Section 5.1, Table 4.",
+    tag: "CPG Osteoarthritis 2013"
+  },
+  {
+    question_text: "A 60-year-old woman with typical knee OA has an ESR of 22 mm/hr and a normal CRP. Her GP wants to order rheumatoid factor, ANA and a full autoimmune screen \"to be sure\". Which statement is consistent with the CPG?",
+    option_a: "A positive ANA and raised CRP are required to confirm OA and distinguish it from inflammatory arthritis",
+    option_b: "Synovial fluid analysis is mandatory in all cases to confirm OA before treatment is started",
+    option_c: "There are no specific tests, but a raised ESR above 40 mm/hr is required to make the diagnosis of OA",
+    option_d: "There are no specific laboratory tests for OA. Inflammatory markers are normal or mildly raised, and tests are done only to exclude other disease",
+    correct_option: "D",
+    explanation: "Rationale: There is no specific laboratory test for OA. ESR and CRP are normal or only mildly raised, and synovial fluid is essentially normal. Laboratory investigations may be done to exclude other inflammatory joint disease, and OA should be diagnosed clinically. Teaching point: OA is a clinical diagnosis. Lab tests only exclude inflammatory or crystal arthritis.\nReference: Malaysian CPG Management of Osteoarthritis (2013), Section 5.1; Recommendation 1.",
+    tag: "CPG Osteoarthritis 2013"
+  },
+  {
+    question_text: "A 70-year-old man has a standing knee radiograph showing moderate multiple osteophytes, definite joint space narrowing, some sclerosis and possible deformity of the bone ends.\n\nAdapted from CPG Table 5 (Kellgren-Lawrence grades):\n\nGrade  |  Description\nI  |  Doubtful narrowing, possible osteophytic lipping\nII  |  Definite osteophytes, possible narrowing\nIII  |  Moderate multiple osteophytes, definite narrowing, some sclerosis, possible deformity\nIV  |  Large osteophytes, marked narrowing, severe sclerosis, definite deformity\n\nWhich grade is this?",
+    option_a: "Grade I",
+    option_b: "Grade IV",
+    option_c: "Grade III",
+    option_d: "Grade II",
+    correct_option: "C",
+    explanation: "Rationale: Moderate multiple osteophytes, definite joint space narrowing, some sclerosis and possible deformity define Kellgren-Lawrence grade III. Grade IV requires large osteophytes, marked narrowing, severe sclerosis and definite bony deformity, and grade II shows only definite osteophytes with possible narrowing. When radiography is needed in hip or knee OA, it should be a weight-bearing (standing AP) view. Teaching point: K-L: I doubtful, II definite osteophytes, III definite narrowing with moderate osteophytes, IV large osteophytes with severe sclerosis and deformity.\nReference: Malaysian CPG Management of Osteoarthritis (2013), Section 5.2, Table 5.",
+    tag: "CPG Osteoarthritis 2013"
+  },
+  {
+    question_text: "A 58-year-old woman has painful, swollen DIP and PIP joints. Radiographs show central erosions with adjacent osteophyte formation, producing a \"gull-wing\" appearance in several interphalangeal joints. MCPs and wrists are spared. RF and ACPA are negative, and she has no psoriasis.\n\nAdapted from CPG Table 6 (hand X-ray patterns):\n\nCondition  |  Typical radiographic change\nOsteoarthritis  |  Focal narrowing, marginal osteophyte, sclerosis, osteochondral bodies\nErosive OA  |  Subchondral erosion\nPsoriatic arthritis  |  Proliferative marginal erosion, retained or increased bone density\nRheumatoid arthritis  |  Non-proliferative marginal erosion, osteopenia\n\nWhat is the most likely diagnosis?",
+    option_a: "Psoriatic arthritis",
+    option_b: "Gout",
+    option_c: "Erosive osteoarthritis",
+    option_d: "Rheumatoid arthritis",
+    correct_option: "C",
+    explanation: "Rationale: Central (subchondral) erosions with osteophytes in the interphalangeal joints, the gull-wing appearance, and sparing of the MCPs and wrists point to erosive OA. RA causes marginal, non-proliferative erosions with osteopenia and involves MCPs and wrists. Psoriatic arthritis shows proliferative marginal erosions with retained bone density. Seronegativity and no psoriasis support erosive OA. Teaching point: Gull-wing erosions with osteophytes at the DIP and PIP joints suggest erosive OA, not RA or psoriatic arthritis.\nReference: Malaysian CPG Management of Osteoarthritis (2013), Section 5.2, Table 6; Figures 4 and 5.",
+    tag: "CPG Osteoarthritis 2013"
+  },
+  {
+    question_text: "A 64-year-old woman has typical knee OA. Her GP is considering MRI of the knee and musculoskeletal ultrasound to \"confirm\" the diagnosis. Which statement fits the CPG?",
+    option_a: "Non-weight-bearing radiographs of both knees are the standard, as standing views add no information",
+    option_b: "MRI and ultrasound are seldom needed for diagnosis; plain weight-bearing radiographs are the standard if imaging is required",
+    option_c: "Ultrasound is the standard imaging, and weight-bearing radiographs are rarely needed",
+    option_d: "MRI is the standard imaging, with plain radiographs reserved for patients who cannot have MRI",
+    correct_option: "B",
+    explanation: "Rationale: Plain radiography remains the standard imaging for OA, and should be a weight-bearing standing AP view for hip and knee. MRI and musculoskeletal ultrasound are seldom indicated for diagnosis, though ultrasound may be useful in early hand arthritis (it visualises cartilage) and can show synovial inflammation in symptomatic hand and knee OA. Teaching point: Weight-bearing plain X-ray is the standard. MRI and ultrasound are seldom needed.\nReference: Malaysian CPG Management of Osteoarthritis (2013), Section 5.2.",
+    tag: "CPG Osteoarthritis 2013"
+  },
+  {
+    question_text: "A 38-year-old man has early OA of both hips and the MCP joints of the index and middle fingers, with bronzed skin and diabetes. A colleague suggests this may be \"just primary OA\". Which cause of secondary OA does the CPG list in this metabolic category?",
+    option_a: "Haemochromatosis",
+    option_b: "Septic arthritis",
+    option_c: "Leg length inequality",
+    option_d: "Legg-Perthes disease",
+    correct_option: "A",
+    explanation: "Rationale: Metabolic causes of secondary OA include acromegaly, haemochromatosis and chondrocalcinosis. Haemochromatosis typically causes arthropathy of the 2nd and 3rd MCPs, with bronzed skin and diabetes. Legg-Perthes disease and leg length inequality are anatomic causes, and septic arthritis is an inflammatory cause. Young onset or atypical joints should prompt a search for a secondary cause. Teaching point: Secondary OA: metabolic (acromegaly, haemochromatosis, chondrocalcinosis), anatomic, traumatic, inflammatory.\nReference: Malaysian CPG Management of Osteoarthritis (2013), Section 3.",
+    tag: "CPG Osteoarthritis 2013"
+  },
+  {
+    question_text: "A 56-year-old woman with a BMI of 34 kg/m2 asks which of her risk factors for knee OA can be changed. Which risk factors does the CPG list as modifiable?",
+    option_a: "Female sex and Heberden's nodes",
+    option_b: "Family history",
+    option_c: "Advancing age and genetic influence",
+    option_d: "Body mass index and malalignment",
+    correct_option: "D",
+    explanation: "Rationale: Non-modifiable risk factors are advancing age, genetic influence (39-65% for hand and knee OA in women) and Heberden's nodes. Modifiable factors are BMI and malalignment (which contributes to progression of knee OA, though results are mixed on incidence). The lifetime risk of knee OA is higher with knee injury and increased BMI. Teaching point: Modifiable: BMI and malalignment. Non-modifiable: age, genetics, Heberden's nodes.\nReference: Malaysian CPG Management of Osteoarthritis (2013), Section 2.2.",
+    tag: "CPG Osteoarthritis 2013"
+  },
+  {
+    question_text: "A trainee is asked about local data. In the Malaysian COPCORD study, what proportion of adult Malaysians reported knee pain? Which figure is correct?",
+    option_a: "25%",
+    option_b: "2.2%",
+    option_c: "50%",
+    option_d: "9.3%",
+    correct_option: "D",
+    explanation: "Rationale: In the Malaysian COPCORD study, 9.3% of adult Malaysians had knee pain, and more than half of those examined had clinical evidence of OA. Hip pain was less common, affecting 2.2%. The CPG notes this is probably an underestimate, because it included only those with pain in the past week. Teaching point: COPCORD Malaysia: knee pain 9.3%, hip pain 2.2%.\nReference: Malaysian CPG Management of Osteoarthritis (2013), Section 2.1c.",
+    tag: "CPG Osteoarthritis 2013"
+  },
+  {
+    question_text: "A 57-year-old woman weighing 98 kg with a BMI of 36 kg/m2 has knee OA. She has 3 months of physiotherapy planned and asks how much weight loss helps. Which statement fits the CPG evidence?",
+    option_a: "Weight loss has been shown to reduce knee load 4-fold, but only if it is achieved before radiographic change",
+    option_b: "Weight reduction is beneficial in knee OA but should be delayed until pain is controlled with drugs",
+    option_c: "Each unit of weight loss reduces knee load per step about 4-fold, and weight reduction should be emphasised in overweight knee OA",
+    option_d: "Each unit of weight lost halves the knee load per step, and weight loss helps hip OA as much as knee OA",
+    correct_option: "C",
+    explanation: "Rationale: Obesity is an important modifiable risk factor for development and progression of knee OA. In an RCT, each unit of weight loss reduced the load on the knee per step four-fold during daily activities. Weight reduction reduces pain and improves function (Grade A). There is no evidence on the effect of weight loss in hip OA. Teaching point: Emphasise weight loss in overweight knee OA. Each unit lost reduces knee load per step about 4-fold.\nReference: Malaysian CPG Management of Osteoarthritis (2013), Section 6.1b(i); Recommendation 3.",
+    tag: "CPG Osteoarthritis 2013"
+  },
+  {
+    question_text: "A 63-year-old woman with moderate knee OA, BMI 32 kg/m2 and hypertension is worried that exercise will \"wear out\" her joint. She has been inactive for a year. Her physiotherapist suggests an individualised programme. Which statement best reflects the CPG?",
+    option_a: "Strengthening exercise alone is effective, and aerobic and flexibility exercise are not recommended",
+    option_b: "Regular non-competitive exercise does not worsen OA or increase the need for joint replacement; programmes should be individualised, supervised and regular, and no single type of exercise has proved superior",
+    option_c: "Unsupervised home exercise is preferred, and one particular type has been shown to be clearly superior",
+    option_d: "Exercise should be avoided during flares and until radiographic progression stops, since it increases the need for replacement",
+    correct_option: "B",
+    explanation: "Rationale: Exercise is effective at reducing pain in hip and knee OA. Regular non-competitive exercise does not exacerbate OA or increase the likelihood of joint replacement. Programmes should be individualised, supervised and done regularly (Grade C), with graded activity, goal setting, feedback and positive reinforcement to improve adherence. One type of exercise (strength, aerobic or mixed) has not been shown to be better than another. Land-based or aquatic exercise may be used for short-term benefit (Grade A). Teaching point: Exercise helps OA and does not harm joints. Individualise it, supervise it and keep it regular.\nReference: Malaysian CPG Management of Osteoarthritis (2013), Section 6.1b(ii), 6.1c; Recommendation 4.",
+    tag: "CPG Osteoarthritis 2013"
+  },
+  {
+    question_text: "A 68-year-old man with knee OA and obesity finds land-based exercise painful. His physiotherapist suggests hydrotherapy. What does the CPG say about aquatic exercise?",
+    option_a: "It reduced pain and improved function in hip and knee OA, with no significant effect on walking ability or stiffness",
+    option_b: "Aquatic exercise improved walking ability and stiffness, but did not reduce pain compared with land exercise",
+    option_c: "Aquatic exercise gave long-term benefit for 5 years, with improved walking ability and stiffness",
+    option_d: "Aquatic exercise is contraindicated in hip OA but may be used in knee OA to improve walking",
+    correct_option: "A",
+    explanation: "Rationale: A Cochrane review found aquatic exercise gave short-term benefit for hip and knee OA (pain and function), with no statistically significant effect on walking ability and, in the comparison with land-based exercise, no effect on stiffness. Land-based or aquatic exercise may be used for short-term benefit (Grade A). Teaching point: Aquatic exercise helps pain and function short-term, but not walking ability or stiffness.\nReference: Malaysian CPG Management of Osteoarthritis (2013), Section 6.1c(i); Recommendation 4.",
+    tag: "CPG Osteoarthritis 2013"
+  },
+  {
+    question_text: "A 72-year-old woman with chronic, moderate to severe knee OA pain is not a candidate for knee replacement. She asks about TENS and heat or cold packs. Which statement matches the CPG?",
+    option_a: "The Cochrane review found a lack of evidence for TENS in knee OA, though ACR 2012 recommends it for chronic moderate to severe pain when TKA is not suitable; thermal agents are advised in combination with supervised exercise",
+    option_b: "TENS and therapeutic ultrasound are both proven, and thermal agents should be used alone without exercise",
+    option_c: "Cold packs significantly improved function, and TENS is recommended for mild pain only",
+    option_d: "TENS is first-line therapy in all knee OA, and therapeutic ultrasound is proven to reduce pain and improve function",
+    correct_option: "A",
+    explanation: "Rationale: The CPG notes a lack of supporting evidence for TENS in knee OA from the latest Cochrane review, but cites ACR 2012 recommending it for patients with chronic moderate to severe pain who are unsuitable for TKA. ACR also recommends thermal agents with physiotherapist-supervised exercise. Therapeutic ultrasound was inconclusive for pain and function. Teaching point: TENS has weak evidence. Thermal agents are best combined with supervised exercise. Therapeutic ultrasound is inconclusive.\nReference: Malaysian CPG Management of Osteoarthritis (2013), Section 6.1c.",
+    tag: "CPG Osteoarthritis 2013"
+  },
+  {
+    question_text: "A 59-year-old seamstress has painful hand OA with 1st CMC involvement and difficulty writing and sewing. She has tried paracetamol with partial relief. She is reluctant to try more drugs. Which non-drug approach is best supported?",
+    option_a: "Complete rest of the hands with prolonged immobilisation in splints for 3 months",
+    option_b: "Joint protection and home exercises are of no benefit, though thumb splints improve grip strength",
+    option_c: "Knee-type bracing is effective in hand OA, with referral to OT only if surgery is planned",
+    option_d: "Early occupational therapy referral for joint protection and home exercises, with thumb splinting for pain",
+    correct_option: "D",
+    explanation: "Rationale: Early referral to occupational therapy is advised for pain, difficulty and frustration performing activities (Grade A). Joint protection and home exercises increased grip strength by 25% and global hand function by 65%. Thumb splints help reduce pain and improve function, and splinting plus joint protection programmes significantly decrease pain and stiffness in hand OA. There is no evidence for splinting in knee OA. Teaching point: Hand OA: refer early to OT for joint protection, exercises and thumb splints.\nReference: Malaysian CPG Management of Osteoarthritis (2013), Section 6.1d; Recommendation 5.",
+    tag: "CPG Osteoarthritis 2013"
+  },
+  {
+    question_text: "A 76-year-old woman with right hip OA is offered a walking stick. The OT is setting the height. How should the stick be measured and used?",
+    option_a: "The handle should be at hip level and used in the hand on the same side as the affected hip",
+    option_b: "The handle should be at chest height, held on the same side as the affected hip",
+    option_c: "The handle should be at wrist level when standing, held in the hand opposite the affected hip",
+    option_d: "Height is not critical, provided the patient has been given written instructions",
+    correct_option: "C",
+    explanation: "Rationale: The CPG states that the stick handle height should be at wrist level when the user is standing. The CPG also stresses prescribing an appropriate device with proper training. (Standard practice is to hold the stick on the side opposite the affected joint.) Walking sticks and tap turners are adjuncts to core treatment for those with specific ADL problems. Teaching point: Walking stick handle at wrist level (standing). Train the patient to use it.\nReference: Malaysian CPG Management of Osteoarthritis (2013), Section 6.1d; Appendix 6.",
+    tag: "CPG Osteoarthritis 2013"
+  },
+  {
+    question_text: "A 65-year-old man with medial knee OA asks about a knee brace and special shoes after seeing an advertisement. Which statement fits the CPG?",
+    option_a: "Neither knee braces nor contoured shoes are of benefit, and both should be avoided",
+    option_b: "Walking shoes with neutral contoured orthoses may be offered (Grade A in knee OA), but knee braces should not be offered",
+    option_c: "Both knee braces and contoured shoes are recommended, and insoles are Grade A in hip OA",
+    option_d: "Knee braces are recommended with Grade A evidence for pain and function, but contoured shoes should not be offered",
+    correct_option: "B",
+    explanation: "Rationale: Walking shoes with neutral, contoured orthoses reduced pain and stiffness and improved function in knee OA at one year (Grade A), and may be offered in hip OA with weaker evidence (Grade C). Knee braces have not been shown to reduce pain, improve function or quality of life, even though widely used, so they should not be offered (Grade A). Teaching point: Offer contoured walking shoes. Do not offer knee braces.\nReference: Malaysian CPG Management of Osteoarthritis (2013), Section 6.1e; Recommendation 6.",
+    tag: "CPG Osteoarthritis 2013"
+  },
+  {
+    question_text: "A 61-year-old woman with newly diagnosed knee OA is anxious that she \"will end up in a wheelchair\". Her GP wants to give her a prescription only. Which element is the CPG's integral part of OA management?",
+    option_a: "Education should be limited to a leaflet, with no tailoring to individual needs and goals",
+    option_b: "Patient education about the diagnosis, nature of disease, treatment options and ongoing participation",
+    option_c: "Drug treatment alone is the integral part of management, and education is optional",
+    option_d: "Education is useful only for patients undergoing surgery and is not integral to OA care",
+    correct_option: "B",
+    explanation: "Rationale: Patient education should be an integral part of OA management (Grade A). It should be tailored and cover diagnosis, nature of the disease, therapeutic options and the importance of continuing participation. Patients who understand their disease cope better and report less pain, and the most important goal is to instil a positive attitude. Teaching point: Education is Grade A and core to OA care. Instil a positive attitude.\nReference: Malaysian CPG Management of Osteoarthritis (2013), Section 6.1a; Recommendation 2.",
+    tag: "CPG Osteoarthritis 2013"
+  },
+  {
+    question_text: "A 70-year-old woman with mild to moderate knee OA pain, mild hepatic steatosis (normal ALT) and no alcohol intake starts analgesia. She asks what to try first. What does the CPG recommend?",
+    option_a: "Paracetamol as first-line analgesic in mild to moderate pain",
+    option_b: "An NSAID, as an ibuprofen/paracetamol combination is more effective than ibuprofen alone",
+    option_c: "Tramadol, as it is more effective than paracetamol for mild pain",
+    option_d: "Short-course oral prednisolone as the first-line analgesic for pain in OA",
+    correct_option: "A",
+    explanation: "Rationale: Paracetamol can be used in OA (Grade A) and should be the first-line analgesic in mild to moderate pain (Grade C). It is well tolerated and safe, and extended-release forms are superior to placebo. A combination tablet of ibuprofen and paracetamol confers no additional benefit over ibuprofen alone. Typical dosing is 0.5-1 g every 6-8 hours, to a maximum of 4 g/day, with caution in hepatic impairment and alcohol dependence. Teaching point: Paracetamol first (maximum 4 g/day). Ibuprofen-paracetamol combinations add nothing.\nReference: Malaysian CPG Management of Osteoarthritis (2013), Section 6.2a(i); Recommendation 7; Appendix 8.",
+    tag: "CPG Osteoarthritis 2013"
+  },
+  {
+    question_text: "A 79-year-old woman with painful knee OA takes paracetamol 1 g four times daily with inadequate relief. She has a history of a single seizure 5 years ago, takes sertraline for depression and has had two falls. Her GP considers tramadol. Which statement is the most appropriate caution?",
+    option_a: "Tramadol should be started at 100 mg four times daily in the elderly, with a maximum of 600 mg daily",
+    option_b: "Tramadol has no seizure risk and interacts with no antidepressants, so the dose can be started at 100 mg in the elderly",
+    option_c: "Tramadol interacts only with NSAIDs, and the maximum dose in the elderly is 400 mg daily",
+    option_d: "Tramadol risks seizures with a seizure history and interacts with SSRIs; in the elderly start at 50 mg and limit to 300 mg/day",
+    correct_option: "D",
+    explanation: "Rationale: Tramadol may be used alone or with paracetamol (Grade A), with common effects of dizziness, nausea, vomiting, constipation and drowsiness, so it needs caution in the elderly. Appendix 8 warns of seizure risk (history of seizures, high doses), interaction with antidepressants (SSRIs and SNRIs), and in the elderly advises starting at the lowest dose (50 mg) with a maximum of 300 mg daily (adults 400 mg). She has three red flags: seizure history, an SSRI, and falls. Teaching point: Tramadol: caution with seizures, SSRIs/SNRIs and the elderly (start 50 mg, maximum 300 mg/day).\nReference: Malaysian CPG Management of Osteoarthritis (2013), Section 6.2a(ii); Appendix 8; Recommendation 8.",
+    tag: "CPG Osteoarthritis 2013"
+  },
+  {
+    question_text: "A 72-year-old man with knee OA and persistent pain despite paracetamol takes low-dose aspirin for ischaemic heart disease and was admitted with an upper GI bleed from a gastric ulcer 3 years ago. He now needs an NSAID-type drug. Which approach best fits the CPG?",
+    option_a: "Two NSAIDs given together to allow lower doses, with a PPI added only if bleeding recurs",
+    option_b: "A non-selective NSAID alone, since a COX-2 inhibitor is more likely to cause bleeding",
+    option_c: "Avoid NSAIDs and COX-2 inhibitors given previous GI complications; if indicated, a COX-2 inhibitor plus a PPI may be offered for GI protection",
+    option_d: "Any NSAID may be used if aspirin is stopped, with no GI protection needed after 3 years",
+    correct_option: "C",
+    explanation: "Rationale: In patients with previous GI complications, NSAIDs or COX-2 inhibitors should be avoided (Grade C), but if indicated a COX-2 inhibitor combined with a PPI may be offered (Grade A). Combination of more than one NSAID/COX-2 inhibitor should never be used. He is also at high GI risk by age over 65 and aspirin use, and has ischaemic heart disease, which needs caution with NSAIDs for CV safety. Teaching point: Previous GI bleed: avoid NSAIDs if possible, else COX-2 inhibitor plus PPI. Never combine NSAIDs.\nReference: Malaysian CPG Management of Osteoarthritis (2013), Section 6.2a(iii); Recommendation 9.",
+    tag: "CPG Osteoarthritis 2013"
+  },
+  {
+    question_text: "A clinic audits prescribing of NSAIDs alone to OA patients at risk of GI complications. Adapted from CPG Section 11.2 (high GI risk): age >65 years, or on high-dose NSAIDs, aspirin, corticosteroid or anticoagulant, or previous history of upper GI complications. Which patient is at high risk?",
+    option_a: "A 58-year-old man on ibuprofen only, no history",
+    option_b: "A 35-year-old man on a short course of ibuprofen with no history",
+    option_c: "A 68-year-old woman on low-dose aspirin who needs an NSAID",
+    option_d: "A 62-year-old woman on paracetamol who needs an NSAID, with no other medicines",
+    correct_option: "C",
+    explanation: "Rationale: High GI risk is defined as age over 65, use of high-dose NSAIDs, aspirin, corticosteroid or anticoagulant, or a previous upper GI complication. The 68-year-old on aspirin meets two of these. In high-risk patients, COX-2 inhibitors are preferred to non-selective NSAIDs with a PPI for primary ulcer prevention (Grade A). The audit indicator tracks patients at risk who receive an NSAID alone. Teaching point: High GI risk: age >65, high-dose NSAID/aspirin/steroid/anticoagulant, or previous GI complication.\nReference: Malaysian CPG Management of Osteoarthritis (2013), Section 11.2; Recommendation 9.",
+    tag: "CPG Osteoarthritis 2013"
+  },
+  {
+    question_text: "A 64-year-old woman with knee OA is prescribed celecoxib 200 mg daily. She reports a previous severe rash to co-trimoxazole (a sulfonamide antibiotic). Which statement is the most accurate?",
+    option_a: "Celecoxib is contraindicated only in hypertension, and the maximum for OA is 400 mg daily",
+    option_b: "Celecoxib is contraindicated in hypersensitivity to sulfonamides, and the OA maximum is 200 mg daily",
+    option_c: "Celecoxib is contraindicated in sulfonamide allergy, and the maximum for OA is 100 mg daily",
+    option_d: "Celecoxib is safe with sulfonamide allergy, and the maximum for OA is 400 mg daily",
+    correct_option: "B",
+    explanation: "Rationale: Appendix 8 lists hypersensitivity to sulfonamides as a contraindication to celecoxib. The recommended daily maximum is 200 mg for OA (400 mg for inflammatory arthritis). Celecoxib also carries cautions for ischaemic heart disease, cerebrovascular disease and renal impairment. Patients allergic to one NSAID may be allergic to others. Teaching point: Celecoxib: contraindicated with sulfonamide allergy. Maximum 200 mg/day in OA.\nReference: Malaysian CPG Management of Osteoarthritis (2013), Section 6.2a(iii); Appendix 8.",
+    tag: "CPG Osteoarthritis 2013"
+  },
+  {
+    question_text: "A 67-year-old man with hypertension (controlled) and knee OA takes meloxicam 15 mg daily and, for breakthrough pain, adds diclofenac 50 mg twice daily. His GP reviews his pain medicines.\n\nAdapted from CPG Appendix 8 (selected NSAIDs):\n\nDrug  |  Dose  |  Maximum\nIbuprofen  |  400-800 mg 6-8 hourly  |  3200 mg/day\nDiclofenac  |  50-150 mg daily in divided doses  |  150 mg/day\nMeloxicam  |  7.5-15 mg daily  |  15 mg/day (selective for COX-2 only at 7.5 mg)\nCelecoxib  |  200 mg daily  |  200 mg/day (OA)\nEtoricoxib  |  60 mg daily  |  90 mg/day\n\nWhat is the key problem with his regimen?",
+    option_a: "Two NSAIDs are being combined, which is never appropriate; combination gives no benefit and additive side effects",
+    option_b: "The combined dose of both NSAIDs is acceptable provided each is below its maximum",
+    option_c: "Meloxicam 15 mg is COX-2 selective and therefore safe in hypertension",
+    option_d: "Diclofenac 100 mg daily exceeds its maximum daily dose of 75 mg",
+    correct_option: "A",
+    explanation: "Rationale: Combination therapy with more than one NSAID or COX-2 inhibitor should never be used: there is no benefit and side effects are additive. He is on meloxicam plus diclofenac, with hypertension adding risk (NSAIDs need caution in hypertension, CVD, renal or hepatic disease and the elderly). His diclofenac dose (100 mg/day) is within the 150 mg maximum. Meloxicam is COX-2 selective only at 7.5 mg, not 15 mg. Teaching point: Never combine NSAIDs. Meloxicam is selective only at 7.5 mg daily.\nReference: Malaysian CPG Management of Osteoarthritis (2013), Recommendation 9; Appendix 8.",
+    tag: "CPG Osteoarthritis 2013"
+  },
+  {
+    question_text: "A 73-year-old man with knee OA, CKD stage 3 and ischaemic heart disease is considering an NSAID for a flare. He is otherwise stable. Which advice matches the CPG?",
+    option_a: "NSAIDs are safe in CKD stage 3 and need no renal monitoring",
+    option_b: "COX-2 inhibitors carry no cardiovascular risk and can be used freely in ischaemic heart disease",
+    option_c: "Naproxen has the highest cardiovascular risk of the NSAIDs, so it should be avoided",
+    option_d: "Use with caution, at the lowest effective dose for the shortest duration, and monitor renal function regularly",
+    correct_option: "D",
+    explanation: "Rationale: Chronic NSAID/COX-2 use carries a risk of thrombotic CV events, and a meta-analysis suggested naproxen has the lowest CV risk among traditional NSAIDs. Renal function should be monitored regularly with chronic use, and NSAIDs/COX-2 inhibitors should be used cautiously in renal impairment (Grade C) and in the elderly and those with hypertension, CVD, or renal or hepatic impairment. Etoricoxib is also contraindicated in uncontrolled hypertension. Teaching point: With CKD or CVD: lowest effective dose, shortest duration and regular renal monitoring.\nReference: Malaysian CPG Management of Osteoarthritis (2013), Section 6.2a(iii); Recommendation 9.",
+    tag: "CPG Osteoarthritis 2013"
+  },
+  {
+    question_text: "A 60-year-old man with knee OA asks about glucosamine. He is allergic to shellfish and has type 2 diabetes. His friend takes \"glucosamine HCl with chondroitin\" bought online. Which statement is consistent with the CPG?",
+    option_a: "Glucosamine sulfate 1500 mg daily should be reviewed at 12 months, and shellfish allergy is not a concern",
+    option_b: "Glucosamine is contraindicated in diabetes and should not be used in any OA patient",
+    option_c: "Glucosamine hydrochloride with chondroitin is a proven structure and symptom modifier and should be used first",
+    option_d: "Glucosamine sulfate 1500 mg daily may be used for knee OA pain and assessed at 3 months; shellfish allergy is a contraindication and diabetes needs special precaution",
+    correct_option: "D",
+    explanation: "Rationale: Glucosamine sulfate 1500 mg per day may be used for pain relief in knee OA (Grade C), with evaluation at 3 months before deciding on continuation. Glucosamine hydrochloride, or its combination with chondroitin, was not efficacious as a structure or symptom modifier. It is contraindicated in shellfish allergy and phenylketonuria, and needs special precaution in diabetes. Evidence came largely from pharmaceutical-sponsored studies. Teaching point: Glucosamine sulfate 1500 mg/day, review at 3 months. Avoid in shellfish allergy; caution in diabetes.\nReference: Malaysian CPG Management of Osteoarthritis (2013), Section 6.2a(iv); Recommendation 10; Appendix 8.",
+    tag: "CPG Osteoarthritis 2013"
+  },
+  {
+    question_text: "A 55-year-old man with prostate cancer risk factors asks about chondroitin for hand OA. Which statement is correct?",
+    option_a: "Chondroitin is proven to relieve pain in hip OA, with no cautions",
+    option_b: "Chondroitin is proven to modify structure in knee OA, with no caution in prostate cancer",
+    option_c: "Chondroitin 800 mg was more efficacious than placebo for pain, hand function and stiffness in hand OA, but it should be avoided in prostate cancer or high risk of it",
+    option_d: "Chondroitin is ineffective in hand OA but effective in knee OA, with no side effects",
+    correct_option: "C",
+    explanation: "Rationale: Chondroitin sulfate 800 mg as a single dose was more efficacious than placebo for pain, hand function and morning stiffness in hand OA, though its efficacy as a structural modifier is debatable, and in knee and hip OA the evidence is inconclusive. Appendix 8 lists avoiding chondroitin in patients with prostate cancer or high risk of developing it, and caution in asthma and diabetes. Teaching point: Chondroitin may help hand OA symptoms. Avoid with prostate cancer risk.\nReference: Malaysian CPG Management of Osteoarthritis (2013), Section 6.2a(iv); Appendix 8.",
+    tag: "CPG Osteoarthritis 2013"
+  },
+  {
+    question_text: "A 66-year-old woman with knee OA is prescribed diacerein. She has ulcerative colitis in remission and takes antacids daily. Two weeks later she notices dark yellow urine and loose stools. Which statement is most accurate?",
+    option_a: "Diacerein may be used in IBD at half dose, and antacids increase its absorption",
+    option_b: "Diacerein is contraindicated in inflammatory bowel disease; intense yellow urine and diarrhoea are known effects; antacids reduce absorption",
+    option_c: "Diacerein is contraindicated in IBD, yellow urine signals liver failure, and antacids should be taken at the same time",
+    option_d: "Diacerein is safe in IBD, yellow urine signals liver failure, and antacids increase absorption",
+    correct_option: "B",
+    explanation: "Rationale: Diacerein (50 mg twice daily; start at 25 mg daily in some cases) may be used in knee OA (Grade C), with modest efficacy and frequent diarrhoea, abdominal pain, nausea and vomiting. It is contraindicated in ulcerative colitis, Crohn's disease, intestinal obstruction, hypersensitivity to anthraquinones and severe liver failure. Intense yellow urine is a benign effect. Antacids decrease absorption, so they should be taken after an interval of two hours. Teaching point: Diacerein: avoid in IBD. Causes diarrhoea and yellow urine. Separate from antacids by 2 hours.\nReference: Malaysian CPG Management of Osteoarthritis (2013), Section 6.2a(v); Appendix 8; Recommendation 11.",
+    tag: "CPG Osteoarthritis 2013"
+  },
+  {
+    question_text: "A 69-year-old man with knee OA has a flare with a warm effusion, with pain not controlled by paracetamol and a topical NSAID. Aspiration shows non-inflammatory fluid with negative culture. He asks about an injection. Which statement matches the CPG?",
+    option_a: "Intra-articular corticosteroid may be used for short-term pain relief in an acute exacerbation of knee OA (NNT 3-4 at one week); oral corticosteroids have no role",
+    option_b: "Intra-articular steroid gives disease modification lasting a year, and oral prednisolone is the preferred alternative",
+    option_c: "Intra-articular steroid should never be used in OA, and oral prednisolone is preferred in acute flares",
+    option_d: "Intra-articular steroid is first-line for all knee OA before paracetamol or exercise",
+    correct_option: "A",
+    explanation: "Rationale: Intra-articular corticosteroid gives short-term pain relief in knee OA (NNT 3-4 at one week) and may be used in acute exacerbations, especially when there is an effusion (Grade A). The CPG states that oral corticosteroids have no role in OA. The algorithm places intra-articular steroid after paracetamol, topical NSAIDs, tramadol or NSAIDs have failed. Teaching point: IA steroid: short-term relief in acute knee flares, especially with effusion. No oral steroids in OA.\nReference: Malaysian CPG Management of Osteoarthritis (2013), Section 6.2b(i); Recommendation 12; Algorithm.",
+    tag: "CPG Osteoarthritis 2013"
+  },
+  {
+    question_text: "A 64-year-old woman with knee OA asks about hyaluronic acid injections because a friend had a course of five. What is the CPG position?",
+    option_a: "The CPG cannot recommend viscosupplementation due to small effect sizes and inconsistent benefit; NICE does not recommend it",
+    option_b: "Viscosupplementation is recommended as first-line because of large pain reductions and improved function",
+    option_c: "Viscosupplementation is proven to be disease-modifying and is recommended after two failed NSAIDs",
+    option_d: "Viscosupplementation is recommended only in hip OA, and NICE endorses it",
+    correct_option: "A",
+    explanation: "Rationale: Two systematic reviews showed hyaluronic acid injection may reduce pain but with small effect sizes, and results for function were conflicting. The benefit may be offset by injection frequency and cost, and NICE does not recommend it. Because of a lack of supporting evidence, the CPG is unable to recommend viscosupplementation. It is, however, generally well tolerated. Teaching point: Viscosupplementation is not recommended: small effect, inconsistent function benefit, cost.\nReference: Malaysian CPG Management of Osteoarthritis (2013), Section 6.2b(ii).",
+    tag: "CPG Osteoarthritis 2013"
+  },
+  {
+    question_text: "A 78-year-old woman with knee OA, CKD stage 3 and a past peptic ulcer asks about gels and creams. Which statement is the most accurate?",
+    option_a: "Topical therapy has no evidence of benefit, so only oral NSAIDs should be used",
+    option_b: "Topical NSAIDs cause more severe GI events than oral NSAIDs, so they should be avoided in her",
+    option_c: "Topical methylsalicylate is recommended, but topical NSAIDs are not",
+    option_d: "Topical NSAIDs may be offered as an adjunct in mild to moderate pain and cause fewer severe GI effects than oral NSAIDs; topical capsaicin may be considered but methylsalicylate is not recommended",
+    correct_option: "D",
+    explanation: "Rationale: Topical NSAIDs reduced knee OA pain and stiffness and improved function versus placebo, with minor skin dryness the main adverse effect and fewer severe GI events than oral NSAIDs (Grade A; adjunct in mild to moderate pain, Grade C). NICE 2008 suggests topical capsaicin as an adjunct for knee or hand OA but does not recommend topical methylsalicylate (rubefacients). This suits her comorbidities. Teaching point: Topical NSAIDs are a safer adjunct. Capsaicin may help. Avoid rubefacients.\nReference: Malaysian CPG Management of Osteoarthritis (2013), Section 6.2c; Recommendation 13.",
+    tag: "CPG Osteoarthritis 2013"
+  },
+  {
+    question_text: "A 62-year-old woman with knee OA wants to try acupuncture and avocado soybean unsaponifiables. Which statement is consistent with the CPG?",
+    option_a: "Both cause frequent serious adverse events and are therefore not recommended",
+    option_b: "Acupuncture is no better than sham, but ASU is recommended as first-line",
+    option_c: "Acupuncture and ASU (300 mg daily) may be used as short-term adjuncts",
+    option_d: "Both are proven first-line and can replace analgesics, and ASU is given at 3000 mg daily",
+    correct_option: "C",
+    explanation: "Rationale: The CPG says acupuncture significantly improved pain and function in knee OA compared with sham acupuncture, with only minor adverse effects (bruising, haematoma), and ASU gave pain relief and functional improvement in hip and knee OA with minimal GI effects. Both may be used as adjunct short-term therapy (Grade A). ASU dose is 300 mg daily. Ginger extract was more effective than placebo but less than ibuprofen. Teaching point: Acupuncture and ASU: short-term adjuncts. Ginger less effective than ibuprofen.\nReference: Malaysian CPG Management of Osteoarthritis (2013), Section 7; Recommendation 14; Appendix 8.",
+    tag: "CPG Osteoarthritis 2013"
+  },
+  {
+    question_text: "A 68-year-old woman with symptomatic knee OA is on education, weight loss, exercise and physiotherapy. Paracetamol with a topical NSAID has failed to control her pain. She has no GI or renal risk factors and no seizures or depression. According to the CPG algorithm, what is the next step?",
+    option_a: "Intra-articular corticosteroid as the first step, before any oral analgesic",
+    option_b: "Tramadol or an NSAID at the lowest effective dose for the shortest duration (selective NSAID ± PPI if high GI risk)",
+    option_c: "Oral prednisolone to control inflammation before adding other agents",
+    option_d: "Immediate arthroplasty referral, as paracetamol and topical NSAID failure is the indication",
+    correct_option: "B",
+    explanation: "Rationale: The algorithm: education, weight loss, exercise, physiotherapy and OT, with or without orthoses or assistive devices; then paracetamol ± topical NSAIDs; if symptoms persist, tramadol and NSAIDs (lowest effective dose for shortest duration, and selective NSAIDs ± PPI in high GI risk); if still persistent, consider intra-articular corticosteroid (especially with effusion); then orthopaedic referral for arthroplasty. Glucosamine sulfate, diacerein and alternative treatments can be considered at any time. Teaching point: OA algorithm: lifestyle → paracetamol ± topical NSAIDs → tramadol/NSAIDs → IA steroid → orthopaedics.\nReference: Malaysian CPG Management of Osteoarthritis (2013), Algorithm on management of knee and hip OA.",
+    tag: "CPG Osteoarthritis 2013"
+  },
+  {
+    question_text: "A 60-year-old man with knee OA and persistent pain asks for arthroscopic washout. He has no locking, catching or giving way. What is the CPG position?",
+    option_a: "Arthroscopic lavage is more effective than optimised medical and physical therapy and should be first-line surgery",
+    option_b: "Arthroscopic lavage and debridement should not be offered, except in selected patients with mechanical symptoms from loose bodies or meniscal/cartilage flaps",
+    option_c: "Arthroscopic lavage is recommended only in patients under 50 regardless of symptoms",
+    option_d: "Arthroscopic lavage and debridement should be offered to all patients with persistent pain to delay replacement",
+    correct_option: "B",
+    explanation: "Rationale: Studies show arthroscopic lavage with or without debridement gives no additional benefit in pain or function compared with optimised physical and medical therapy. The CPG recommends against it (Grade A) except in OA with mechanical symptoms such as locking, catching or giving way, from loose bodies or flaps of meniscus or cartilage. Teaching point: No arthroscopic washout for OA unless there are mechanical symptoms (locking, catching, giving way).\nReference: Malaysian CPG Management of Osteoarthritis (2013), Section 8.1; Recommendation 15.",
+    tag: "CPG Osteoarthritis 2013"
+  },
+  {
+    question_text: "A 45-year-old active man has isolated medial compartment knee OA with varus alignment and knee flexion of 130 degrees. He wants to avoid early knee replacement. Which statement matches the CPG?",
+    option_a: "HTO works best for isolated medial compartment OA in patients under 50 with at least 120 degrees of flexion, relieves pain and may delay progression, but makes later TKR more demanding",
+    option_b: "HTO is indicated in any patient, but requires flexion of less than 90 degrees",
+    option_c: "HTO is best for tricompartmental OA in patients over 65 and makes later TKR easier",
+    option_d: "HTO is best for lateral compartment OA in older patients and facilitates TKR",
+    correct_option: "A",
+    explanation: "Rationale: HTO realigns the mechanical axis away from the diseased medial compartment, and works best in isolated medial compartment arthritis, particularly in patients under 50 with at least 120 degrees of knee flexion. Disadvantages: asymmetrical appearance and a technically more challenging TKR if needed later. Teaching point: HTO: young patient (<50), isolated medial compartment OA, flexion ≥120°. It makes later TKR harder.\nReference: Malaysian CPG Management of Osteoarthritis (2013), Section 8.2.",
+    tag: "CPG Osteoarthritis 2013"
+  },
+  {
+    question_text: "A 52-year-old man with severe knee OA has failed all other therapies. He has night pain, difficulty with self-care and recent deterioration. He has a chronic leg ulcer with cellulitis and unrealistic expectations of returning to marathon running. Which statement best describes the CPG's view?",
+    option_a: "TKR is contraindicated in all patients under 70, and high-impact sport is encouraged afterwards",
+    option_b: "Active infection is a relative contraindication, and age under 55 is an absolute contraindication",
+    option_c: "TKR is indicated for all OA at diagnosis, with no contraindications",
+    option_d: "TKR is indicated for severe OA failing other therapies, but active infection is an absolute contraindication, and young age (<55 years), poor compliance and unrealistic expectations are relative contraindications",
+    correct_option: "D",
+    explanation: "Rationale: Total joint replacement is indicated in severe OA that has failed all other therapies, with indications including sleep-disturbing pain, ADL limitation, psychosocial impact and recent deterioration. Active infection is an absolute contraindication to TKR; relative contraindications include young age under 55, poor compliance, regional pain disorders and unrealistic expectations. Patients should avoid jogging and high-impact sports for life to protect the implant. Revision rates range 0-13% beyond 5 years. Teaching point: TKR: absolute contraindication is active infection. Relative: age <55, non-compliance, regional pain, unrealistic expectations.\nReference: Malaysian CPG Management of Osteoarthritis (2013), Section 8.3.",
+    tag: "CPG Osteoarthritis 2013"
+  },
+  {
+    question_text: "A 66-year-old woman has OA confined to the medial compartment of the knee with significant weight-bearing pain, intact ligaments and good range of motion. Which statement is accurate?",
+    option_a: "UKR is superior to TKR in every respect, with 99% survival at 10 years",
+    option_b: "UKR is for isolated patellofemoral OA only and has 85% survival at 10 years",
+    option_c: "Unicondylar replacement has less blood loss, less pain and faster recovery than TKR, but slightly less predictable pain relief and possible later surgery; 10-year survival is about 85%",
+    option_d: "UKR has more blood loss and slower recovery than TKR, with 85% survival at 10 years",
+    correct_option: "C",
+    explanation: "Rationale: UKR replaces only the affected medial or lateral compartment and is indicated for patients with significant pain on weight bearing. Advantages over TKR include less blood loss, less post-operative pain, faster recovery and better range of motion. Disadvantages include slightly less predictable pain relief and potential need for further surgery. Survival at 10 years is about 85%. Patellofemoral arthroplasty is for isolated patellofemoral OA in the elderly. Teaching point: UKR: quicker recovery but less predictable, with about 85% 10-year survival.\nReference: Malaysian CPG Management of Osteoarthritis (2013), Section 8.4.",
+    tag: "CPG Osteoarthritis 2013"
+  },
+  {
+    question_text: "A 55-year-old man with early knee OA asks about stem cell injections, platelet-rich plasma and cartilage implantation. Which statement fits the CPG?",
+    option_a: "Stem cells and PRP are recommended first-line, with permanent benefit beyond 5 years",
+    option_b: "PRP is recommended and gave progressive improvement beyond 12 months",
+    option_c: "The CPG cannot recommend intra-articular stem cells, ACI or PRP for lack of evidence; PRP gave short-term benefit at 3-6 months with no further improvement after 6 months",
+    option_d: "ACI is recommended for primary OA in older patients, and PRP benefit persists for 5 years",
+    correct_option: "C",
+    explanation: "Rationale: The MaHTAS review found limited evidence for stem cells. Autologous chondrocyte implantation has mostly been studied in younger patients with traumatic or sports-related cartilage defects, so evidence for primary OA is lacking. PRP showed preliminary short-term benefit at 3-6 months in early OA but no further improvement after 6 months. The CPG is unable to recommend any of them. Teaching point: Stem cells, ACI and PRP are not recommended in OA. PRP benefit fades by 6 months.\nReference: Malaysian CPG Management of Osteoarthritis (2013), Section 8.6.",
+    tag: "CPG Osteoarthritis 2013"
+  },
+  {
+    question_text: "A 40-year-old labourer has a painful, unstable knee after a deep infection of a previous total knee replacement that cannot be reconstructed. Which statement fits the CPG?",
+    option_a: "Arthrodesis is first-line in OA and preserves joint movement",
+    option_b: "Knee arthrodesis can provide a stable, painless limb in young active patients; its commonest indication is pain and ligamentous instability after infected arthroplasty, and it is not the preferred option in OA generally",
+    option_c: "Arthrodesis is indicated for hip OA in the elderly and preserves movement",
+    option_d: "Arthrodesis is recommended before arthroplasty in young patients with primary OA",
+    correct_option: "B",
+    explanation: "Rationale: Arthrodesis fuses the joint, making it stiff but stable. The most common indication for knee arthrodesis is pain and significant ligamentous instability in an unreconstructable knee following infection of a knee arthroplasty, and it can give a stable painless limb in young active patients. In general it is not the preferred surgical option in OA. Teaching point: Arthrodesis is a salvage procedure, for example after infected TKR.\nReference: Malaysian CPG Management of Osteoarthritis (2013), Section 8.5.",
+    tag: "CPG Osteoarthritis 2013"
+  },
+  {
+    question_text: "A 71-year-old woman with hip OA is being assessed for surgery. The surgeon lists the domains used to judge the need. Which set matches the CPG's five key areas?",
+    option_a: "Pain (including sleep interruption and rest pain), ADL limitation, psychosocial health, economic impact and recent deterioration",
+    option_b: "Age, BMI, ESR, RF and ANA, without functional assessment",
+    option_c: "Radiographic grade alone, regardless of symptoms",
+    option_d: "Patient preference alone, without assessment of pain or function",
+    correct_option: "A",
+    explanation: "Rationale: Surgery is considered when symptoms significantly affect quality of life and ADL. The five areas surgeons use to assess need are pain (sleep interruption and at rest), limitations to ADL (walking and self-care), psychosocial health, economic impact and recent deterioration. Radiographic severity alone does not determine need. Teaching point: Surgical need: pain, ADL limits, psychosocial health, economic impact, recent deterioration.\nReference: Malaysian CPG Management of Osteoarthritis (2013), Section 8.",
+    tag: "CPG Osteoarthritis 2013"
+  },
+  {
+    question_text: "A 73-year-old man with knee OA has taken paracetamol, an NSAID with a PPI, and had two intra-articular steroid injections, with exercise and weight loss. His pain, function and stability are not improving, and he has recent falls. What does the CPG advise?",
+    option_a: "Refer to rheumatology for surgical opinion, without explaining the reason to the patient",
+    option_b: "Add a second NSAID for 3 months before any referral",
+    option_c: "Continue the same treatment indefinitely, since referral is only for rheumatology",
+    option_d: "Refer to orthopaedics when there is no satisfactory improvement in pain, stability or function despite adequate pharmacological and non-pharmacological treatment, and explain the reason for referral",
+    correct_option: "D",
+    explanation: "Rationale: Referral to orthopaedics is made when the patient does not improve in pain, stability or function despite adequate drug and non-drug treatment, and the patient should understand the reason. Rheumatology opinion is for arthritis with an unclear diagnosis. Referrals should state the diagnosis, severity and impact on ADL, comorbidities, relevant investigations and current medications (Grade C). Teaching point: Orthopaedic referral after failed adequate treatment. Include diagnosis, severity, comorbidities, investigations and medications.\nReference: Malaysian CPG Management of Osteoarthritis (2013), Section 9; Recommendation 16.",
+    tag: "CPG Osteoarthritis 2013"
+  },
+  {
+    question_text: "A 48-year-old woman has swollen, painful MCP joints and wrists for 8 weeks with morning stiffness over 1 hour. She was labelled \"OA\" by her previous doctor. What does the CPG say about rheumatology referral?",
+    option_a: "Refer only if ESR exceeds 100 mm/hr, since swollen MCPs are typical of OA",
+    option_b: "Refer only if surgery is planned, since rheumatology does not manage arthritis",
+    option_c: "Do not refer, since OA commonly causes swollen MCPs and wrists with prolonged stiffness",
+    option_d: "Seek rheumatology opinion for arthritis of unclear diagnosis",
+    correct_option: "D",
+    explanation: "Rationale: Rheumatology opinion should be sought for evaluation of arthritis with an unclear diagnosis. Swollen MCPs and wrists with prolonged morning stiffness are features of inflammatory arthritis rather than OA, where fewer than 3 MCPs are swollen and stiffness lasts under 30 minutes. Teaching point: Atypical or inflammatory features need rheumatology review, not an OA label.\nReference: Malaysian CPG Management of Osteoarthritis (2013), Section 9.1; Section 4.",
+    tag: "CPG Osteoarthritis 2013"
+  },
+  {
+    question_text: "A 45-year-old overweight man with a previous knee injury asks what he can do to prevent OA. Which statement fits the CPG?",
+    option_a: "Take NSAIDs regularly to prevent OA progression, as no joint protection is needed",
+    option_b: "Take glucosamine to prevent OA, and avoid all exercise",
+    option_c: "Prevent obesity, reduce weight, learn joint protection and avoid joint trauma; no drug is recommended to prevent OA",
+    option_d: "Take intra-articular hyaluronic acid prophylactically, with no weight advice",
+    correct_option: "C",
+    explanation: "Rationale: Primary prevention involves identifying and modifying risk factors: preventing obesity, weight reduction in the obese, and health education on joint protection techniques including avoidance of joint trauma. There is currently no evidence to recommend any medication to prevent OA. Teaching point: OA prevention: weight control, joint protection, avoid trauma. No preventive drug.\nReference: Malaysian CPG Management of Osteoarthritis (2013), Section 10.",
+    tag: "CPG Osteoarthritis 2013"
+  },
+  {
+    question_text: "A clinic adopts the CPG checklist of OA management (Appendix 9). Which items does the checklist include?",
+    option_a: "Only weight and blood pressure measurement, with no lifestyle advice",
+    option_b: "Education (nature, prognosis, treatment options, self-management), lifestyle (weight loss, diet, exercise, footwear, pacing) and referral where applicable",
+    option_c: "Only referral for surgery and blood tests, without education",
+    option_d: "Only a prescription for drugs, since education and lifestyle are not part of the checklist",
+    correct_option: "B",
+    explanation: "Rationale: Appendix 9 lists: (1) education: nature of OA, prognosis, treatment options with medication and side effects, self-management; (2) lifestyle modification: weight loss, dietary advice, exercise, footwear and pacing of activity; (3) referral where applicable. Teaching point: Core OA checklist: education, lifestyle changes (including footwear and pacing) and referral.\nReference: Malaysian CPG Management of Osteoarthritis (2013), Appendix 9.",
+    tag: "CPG Osteoarthritis 2013"
+  },
+  {
+    question_text: "A trainee reviews Framingham hand OA data. In that study, what happened to most patients with hand OA at 9-year follow-up? Which statement is correct?",
+    option_a: "Most (96.4% of women and 91.4% of men) showed progression",
+    option_b: "Most patients improved spontaneously over 9 years",
+    option_c: "Hand OA was more prevalent in men than women, and erosive disease was the commonest form",
+    option_d: "Erosive hand OA was more common than non-erosive, affecting 44% of women",
+    correct_option: "A",
+    explanation: "Rationale: In the Framingham hand OA study, age-standardised prevalence of hand OA was higher in women (44.2%) than men (37.7%), and most patients (96.4% of women and 91.4% of men) with hand OA at baseline showed progression at 9 years. Erosive and symptomatic forms were less common (erosive 9.9% versus 3.3%; symptomatic 15.9% versus 8.2%). Teaching point: Hand OA is commoner in women, and nearly all cases progress radiographically over 9 years.\nReference: Malaysian CPG Management of Osteoarthritis (2013), Section 2.1a.",
+    tag: "CPG Osteoarthritis 2013"
+  },
+  {
+    question_text: "A 69-year-old woman with a history of heavy alcohol use (now abstinent for 6 months) and mild liver impairment needs analgesia for knee OA. Which statement is the most appropriate?",
+    option_a: "Paracetamol remains first-line but needs caution in hepatic impairment and alcohol dependence, with a maximum 4 g/day",
+    option_b: "Paracetamol is contraindicated in all liver disease and alcohol dependence, with a maximum of 2 g/day",
+    option_c: "Paracetamol should be replaced by ibuprofen in alcohol dependence, with no cautions",
+    option_d: "Paracetamol has no cautions, and the maximum is 6 g/day",
+    correct_option: "A",
+    explanation: "Rationale: Paracetamol 0.5-1 g every 6-8 hours (maximum 4 g/day) is first line in mild to moderate pain. Appendix 8 lists hepatic impairment and alcohol dependence as cautions, and the elderly may need lower doses. Rare hypersensitivity, including skin rash, may occur. Teaching point: Paracetamol: 0.5-1 g 6-8 hourly, maximum 4 g/day. Caution with liver disease and alcohol dependence.\nReference: Malaysian CPG Management of Osteoarthritis (2013), Section 6.2a(i); Appendix 8.",
+    tag: "CPG Osteoarthritis 2013"
+  },
+  {
+    question_text: "A 74-year-old woman with right knee OA (K-L grade III), BMI 33 kg/m2, hypertension and CKD stage 3, takes aspirin 100 mg for stroke prevention. She had a duodenal ulcer 4 years ago. She has moderate pain with a small effusion, taking paracetamol 3 g/day with partial relief. She refuses surgery for now. Which plan best fits the CPG?",
+    option_a: "Oral naproxen with diclofenac for more effective analgesia, given with a PPI",
+    option_b: "Oral prednisolone 30 mg daily to control the effusion and arthroscopic lavage",
+    option_c: "Arthroscopic lavage and high-dose oral NSAID, with no change to aspirin",
+    option_d: "Education, weight loss, supervised exercise, physiotherapy and OT; continue paracetamol; add a topical NSAID; avoid oral NSAIDs because of the ulcer history, CKD and aspirin; consider intra-articular corticosteroid for the effusion",
+    correct_option: "D",
+    explanation: "Rationale: Core treatment is education, weight loss, exercise, physiotherapy and OT. Paracetamol with a topical NSAID follows. With previous GI complications, aspirin use, CKD and hypertension, oral NSAIDs and COX-2 inhibitors should be avoided or used only with great caution, so topical NSAIDs and an intra-articular corticosteroid (useful with an effusion) are better. Oral steroids have no role and arthroscopic lavage is not recommended. Teaching point: In high GI/renal risk: topical NSAIDs, IA steroid and non-drug measures. Avoid oral NSAIDs.\nReference: Malaysian CPG Management of Osteoarthritis (2013), Algorithm; Recommendations 3-5, 9, 12 and 13.",
+    tag: "CPG Osteoarthritis 2013"
+  },
+  {
+    question_text: "A 65-year-old woman with hip OA asks whether weight loss will improve her hip pain as it does for knee OA. What does the CPG say?",
+    option_a: "Orthoses are recommended in hip OA with Grade A evidence, and weight loss is proven",
+    option_b: "Exercise is of no benefit in hip OA, and weight loss is proven to cure it",
+    option_c: "There is no evidence available to support the effect of weight loss in hip OA, though exercise reduces pain in hip and knee OA",
+    option_d: "Weight loss is proven to relieve hip OA as much as knee OA",
+    correct_option: "C",
+    explanation: "Rationale: Weight reduction is supported by Grade A evidence in overweight knee OA, but the CPG states there is no evidence available to support the effect of weight loss in hip OA. Exercise is effective at reducing pain in both hip and knee OA, and contoured walking shoes may be offered in hip OA (Grade C), though evidence for orthoses in hip OA is insufficient. Teaching point: Weight loss evidence is for knee OA, not hip OA. Exercise helps both joints.\nReference: Malaysian CPG Management of Osteoarthritis (2013), Section 6.1b; Recommendations 3 and 4.",
+    tag: "CPG Osteoarthritis 2013"
   }
 ];
