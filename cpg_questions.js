@@ -5162,5 +5162,335 @@ const cpgBank = [
     correct_option: "A",
     explanation: "Rationale: Recommendation 39 states that ambulant older persons with ICH should be assessed for falls and fracture risk by a multidisciplinary team, and screened for osteoporosis with blood tests (renal profile, calcium, vitamin D, bone turnover markers) and DEXA, treating according to the Malaysian Osteoporosis CPG. B and C wait for harm. D skips assessment. Teaching point: Older ICH survivors need falls risk assessment and osteoporosis screening.\nReference: Malaysian CPG Management of Spontaneous Intracerebral Haemorrhage 2025 (1st Ed.), ICH in the Elderly Population; Recommendation 39.",
     tag: "CPG ICH 2025"
+  },
+  {
+    question_text: "A 68-year-old woman had a distal radius fracture after tripping on a kerb 2 years ago. DXA now shows a lowest T-score of -2.8 at the femoral neck. Which WHO category describes her bone density?",
+    option_a: "Osteopenia",
+    option_b: "Osteoporosis",
+    option_c: "Severe osteoporosis",
+    option_d: "Normal bone density",
+    correct_option: "C",
+    explanation: "Rationale: In Table 3-1, a T-score of -1 and above is normal, between -1 and -2.5 is osteopenia, -2.5 and below is osteoporosis, and -2.5 and below with a prior fragility fracture is severe osteoporosis. Her T-score of -2.8 plus a low-trauma forearm fracture is severe osteoporosis. B ignores the fracture. Teaching point: T-score ≤-2.5 plus a fragility fracture = severe osteoporosis.\nReference: Malaysian CPG Management of Osteoporosis 2022 (3rd Ed.), Section 3.2.2, Table 3-1.",
+    tag: "CPG Osteoporosis 2022"
+  },
+  {
+    question_text: "A 38-year-old premenopausal woman with amenorrhoea has a DXA lumbar spine Z-score of -2.3 and T-score of -2.6. She has no previous fractures. How should this result be interpreted?",
+    option_a: "Diagnose osteoporosis based on the T-score",
+    option_b: "Normal for age, no action needed",
+    option_c: "Start denosumab immediately",
+    option_d: "Use the Z-score; a value of ≤-2.0 is below the expected range for age, and secondary causes should be screened for",
+    correct_option: "D",
+    explanation: "Rationale: The T-score classification does not apply to premenopausal women, men under 50 or children; the Z-score should be used. A Z-score of ≤-2.0 is below the expected range for age, and screening for secondary causes should be considered. A misapplies the T-score. B ignores the low Z-score. C skips evaluation. Teaching point: Premenopausal women and men <50: use Z-scores; ≤-2.0 means look for a secondary cause.\nReference: Malaysian CPG Management of Osteoporosis 2022 (3rd Ed.), Section 3.2.2, Table 3-2.",
+    tag: "CPG Osteoporosis 2022"
+  },
+  {
+    question_text: "A 64-year-old woman with primary hyperparathyroidism is referred for DXA. Which additional DXA site should be measured?",
+    option_a: "1/3 radius of the non-dominant forearm",
+    option_b: "Skull",
+    option_c: "Calcaneus by ultrasound only",
+    option_d: "Thoracic spine",
+    correct_option: "A",
+    explanation: "Rationale: Lumbar spine and hip should be measured in all patients. Forearm BMD (1/3 radius of the non-dominant forearm) should be measured when the hip and/or spine cannot be measured or interpreted, in hyperparathyroidism, and in very obese patients over the DXA table weight limit. B, C and D are not the recommended additional site. Teaching point: Measure the 1/3 radius in hyperparathyroidism, extreme obesity, or when hip/spine are unusable.\nReference: Malaysian CPG Management of Osteoporosis 2022 (3rd Ed.), Section 3.2.2.",
+    tag: "CPG Osteoporosis 2022"
+  },
+  {
+    question_text: "A 70-year-old woman has DXA results for the lumbar spine (T-score -2.4) and femoral neck (T-score -1.9). The clinician wants to calculate her FRAX probability. Which BMD value should be entered into FRAX?",
+    option_a: "The lumbar spine T-score, as it is lower",
+    option_b: "The femoral neck BMD only",
+    option_c: "The average of spine and hip",
+    option_d: "No BMD can be entered into FRAX",
+    correct_option: "B",
+    explanation: "Rationale: BMD is not necessary to calculate FRAX but improves prediction. If BMD is available, only the femoral neck BMD should be used; input from non-hip sites has not been validated. A and C use unvalidated inputs. D is wrong. Teaching point: FRAX accepts femoral neck BMD only.\nReference: Malaysian CPG Management of Osteoporosis 2022 (3rd Ed.), Section 3.3.1.",
+    tag: "CPG Osteoporosis 2022"
+  },
+  {
+    question_text: "A clinician in Kuala Lumpur calculates FRAX for a 66-year-old Malay woman. Which FRAX algorithm does the CPG recommend?",
+    option_a: "The UK algorithm",
+    option_b: "The US Caucasian algorithm",
+    option_c: "An ethnic-specific algorithm such as Singapore Malay, until local data is available",
+    option_d: "No FRAX can be used in Malaysians",
+    correct_option: "C",
+    explanation: "Rationale: There is no Malaysia-specific FRAX algorithm, so the CPG recommends ethnic-specific algorithms (Singapore Chinese or Hong Kong Chinese, Singapore Malay, Singapore Indian) until local data are available. A and B are not recommended. D is wrong. Teaching point: Use the matching Singapore/Hong Kong ethnic FRAX for Malaysian patients.\nReference: Malaysian CPG Management of Osteoporosis 2022 (3rd Ed.), Section 3.3.1.",
+    tag: "CPG Osteoporosis 2022"
+  },
+  {
+    question_text: "A 72-year-old woman with no prior fracture has a femoral neck T-score of -2.1. Her FRAX 10-year probability is 14% for major osteoporotic fracture and 3.6% for hip fracture. What is the most appropriate management according to the CPG?",
+    option_a: "No treatment, as she does not have osteoporosis on DXA",
+    option_b: "Initiate osteoporosis treatment, as her hip fracture probability exceeds 3%",
+    option_c: "Repeat DXA in 10 years",
+    option_d: "Give calcium only",
+    correct_option: "B",
+    explanation: "Rationale: In patients with osteopenia, initiation of treatment is recommended with a FRAX probability of >3% at 10 years for hip fracture or 20% for major osteoporotic fracture. Her hip probability is 3.6%, placing her in the high-risk group for bisphosphonate or denosumab (Algorithm A). A ignores fracture probability. C and D under-treat. Teaching point: Osteopenia plus FRAX hip >3% or major ≥20%: treat.\nReference: Malaysian CPG Management of Osteoporosis 2022 (3rd Ed.), Section 3.3.1; Algorithm A.",
+    tag: "CPG Osteoporosis 2022"
+  },
+  {
+    question_text: "A 74-year-old woman with osteoporosis is being stratified for treatment. Which feature places her in the very high-risk category adopted by the CPG?",
+    option_a: "A vertebral fracture 7 months ago",
+    option_b: "A T-score of -2.6",
+    option_c: "FRAX major osteoporotic fracture probability of 22%",
+    option_d: "Age 60 years with no other risk factors",
+    correct_option: "A",
+    explanation: "Rationale: The CPG adopts the AACE features of very high risk: recent fracture (within 12 months), fractures on therapy, multiple fractures, fractures on skeletally harmful drugs, injurious falls or high falls risk, advanced age, frailty, very low BMD (T-score <-3.0), and very high FRAX (>30% major or >4.5% hip). B and C are high-risk but not very high-risk values. D is not a listed feature. Teaching point: A fracture within 12 months, T-score <-3.0 or FRAX >30%/4.5% means very high risk.\nReference: Malaysian CPG Management of Osteoporosis 2022 (3rd Ed.), Section 5.2.",
+    tag: "CPG Osteoporosis 2022"
+  },
+  {
+    question_text: "A 58-year-old woman with a T-score of -1.6 has FRAX probabilities of 8% (major) and 1.1% (hip). She has no fractures. What follow-up does Algorithm A recommend?",
+    option_a: "Start zoledronic acid",
+    option_b: "Discharge with no further assessment",
+    option_c: "Repeat BMD and FRAX every 2 years, considering MHT or SERM if clinically indicated",
+    option_d: "Repeat BMD every 6 months",
+    correct_option: "C",
+    explanation: "Rationale: Low-risk patients (T-score >-2.5 and FRAX <20% major and <3% hip) should have BMD and FRAX repeated every 2 years, with MHT or SERM considered if clinically indicated, and reassessment if fracture risk increases. A over-treats. B and D are not the recommended interval. Teaching point: Low risk: repeat BMD and FRAX every 2 years.\nReference: Malaysian CPG Management of Osteoporosis 2022 (3rd Ed.), Algorithm A.",
+    tag: "CPG Osteoporosis 2022"
+  },
+  {
+    question_text: "A primary care clinic sets up an osteoporosis screening programme. Which group does the CPG recommend screening?",
+    option_a: "All men over 40",
+    option_b: "All postmenopausal women aged 50 and over, plus those with prior low-trauma fractures, clinical risk factors, secondary causes, height loss or falls risk",
+    option_c: "Only women with previous hip fracture",
+    option_d: "All adults over 18",
+    correct_option: "B",
+    explanation: "Rationale: Screening is recommended for individuals with prior low-trauma fractures, clinical risk factors, secondary osteoporosis, height loss and falls risk, and for all postmenopausal women ≥50. Evaluation includes history, examination and FRAX or another tool. A, C and D do not match the CPG. Teaching point: Screen all postmenopausal women ≥50 and anyone with risk factors or fragility fractures.\nReference: Malaysian CPG Management of Osteoporosis 2022 (3rd Ed.), Section 3.3.",
+    tag: "CPG Osteoporosis 2022"
+  },
+  {
+    question_text: "A 60-year-old man asks whether the Malaysian Osteoporosis Screening Tool (MOST) can estimate his risk. Which statement is accurate?",
+    option_a: "MOST is validated for both sexes",
+    option_b: "MOST is based on vertebral X-ray",
+    option_c: "OSTA is based on hip BMD",
+    option_d: "MOST cannot be used in men; it uses age, years since menopause, BMI and hip circumference in women",
+    correct_option: "D",
+    explanation: "Rationale: MOST calculates the risk of low BMD in women from age, years since menopause, BMI and hip circumference, and cannot be used in men. OSTA is based on age and weight in postmenopausal Asian women. Male-specific tools exist (e.g. Male Osteoporosis Screening Tool). A, B and C are wrong. Teaching point: MOST and OSTA are for women; use male-specific tools for men.\nReference: Malaysian CPG Management of Osteoporosis 2022 (3rd Ed.), Section 3.3.1.",
+    tag: "CPG Osteoporosis 2022"
+  },
+  {
+    question_text: "A 71-year-old woman reports that she has lost 5 cm in height and has new back pain after lifting a pot. Which statement is most consistent with the CPG?",
+    option_a: "Historical height loss >4 cm and back pain after innocuous activity suggest vertebral fracture and osteoporosis",
+    option_b: "Height loss is normal ageing and needs no assessment",
+    option_c: "Back pain after lifting excludes osteoporosis",
+    option_d: "Only hip fractures indicate osteoporosis",
+    correct_option: "A",
+    explanation: "Rationale: Clinical presentations include increasing dorsal kyphosis, low-trauma fractures, historical height loss of >4 cm (>1.5 inches), and acute back pain after seemingly innocuous activities such as bending, lifting, coughing or sneezing. B, C and D contradict this. Teaching point: Height loss >4 cm or back pain after minor strain: think vertebral fracture.\nReference: Malaysian CPG Management of Osteoporosis 2022 (3rd Ed.), Section 3.1.",
+    tag: "CPG Osteoporosis 2022"
+  },
+  {
+    question_text: "A 63-year-old woman with breast cancer takes letrozole and has type 2 diabetes treated with pioglitazone. Her T-score has fallen from -1.4 to -2.2 in two years. Which statement best explains her bone loss?",
+    option_a: "Neither drug affects bone",
+    option_b: "Both aromatase inhibitors and thiazolidinediones are listed causes of secondary osteoporosis",
+    option_c: "Only pioglitazone affects bone",
+    option_d: "Bone loss is due to diabetes alone and cannot be modified",
+    correct_option: "B",
+    explanation: "Rationale: Table 2-1 lists drug causes of secondary osteoporosis including glucocorticoids, heparin, anticonvulsants, immunosuppressants, thiazolidinediones and oncology treatments such as aromatase inhibitors and androgen deprivation therapy. Type 2 diabetes is also listed. A, C and D are wrong. Teaching point: Aromatase inhibitors and glitazones both cause secondary osteoporosis.\nReference: Malaysian CPG Management of Osteoporosis 2022 (3rd Ed.), Section 2.2, Table 2-1.",
+    tag: "CPG Osteoporosis 2022"
+  },
+  {
+    question_text: "A 49-year-old woman wants to know which of her characteristics raise her osteoporosis risk. Which is a modifiable risk factor listed in the CPG?",
+    option_a: "Premature menopause at age 43",
+    option_b: "Family history of hip fracture in her mother",
+    option_c: "Body mass index of 18 kg/m2",
+    option_d: "Chinese ethnicity",
+    correct_option: "C",
+    explanation: "Rationale: Table 2-2 lists modifiable risk factors including low calcium and vitamin D, sedentary lifestyle, smoking, alcohol ≥3 units/day, caffeine ≥3 drinks/day, low body weight (BMI <19 kg/m2) and oestrogen deficiency. Premature menopause (<45), family history of hip fracture and ethnicity are non-modifiable. Teaching point: BMI <19, smoking, alcohol ≥3 units and caffeine ≥3 drinks a day are modifiable risks.\nReference: Malaysian CPG Management of Osteoporosis 2022 (3rd Ed.), Section 2.3, Table 2-2.",
+    tag: "CPG Osteoporosis 2022"
+  },
+  {
+    question_text: "A care home asks how to reduce hip fractures in its frail residents. Which intervention does the CPG support for care home residents?",
+    option_a: "Routine vertebroplasty",
+    option_b: "Calcitonin nasal spray for all",
+    option_c: "Bed rest to reduce falls",
+    option_d: "Hip protectors",
+    correct_option: "D",
+    explanation: "Rationale: Hip protectors used in care home residents can reduce the risk of hip fractures (Grade B). Exercise and physical therapy, and multifactorial falls assessment and intervention, are also recommended. A and B are not prevention strategies in the CPG. C increases deconditioning. Teaching point: Hip protectors reduce hip fractures in care home residents.\nReference: Malaysian CPG Management of Osteoporosis 2022 (3rd Ed.), Key Statements; Section 4.",
+    tag: "CPG Osteoporosis 2022"
+  },
+  {
+    question_text: "A 30-year-old woman asks how to protect her bones in later life. Which advice is most consistent with the CPG?",
+    option_a: "Regular weight-bearing exercise with adequate calcium and vitamin D to maximise peak bone mass",
+    option_b: "Avoid all exercise to prevent injury",
+    option_c: "Start bisphosphonates at 30 as prevention",
+    option_d: "Swimming alone is the best exercise for bone",
+    correct_option: "A",
+    explanation: "Rationale: Adequate calcium and vitamin D are important for peak bone mass and prevention, and regular physical activity, especially weight-bearing exercise, is encouraged in all age groups to maximise peak bone mass, reduce age-related bone loss and maintain strength and balance. B is harmful. C is not indicated. D is not weight-bearing. Teaching point: Weight-bearing exercise and calcium/vitamin D build peak bone mass.\nReference: Malaysian CPG Management of Osteoporosis 2022 (3rd Ed.), Key Statements; Section 4.",
+    tag: "CPG Osteoporosis 2022"
+  },
+  {
+    question_text: "A 67-year-old woman starts weekly alendronate and asks how to take it. Which instruction is correct?",
+    option_a: "Take it with breakfast and milk to reduce nausea",
+    option_b: "Take it at bedtime lying down",
+    option_c: "Take it in the morning on an empty stomach, 30 minutes before food, with a glass of water, staying upright",
+    option_d: "Crush it into juice",
+    correct_option: "C",
+    explanation: "Rationale: Proper administration (morning, empty stomach, 30 minutes before food, with a glass of water, upright) improves absorption and reduces the small risk of oesophagitis and oesophageal ulceration. A impairs absorption (food and calcium bind the drug). B and D increase oesophageal injury and reduce absorption. Teaching point: Bisphosphonates: fasting, plain water, upright, 30 minutes before food.\nReference: Malaysian CPG Management of Osteoporosis 2022 (3rd Ed.), Section 5.7.5.",
+    tag: "CPG Osteoporosis 2022"
+  },
+  {
+    question_text: "A 70-year-old woman developed fever and myalgia lasting 3 days after her first zoledronic acid infusion. She is due her second dose. What measure reduces this reaction?",
+    option_a: "Stop zoledronic acid permanently",
+    option_b: "Infuse faster, over 5 minutes",
+    option_c: "Give prednisolone for a week beforehand",
+    option_d: "Pre-treat with paracetamol or ibuprofen and infuse over 30 minutes or longer",
+    correct_option: "D",
+    explanation: "Rationale: Zoledronic acid may cause flu-like symptoms (pyrexia, myalgia) lasting 1-7 days, particularly after the first dose. This can be minimised by pre-treatment with paracetamol or ibuprofen and administering the infusion over 30 minutes or longer. A is unnecessary. B worsens it. C is not advised. Teaching point: ZA flu-like reaction: paracetamol/ibuprofen first, infuse over ≥30 minutes.\nReference: Malaysian CPG Management of Osteoporosis 2022 (3rd Ed.), Section 5.7.4.",
+    tag: "CPG Osteoporosis 2022"
+  },
+  {
+    question_text: "A 77-year-old housebound woman is scheduled for zoledronic acid. Her 25(OH)D is 28 nmol/L, calcium is normal and eGFR is 56 ml/min. What should happen before the infusion?",
+    option_a: "Give the infusion as planned",
+    option_b: "Correct vitamin D to at least 50 nmol/L before infusion",
+    option_c: "Switch to denosumab because vitamin D is irrelevant to it",
+    option_d: "Halve the zoledronic acid dose",
+    correct_option: "B",
+    explanation: "Rationale: Hypocalcaemia may occur after zoledronic acid, particularly with vitamin D deficiency. Baseline renal function, calcium and 25(OH)D should be checked, and ideally 25(OH)D corrected to at least 50 nmol/L before infusion. A risks hypocalcaemia. C is wrong because denosumab also causes hypocalcaemia, especially in CKD. D is not a CPG strategy. Teaching point: Replete vitamin D to ≥50 nmol/L before zoledronic acid.\nReference: Malaysian CPG Management of Osteoporosis 2022 (3rd Ed.), Section 5.7.4.",
+    tag: "CPG Osteoporosis 2022"
+  },
+  {
+    question_text: "A 69-year-old woman has had three annual zoledronic acid infusions. Her T-score has improved to -2.0 and she has had no new fractures. What does the CPG advise at this point?",
+    option_a: "Continue indefinitely without review",
+    option_b: "Stop all treatment permanently",
+    option_c: "Switch to denosumab automatically",
+    option_d: "Re-evaluate at three years, as continuing beyond three years gave only marginal benefit",
+    correct_option: "D",
+    explanation: "Rationale: At three years, patients on zoledronic acid require re-evaluation, as continuing beyond three years provided only marginal benefit in extension trials up to six and nine years. Continuation depends on response, side effects and future fracture risk. A, B and C skip the individual reassessment. Teaching point: Reassess zoledronic acid after three annual doses.\nReference: Malaysian CPG Management of Osteoporosis 2022 (3rd Ed.), Section 5.7.4.",
+    tag: "CPG Osteoporosis 2022"
+  },
+  {
+    question_text: "A 73-year-old woman who has taken alendronate for 9 years develops dull anterior thigh pain for 6 weeks. X-ray shows lateral cortical thickening of the femoral shaft without a fracture line. What is the most appropriate management?",
+    option_a: "Increase alendronate to daily dosing",
+    option_b: "Reassure, as the benefit of bisphosphonates outweighs all risks",
+    option_c: "Discontinue anti-resorptives, optimise calcium and vitamin D, consider prophylactic nail fixation for an incomplete painful AFF, and image the other femur",
+    option_d: "Start a second bisphosphonate",
+    correct_option: "C",
+    explanation: "Rationale: Anti-resorptive users with thigh pain should have imaging for stress changes in the AFF spectrum. Management includes stopping anti-resorptives, ensuring calcium and vitamin D, intramedullary nail fixation for painful incomplete or complete AFFs, and assessing the contralateral femur. The risk rises with duration of use. A and D continue the cause. B ignores her symptoms. Teaching point: Thigh pain on long-term bisphosphonate: image for AFF and stop the drug.\nReference: Malaysian CPG Management of Osteoporosis 2022 (3rd Ed.), Section 5.7.5.",
+    tag: "CPG Osteoporosis 2022"
+  },
+  {
+    question_text: "A 66-year-old woman on oral alendronate for 3 years needs a tooth extraction. Her dentist asks whether to stop the bisphosphonate. What does the CPG advise?",
+    option_a: "There is no recommendation to stop bisphosphonates for dental procedures; the absolute ONJ risk is very low",
+    option_b: "Stop for 2 years before the extraction",
+    option_c: "Never extract teeth in patients on bisphosphonates",
+    option_d: "Switch to intravenous zoledronic acid",
+    correct_option: "A",
+    explanation: "Rationale: The absolute risk of ONJ is very low (1 in 10,000 to 1 in 100,000), rising to about 0.21% after >4 years of oral bisphosphonates. There are no recommendations to stop bisphosphonates for dental procedures, but initiation should be deferred until the area has healed. B and C are excessive. D increases ONJ risk (earlier with IV). Teaching point: Do not stop bisphosphonates for dental work; delay starting them until the mouth has healed.\nReference: Malaysian CPG Management of Osteoporosis 2022 (3rd Ed.), Section 5.7.5.",
+    tag: "CPG Osteoporosis 2022"
+  },
+  {
+    question_text: "A 75-year-old woman with very high fracture risk is starting teriparatide. What is the recommended treatment course?",
+    option_a: "Lifelong teriparatide",
+    option_b: "Up to 24 months, followed by further treatment (e.g. an anti-resorptive) to maintain the BMD gain",
+    option_c: "3 months only",
+    option_d: "Teriparatide with no follow-on therapy",
+    correct_option: "B",
+    explanation: "Rationale: r-PTH (teriparatide) therapy is recommended for up to 24 months, and further treatment is needed after the course to maintain the BMD gain. It is indicated for very high fracture risk or osteoporosis not responding to treatment. A and C are wrong durations. D allows loss of the gain. Teaching point: Teriparatide up to 24 months, then follow with an anti-resorptive.\nReference: Malaysian CPG Management of Osteoporosis 2022 (3rd Ed.), Section 5.8.",
+    tag: "CPG Osteoporosis 2022"
+  },
+  {
+    question_text: "A 79-year-old woman with CKD stage 4 (eGFR 22 ml/min) has osteoporosis. Oral bisphosphonates are not appropriate. Which precaution is most important if denosumab is started?",
+    option_a: "Denosumab is contraindicated in CKD",
+    option_b: "Monitor for hyperkalaemia",
+    option_c: "Give a zoledronic acid infusion first",
+    option_d: "Ensure adequate calcium and vitamin D before starting, because the risk of hypocalcaemia is greater with eGFR <30",
+    correct_option: "D",
+    explanation: "Rationale: Denosumab increased BMD at the hip in CKD stage 4 and reduced fractures in stages 1-3, but the risk of hypocalcaemia is greater with eGFR <30 or dialysis. It is important to ensure adequate calcium and vitamin D before starting. A is wrong. B is not the concern. C is contraindicated below eGFR 35. Teaching point: Denosumab is usable in advanced CKD, but replete calcium and vitamin D first.\nReference: Malaysian CPG Management of Osteoporosis 2022 (3rd Ed.), Section 5.9 (Denosumab and renal impairment).",
+    tag: "CPG Osteoporosis 2022"
+  },
+  {
+    question_text: "A 72-year-old woman has been on 6-monthly denosumab for 7 years. She remains at high fracture risk. What does the CPG advise?",
+    option_a: "Stop denosumab without follow-on therapy",
+    option_b: "Continue denosumab or switch to another osteoporosis therapy, as reassessment may be done after 5-10 years",
+    option_c: "Reduce to yearly injections",
+    option_d: "Replace with calcium alone",
+    correct_option: "B",
+    explanation: "Rationale: Treatment reassessment may be done after 5-10 years, and those who remain at high risk should continue denosumab or switch to other therapies. If denosumab is stopped, another treatment must follow to prevent rebound bone turnover and multiple vertebral fractures. A and D risk rebound fractures. C is not an approved schedule. Teaching point: After 5-10 years of denosumab: continue or switch, never just stop.\nReference: Malaysian CPG Management of Osteoporosis 2022 (3rd Ed.), Key Statements; Section 5.9.",
+    tag: "CPG Osteoporosis 2022"
+  },
+  {
+    question_text: "A 74-year-old woman takes alfacalcidol and calcium carbonate 1,200 mg daily. She develops a renal stone. Which change is most consistent with the CPG?",
+    option_a: "Increase calcium to 2,000 mg daily",
+    option_b: "Stop all vitamin D and calcium permanently",
+    option_c: "Limit calcium supplements to no more than 500 mg daily and monitor serum calcium every 3-6 months",
+    option_d: "Add a thiazide to increase urinary calcium",
+    correct_option: "C",
+    explanation: "Rationale: Hypercalciuria and hypercalcaemia may complicate active vitamin D analogues. All patients on activated vitamin D should avoid taking more than 500 mg of calcium supplements daily, and serum calcium should be checked before starting and every 3-6 months. A worsens the risk. B is not required. D is not advised. Teaching point: With calcitriol or alfacalcidol, cap calcium supplements at 500 mg/day.\nReference: Malaysian CPG Management of Osteoporosis 2022 (3rd Ed.), Section 5.12.",
+    tag: "CPG Osteoporosis 2022"
+  },
+  {
+    question_text: "A 62-year-old woman with osteoporosis and a strong family history of breast cancer asks about raloxifene. Which statement about raloxifene's anti-fracture effect is accurate?",
+    option_a: "It reduces new vertebral fractures in women with or without prior fractures",
+    option_b: "It reduces hip fractures with Grade A evidence",
+    option_c: "It is an anabolic agent",
+    option_d: "It is first line for very high fracture risk",
+    correct_option: "A",
+    explanation: "Rationale: Raloxifene may be recommended for postmenopausal osteoporosis because it reduces new vertebral fractures in women with or without prior fractures. Table I shows Grade A evidence for BMD and vertebral fracture reduction, but no hip fracture evidence. It is a SERM, considered for low-risk individuals, not very high risk. B, C and D are wrong. Teaching point: Raloxifene reduces vertebral, not hip, fractures.\nReference: Malaysian CPG Management of Osteoporosis 2022 (3rd Ed.), Key Statements, Table I.",
+    tag: "CPG Osteoporosis 2022"
+  },
+  {
+    question_text: "A 55-year-old woman whose last period was 18 months ago has troublesome hot flushes and osteopenia. Which statement about tibolone is consistent with the CPG?",
+    option_a: "Tibolone is for women who are still menstruating",
+    option_b: "Tibolone may be offered to women at least one year past their last period, for menopausal symptoms and prevention of osteoporosis",
+    option_c: "Tibolone has proven hip fracture reduction",
+    option_d: "Tibolone is contraindicated after menopause",
+    correct_option: "B",
+    explanation: "Rationale: Women who are one year past their last period may be offered tibolone for relief of menopausal symptoms and prevention of osteoporosis (Grade A). In Table I, tibolone improves BMD, with vertebral effects seen only in post-hoc analysis and no hip fracture data. A and D reverse the timing. C overstates it. Teaching point: Tibolone: from one year after the last period.\nReference: Malaysian CPG Management of Osteoporosis 2022 (3rd Ed.), Key Statements, Table I.",
+    tag: "CPG Osteoporosis 2022"
+  },
+  {
+    question_text: "A 76-year-old woman has a new osteoporotic T12 compression fracture with severe pain but no neurological deficit. What is the most appropriate initial management?",
+    option_a: "Immediate vertebroplasty",
+    option_b: "Balloon kyphoplasty as first line",
+    option_c: "Spinal fusion",
+    option_d: "Conservative management with analgesia, with vertebral augmentation considered only if pain persists, plus active osteoporosis treatment",
+    correct_option: "D",
+    explanation: "Rationale: Osteoporotic vertebral fractures can initially be treated conservatively, with vertebral augmentation considered if conservative treatment fails. Recent evidence shows vertebroplasty has no clinically significant benefit over sham, and there is insufficient evidence for kyphoplasty over non-surgical care. Surgery is for cord or root compression or progressive deformity. All patients need active osteoporosis treatment. A, B and C are not first line. Teaching point: Vertebral fractures: conservative first; augmentation only for persistent pain.\nReference: Malaysian CPG Management of Osteoporosis 2022 (3rd Ed.), Section 6; Key Statements.",
+    tag: "CPG Osteoporosis 2022"
+  },
+  {
+    question_text: "A 45-year-old man with vasculitis received prednisolone 40 mg/day for 3 months and then tapered, with a cumulative dose of 6 g over the past year. How does the CPG classify his glucocorticoid exposure?",
+    option_a: "Low-dose",
+    option_b: "Very high-dose, because he took ≥30 mg/day prednisolone with a cumulative dose >5 g in the past year",
+    option_c: "Medium-dose",
+    option_d: "Not relevant to fracture risk",
+    correct_option: "B",
+    explanation: "Rationale: Very high-dose glucocorticoid is defined as prednisolone (or equivalent) ≥30 mg/day and a cumulative dose of >5 g in the past year. Very high-dose GC is a criterion for treatment in Algorithm B, in those aged ≥30 (age <40 group) and in those aged >40. A and C misclassify his exposure. D is wrong. Teaching point: Very high-dose GC = ≥30 mg/day prednisolone and >5 g in a year.\nReference: Malaysian CPG Management of Osteoporosis 2022 (3rd Ed.), Algorithm B.",
+    tag: "CPG Osteoporosis 2022"
+  },
+  {
+    question_text: "A 58-year-old woman with rheumatoid arthritis has taken prednisolone 7.5 mg daily for 8 months. She has no fractures. Her glucocorticoid-adjusted FRAX 10-year risk is 13% for major osteoporotic fracture. What is the most appropriate management?",
+    option_a: "No treatment because her T-score is not known",
+    option_b: "Monitor with yearly clinical assessment only",
+    option_c: "Treat with an oral bisphosphonate, as GC-adjusted FRAX major ≥10% places her at moderate/high risk",
+    option_d: "Start teriparatide as first line",
+    correct_option: "C",
+    explanation: "Rationale: In Algorithm B, for patients aged >40, moderate/high risk includes prior osteoporotic fracture, T-score ≤-2.5 in men ≥50 and postmenopausal women, GC-adjusted FRAX major ≥10% or hip >1%, or very high-dose GC. First-line treatment is an oral bisphosphonate. A and B under-treat. D is not first line. Teaching point: GIOP over 40: GC-adjusted FRAX major ≥10% or hip >1% means treat.\nReference: Malaysian CPG Management of Osteoporosis 2022 (3rd Ed.), Algorithm B; Section 7.",
+    tag: "CPG Osteoporosis 2022"
+  },
+  {
+    question_text: "A 32-year-old woman with lupus takes prednisolone 15 mg daily and has a low-trauma vertebral fracture. She does not plan pregnancy during treatment. What is the recommended first-line treatment?",
+    option_a: "Oral bisphosphonate, with denosumab as second line",
+    option_b: "Intravenous zoledronic acid as first line",
+    option_c: "Raloxifene",
+    option_d: "No treatment until menopause",
+    correct_option: "A",
+    explanation: "Rationale: In Algorithm B, patients aged <40 with an osteoporotic fracture are moderate/high risk. For women of childbearing potential not planning pregnancy during treatment, the first-line option is an oral bisphosphonate, second line denosumab, then teriparatide, IV bisphosphonates and activated vitamin D. B is not first line. C applies to postmenopausal women. D leaves her untreated. Teaching point: Young women with GIOP not planning pregnancy: oral bisphosphonate first.\nReference: Malaysian CPG Management of Osteoporosis 2022 (3rd Ed.), Algorithm B.",
+    tag: "CPG Osteoporosis 2022"
+  },
+  {
+    question_text: "A 58-year-old man has a low-trauma vertebral fracture. He drinks heavily and has reduced libido. Which investigation is specifically listed in the CPG to exclude secondary causes in men?",
+    option_a: "Serum oestradiol only",
+    option_b: "Serum prolactin only",
+    option_c: "Serum testosterone, with bone profile, FBC, ESR, TSH and plasma electrophoresis",
+    option_d: "No investigations are needed in men",
+    correct_option: "C",
+    explanation: "Rationale: Algorithm C advises excluding secondary causes in men with low-trauma fracture or osteoporosis, including serum testosterone, bone profile (calcium, phosphate, ALP, albumin, creatinine), FBC, ESR, TSH and plasma electrophoresis. Treatment options include bisphosphonate, denosumab or teriparatide, with BMD monitoring every 1-2 years. A and B are incomplete. D is wrong. Teaching point: Men with osteoporosis: check testosterone and screen for myeloma and thyroid disease.\nReference: Malaysian CPG Management of Osteoporosis 2022 (3rd Ed.), Algorithm C; Section 8.",
+    tag: "CPG Osteoporosis 2022"
+  },
+  {
+    question_text: "A 70-year-old woman on oral alendronate for 2 years has a new vertebral fracture and a falling BMD. What should be done before changing her treatment?",
+    option_a: "Switch to romosozumab immediately",
+    option_b: "Stop all treatment",
+    option_c: "Double the alendronate dose",
+    option_d: "Assess adherence (including administration technique) and look for secondary osteoporosis",
+    correct_option: "D",
+    explanation: "Rationale: Before considering treatment changes for apparent failure, patients need to be assessed for treatment adherence and for the possibility of secondary osteoporosis. Treatment failure is considered with two or more fractures and/or <25% change in BTM and/or worsening BMD. A, B and C act before checking these. Teaching point: Before calling treatment failure, check adherence and secondary causes.\nReference: Malaysian CPG Management of Osteoporosis 2022 (3rd Ed.), Key Statements; Section 5.13.",
+    tag: "CPG Osteoporosis 2022"
   }
 ];
