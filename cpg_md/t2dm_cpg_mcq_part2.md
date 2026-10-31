@@ -883,3 +883,223 @@ D. Start pioglitazone
 **Teaching point:** NAFLD with indeterminate fibrosis markers: elastography next.
 
 **Reference:** CPG Section 3.9.4 (Recommendations: Assessment and treatment of NAFLD).
+
+---
+
+### Q41
+**Topic:** Lost warning symptoms
+
+A 67-year-old man on a basal-bolus regimen has had three episodes in 2 months in which his wife found him confused, with glucose of 2.1-2.6 mmol/l. He no longer feels sweaty or shaky beforehand. HbA1c is 6.4%. He has a history of stable angina.
+
+**What is the most appropriate strategy?**
+
+A. Relax targets; avoid hypoglycaemia for 3 months
+B. Keep HbA1c ≤6.5%; add a bedtime snack
+C. Switch to premixed insulin twice daily
+D. Tighten targets to retrain awareness
+
+**Answer:** A
+
+**Explanation:** This is hypoglycaemia unawareness, which should trigger a re-evaluation of the regimen. Patients with unawareness or CVD should relax their glycaemic targets. Strictly avoiding hypoglycaemia for up to 3 months can restore warning symptoms and counter-regulation. Keeping tight targets with a snack, or tightening further, perpetuates the problem. Premixed insulin does not reduce hypoglycaemia risk.
+
+**Teaching point:** Hypoglycaemia unawareness: relax targets and avoid every hypo for 3 months.
+
+**Reference:** CPG Section 4.1 (Hypoglycaemia unawareness; Recommendations).
+
+---
+
+### Q42
+**Topic:** Unconscious hypoglycaemia without IV access
+
+A 72-year-old woman on insulin is brought to the ED unresponsive, with capillary glucose 1.8 mmol/l. She has thin, sclerosed veins and two attempts at IV cannulation have failed. Her airway is maintained with a head tilt.
+
+**What is the most appropriate immediate treatment?**
+
+A. Honey into the buccal cavity
+B. 50 ml of 50% dextrose IV
+C. Glucagon 1 mg IM
+D. 15 g oral glucose gel
+
+**Answer:** C
+
+**Explanation:** For unconscious (level 3) hypoglycaemia, the options are 20-50 ml of 50% dextrose IV, 75-100 ml of 20% dextrose, or glucagon 1 mg SC/IM if IV access is not available. She has no IV access. Honey in the mouth is the CPG option *outside* hospital. Oral gel risks aspiration in an unconscious patient. Glucose is rechecked every 15 minutes, and a meal is given once she is awake.
+
+**Teaching point:** Unconscious hypo: IV dextrose, or IM glucagon 1 mg if there is no IV access. Honey is for out-of-hospital use only.
+
+**Reference:** CPG Section 4.1, Figure 4-1.
+
+---
+
+### Q43
+**Topic:** Bicarbonate in severe DKA
+
+A 34-year-old man with DKA has received 2 litres of 0.9% saline with KCl and has been on FRIII at 0.1 U/kg/h for 3 hours. His perfusion has improved. Venous pH was 6.82 on admission and is still 6.86. Potassium is 4.2 mmol/l.
+
+**What is the most appropriate additional treatment?**
+
+A. No bicarbonate; continue protocol
+B. 50 ml 8.4% NaHCO3 in 200 ml 5% dextrose over 1 hour
+C. 100 ml 8.4% NaHCO3 IV bolus
+D. 500 ml 1.26% NaHCO3 over 30 minutes
+
+**Answer:** B
+
+**Explanation:** IV bicarbonate is not routinely indicated in DKA because of paradoxical CSF acidosis, delayed ketone clearance and cerebral oedema risk. However, it may be considered if pH stays below 6.9 despite adequate fluids and insulin. The CPG regimen is one ampoule (50 ml) of 8.4% NaHCO3 in 200 ml of 5% dextrose over 1 hour, repeated every 1-2 hours until pH is 7.0 or above. Withholding bicarbonate is right only above 6.9. A bolus or isotonic litre is not the CPG regimen.
+
+**Teaching point:** In DKA, give bicarbonate only if pH stays below 6.9 despite treatment: 50 ml 8.4% in 200 ml D5% over 1 hour.
+
+**Reference:** CPG Section 4.2 (IV bicarbonate).
+
+---
+
+### Q44
+**Topic:** Switching from IV to SC insulin after DKA
+
+A 40-year-old woman weighing 80 kg with BMI 34 kg/m2 and acanthosis nigricans has recovered from DKA (pH 7.36, ketones 0.3 mmol/l). She is eating and drinking. She was not on insulin before admission. A basal-bolus regimen is to be started.
+
+**What is the most appropriate bedtime long-acting insulin dose?**
+
+A. 20 U
+B. 30 U
+C. 40 U
+D. 60 U
+
+**Answer:** B
+
+**Explanation:** The CPG estimates total daily dose as 0.5-0.75 U/kg, using 0.75 U/kg for insulin-resistant patients (obesity, acanthosis): 0.75 × 80 = 60 U. Half (30 U) is given as long-acting insulin at bedtime, and the other 30 U is split equally before the three meals (10 U each). 20 U is half of 0.5 U/kg, which ignores the insulin resistance. 60 U is the whole daily dose given as basal.
+
+**Teaching point:** After DKA: TDD 0.5-0.75 U/kg (0.75 if insulin resistant), 50% as basal and 50% split across three meals.
+
+**Reference:** CPG Section 4.2 (Transitioning from IV to SC insulin).
+
+---
+
+### Q45
+**Topic:** Is the DKA resolved?
+
+A 49-year-old man with DKA has been on FRIII and 10% dextrose for 14 hours. He feels better and asks to eat. Venous pH is 7.32, bicarbonate 17 mmol/l, blood ketones 0.9 mmol/l, glucose 10.4 mmol/l and potassium 4.3 mmol/l.
+
+**What is the most appropriate next step?**
+
+A. DKA resolved; start SC insulin and stop FRIII
+B. Resolved; stop FRIII, then start SC tomorrow
+C. Not resolved; add IV bicarbonate
+D. Not resolved; continue FRIII
+
+**Answer:** D
+
+**Explanation:** DKA resolution is defined as pH above 7.3 *and* plasma ketones below 0.6 mmol/l. His pH qualifies, but ketones of 0.9 mmol/l do not, so the FRIII should continue (he may eat if able). Switching early risks rebound ketosis. Bicarbonate has no role at pH 7.32. When the switch is made, SC insulin should overlap the infusion.
+
+**Teaching point:** DKA resolution needs both pH >7.3 and ketones <0.6 mmol/l.
+
+**Reference:** CPG Section 4.2 (Resolution).
+
+---
+
+### Q46
+**Topic:** Overlap when stopping the infusion
+
+A 58-year-old man has recovered from DKA. He is eating breakfast and has been restarted on his usual human premixed insulin (Mixtard 30), given 30 minutes before the meal. The nurse asks when to stop the IV insulin infusion.
+
+**When should the FRIII be stopped?**
+
+A. At the time of the SC injection
+B. 30 minutes after the SC injection
+C. 1 hour after the SC injection
+D. 4 hours after the SC injection
+
+**Answer:** C
+
+**Explanation:** SC insulin should overlap the infusion for 30 minutes for insulin analogues and 1 hour for human insulin, to prevent rebound hyperglycaemia and ketosis. Mixtard is human insulin, so the overlap is 1 hour. 30 minutes is the analogue overlap and is the near-miss. Stopping at the time of injection leaves a gap in insulin cover.
+
+**Teaching point:** IV-to-SC overlap: analogue 30 minutes, human insulin 1 hour.
+
+**Reference:** CPG Section 4.2 (Transitioning).
+
+---
+
+### Q47
+**Topic:** Hypotensive DKA
+
+A 27-year-old woman with DKA has BP 84/50 mmHg, pulse 128/min, cool peripheries and a capillary refill time of 4 seconds. She has no history of heart or kidney disease. Large-bore IV access is in place.
+
+**What is the most appropriate initial fluid?**
+
+A. 500 ml 0.9% saline over 10-15 minutes
+B. 1 litre 0.9% saline over 1 hour
+C. 1 litre 0.9% saline with KCl over 2 hours
+D. Colloid 500 ml as the first fluid
+
+**Answer:** A
+
+**Explanation:** When admission SBP is below 90 mmHg, the CPG gives 500 ml of 0.9% saline over 10-15 minutes, repeated if SBP remains below 90 mmHg, and considers colloid only if there is still no response. 1 litre over 1 hour is the regimen for SBP of 90 mmHg or above. Potassium is usually added in the second litre, guided by levels and urine output.
+
+**Teaching point:** DKA with SBP <90: 500 ml saline boluses over 10-15 minutes. SBP ≥90: 1 litre over the first hour.
+
+**Reference:** CPG Section 4.2, Tables 4-3 and 4-4.
+
+---
+
+### Q48
+**Topic:** New neuropathy on long-term metformin
+
+A 64-year-old woman with T2DM for 12 years has taken metformin 1 g twice daily throughout. She has 6 months of tingling in both feet, mild unsteadiness and a sore tongue. Hb is 108 g/l with MCV 104 fl. HbA1c is 6.9%.
+
+**What is the most appropriate next step?**
+
+A. Start pregabalin
+B. Nerve conduction studies
+C. Stop metformin
+D. Check vitamin B12
+
+**Answer:** D
+
+**Explanation:** Vitamin B12 deficiency is a recognised long-term complication of metformin. Macrocytic anaemia and glossitis with neuropathy point to it rather than to diabetic neuropathy alone. B12 should be checked and replaced if low. Metformin need not be stopped. Treating the pain, or arranging nerve studies first, misses a reversible cause.
+
+**Teaching point:** On long-term metformin, check B12 if there is neuropathy, macrocytosis or glossitis.
+
+**Reference:** CPG Section 3.6.1 (Metformin).
+
+---
+
+### Q49
+**Topic:** Sulphonylurea choice in CKD
+
+A 72-year-old man takes glibenclamide 5 mg twice daily and metformin 500 mg twice daily. His eGFR has fallen to 38 ml/min/1.73 m2. He has had two episodes of hypoglycaemia overnight. HbA1c is 7.1%.
+
+**What is the most appropriate change to his sulphonylurea?**
+
+A. Halve the glibenclamide
+B. Switch to glimepiride 6 mg
+C. Switch to gliclazide, low dose
+D. Move glibenclamide to bedtime
+
+**Answer:** C
+
+**Explanation:** Glibenclamide's active metabolites are renally excreted, so it is contraindicated in renal impairment. The WHO also advises against it over 60, and it carries the highest hypoglycaemia risk. Gliclazide, glipizide and glimepiride can be used with caution in CKD. A low dose of gliclazide is safer, whereas 6 mg is the *maximum* glimepiride dose. Reducing glibenclamide or moving it to bedtime keeps a contraindicated drug (and the bedtime dose worsens nocturnal hypoglycaemia).
+
+**Teaching point:** Avoid glibenclamide in CKD and over 60. Switch to a low-dose shorter-acting SU.
+
+**Reference:** CPG Section 3.6.1 (Sulphonylureas, Table 3-9 note); Section 6.3.
+
+---
+
+### Q50
+**Topic:** Oedema on combination therapy
+
+A 60-year-old woman with T2DM takes basal insulin 40 U, metformin and pioglitazone 30 mg (added 4 months ago). She has gained 5 kg and has bilateral pitting ankle oedema. JVP is not raised, the chest is clear, and NT-proBNP and echo are normal. HbA1c is 7.2%.
+
+**What is the most appropriate management?**
+
+A. Add furosemide 40 mg
+B. Reduce basal insulin by 20%
+C. Switch pioglitazone to saxagliptin
+D. Stop pioglitazone
+
+**Answer:** D
+
+**Explanation:** TZDs cause weight gain and fluid retention, and the CPG specifically cautions about using them with insulin because of aggravated fluid retention. With no heart failure, stopping the pioglitazone addresses the cause. A diuretic treats the effect while keeping the cause. Reducing insulin does not remove the TZD effect. Saxagliptin is a poor choice if fluid or heart failure concerns arise.
+
+**Teaching point:** Pioglitazone plus insulin causes fluid retention. Stop the TZD, rather than add a diuretic.
+
+**Reference:** CPG Section 3.6.1 (Thiazolidinediones, Table 3-12 caution).
