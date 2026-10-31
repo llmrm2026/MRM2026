@@ -3812,5 +3812,355 @@ const cpgBank = [
     correct_option: "B",
     explanation: "Rationale: An eGFR <60 is common in the elderly and may be age-appropriate. Elderly patients with stable eGFR and low risk of progression (proteinuria ≤1 g/day, optimal BP and glycaemic control) can be managed in primary care in collaboration with a nephrologist. A is unnecessary for her. C abandons monitoring. D is not indicated. Teaching point: Stable, low-risk elderly CKD patients are managed in primary care with nephrology collaboration.\nReference: Malaysian CPG Management of Chronic Kidney Disease in Adults 2018 (2nd Ed.), Section 7 (Special issues in elderly).",
     tag: "CPG CKD 2018"
+  },
+  {
+    question_text: "A 46-year-old man with a mid-upper arm circumference of 40 cm has a clinic BP of 154/96 mmHg measured with a standard 13 cm x 24 cm cuff. He has no symptoms and no previous readings. What is the most likely effect of the cuff on this reading?",
+    option_a: "A falsely high reading, because the cuff is too small for his arm",
+    option_b: "A falsely low reading, because the cuff is too small",
+    option_c: "No effect, because cuff size does not alter readings",
+    option_d: "A falsely high reading, because the cuff is too large",
+    correct_option: "A",
+    explanation: "Rationale: The bladder length should encircle at least 80% and the width at least 40% of the arm circumference. A cuff that is too small gives a falsely high reading, and one that is too big gives a falsely low reading. A standard 13 x 24 cm cuff is too small for a 40 cm arm. B and D reverse the direction, and C is wrong. Teaching point: Small cuff, falsely high; large cuff, falsely low.\nReference: Malaysian CPG Management of Hypertension 2018 (5th Ed.), Chapter 2.",
+    tag: "CPG Hypertension 2018"
+  },
+  {
+    question_text: "A 63-year-old woman attends her first hypertension clinic visit. BP is 168/88 mmHg in the right arm and 142/80 mmHg in the left arm on repeated measurement. What is the most appropriate interpretation?",
+    option_a: "Average the two arms and record 155/84 mmHg",
+    option_b: "Use the left arm because it is lower and safer",
+    option_c: "Ignore the difference, as it is within normal variation",
+    option_d: "Take the higher (right arm) reading as her BP and evaluate further, as the difference exceeds 20/10 mmHg",
+    correct_option: "D",
+    explanation: "Rationale: BP should be measured in both arms on the first visit and the higher reading taken as the systolic BP. A difference of more than 20/10 mmHg requires further evaluation to look for a cause, such as subclavian or aortic disease. Her systolic difference is 26 mmHg. A and B underestimate her BP, and C misses a significant difference. Teaching point: Measure both arms at the first visit; use the higher arm, and investigate a gap >20/10 mmHg.\nReference: Malaysian CPG Management of Hypertension 2018 (5th Ed.), Chapter 2.",
+    tag: "CPG Hypertension 2018"
+  },
+  {
+    question_text: "A clinic nurse records a patient's seated BP twice, 1 minute apart, in the same arm. The readings are 162/94 mmHg and 148/90 mmHg. What should be done next?",
+    option_a: "Record 162/94 mmHg as the BP",
+    option_b: "Take a third reading, then average the last two readings",
+    option_c: "Record the lower reading of 148/90 mmHg",
+    option_d: "Repeat the measurement on another day only",
+    correct_option: "B",
+    explanation: "Rationale: At least two readings 1-2 minutes apart should be taken in the same arm and position. A third reading should be taken if the first two differ by more than 10 mmHg, and the last two readings averaged. Here the systolic readings differ by 14 mmHg. A and C each use one reading, and D ignores the CPG technique for the current visit. Teaching point: If the first two readings differ by >10 mmHg, take a third and average the last two.\nReference: Malaysian CPG Management of Hypertension 2018 (5th Ed.), Chapter 2.",
+    tag: "CPG Hypertension 2018"
+  },
+  {
+    question_text: "A 78-year-old woman on amlodipine and indapamide reports light-headedness on rising. Seated BP is 146/80 mmHg. One minute after standing it is 122/74 mmHg. What does this finding indicate?",
+    option_a: "Normal orthostatic response, as the diastolic fall is small",
+    option_b: "White-coat hypertension",
+    option_c: "A significant postural drop, as systolic BP falls by more than 20 mmHg after one minute of standing",
+    option_d: "Masked hypertension",
+    correct_option: "C",
+    explanation: "Rationale: A systolic drop of more than 20 mmHg after one minute of standing is a significant postural drop. In the elderly, BP should be taken sitting and standing, and the CPG recommends measuring standing BP to guide treatment. Her systolic fall is 24 mmHg. A ignores the systolic threshold, and B and D describe clinic-versus-out-of-office discrepancies. Teaching point: In older adults, measure standing BP; a systolic fall >20 mmHg at 1 minute is significant.\nReference: Malaysian CPG Management of Hypertension 2018 (5th Ed.), Chapter 2; Section 7.5.",
+    tag: "CPG Hypertension 2018"
+  },
+  {
+    question_text: "A 52-year-old man performs home BP monitoring for 7 days, twice daily with two readings each time. Day 1 readings average 152/96 mmHg. Days 2-7 average 131/82 mmHg. Clinic BP has been 150/94 mmHg on two occasions. How should these results be interpreted?",
+    option_a: "Isolated office (\"white-coat\") hypertension",
+    option_b: "Masked hypertension",
+    option_c: "Stage 1 hypertension confirmed by home readings",
+    option_d: "The home readings are invalid because day 1 is high",
+    correct_option: "A",
+    explanation: "Rationale: Day 1 home readings should be disregarded and the remaining days averaged. A mean home BP >135/85 mmHg is elevated. His home average of 131/82 is below 135/85, while clinic BP is persistently above 140/90, which defines isolated office hypertension. B is the reverse pattern. C counts day 1. D misunderstands the protocol, which expects day 1 to be discarded. Teaching point: Discard day 1 of HBPM, average at least 3 further days, and use 135/85 mmHg as the threshold.\nReference: Malaysian CPG Management of Hypertension 2018 (5th Ed.), Sections 1.2 and 2.2.",
+    tag: "CPG Hypertension 2018"
+  },
+  {
+    question_text: "A 44-year-old female smoker has clinic BP readings of 128/82 mmHg on three visits. She has left ventricular hypertrophy on ECG. Daytime ambulatory BP averages 146/92 mmHg. Which statement is most accurate?",
+    option_a: "She has isolated office hypertension, which is benign",
+    option_b: "She has masked hypertension, which carries a worse prognosis than isolated office hypertension, and drug treatment is indicated given target organ damage",
+    option_c: "No treatment is needed because clinic BP is normal",
+    option_d: "Ambulatory BP is not useful in this situation",
+    correct_option: "B",
+    explanation: "Rationale: Masked hypertension is normal clinic BP with elevated daytime ambulatory or home BP (≥135/85 mmHg). Its prognosis is worse than isolated office hypertension. Initial management is healthy living, but drug treatment is indicated when CV risk is elevated or target organ damage is present, as with her LVH. A reverses the pattern. C ignores out-of-office readings. D is wrong because diagnosing masked hypertension is an ABPM indication. Teaching point: Masked hypertension is worse than white-coat; treat with drugs when TOD or high CV risk is present.\nReference: Malaysian CPG Management of Hypertension 2018 (5th Ed.), Sections 1.3 and 2.3.",
+    tag: "CPG Hypertension 2018"
+  },
+  {
+    question_text: "A 58-year-old woman has a confirmed clinic BP of 166/96 mmHg on two separate occasions. How is her blood pressure classified in the CPG?",
+    option_a: "Stage 1 (mild) hypertension",
+    option_b: "Isolated systolic hypertension",
+    option_c: "Stage 3 (severe) hypertension",
+    option_d: "Stage 2 (moderate) hypertension",
+    correct_option: "D",
+    explanation: "Rationale: Table 1-A defines stage 1 as SBP 140-159 and/or DBP 90-99, stage 2 as SBP 160-179 and/or DBP 100-109, and stage 3 as ≥180 and/or ≥110 mmHg. With \"and/or\" the higher category applies, so SBP 166 places her in stage 2. B requires DBP <90 mmHg. A and C use the wrong band. Teaching point: Classify by whichever of SBP or DBP falls in the higher category.\nReference: Malaysian CPG Management of Hypertension 2018 (5th Ed.), Chapter 1, Table 1-A.",
+    tag: "CPG Hypertension 2018"
+  },
+  {
+    question_text: "A 67-year-old man has repeated clinic BP readings of 158/78 mmHg. He asks whether his \"normal bottom number\" means he needs no treatment. Which statement best reflects the CPG?",
+    option_a: "He has isolated systolic hypertension, which carries a poor prognosis; treating it reduces mortality, stroke and heart failure",
+    option_b: "Diastolic BP is the more important risk factor after age 50",
+    option_c: "Treatment is only needed if diastolic BP exceeds 90 mmHg",
+    option_d: "Isolated systolic hypertension is rare after age 50",
+    correct_option: "A",
+    explanation: "Rationale: ISH is SBP ≥140 with DBP <90 mmHg. It is common after age 50 and carries a poor prognosis, and control reduces total and CV mortality, stroke and heart failure. After age 50, SBP is the more important risk factor, so B reverses it. C ignores ISH. D is wrong because systolic hypertension is the most common form above age 50. Teaching point: After 50, systolic BP matters more than diastolic; treat isolated systolic hypertension.\nReference: Malaysian CPG Management of Hypertension 2018 (5th Ed.), Section 1.1.",
+    tag: "CPG Hypertension 2018"
+  },
+  {
+    question_text: "A 41-year-old man has a BP of 148/94 mmHg at a workplace health screening. He has no symptoms and no known target organ damage. According to Table 3-E, what is the recommended follow-up?",
+    option_a: "Recheck in one year",
+    option_b: "Assess global CV risk and confirm within two months",
+    option_c: "Start treatment the same day",
+    option_d: "Assess global CV risk and evaluate within one week",
+    correct_option: "B",
+    explanation: "Rationale: Table 3-E advises: <120/<80 recheck in one year; 120-139/80-89 assess risk and recheck within 3-6 months; 140-159/90-99 assess risk and confirm within two months; 160-179/100-109 evaluate within one month; 180-209/110-119 evaluate within one week; ≥210/≥120 initiate treatment after repeated measurement in the same encounter. His reading falls in the 140-159/90-99 band. Teaching point: Higher initial readings shorten the time to confirmation, from a year down to the same visit.\nReference: Malaysian CPG Management of Hypertension 2018 (5th Ed.), Chapter 3, Table 3-E.",
+    tag: "CPG Hypertension 2018"
+  },
+  {
+    question_text: "A 55-year-old woman with type 2 diabetes has confirmed BP of 150/92 mmHg. She has no other CV risk factors or target organ damage. What is her CV risk category using Table 3-D, and what management is indicated?",
+    option_a: "Low risk; healthy living for 3 to 6 months",
+    option_b: "Medium risk; healthy living only",
+    option_c: "Very high risk; drug treatment and healthy living",
+    option_d: "Intermediate risk; recheck in one year",
+    correct_option: "C",
+    explanation: "Rationale: In Table 3-D, diabetes (with previous MI/IHD, previous stroke or CKD) places a patient in the highest column, which is very high risk at any BP level from 130-139 upward. Very high risk (>30% 10-year risk) requires drug treatment plus healthy living. A, B and D would be correct only without diabetes or other risk factors. Teaching point: Diabetes puts a hypertensive patient in the very high-risk column regardless of BP stage.\nReference: Malaysian CPG Management of Hypertension 2018 (5th Ed.), Chapter 3, Table 3-D.",
+    tag: "CPG Hypertension 2018"
+  },
+  {
+    question_text: "A 38-year-old non-smoking man has confirmed BP of 144/92 mmHg. He has no diabetes, normal lipids, a normal ECG and urinalysis, and no family history of premature CVD. What is the most appropriate initial management?",
+    option_a: "Start a single-pill combination",
+    option_b: "Start a beta-blocker",
+    option_c: "Healthy living advice for 3 to 6 months, with review at least twice (ideally monthly)",
+    option_d: "Discharge with yearly checks only",
+    correct_option: "C",
+    explanation: "Rationale: For stage 1 hypertension with low CV risk, healthy living is advised for 3-6 months, because drug treatment has not been shown to prevent CV outcomes in this group. He should be seen at least twice, ideally monthly. Medium or higher risk stage 1 patients are offered drugs at diagnosis. A and B treat him as higher risk. D under-monitors a confirmed hypertensive. Teaching point: Low-risk stage 1: a 3-6 month trial of healthy living with regular review.\nReference: Malaysian CPG Management of Hypertension 2018 (5th Ed.), Section 5.1a; Figure 5-A.",
+    tag: "CPG Hypertension 2018"
+  },
+  {
+    question_text: "A 50-year-old woman with stage 1 hypertension and BMI 31 kg/m2 asks how much her BP might fall if she loses weight. Which statement is consistent with the CPG?",
+    option_a: "Each 1 kg weight loss lowers SBP by about 10 mmHg",
+    option_b: "A reduction of 1 kg relates to about 1 mmHg fall in SBP, and 4 kg to about 4.5/3.2 mmHg",
+    option_c: "Weight loss has no effect on BP",
+    option_d: "Weight loss is proven to reduce mortality in hypertension",
+    correct_option: "B",
+    explanation: "Rationale: A 4 kg reduction in body weight achieves a BP reduction of about 4.5/3.2 mmHg, and 1 kg of weight loss relates to about 1 mmHg reduction in SBP. The long-term effect of weight loss on mortality and morbidity in hypertension is unknown, so D is wrong. A overstates the effect, and C contradicts the evidence. Teaching point: About 1 mmHg of systolic BP per kilogram of weight lost.\nReference: Malaysian CPG Management of Hypertension 2018 (5th Ed.), Section 4.1.",
+    tag: "CPG Hypertension 2018"
+  },
+  {
+    question_text: "A 47-year-old man with hypertension drinks four standard drinks daily. His eGFR is 92 ml/min/1.73 m2 and potassium is 4.0 mmol/L. He asks what changes will help his BP. Which advice is most consistent with the CPG?",
+    option_a: "Limit alcohol to fewer than two drinks per day and increase dietary potassium from fruit, vegetables, nuts and legumes",
+    option_b: "Stop all fruit to reduce sugar intake",
+    option_c: "Take fish oil and garlic supplements as proven BP-lowering therapy",
+    option_d: "Alcohol has no effect on BP",
+    correct_option: "A",
+    explanation: "Rationale: The CPG recommends limiting alcohol to fewer than two drinks per day for those who drink (reduction lowers BP in a dose-dependent way) and increasing dietary potassium, which lowers BP by about 3.5/2 mmHg in adults with normal renal function and is associated with a 24% lower stroke risk. B removes a potassium source. C is wrong because evidence for fish oil and garlic is limited. D contradicts the evidence. Teaching point: Fewer than two drinks a day and more dietary potassium (if renal function is normal).\nReference: Malaysian CPG Management of Hypertension 2018 (5th Ed.), Sections 4.3, 4.8 and 4.9.",
+    tag: "CPG Hypertension 2018"
+  },
+  {
+    question_text: "A 49-year-old woman has confirmed BP of 172/104 mmHg. She has no compelling indications for any specific drug class. What is the most appropriate initial drug strategy?",
+    option_a: "Low-dose monotherapy for 6 weeks",
+    option_b: "Healthy living alone for 3 to 6 months",
+    option_c: "Beta-blocker monotherapy",
+    option_d: "Combination therapy as first line, either as free drugs or a single-pill combination",
+    correct_option: "D",
+    explanation: "Rationale: In patients presenting with stage II hypertension or beyond, combination therapy is recommended as first line, and it achieves control faster than monotherapy. Single-pill combinations improve adherence. A applies to stage 1. B delays treatment in stage 2. C is a weaker first-line option in uncomplicated hypertension. Teaching point: Stage 2 and above: start with combination therapy.\nReference: Malaysian CPG Management of Hypertension 2018 (5th Ed.), Section 5.1b; Figure 5-A.",
+    tag: "CPG Hypertension 2018"
+  },
+  {
+    question_text: "A 29-year-old woman with newly diagnosed hypertension plans a pregnancy within the next year. She developed angioedema on enalapril in the past. Which first-line drug class does the CPG suggest considering in her?",
+    option_a: "Angiotensin receptor blocker",
+    option_b: "Beta-blocker",
+    option_c: "Direct renin inhibitor",
+    option_d: "ACE inhibitor at a lower dose",
+    correct_option: "B",
+    explanation: "Rationale: Guidelines recommend that beta-blockers be considered in younger patients who are intolerant of or have contraindications to ACEIs and ARBs, women of child-bearing potential, and patients with increased sympathetic drive. She has both ACEI intolerance and child-bearing potential, and RAS blockers are contraindicated in pregnancy. A and C act on the RAS. D repeats a drug that caused angioedema. Teaching point: Consider a beta-blocker first in young women of child-bearing potential or those intolerant of RAS blockers.\nReference: Malaysian CPG Management of Hypertension 2018 (5th Ed.), Section 5.1b; Section 9.4.",
+    tag: "CPG Hypertension 2018"
+  },
+  {
+    question_text: "A 53-year-old man with stage 1 hypertension and medium CV risk was started on amlodipine 5 mg. After 6 weeks his BP has fallen from 156/96 to 146/92 mmHg, and he has no side effects. What is the most appropriate next step?",
+    option_a: "Increase the dose of amlodipine or add a second drug",
+    option_b: "Stop amlodipine because it has failed",
+    option_c: "Wait a further 6 months before any change",
+    option_d: "Add a second calcium channel blocker",
+    correct_option: "A",
+    explanation: "Rationale: If target BP is not achieved despite some BP-lowering effect after up to six weeks of monotherapy, either increase the dose of the initial drug or add a second agent. Substitution is recommended when there is no response or poor tolerance. B abandons a partially effective drug. C delays control. D duplicates the same class. Teaching point: Partial response: increase dose or add a drug. No response or intolerance: substitute.\nReference: Malaysian CPG Management of Hypertension 2018 (5th Ed.), Section 5.1b.",
+    tag: "CPG Hypertension 2018"
+  },
+  {
+    question_text: "A 61-year-old woman with hypertension is on lisinopril 20 mg and remains above target. Her doctor considers adding a second drug. Which combination should be avoided according to the CPG?",
+    option_a: "ACE inhibitor plus thiazide-like diuretic",
+    option_b: "ACE inhibitor plus calcium channel blocker",
+    option_c: "ACE inhibitor plus angiotensin receptor blocker",
+    option_d: "ACE inhibitor plus amlodipine as a single pill",
+    correct_option: "C",
+    explanation: "Rationale: Table 5-B lists ACEI/thiazide and ACEI/CCB among the preferred combinations based on outcome trials. The CPG states that the combination of ACEI and ARB is not recommended and is to be avoided. A, B and D are preferred options. Teaching point: Never combine an ACE inhibitor with an ARB for hypertension.\nReference: Malaysian CPG Management of Hypertension 2018 (5th Ed.), Section 5.1b, Table 5-B; Section 9.4.2.",
+    tag: "CPG Hypertension 2018"
+  },
+  {
+    question_text: "A 56-year-old man with recurrent gout attacks and hypertension needs his first antihypertensive. He has no diabetes, heart disease or renal impairment. According to Table 5-C, which drug class is graded most favourably for him?",
+    option_a: "Thiazide diuretic",
+    option_b: "Angiotensin receptor blocker",
+    option_c: "Beta-blocker",
+    option_d: "Loop diuretic",
+    correct_option: "B",
+    explanation: "Rationale: In Table 5-C, for gout, diuretics are graded \"+/-\" (use with care), while beta-blockers, ACEIs, CCBs and alpha-blockers are \"+\" and ARBs are \"++\", the highest grading in that row. A and D raise urate. C is acceptable but graded lower. Teaching point: In gout, avoid diuretics where possible; ARBs are graded most favourably.\nReference: Malaysian CPG Management of Hypertension 2018 (5th Ed.), Section 5.1b, Table 5-C.",
+    tag: "CPG Hypertension 2018"
+  },
+  {
+    question_text: "A 60-year-old woman's BP has been at target for 6 months on two drugs. She asks whether she can collect repeat prescriptions without seeing the doctor. What is the most appropriate advice?",
+    option_a: "Repeat prescriptions are adequate once BP is controlled",
+    option_b: "Review only if symptoms develop",
+    option_c: "Treatment can be stopped once BP has been normal for 6 months",
+    option_d: "Follow-up at 3- to 6-monthly intervals, and at least 6-monthly, with assessment of BP, adverse effects, global risk and complications",
+    correct_option: "D",
+    explanation: "Rationale: Once target BP is achieved, follow-up at 3-6 month intervals is appropriate, and patients should have at least six-monthly follow-up rather than repeat prescriptions without seeing a doctor. Visits should assess BP control, adverse reactions, global vascular risk and complications. Most patients need life-long treatment, so C is wrong. A and B are explicitly discouraged. Teaching point: Controlled hypertension still needs at least six-monthly review; treatment is usually life-long.\nReference: Malaysian CPG Management of Hypertension 2018 (5th Ed.), Section 5.2.",
+    tag: "CPG Hypertension 2018"
+  },
+  {
+    question_text: "A 58-year-old man insists on reducing his medication. He has been on amlodipine 5 mg alone with BP 128/78 mmHg for 15 months. His original BP was 148/92 mmHg with low global CV risk, and he exercises regularly. Which statement best reflects the CPG?",
+    option_a: "Step-down is never permitted",
+    option_b: "Step-down may be considered, as he meets the criteria, provided he agrees to follow-up at least every 3 to 6 months",
+    option_c: "Stop all treatment and review in 2 years",
+    option_d: "Step-down is only allowed after 5 years of control",
+    correct_option: "B",
+    explanation: "Rationale: Step-down therapy is discouraged in most patients, but for those who insist the criteria are: BP not higher than stage I with low global CV risk; BP well controlled for at least 1 year on the same medication and dose; agreement to follow-up at least 3-6 monthly; and motivation for healthy living. He meets all of these. A is too absolute. C abandons monitoring. D invents a duration. Teaching point: Step-down needs low-risk stage 1, at least a year of stable control, 3-6 monthly review and healthy living.\nReference: Malaysian CPG Management of Hypertension 2018 (5th Ed.), Section 5.4.",
+    tag: "CPG Hypertension 2018"
+  },
+  {
+    question_text: "A primary care doctor reviews four newly diagnosed hypertensive patients, each with confirmed BP 150/94 mmHg. Which patient meets the CPG criteria for specialist referral?",
+    option_a: "A 26-year-old man with no other medical history",
+    option_b: "A 54-year-old woman with dyslipidaemia",
+    option_c: "A 61-year-old man who smokes",
+    option_d: "A 49-year-old woman with obesity",
+    correct_option: "A",
+    explanation: "Rationale: Indications for referral include severe hypertension (>180/110), suspected secondary hypertension, resistant or refractory hypertension, recent onset target organ damage, pregnancy, office hypertension with additional CV risk, children and adults under 30 years, and secondary prevention with multiple co-morbidities. The 26-year-old qualifies on age. B, C and D have common risk factors that can be managed in primary care. Teaching point: Hypertension under age 30 warrants referral to look for a secondary cause.\nReference: Malaysian CPG Management of Hypertension 2018 (5th Ed.), Section 5.3.",
+    tag: "CPG Hypertension 2018"
+  },
+  {
+    question_text: "A 50-year-old man who stopped his medication 2 months ago has BP 196/116 mmHg at a clinic. He has a mild headache but no chest pain, breathlessness, neurological deficit or visual change. ECG and urinalysis are unchanged from before. What is the most appropriate initial step?",
+    option_a: "Intravenous labetalol infusion",
+    option_b: "Sublingual nifedipine to bring BP to 120/80 mmHg within an hour",
+    option_c: "Rest in a quiet room with BP checked every 30 minutes for up to 2 hours before starting oral therapy",
+    option_d: "Immediate transfer for intensive care admission",
+    correct_option: "C",
+    explanation: "Rationale: This is hypertensive urgency (no acute target organ damage). The flowchart advises rest in a quiet room with BP checked every 30 minutes for up to 2 hours; a reduction of 10-20 mmHg SBP defines a responder. Non-responders start oral antihypertensives. There is no role for intravenous drugs in urgency, so A is wrong. B reduces BP too fast and too far. D is for emergencies. Teaching point: Hypertensive urgency: rest and observe first; oral drugs only; never IV.\nReference: Malaysian CPG Management of Hypertension 2018 (5th Ed.), Section 6.1.1; Figure 6-A; Table 6-B.",
+    tag: "CPG Hypertension 2018"
+  },
+  {
+    question_text: "A 56-year-old woman with hypertensive urgency has not responded to 2 hours of rest. She has asthma. Which oral agent from Table 6-B is most appropriate?",
+    option_a: "Captopril 12.5 mg",
+    option_b: "Labetalol 200 mg",
+    option_c: "Intravenous hydralazine",
+    option_d: "Clonidine withdrawal regimen",
+    correct_option: "A",
+    explanation: "Rationale: Table 6-B lists captopril 12.5 mg, nifedipine 10 mg and labetalol 200 mg as oral treatments for urgency. Labetalol has beta-blocking activity, and beta-blockers are absolutely contraindicated in uncontrolled asthma and relatively contraindicated in controlled asthma, so B is the trap. C is intravenous, which has no role in urgency. D is not a treatment (clonidine withdrawal causes rebound hypertension). Teaching point: Choose the urgency agent around co-morbidity: avoid labetalol in asthma.\nReference: Malaysian CPG Management of Hypertension 2018 (5th Ed.), Section 6.1.1, Table 6-B; Section 9.2.",
+    tag: "CPG Hypertension 2018"
+  },
+  {
+    question_text: "A 62-year-old man presents with BP 210/124 mmHg, confusion and papilloedema. CT brain shows no haemorrhage, and hypertensive encephalopathy is diagnosed. What is the general CPG aim for initial BP reduction in a hypertensive emergency?",
+    option_a: "Normalise BP to <140/90 mmHg within the first hour",
+    option_b: "Reduce BP by about 50% within 30 minutes",
+    option_c: "Avoid any BP reduction for 24 hours",
+    option_d: "Reduce BP by 10-25% within minutes to hours, but not lower than 160/90 mmHg, using parenteral drugs",
+    correct_option: "D",
+    explanation: "Rationale: Patients with hypertensive emergency should be admitted and have BP reduced by 10%-25% within minutes to hours but not lower than 160/90 mmHg, best achieved with parenteral drugs. Rapid over-reduction risks provoking coronary, cerebral or renal ischaemia, so A and B are dangerous. C leaves an emergency untreated. Teaching point: Emergency: parenteral, controlled 10-25% reduction, not below 160/90 mmHg.\nReference: Malaysian CPG Management of Hypertension 2018 (5th Ed.), Section 6.1.2; Section 6.2.",
+    tag: "CPG Hypertension 2018"
+  },
+  {
+    question_text: "A 34-year-old man presents with chest pain, BP 202/118 mmHg and ST depression after cocaine use. Aortic dissection has been excluded. Which agent should be avoided?",
+    option_a: "Intravenous nitrate",
+    option_b: "Selective beta-blocker",
+    option_c: "Benzodiazepine for agitation",
+    option_d: "Calcium channel blocker",
+    correct_option: "B",
+    explanation: "Rationale: Table 6-C advises avoiding selective beta-blockers in acute coronary syndrome if cocaine abuse is suspected, and considering type A aortic dissection as a cause. BP in ACS is reduced by <25% within 1 hour, then to ≤160/100 mmHg over 2-6 hours. A and D are not flagged for avoidance. C is not a BP agent under discussion. Teaching point: Suspected cocaine ACS: avoid selective beta-blockers.\nReference: Malaysian CPG Management of Hypertension 2018 (5th Ed.), Section 6.1.2, Table 6-C.",
+    tag: "CPG Hypertension 2018"
+  },
+  {
+    question_text: "A 68-year-old male smoker with peripheral arterial disease has had well-controlled BP for years, but it has recently become resistant to three drugs. Two weeks after starting ramipril his creatinine rose from 110 to 190 umol/L. He has had one episode of flash pulmonary oedema with normal LV function. What is the most likely cause of his worsening hypertension?",
+    option_a: "Primary aldosteronism",
+    option_b: "Phaeochromocytoma",
+    option_c: "Atherosclerotic renovascular hypertension",
+    option_d: "White-coat hypertension",
+    correct_option: "C",
+    explanation: "Rationale: Features suggesting renovascular hypertension include deterioration in previously well-controlled BP, resistant hypertension, flash pulmonary oedema, renal failure induced by ACEIs or ARBs, and coexisting diffuse atherosclerotic disease. He has all of these, making atherosclerotic renal artery stenosis likely. A and B are endocrine causes without these features. D is excluded by the creatinine rise and flash oedema. Teaching point: Flash pulmonary oedema plus ACEI-induced renal failure in an arteriopath points to renal artery stenosis.\nReference: Malaysian CPG Management of Hypertension 2018 (5th Ed.), Section 7.2.2.",
+    tag: "CPG Hypertension 2018"
+  },
+  {
+    question_text: "A 72-year-old woman has 75% atherosclerotic renal artery stenosis on CT angiography. Her BP is controlled on two drugs and renal function has been stable for 2 years. What is the most appropriate management?",
+    option_a: "Intensive medical therapy (BP control, statin, low-dose aspirin, smoking cessation) with monitoring of renal function and stenosis progression",
+    option_b: "Renal artery stenting, as it is superior to medical therapy",
+    option_c: "Surgical revascularisation",
+    option_d: "Stop all antihypertensives",
+    correct_option: "A",
+    explanation: "Rationale: Patients with ARAS should be primarily medically managed, because angioplasty and stenting have not shown any advantage over optimal medical therapy. This applies to stenosis <70% or to those with stable renal function and good BP control despite stenosis >70%, with monitoring by duplex and renal function. Revascularisation is reserved for flash pulmonary oedema, resistant hypertension, intolerance of therapy or unexplained progressive renal decline. B and C are not indicated for her, and D is unsafe. Teaching point: Atherosclerotic renal artery stenosis: medical therapy first; stent only for specific indications.\nReference: Malaysian CPG Management of Hypertension 2018 (5th Ed.), Section 7.2.2.",
+    tag: "CPG Hypertension 2018"
+  },
+  {
+    question_text: "A 27-year-old woman has newly diagnosed hypertension of 164/100 mmHg and an epigastric bruit. Imaging shows a \"string of beads\" appearance of the right renal artery. She hopes to start a family. What is the most appropriate management?",
+    option_a: "Lifelong ACE inhibitor alone",
+    option_b: "Consider renal angioplasty",
+    option_c: "Observation without treatment",
+    option_d: "Nephrectomy",
+    correct_option: "B",
+    explanation: "Rationale: Patients with RVH due to fibromuscular dysplasia should be considered for revascularisation. Given the typical young female patient, lower angioplasty risks, many years of drug therapy otherwise, and the limitations of RAS blockers during pregnancy, angioplasty is favoured. A relies on a drug she cannot take in pregnancy. C leaves her hypertensive. D is excessive. Teaching point: FMD in a young woman: favour angioplasty; ARAS in older patients: medical therapy.\nReference: Malaysian CPG Management of Hypertension 2018 (5th Ed.), Section 7.2.2.",
+    tag: "CPG Hypertension 2018"
+  },
+  {
+    question_text: "A 59-year-old man with stable exertional angina has BP of 146/88 mmHg on no medication. Resting heart rate is 82/min. Which drug choice and BP target are most appropriate?",
+    option_a: "Short-acting nifedipine, target <140/90 mmHg",
+    option_b: "Alpha-blocker, target <150/90 mmHg",
+    option_c: "ACE inhibitor alone, target <160/100 mmHg",
+    option_d: "Beta-blocker (or CCB), target <130/80 mmHg",
+    correct_option: "D",
+    explanation: "Rationale: In CHD patients with symptomatic stable angina, the treatment of choice is a beta-blocker or a CCB, with cardio-selective beta-blockers preferred and short-acting nifedipine avoided. The BP target in hypertension with CHD is <130/80 mmHg. A uses a drug to avoid. B and C use the wrong drug or target. Teaching point: Hypertension plus angina: beta-blocker or CCB, target <130/80 mmHg, never short-acting nifedipine.\nReference: Malaysian CPG Management of Hypertension 2018 (5th Ed.), Section 7.3.1.",
+    tag: "CPG Hypertension 2018"
+  },
+  {
+    question_text: "A 64-year-old woman with heart failure and an ejection fraction of 30% is on ramipril, bisoprolol and spironolactone. She is euvolaemic but BP remains 152/90 mmHg. Which additional antihypertensive is most appropriate?",
+    option_a: "Amlodipine",
+    option_b: "Verapamil",
+    option_c: "Diltiazem",
+    option_d: "Moxonidine",
+    correct_option: "A",
+    explanation: "Rationale: If hypertension persists despite ACEI/ARB, aldosterone antagonist and beta-blocker in HFrEF, CCBs that are not negatively inotropic, such as amlodipine and felodipine, can be added (Table 5-C notes evidence for amlodipine and felodipine only). B and C are negatively inotropic non-dihydropyridines. D (moxonidine) has been shown to increase mortality in heart failure and is contraindicated. Teaching point: In HFrEF, the only CCBs to add are amlodipine or felodipine.\nReference: Malaysian CPG Management of Hypertension 2018 (5th Ed.), Section 7.3.2; Table 5-C; Section 9.5.2.",
+    tag: "CPG Hypertension 2018"
+  },
+  {
+    question_text: "A 74-year-old woman who lives independently has repeated clinic BP of 168/84 mmHg and standing BP of 164/82 mmHg. She has mild osteoarthritis and no other co-morbidity. What is the most appropriate initial approach?",
+    option_a: "Start a three-drug single-pill combination",
+    option_b: "No treatment because she is over 70",
+    option_c: "Start monotherapy at a low dose, titrate slowly, review at 2-4 weeks and aim for SBP <140 mmHg",
+    option_d: "Start a beta-blocker and aim for SBP <120 mmHg",
+    correct_option: "C",
+    explanation: "Rationale: In older adults, treat when SBP is >160 mmHg. Therapy should start cautiously with low-dose monotherapy, titrated slowly with review at 2-4 weeks; initiation with combination therapy is not encouraged. The target for 65-80 year olds is <140 mmHg (consider <130 if fit). A ignores the caution against initial combination therapy. B denies proven benefit. D uses an over-aggressive target. Teaching point: Older adults: start low, go slow, monotherapy first; target <140 mmHg at 65-80 years.\nReference: Malaysian CPG Management of Hypertension 2018 (5th Ed.), Section 7.5.3, Table 7.5-A.",
+    tag: "CPG Hypertension 2018"
+  },
+  {
+    question_text: "A 28-year-old woman develops BP of 150/96 mmHg six months after starting a combined oral contraceptive containing ethinyl oestradiol and levonorgestrel. She wishes to continue contraception. What is the most appropriate advice?",
+    option_a: "Continue the same pill and add amlodipine",
+    option_b: "Stop the combined pill and offer an alternative such as a progestogen-only method",
+    option_c: "Switch to a higher-oestrogen pill",
+    option_d: "Stop contraception altogether",
+    correct_option: "B",
+    explanation: "Rationale: A woman who develops hypertension on a combined oral contraceptive should be advised to stop it and offered alternative contraception. The BP rise is nearly always reversible within 4 weeks of stopping. All progestogen-only methods are appropriate unless BP exceeds 160/100 mmHg, and a drospirenone-containing COC is an option for those wishing to continue oral contraception. A and C continue or increase the cause. D removes contraception unnecessarily. Teaching point: Hypertension on the COC: stop it and switch method; progestogen-only methods are fine below 160/100 mmHg.\nReference: Malaysian CPG Management of Hypertension 2018 (5th Ed.), Section 7.6.2.",
+    tag: "CPG Hypertension 2018"
+  },
+  {
+    question_text: "A 54-year-old woman with controlled hypertension on losartan has severe vasomotor symptoms and asks about menopausal hormone therapy. Which statement best reflects the CPG?",
+    option_a: "Hypertension is an absolute contraindication to oestrogen-based therapy",
+    option_b: "MHT lowers cardiovascular events in women aged 50-79",
+    option_c: "BP needs checking only once before starting",
+    option_d: "Hypertension is not a contraindication; monitor BP every six months, with extra caution if conjugated equine oestrogen is used",
+    correct_option: "D",
+    explanation: "Rationale: Hypertension is not a contraindication to oestrogen-based MHT, and all women on MHT should have BP monitored every six months. Two large trials in women aged 50-79 found MHT (conjugated equine oestrogen with or without medroxyprogesterone) increased cardiovascular events, so greater caution is needed with CEE, and B reverses this. Drospirenone as the progestin improved BP control. Teaching point: MHT is allowed in hypertension, with 6-monthly BP checks.\nReference: Malaysian CPG Management of Hypertension 2018 (5th Ed.), Section 7.6.3.",
+    tag: "CPG Hypertension 2018"
+  },
+  {
+    question_text: "A 66-year-old man with hypertension has an ECG showing Mobitz type II second-degree AV block. He also has stable COPD. Which antihypertensive is absolutely contraindicated?",
+    option_a: "Amlodipine",
+    option_b: "Bisoprolol",
+    option_c: "Indapamide",
+    option_d: "Perindopril",
+    correct_option: "B",
+    explanation: "Rationale: Beta-blockers are absolutely contraindicated in uncontrolled asthma, severe peripheral vascular disease and second- or third-degree heart block, and relatively contraindicated in other obstructive airways disease. His Mobitz II block makes bisoprolol absolutely contraindicated. A, C and D are not contraindicated by heart block. Teaching point: Beta-blockers: absolutely contraindicated in 2nd/3rd degree heart block, uncontrolled asthma and severe PVD.\nReference: Malaysian CPG Management of Hypertension 2018 (5th Ed.), Section 9.2.",
+    tag: "CPG Hypertension 2018"
+  },
+  {
+    question_text: "A 70-year-old woman with CKD and eGFR 24 ml/min/1.73 m2 has hypertension and ankle oedema on hydrochlorothiazide 25 mg, amlodipine and losartan. Her BP is 156/88 mmHg. What is the most appropriate change to her diuretic?",
+    option_a: "Increase hydrochlorothiazide to 50 mg daily",
+    option_b: "Add clonidine and stop it abruptly if BP falls",
+    option_c: "Switch from the thiazide to a loop diuretic",
+    option_d: "Add a second thiazide",
+    correct_option: "C",
+    explanation: "Rationale: In CKD with eGFR <30 ml/min/1.73 m2, thiazide diuretics are less effective and a switch to loop diuretics is recommended. Doses of hydrochlorothiazide above 25 mg/day are more likely to cause electrolyte and metabolic adverse effects, so A is wrong. Clonidine is discouraged and must not be withdrawn suddenly because of rebound hypertension, so B is wrong. D adds more of an ineffective class. Teaching point: Below eGFR 30, switch thiazides to a loop diuretic.\nReference: Malaysian CPG Management of Hypertension 2018 (5th Ed.), Sections 9.1 and 9.5.2.",
+    tag: "CPG Hypertension 2018"
   }
 ];
