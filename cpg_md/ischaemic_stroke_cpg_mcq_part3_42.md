@@ -39,8 +39,8 @@ A 55-year-old man with type 2 diabetes and microalbuminuria, but no previous str
 
 A. Continue; BP is at target
 B. Add an ACE inhibitor
-C. Reduce amlodipine
-D. Recheck in 12 months
+C. Add a beta-blocker
+D. Add perindopril plus losartan
 
 **Answer:** B
 
@@ -82,8 +82,8 @@ A 58-year-old man with intermittent claudication confirmed on ABI (0.72) is revi
 **What is the most appropriate lipid management for stroke prevention?**
 
 A. Diet only, as LDL-C is normal
-B. Fish oil supplement
-C. Recheck lipids in 1 year
+B. Fenofibrate 145 mg
+C. Ezetimibe 10 mg alone
 D. Start high-intensity statin
 
 **Answer:** D
@@ -128,7 +128,7 @@ A 66-year-old woman who is fit and independent, with an expected survival well b
 A. Urgent CEA within 2 weeks
 B. Consider elective CEA
 C. Carotid stenting as first choice
-D. Repeat duplex in 5 years only
+D. CEA only if stenosis 90% or more
 
 **Answer:** B
 
@@ -218,7 +218,7 @@ A 61-year-old man is seen 3 weeks after a minor left MCA branch infarct. He has 
 A. No treatment; BP normal
 B. Start an ACE inhibitor
 C. Start atenolol 50 mg
-D. Recheck only at 6 months
+D. Start a thiazide alone
 
 **Answer:** B
 
@@ -303,8 +303,8 @@ A 69-year-old man had 2 hours of right hand weakness and dysphasia 4 days ago, w
 
 **What is the most appropriate timing of revascularisation?**
 
-A. In 8 weeks, as offered
-B. After 3 months of DAPT
+A. Within 6 weeks
+B. Within 4 weeks
 C. Within 2 weeks
 D. Only if symptoms recur
 
@@ -372,7 +372,7 @@ A 71-year-old woman with newly diagnosed AF is admitted with a right MCA infarct
 A. Day 3
 B. Day 6
 C. Delay 1-2 weeks
-D. Never start OAC
+D. Day 12
 
 **Answer:** C
 
@@ -395,7 +395,7 @@ A 76-year-old man with permanent non-valvular AF, hypertension and diabetes has 
 
 A. Continue aspirin
 B. Aspirin plus clopidogrel
-C. Increase aspirin to 300 mg
+C. Aspirin plus rivaroxaban 2.5 mg twice daily
 D. Switch to a DOAC
 
 **Answer:** D
@@ -484,7 +484,7 @@ A 68-year-old woman with AF has a moderate left MCA infarct (NIHSS 10). There is
 A. Aspirin only
 B. Therapeutic enoxaparin
 C. IV unfractionated heparin
-D. No antithrombotic
+D. Clopidogrel load, then DOAC
 
 **Answer:** A
 
@@ -525,10 +525,10 @@ A 70-year-old woman with non-valvular AF (CHA2DS2-VASc 5) had a lobar ICH 3 week
 
 **When should oral anticoagulation be restarted?**
 
-A. Not at all
-B. Immediately
+A. In 1-2 weeks
+B. In 12 weeks
 C. In 4-8 weeks
-D. After 12 months
+D. In 6 months
 
 **Answer:** C
 
@@ -592,8 +592,8 @@ A 67-year-old man has a right parietal cortical infarct and a separate small lef
 **What is the most appropriate next investigation?**
 
 A. 72-hour Holter monitor
-B. Exercise treadmill test
-C. Coronary angiography
+B. Daily 12-lead ECG for a week
+C. Cardiac MRI
 D. Cerebral catheter angiography
 
 **Answer:** A
@@ -771,7 +771,7 @@ A 19-year-old man of African descent has a left MCA infarct. Hb is 78 g/l with a
 
 A. Lifelong warfarin
 B. Aspirin alone
-C. Folic acid alone
+C. Hydroxycarbamide alone
 D. Chronic transfusion
 
 **Answer:** D
@@ -903,10 +903,10 @@ An 88-year-old woman lives independently, walks with a stick and manages her own
 
 **What is the most appropriate management?**
 
-A. Aspirin 300 mg only
+A. IV tenecteplase 0.25 mg/kg
 B. IV alteplase 0.6 mg/kg
 C. IV alteplase 0.9 mg/kg
-D. Palliative care
+D. IV alteplase only if under 85
 
 **Answer:** C
 

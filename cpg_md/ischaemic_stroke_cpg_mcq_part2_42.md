@@ -17,8 +17,8 @@ A 67-year-old woman is found by paramedics at home, confused, with slurred speec
 
 A. 12-lead ECG
 B. Capillary glucose
-C. Aspirin 300 mg
-D. Oxygen via nasal cannula
+C. Blood pressure in both arms
+D. Pupillary light reflexes
 
 **Answer:** B
 
@@ -40,7 +40,7 @@ A 58-year-old man develops sudden left facial droop, left arm weakness and dysar
 A. District hospital, then transfer
 B. Comprehensive stroke centre directly
 C. Stroke-ready hospital, pre-alerted
-D. District hospital for admission only
+D. Stroke-ready hospital, no pre-alert needed
 
 **Answer:** C
 
@@ -83,8 +83,8 @@ A 66-year-old man presents 2 hours after onset of aphasia and right hemiparesis 
 
 A. IV alteplase 0.9 mg/kg
 B. Andexanet, then alteplase
-C. Aspirin 300 mg only
-D. Therapeutic enoxaparin
+C. IV alteplase 0.6 mg/kg
+D. IV tenecteplase 0.25 mg/kg
 
 **Answer:** A
 
@@ -105,8 +105,8 @@ A 63-year-old man is admitted 9 hours after waking with a left MCA infarct. He i
 
 A. Give the aspirin dispersed in water
 B. Formal bedside swallow screen
-C. Defer aspirin for 7 days
-D. Refer for PEG insertion
+C. Defer all antithrombotics until swallow recovers
+D. Videofluoroscopy before any oral intake
 
 **Answer:** B
 
@@ -194,7 +194,7 @@ A 70-year-old man on insulin presents 80 minutes after onset of left hemiparesis
 **What is the most appropriate next step?**
 
 A. Observe for 24 hours as hypoglycaemic hemiplegia
-B. Repeat CT at 24 hours
+B. IV tenecteplase 0.25 mg/kg
 C. IV alteplase
 D. Dual antiplatelet therapy
 
@@ -328,7 +328,7 @@ A 68-year-old man is found by a neighbour with right hemiplegia and global aphas
 A. Wait for the relative's consent
 B. IV alteplase in his best interests
 C. Alteplase 0.6 mg/kg as a compromise
-D. Two-doctor consent, then decide at 4 hours
+D. Proceed with EVT only; IVT needs consent
 
 **Answer:** B
 
@@ -526,7 +526,7 @@ A 69-year-old woman arrives 70 minutes after onset of left hemiplegia, right gaz
 A. CT angiography now
 B. Wait for the creatinine result
 C. MRI with MR angiography
-D. No vessel imaging needed
+D. CTA after creatinine, low-contrast protocol
 
 **Answer:** A
 
@@ -548,9 +548,9 @@ A 57-year-old man at a primary stroke centre receives IV alteplase 90 minutes af
 **What is the most appropriate plan?**
 
 A. Reassess at the end of the infusion
-B. Repeat CTA at 24 hours
+B. Transfer only if NIHSS has not fallen by 4
 C. Transfer now for thrombectomy
-D. Transfer only if NIHSS stays above 10
+D. Transfer if repeat CTA at 1 hour shows occlusion
 
 **Answer:** C
 
@@ -570,7 +570,7 @@ A 78-year-old woman presents 3 hours after onset of left hemiplegia and neglect.
 **Which factor most strongly argues against EVT?**
 
 A. Pre-stroke dependency
-B. Right-hemisphere occlusion
+B. Prior stroke 2 years ago
 C. Age over 75 years
 D. Time from onset
 
@@ -594,7 +594,7 @@ An 83-year-old man was last seen well 11 hours ago. He has right hemiplegia and 
 A. Endovascular thrombectomy
 B. IV alteplase alone
 C. Antiplatelet and stroke-unit care
-D. Repeat perfusion imaging at 24 hours
+D. EVT only if age under 80
 
 **Answer:** A
 
@@ -615,7 +615,7 @@ A 66-year-old woman presents 9 hours after onset of left hemiplegia (NIHSS 14). 
 
 A. Antiplatelet therapy only
 B. IV alteplase only
-C. Decompressive craniectomy
+C. EVT only if NIHSS 20 or more
 D. Endovascular thrombectomy
 
 **Answer:** D
@@ -681,8 +681,8 @@ A 64-year-old woman with a left M1 occlusion is transferred to the angiography s
 
 A. Procedural sedation
 B. Rapid sequence intubation
-C. Spinal anaesthesia
-D. Laryngeal mask anaesthesia
+C. Local anaesthetic only, no sedation
+D. General anaesthesia, extubate on the table
 
 **Answer:** A
 
@@ -816,7 +816,7 @@ A 56-year-old man weighing 70 kg has a large right MCA infarct. On day 2 he beco
 A. Mannitol 0.25-0.5 g/kg over 20 min
 B. Dexamethasone 10 mg IV
 C. Mannitol 2 g/kg as a single rapid bolus
-D. Hypotonic IV fluids
+D. Acetazolamide 500 mg IV
 
 **Answer:** A
 
@@ -859,7 +859,7 @@ A 64-year-old man who was independent before (mRS 0) has a complete left MCA inf
 
 A. Decompressive hemicraniectomy
 B. Mannitol alone
-C. Palliative care, as he is over 60
+C. Hemicraniectomy only if under 60
 D. Delay surgery until 72 hours
 
 **Answer:** A
