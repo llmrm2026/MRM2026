@@ -663,3 +663,223 @@ D. Stop metformin; increase glimepiride
 **Teaching point:** Inpatient with poor intake and AKI: stop OGLDs and use basal-plus insulin. Never use a sliding scale alone.
 
 **Reference:** CPG Section 6.1 (Management of T2DM in acute illness).
+
+---
+
+### Q31
+**Topic:** Premixed insulin in Ramadan
+
+A 55-year-old man with T2DM takes premixed insulin 30/70: 24 U before breakfast and 16 U before dinner. HbA1c is 7.2%. After a pre-Ramadan assessment he is judged at moderate risk and plans to fast.
+
+**What is the most appropriate insulin adjustment?**
+
+A. 24 U at Iftar; 16 U reduced by 20-50% at Sahur
+B. 16 U at Iftar; 24 U at Sahur
+C. 24 U at Iftar; 16 U unchanged at Sahur
+D. 40 U once daily at Sahur
+
+**Answer:** A
+
+**Explanation:** For twice-daily premixed insulin, the doses are reversed: the usual morning dose is given at Iftar, and the evening dose at Sahur, reduced by 20-50% to prevent daytime hypoglycaemia (or a switch to short- or rapid-acting insulin). Giving the larger dose at Sahur, or not reducing the Sahur dose, exposes him to hypoglycaemia late in the fast. A single large Sahur dose is worse still.
+
+**Teaching point:** Premixed BD in Ramadan: morning dose at Iftar, and the evening dose at Sahur reduced by 20-50%.
+
+**Reference:** CPG Section 6.4, Table 6-6.
+
+---
+
+### Q32
+**Topic:** When to break the fast
+
+A 61-year-old woman on gliclazide MR 60 mg and metformin is fasting in Ramadan. Two hours after Imsak (dawn) she feels slightly shaky. Capillary glucose is 3.7 mmol/l. She would like to complete the fast if possible.
+
+**What is the most appropriate advice?**
+
+A. Continue; break only if below 3.3
+B. Continue; recheck in 1 hour
+C. Break the fast now
+D. Continue; take dates at Iftar
+
+**Answer:** C
+
+**Explanation:** The CPG's criteria for ending a fast are: glucose below 3.3 mmol/l at any time; glucose below 3.9 mmol/l within the first few hours of fasting, especially in those on SUs, meglitinides or insulin; glucose above 16.7 mmol/l or dehydration; or hypoglycaemic symptoms when SMBG is not available. She is on a sulphonylurea, early in the fast, with glucose below 3.9 mmol/l, so she must break the fast. The 3.3 threshold applies "at any time", which is the near-miss.
+
+**Teaching point:** Early in the fast on an SU or insulin, glucose below 3.9 mmol/l means break the fast.
+
+**Reference:** CPG Section 6.4, Table 6-3.
+
+---
+
+### Q33
+**Topic:** Sulphonylurea in Ramadan
+
+A 58-year-old man takes metformin 1 g twice daily and gliclazide MR 90 mg each morning. HbA1c is 7.0%. He is moderate risk and intends to fast.
+
+**What is the most appropriate change to his gliclazide MR?**
+
+A. Take at Iftar; consider a dose reduction
+B. Take at Sahur, same dose
+C. Split between Sahur and Iftar
+D. Stop for the whole month
+
+**Answer:** A
+
+**Explanation:** Under the CPG's Ramadan adjustment table, gliclazide MR (and glimepiride) is switched to Iftar and the dose may need to be reduced. Taking a long-acting SU at Sahur puts its peak in the fasting day, when hypoglycaemia risk is highest. Splitting the dose is not the recommended approach. Stopping it is unnecessary at moderate risk. Metformin needs no change.
+
+**Teaching point:** In Ramadan, move gliclazide MR or glimepiride to Iftar and consider reducing the dose. Metformin is unchanged.
+
+**Reference:** CPG Section 6.4, Table 6-5.
+
+---
+
+### Q34
+**Topic:** Basal insulin in Ramadan
+
+A 50-year-old woman uses glargine 30 U at 07:00, with metformin. HbA1c is 6.6% and she has occasional pre-lunch readings of 4.2 mmol/l. She is moderate risk and plans to fast.
+
+**What is the most appropriate glargine adjustment?**
+
+A. Same dose at Sahur
+B. Same dose after Iftar
+C. Reduce 50%, give at Sahur
+D. Reduce 15-30%, give after Iftar
+
+**Answer:** D
+
+**Explanation:** For basal insulin only, the dose is taken at bedtime or after Iftar. Patients who are well or tightly controlled should reduce the dose by 15-30% to avoid daytime hypoglycaemia. She is tightly controlled with low pre-lunch readings, so the dose should be both moved and reduced. Giving it at Sahur puts the most insulin into the fasting hours. A 50% cut is excessive.
+
+**Teaching point:** Basal insulin in Ramadan: give after Iftar or at bedtime, reduced by 15-30% if tightly controlled.
+
+**Reference:** CPG Section 6.4, Table 6-6.
+
+---
+
+### Q35
+**Topic:** Steroid-induced hyperglycaemia
+
+A 66-year-old man with T2DM on metformin is started on prednisolone 40 mg each morning for a COPD exacerbation. Over 2 days his fasting glucose is 6.5-7.5 mmol/l, but readings at 16:00 and 20:00 are 16-19 mmol/l. He is eating normally.
+
+**What is the most appropriate insulin regimen?**
+
+A. Morning NPH insulin
+B. Bedtime glargine
+C. Correction (sliding-scale) insulin only
+D. Pre-breakfast rapid-acting insulin
+
+**Answer:** A
+
+**Explanation:** Morning prednisolone causes afternoon and evening hyperglycaemia with near-normal fasting values. The CPG options for glucocorticoid-related hyperglycaemia include bolus plus NPH given in the morning (or twice daily), basal-bolus, or VRIII. Morning NPH matches the steroid profile. Bedtime glargine mainly lowers fasting glucose, which is already acceptable, and risks nocturnal hypoglycaemia. Sliding scale alone is discouraged. A single pre-breakfast rapid-acting dose wanes before the afternoon peak.
+
+**Teaching point:** Morning steroids cause afternoon hyperglycaemia. Morning NPH matches that profile.
+
+**Reference:** CPG Section 6.1 (Patients receiving corticosteroid therapy).
+
+---
+
+### Q36
+**Topic:** Perioperative glucose target
+
+A 63-year-old woman with T2DM on basal insulin and metformin is having an elective hemicolectomy. The anaesthetist asks what plasma glucose range to aim for during the perioperative period, while she is on VRIII.
+
+**What target does the CPG recommend?**
+
+A. 4.4-7.0 mmol/l
+B. 6.0-10.0 mmol/l
+C. 7.8-10.0 mmol/l
+D. 8.0-12.0 mmol/l
+
+**Answer:** B
+
+**Explanation:** The surgical target is 6.0-10.0 mmol/l, with OGLDs stopped and replaced by basal-plus insulin or VRIII during fasting. 7.8-10.0 mmol/l is the target for general critically ill and non-critically ill inpatients, which is the near-miss. 4.4-7.0 mmol/l is the outpatient fasting target. 8-12 mmol/l is the post-DKA maintenance range.
+
+**Teaching point:** Glucose targets: surgery 6-10, inpatients 7.8-10, outpatients fasting 4.4-7.0 mmol/l.
+
+**Reference:** CPG Section 6.1 (In surgery).
+
+---
+
+### Q37
+**Topic:** OGTT in an adolescent
+
+A 13-year-old girl weighing 40 kg has acanthosis nigricans, a mother with T2DM, and fasting glucose of 6.4 mmol/l. An OGTT is planned.
+
+**What glucose load should she receive?**
+
+A. 75 g
+B. 70 g
+C. 52.5 g
+D. 35 g
+
+**Answer:** B
+
+**Explanation:** For adolescents, the OGTT glucose load is 1.75 g/kg up to a maximum of 75 g: 1.75 × 40 = 70 g. 75 g is the adult (maximum) dose. 52.5 g and 35 g come from wrong multipliers (1.3 and 0.875 g/kg).
+
+**Teaching point:** Paediatric OGTT: 1.75 g/kg, maximum 75 g.
+
+**Reference:** CPG Section 6.2 (Recommendations: T2DM in adolescents).
+
+---
+
+### Q38
+**Topic:** Screening a child at risk
+
+A 9-year-old girl with obesity (BMI above the 97th centile) has a father with T2DM. She began puberty at 8 years 6 months. A fasting glucose done today is normal.
+
+**When should she be screened for diabetes from now on?**
+
+A. Annually from age 10
+B. Every 3 years from age 12
+C. Annually from now
+D. Every 2 years from now
+
+**Answer:** D
+
+**Explanation:** For at-risk children, screening starts at 10 years of age, or at the onset of puberty if that is earlier, and is repeated every 2 years. She entered puberty before 10, so screening starts now and repeats every 2 years. The adult rule (annual screening with risk factors) is the near-miss.
+
+**Teaching point:** At-risk children: screen from age 10 or puberty, whichever is earlier, every 2 years.
+
+**Reference:** CPG Section 6.2.
+
+---
+
+### Q39
+**Topic:** Prediabetes despite lifestyle change
+
+A 41-year-old woman who had gestational diabetes 3 years ago has impaired glucose tolerance on OGTT (2-hour glucose 9.4 mmol/l). She completed a 6-month structured lifestyle programme but lost only 2% of her body weight, and a repeat OGTT is unchanged. BMI is 31 kg/m2 and eGFR is normal.
+
+**What is the most appropriate next step?**
+
+A. Start metformin
+B. Continue lifestyle change alone
+C. Start acarbose
+D. Start vitamin D
+
+**Answer:** A
+
+**Explanation:** Metformin should be considered for people at very high risk: prediabetes, previous GDM, or failure of lifestyle therapy after 6 months. She has all three. Lifestyle change remains the mainstay (target weight loss of at least 7%), but she has not responded. Acarbose reduced progression from IGT by 23%, but metformin is the CPG choice. Vitamin D did not slow progression.
+
+**Teaching point:** Previous GDM, prediabetes or lifestyle failure at 6 months means adding metformin for prevention.
+
+**Reference:** CPG Section 7 (Recommendations: Prevention of T2DM); Section 8.1.
+
+---
+
+### Q40
+**Topic:** Fatty liver with an uncertain fibrosis score
+
+A 54-year-old man with T2DM has ALT 68 U/l and AST 52 U/l. Ultrasound shows a fatty liver with no focal lesion. Viral, autoimmune and iron studies are negative and he drinks no alcohol. Platelets are 168 x10^9/l. His FIB-4 score is in the indeterminate range.
+
+**What is the most appropriate next step?**
+
+A. Liver biopsy
+B. Repeat ALT in 1 year
+C. Liver stiffness measurement
+D. Start pioglitazone
+
+**Answer:** C
+
+**Explanation:** For patients with indeterminate or high serum fibrosis markers, the CPG advises referral for liver stiffness measurement. Biopsy may be considered for a definitive diagnosis later, but it is not the next step. Annual repeat ALT ignores possible advanced fibrosis. For suspected NASH, the CPG favours a GLP1-RA and/or SGLT2 inhibitor, alongside lifestyle intervention as the mainstay.
+
+**Teaching point:** NAFLD with indeterminate fibrosis markers: elastography next.
+
+**Reference:** CPG Section 3.9.4 (Recommendations: Assessment and treatment of NAFLD).
