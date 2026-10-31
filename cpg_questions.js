@@ -1312,5 +1312,505 @@ const cpgBank = [
     correct_option: "B",
     explanation: "Rationale: Oxygen saturation of ≥94% should be maintained in hypoxic asthma patients, and in the ED high-flow nasal cannula should be considered over conventional oxygen therapy (better comfort and dyspnoea scores). A is uncontrolled oxygen. C is wrong because hypoxaemia must be corrected. D is premature because she is alert and has not yet failed maximal therapy.\nReference: Malaysian CPG Management of Asthma in Adults 2024 (2nd Ed.), CPG Section 7.2(i); Recommendation 9.",
     tag: "CPG Asthma 2024"
+  },
+  {
+    question_text: "A 58-year-old man has just been diagnosed with type 2 diabetes mellitus. He has no foot symptoms and has never had his feet examined. Which is the most appropriate plan for foot screening?",
+    option_a: "Screen for peripheral neuropathy and PAD now, then repeat at least annually",
+    option_b: "Screen only when he reports numbness or pain in the feet",
+    option_c: "Screen for neuropathy now, and for PAD only after five years of diabetes",
+    option_d: "Screen now, then every three years if the first examination is normal",
+    correct_option: "A",
+    explanation: "Rationale: Recommendation 1 states that screening for diabetic peripheral neuropathy and PAD is done in all patients at diagnosis and repeated at least annually. About half of patients with peripheral neuropathy are asymptomatic, so waiting for symptoms (B) misses many at-risk feet. C delays PAD screening and D lengthens the interval; neither is in the CPG.\nReference: Malaysian CPG Management of Diabetic Foot 2018 (2nd Ed.), Section 2.1; Recommendation 1.",
+    tag: "CPG Diabetic Foot 2018"
+  },
+  {
+    question_text: "A practice nurse screens a 61-year-old woman with diabetes for peripheral neuropathy using a 10-g monofilament. She is considering whether the monofilament is enough on its own. Which is the most appropriate approach according to the CPG?",
+    option_a: "Use the monofilament alone because it is widely available and easy to perform",
+    option_b: "Combine the monofilament with the ankle brachial index",
+    option_c: "Combine the monofilament with pin prick or a 128-Hz tuning fork",
+    option_d: "Replace the monofilament with a Neuropad test",
+    correct_option: "C",
+    explanation: "Rationale: The CPG recommends combining the Semmes-Weinstein monofilament with another modality (pin prick or 128-Hz tuning fork), which increases the sensitivity of detecting neuropathy. Alone, the monofilament has only moderate pooled sensitivity (0.53) against nerve conduction studies, so A is inadequate. B uses a vascular test for a neurological question. D is not recommended as a replacement.\nReference: Malaysian CPG Management of Diabetic Foot 2018 (2nd Ed.), Section 2.1(a); Recommendation 1.",
+    tag: "CPG Diabetic Foot 2018"
+  },
+  {
+    question_text: "A 64-year-old woman has had type 2 diabetes for 12 years and attends her annual review. She has no claudication. Which is the recommended initial screening method for peripheral arterial disease?",
+    option_a: "Toe brachial index",
+    option_b: "Palpation of foot pulses",
+    option_c: "Colour flow duplex ultrasound",
+    option_d: "Ankle brachial index",
+    correct_option: "B",
+    explanation: "Rationale: Recommendation 1 states that palpation of foot pulses should be the initial screening method for PAD, as part of a history and complete physical examination. ABI, TBI and continuous wave Doppler are bedside tests used to exclude PAD; colour flow duplex is the reference standard in diagnostic studies, not the screening tool.\nReference: Malaysian CPG Management of Diabetic Foot 2018 (2nd Ed.), Section 2.1(b); Recommendation 1.",
+    tag: "CPG Diabetic Foot 2018"
+  },
+  {
+    question_text: "A house officer examines the feet of a 67-year-old man with diabetes and records only the dorsalis pedis pulses. According to the CPG, which pulses must be palpated as part of the vascular assessment?",
+    option_a: "Dorsalis pedis and posterior tibial only",
+    option_b: "Popliteal and dorsalis pedis only",
+    option_c: "Femoral and posterior tibial only",
+    option_d: "Femoral, popliteal, posterior tibial and dorsalis pedis",
+    correct_option: "D",
+    explanation: "Rationale: The CPG states that vascular assessment includes mandatory palpation of the femoral, popliteal, posterior tibial and dorsalis pedis pulses. A, B and C each omit one or two of these four.\nReference: Malaysian CPG Management of Diabetic Foot 2018 (2nd Ed.), Section 2.2(b), Vascular.",
+    tag: "CPG Diabetic Foot 2018"
+  },
+  {
+    question_text: "A diabetic foot clinic nurse uses bedside tests to look for PAD in four patients. Which single result allows PAD to be excluded according to the CPG?",
+    option_a: "Toe brachial index of 0.80",
+    option_b: "Ankle brachial index of 0.85",
+    option_c: "Ankle brachial index of 1.45",
+    option_d: "Biphasic pedal Doppler arterial waveform",
+    correct_option: "A",
+    explanation: "Rationale: PAD can be excluded when ABI is 0.9 to 1.3, TBI is 0.75 or more, or pedal Doppler waveforms are triphasic. A meets the TBI criterion. B is below 0.9. C is above 1.3, which suggests incompressible calcified vessels and cannot exclude PAD. D is biphasic, not triphasic.\nReference: Malaysian CPG Management of Diabetic Foot 2018 (2nd Ed.), Section 2.1(b).",
+    tag: "CPG Diabetic Foot 2018"
+  },
+  {
+    question_text: "A 70-year-old man with long-standing diabetes and chronic kidney disease has a cold right foot and absent pedal pulses. His ankle brachial index is 1.4. Which statement is most accurate?",
+    option_a: "An ABI of 1.4 confirms normal arterial perfusion",
+    option_b: "Arterial calcification may falsely raise the ABI, so PAD is not excluded",
+    option_c: "ABI is more sensitive than continuous wave Doppler for detecting PAD",
+    option_d: "An ABI above 1.3 defines critical limb ischaemia",
+    correct_option: "B",
+    explanation: "Rationale: The CPG warns that ABI may be misleading because arterial calcification gives a higher pressure ratio; the normal range is 0.9 to 1.3. His absent pulses and cold foot mean PAD is still likely. Against colour flow duplex, continuous wave Doppler had higher sensitivity (74.19%) than ABI (45.16%), so C is wrong. Critical limb ischaemia is a clinical definition (rest pain with ulcer or tissue loss), not an ABI cut-off.\nReference: Malaysian CPG Management of Diabetic Foot 2018 (2nd Ed.), Section 2.2(b), Vascular.",
+    tag: "CPG Diabetic Foot 2018"
+  },
+  {
+    question_text: "A nurse applies an indicator pad to both soles of a 55-year-old man at the level of the first and second metatarsal heads. The colour takes 14 minutes to change from blue to uniform pink. What does this result indicate?",
+    option_a: "Loss of vibration sense",
+    option_b: "Loss of protective sensation",
+    option_c: "Large fibre neuropathy",
+    option_d: "Sudomotor dysfunction",
+    correct_option: "D",
+    explanation: "Rationale: With Neuropad, a colour change taking more than 10 minutes indicates sudomotor dysfunction, a small fibre autonomic abnormality. Vibration sense is tested with a 128-Hz tuning fork or VibraTip (A). Loss of protective sensation is shown by the monofilament or Ipswich Touch Test (B). Large fibre involvement affects touch, vibration and position sense (C).\nReference: Malaysian CPG Management of Diabetic Foot 2018 (2nd Ed.), Section 2.1(a), Neuropad.",
+    tag: "CPG Diabetic Foot 2018"
+  },
+  {
+    question_text: "A caregiver is taught the Ipswich Touch Test to screen a patient at home. The tip of the index finger is lightly touched for 1 to 2 seconds on the tips of the first, third and fifth toes of both feet. How many insensate sites out of six define loss of protective sensation?",
+    option_a: "One or more",
+    option_b: "Three or more",
+    option_c: "Two or more",
+    option_d: "All six",
+    correct_option: "C",
+    explanation: "Rationale: The presence of LOPS on the Ipswich Touch Test is defined as two or more insensate sites out of the six. Accuracy is comparable to the monofilament, and caregivers can perform it (sensitivity 78.3%, specificity 93.9%). One site would over-call and three or six would miss at-risk feet.\nReference: Malaysian CPG Management of Diabetic Foot 2018 (2nd Ed.), Section 2.1(a), Ipswich Touch Test.",
+    tag: "CPG Diabetic Foot 2018"
+  },
+  {
+    question_text: "A foot clinic reviews predictors of ulceration in patients with diabetes. All of the following are associated with foot ulceration. Which has the strongest association (highest odds ratio)?",
+    option_a: "Longer duration of diabetes",
+    option_b: "Previous ulceration or lower extremity amputation",
+    option_c: "At least one absent pedal pulse",
+    option_d: "Inability to feel a 10-g monofilament",
+    correct_option: "B",
+    explanation: "Rationale: The reported odds ratios are 6.59 for previous ulceration or amputation, 3.18 for inability to feel the 10-g monofilament, 1.97 for at least one absent pedal pulse, and 1.02 for longer duration of diabetes. All four are genuine predictors, but a previous ulcer or amputation is strongest.\nReference: Malaysian CPG Management of Diabetic Foot 2018 (2nd Ed.), Section 2.2(a).",
+    tag: "CPG Diabetic Foot 2018"
+  },
+  {
+    question_text: "A 55-year-old man has an infected deep plantar ulcer. A sterile blunt metal probe touches a hard, gritty substance at the base of the wound. Which statement about the probe-to-bone test is most accurate?",
+    option_a: "A positive test is a useful clinical indicator of osteomyelitis",
+    option_b: "A negative test excludes osteomyelitis",
+    option_c: "The test is only valid if the ESR is raised",
+    option_d: "A positive test indicates acute Charcot neuroarthropathy",
+    correct_option: "A",
+    explanation: "Rationale: A positive probe-to-bone test (palpating hard, gritty bone or joint) is a useful modality for assessing osteomyelitis, with sensitivity 87% and specificity 83% against MRI, histopathology or culture. B is wrong because the CPG notes osteomyelitis may be present despite normal inflammatory markers, plain radiographs or probe-to-bone testing. C and D have no basis in the CPG.\nReference: Malaysian CPG Management of Diabetic Foot 2018 (2nd Ed.), Section 2.2(b), Musculoskeletal; Section 2.3(b).",
+    tag: "CPG Diabetic Foot 2018"
+  },
+  {
+    question_text: "A 60-year-old man has had an infected forefoot ulcer for five days. The plain radiograph is normal and the clinician is considering osteomyelitis. Which statement is most accurate?",
+    option_a: "A normal radiograph excludes osteomyelitis",
+    option_b: "Radiographic features of osteomyelitis appear within 48 hours",
+    option_c: "Osteomyelitis cannot coexist with normal inflammatory markers",
+    option_d: "Radiographic features may not appear until 10 to 21 days after the initial infection",
+    correct_option: "D",
+    explanation: "Rationale: Features of osteomyelitis may not be visible on plain radiographs until 10 to 21 days after the initial infection, so a normal film at day 5 does not exclude it. The CPG also notes osteomyelitis may be present despite normal inflammatory markers, radiographs or probe-to-bone testing, which rules out A and C.\nReference: Malaysian CPG Management of Diabetic Foot 2018 (2nd Ed.), Section 2.3(b), Conventional radiography.",
+    tag: "CPG Diabetic Foot 2018"
+  },
+  {
+    question_text: "A 63-year-old woman has a chronic heel ulcer with persistent clinical suspicion of osteomyelitis. The plain radiograph shows no abnormality. Which is the most appropriate next imaging modality?",
+    option_a: "Computed tomography",
+    option_b: "Radiolabelled white blood cell scintigraphy",
+    option_c: "Magnetic resonance imaging",
+    option_d: "PET scan",
+    correct_option: "C",
+    explanation: "Rationale: MRI is the primary imaging modality for infection in diabetic foot and can be considered when osteomyelitis is not detected on plain radiograph (sensitivity 93%, specificity 75%). CT has no significant advantage over plain radiographs and cannot detect early marrow oedema. Scintigraphy and PET are other modalities but PET has limited use due to cost and availability.\nReference: Malaysian CPG Management of Diabetic Foot 2018 (2nd Ed.), Section 2.3(b), Magnetic resonance imaging and Others.",
+    tag: "CPG Diabetic Foot 2018"
+  },
+  {
+    question_text: "A 59-year-old man has a long-standing discharging sinus over the midfoot. A radiologist asks what role CT would play. For which purpose is CT most useful in diabetic foot osteomyelitis?",
+    option_a: "Demonstrating sequestrum, cloaca and involucrum in chronic osteomyelitis",
+    option_b: "Detecting bone marrow oedema at an early stage of infection",
+    option_c: "Serving as the primary imaging modality for infection",
+    option_d: "Differentiating Charcot neuroarthropathy from osteomyelitis",
+    correct_option: "A",
+    explanation: "Rationale: CT is useful in chronic osteomyelitis because sequestrum, cloaca and involucrum can be seen. It cannot detect early bone marrow oedema (B), MRI is the primary modality for infection (C), and CT has no additional value over conventional radiography in diagnosing Charcot neuroarthropathy (D).\nReference: Malaysian CPG Management of Diabetic Foot 2018 (2nd Ed.), Section 2.3(b), Computed tomography; Section 7.",
+    tag: "CPG Diabetic Foot 2018"
+  },
+  {
+    question_text: "A 68-year-old man with diabetes has rest pain in his left foot and a non-healing ulcer on the heel. Foot pulses are absent. The ulcer is attributed to arterial occlusive disease. Which is the most appropriate classification and action?",
+    option_a: "Non-critical limb ischaemia; refer within three months to foot protection services",
+    option_b: "Neuropathic ulcer; manage by the foot protection team in the community",
+    option_c: "Charcot neuroarthropathy; immobilise and review in two weeks",
+    option_d: "Critical limb ischaemia; urgent referral to specialist care",
+    correct_option: "D",
+    explanation: "Rationale: Critical limb ischaemia is defined as rest pain with ulcers or tissue loss attributed to arterial occlusive disease, and these patients should be referred urgently to specialist care. It is an active diabetic foot problem, with urgent referral within 24 hours to the multidisciplinary foot care team. A and B undertriage; C does not fit the picture.\nReference: Malaysian CPG Management of Diabetic Foot 2018 (2nd Ed.), Section 2.2(b), Vascular; Section 3, Table 2.",
+    tag: "CPG Diabetic Foot 2018"
+  },
+  {
+    question_text: "A 66-year-old man has shiny, thin skin over the dorsum of both feet, atrophic nails, absent pedal hair, cool skin and prolonged capillary refill. Which is the most likely underlying cause?",
+    option_a: "Autonomic neuropathy",
+    option_b: "Peripheral arterial disease",
+    option_c: "Charcot neuroarthropathy",
+    option_d: "Osteomyelitis",
+    correct_option: "B",
+    explanation: "Rationale: Skin atrophy, nail atrophy, diminished pedal hair, prolonged capillary refill and reduced skin temperature are skin changes due to vascular insufficiency. Autonomic neuropathy causes dry skin and loss of sweating but not hair and nail atrophy with cooling, Charcot foot is warm and swollen, and osteomyelitis does not produce this picture.\nReference: Malaysian CPG Management of Diabetic Foot 2018 (2nd Ed.), Section 2.2(b), Skin.",
+    tag: "CPG Diabetic Foot 2018"
+  },
+  {
+    question_text: "A 57-year-old woman cannot feel the 10-g monofilament or the 128-Hz tuning fork on her toes. Pin prick and temperature sensation are preserved. Which nerve fibres are most likely affected?",
+    option_a: "Small fibres only",
+    option_b: "Autonomic fibres only",
+    option_c: "Large fibres",
+    option_d: "Motor neurones only",
+    correct_option: "C",
+    explanation: "Rationale: Large fibre nerves mediate touch, vibration, position perception and muscle control, so loss of monofilament and vibration sensation points to large fibre involvement. Small fibres mediate thermal perception, pain and autonomic function, and these are preserved here.\nReference: Malaysian CPG Management of Diabetic Foot 2018 (2nd Ed.), Section 2.1(a).",
+    tag: "CPG Diabetic Foot 2018"
+  },
+  {
+    question_text: "A 62-year-old woman with diabetes has loss of protective sensation and a plantar callus under the second metatarsal head. She has never had an ulcer, her pulses are palpable and she has no deformity. Which risk category does she belong to?",
+    option_a: "Low risk",
+    option_b: "High risk",
+    option_c: "Moderate risk",
+    option_d: "Active diabetic foot problem",
+    correct_option: "B",
+    explanation: "Rationale: Neuropathy with callus and/or deformity is high risk in Table 1. Neuropathy alone would be moderate risk, and callus alone would be low risk, so C and A are the traps. She has no ulcer, infection, critical ischaemia or gangrene, so D is wrong.\nReference: Malaysian CPG Management of Diabetic Foot 2018 (2nd Ed.), Section 2.4, Table 1.",
+    tag: "CPG Diabetic Foot 2018"
+  },
+  {
+    question_text: "A 48-year-old man with diabetes is on haemodialysis. His monofilament test is normal, pulses are palpable, there is no callus or deformity, and he has never had an ulcer or amputation. Which risk category does he belong to?",
+    option_a: "Normal",
+    option_b: "Low risk",
+    option_c: "Moderate risk",
+    option_d: "High risk",
+    correct_option: "D",
+    explanation: "Rationale: Being on renal replacement therapy places a patient in the high risk category in Table 1, even without other findings. Normal means no abnormalities, low risk requires callus alone, and moderate risk requires deformity, neuropathy or non-critical limb ischaemia.\nReference: Malaysian CPG Management of Diabetic Foot 2018 (2nd Ed.), Section 2.4, Table 1; Algorithm A.",
+    tag: "CPG Diabetic Foot 2018"
+  },
+  {
+    question_text: "A 55-year-old woman has loss of protective sensation on monofilament testing. She has no deformity, no history of ulcer, and palpable pulses. What is the recommended referral?",
+    option_a: "Urgent referral within 24 hours to the multidisciplinary foot care team",
+    option_b: "Early referral within two weeks to foot protection services",
+    option_c: "Referral within three months to foot protection services",
+    option_d: "No referral; yearly review in primary care",
+    correct_option: "C",
+    explanation: "Rationale: Neuropathy alone is moderate risk, and the recommended referral for moderate risk is within three months to foot protection services. A is for active problems, B for high risk, and D for normal or low risk.\nReference: Malaysian CPG Management of Diabetic Foot 2018 (2nd Ed.), Section 3, Table 2; Section 2.4, Table 1.",
+    tag: "CPG Diabetic Foot 2018"
+  },
+  {
+    question_text: "A 60-year-old man had a plantar ulcer that healed six months ago. His foot is currently intact, with no signs of infection. What is the recommended referral?",
+    option_a: "Early referral within two weeks to foot protection services",
+    option_b: "Urgent referral within 24 hours to the multidisciplinary foot care team",
+    option_c: "Referral within three months to foot protection services",
+    option_d: "No referral; yearly review in primary care",
+    correct_option: "A",
+    explanation: "Rationale: A previous ulceration makes him high risk, and high risk patients should be referred early, within two weeks, to foot protection services. B applies to an active diabetic foot problem. C applies to moderate risk and D to normal or low risk.\nReference: Malaysian CPG Management of Diabetic Foot 2018 (2nd Ed.), Section 3, Table 2; Algorithm A.",
+    tag: "CPG Diabetic Foot 2018"
+  },
+  {
+    question_text: "A 56-year-old man with type 2 diabetes and profound neuropathy presents with a unilateral hot, red, swollen foot. He is afebrile and a general practitioner has diagnosed cellulitis. How should this presentation be categorised and managed?",
+    option_a: "High risk foot; referral within two weeks to foot protection services",
+    option_b: "Active diabetic foot problem; urgent referral to be seen within 24 hours in secondary or tertiary care",
+    option_c: "Moderate risk foot; referral within three months",
+    option_d: "Mild infection; oral antibiotics in primary care for 1 to 2 weeks",
+    correct_option: "B",
+    explanation: "Rationale: An unexplained hot, red, swollen foot, with or without pain, or suspected acute Charcot neuroarthropathy, is an active diabetic foot problem. These patients should be referred urgently and seen within 24 hours by the multidisciplinary foot care team, which in hospital is led by an orthopaedic surgeon and/or physician and includes rehabilitation physicians. Charcot is easily mistaken for cellulitis, so D is the trap.\nReference: Malaysian CPG Management of Diabetic Foot 2018 (2nd Ed.), Section 2.4, Table 1; Section 3; Algorithm A.",
+    tag: "CPG Diabetic Foot 2018"
+  },
+  {
+    question_text: "A 59-year-old man is classed as high risk after a healed ulcer last year. At his current visit there is no immediate concern about his feet. How often should he be monitored?",
+    option_a: "Annually",
+    option_b: "Every 3 to 6 months",
+    option_c: "Every 1 to 2 weeks",
+    option_d: "Every 1 to 2 months",
+    correct_option: "D",
+    explanation: "Rationale: Recommended monitoring is annually for low risk, every 3 to 6 months for moderate risk, every 1 to 2 months for high risk with no immediate concern, and every 1 to 2 weeks for high risk with immediate concern.\nReference: Malaysian CPG Management of Diabetic Foot 2018 (2nd Ed.), Section 6.",
+    tag: "CPG Diabetic Foot 2018"
+  },
+  {
+    question_text: "A 64-year-old man has a plantar ulcer with purulent discharge. Probing reaches the tendon but not bone or joint. Pedal pulses are palpable. What is the University of Texas classification and the appropriate pathway?",
+    option_a: "UT IB; oral antibiotics and outpatient foot protection services",
+    option_b: "UT IIA; outpatient dressings by foot protection services",
+    option_c: "UT IIB; refer to the multidisciplinary foot care team",
+    option_d: "UT IIIB; refer to the multidisciplinary foot care team",
+    correct_option: "C",
+    explanation: "Rationale: Grade II is a wound penetrating to tendon or capsule, and stage B is infection, so this is UT IIB, a deep ulcer likely to need surgical intervention, which is referred to the multidisciplinary foot care team. A understates the depth. B ignores infection. D would require bone or joint involvement.\nReference: Malaysian CPG Management of Diabetic Foot 2018 (2nd Ed.), Section 2.5; Appendix 5; Algorithm B.",
+    tag: "CPG Diabetic Foot 2018"
+  },
+  {
+    question_text: "A 70-year-old woman has a superficial plantar ulcer that does not involve tendon, capsule or bone. There are no signs of infection but her pedal pulses are not palpable. What is the University of Texas classification and the appropriate pathway?",
+    option_a: "UT IC; refer to the multidisciplinary foot care team",
+    option_b: "UT IA; manage as outpatient by foot protection services",
+    option_c: "UT IB; oral antibiotics",
+    option_d: "UT 0; foot care education and yearly screening",
+    correct_option: "A",
+    explanation: "Rationale: A superficial wound is grade I, and ischaemia makes it stage C, so this is UT IC. Ulcers with ischaemia (IC, IIC, IIIC) go to the multidisciplinary foot care team. B misses the ischaemia, C wrongly assumes infection, and D is for an epithelialised lesion without an open ulcer.\nReference: Malaysian CPG Management of Diabetic Foot 2018 (2nd Ed.), Section 2.5; Appendix 5; Algorithm B.",
+    tag: "CPG Diabetic Foot 2018"
+  },
+  {
+    question_text: "A hospital is choosing one classification system for all diabetic foot ulcers. The committee notes that Meggitt-Wagner and University of Texas are the simplest to use. Which system does the CPG prefer, and why?",
+    option_a: "Meggitt-Wagner, because it is the simplest",
+    option_b: "PEDIS, because it has the highest inter-observer reliability",
+    option_c: "SINBAD, because it includes the most variables",
+    option_d: "University of Texas, because including stage makes it a better predictor of outcome",
+    correct_option: "D",
+    explanation: "Rationale: Recommendation 2 prefers the University of Texas classification. Both UT and MW are simple and easy to use, but including stage (infection, ischaemia) in UT makes it a better predictor of outcome. PEDIS and SINBAD are alternatives and are not preferred.\nReference: Malaysian CPG Management of Diabetic Foot 2018 (2nd Ed.), Section 2.5; Recommendation 2.",
+    tag: "CPG Diabetic Foot 2018"
+  },
+  {
+    question_text: "A 63-year-old man has a healed plantar ulcer and is enrolled in an integrated foot care programme to prevent recurrence. How often should education be given as part of this programme?",
+    option_a: "Annually",
+    option_b: "One to three monthly",
+    option_c: "Six monthly",
+    option_d: "Once at enrolment",
+    correct_option: "B",
+    explanation: "Rationale: To prevent ulcer recurrence, education as part of an integrated foot care programme, together with life-long observation, professional foot treatment and adequate footwear, should be done one to three monthly. Annual education is the minimum for patients generally (Recommendation 4) and should be more frequent in higher risk patients.\nReference: Malaysian CPG Management of Diabetic Foot 2018 (2nd Ed.), Section 4.1; Recommendation 4.",
+    tag: "CPG Diabetic Foot 2018"
+  },
+  {
+    question_text: "A 59-year-old man with a high-risk foot is offered a skin temperature monitoring device to use at home. Which statement is most accurate?",
+    option_a: "It has shown no benefit over standard care",
+    option_b: "It replaces the need for the annual foot examination",
+    option_c: "It reduced foot ulceration compared with standard therapy and structured foot examination, but more evidence is needed",
+    option_d: "It is recommended for all low-risk patients",
+    correct_option: "C",
+    explanation: "Rationale: Temperature monitoring as a self-assessment tool in high-risk diabetic foot significantly decreased the risk of ulceration compared with standard therapy and structured foot examination, but the CPG notes more evidence is needed. It does not replace professional examination, and it was studied in high-risk patients, not low-risk ones.\nReference: Malaysian CPG Management of Diabetic Foot 2018 (2nd Ed.), Section 4.1.",
+    tag: "CPG Diabetic Foot 2018"
+  },
+  {
+    question_text: "Two patients are reviewed. Patient 1 is 35 years old, newly diagnosed, with no cardiovascular disease and a low risk of hypoglycaemia. Patient 2 is 76 years old with heart failure and recurrent hypoglycaemia. Which HbA1c targets are most appropriate for patients 1 and 2 respectively?",
+    option_a: "6.0 to 6.5% and 7.1 to 8.0%",
+    option_b: "6.0 to 6.5% and 6.6 to 7.0%",
+    option_c: "6.6 to 7.0% and 7.1 to 8.0%",
+    option_d: "7.1 to 8.0% and 6.0 to 6.5%",
+    correct_option: "A",
+    explanation: "Rationale: A tight target (6.0 to 6.5%) suits newly diagnosed, younger, healthier patients at low risk of hypoglycaemia. A less tight target (7.1 to 8.0%) suits patients with comorbidities such as heart failure, short life expectancy or proneness to hypoglycaemia. The 6.6 to 7.0% band is for all others.\nReference: Malaysian CPG Management of Diabetic Foot 2018 (2nd Ed.), Section 4.2, Table 3; Recommendation 5.",
+    tag: "CPG Diabetic Foot 2018"
+  },
+  {
+    question_text: "A 55-year-old man with type 2 diabetes asks whether very tight control (HbA1c below 7%) will prevent neuropathy and foot disease. Which statement is most accurate?",
+    option_a: "Intensive control significantly reduces neuropathy in type 2 diabetes with no added risk",
+    option_b: "Intensive control significantly reduces neuropathy in both type 1 and type 2 diabetes",
+    option_c: "Intensive control increases the risk of amputation",
+    option_d: "Intensive control did not reduce neuropathy in type 2 diabetes at 12 months or more and increased severe hypoglycaemia",
+    correct_option: "D",
+    explanation: "Rationale: A Cochrane review found intensive control (HbA1c below 7.0%) reduced the risk of neuropathy in type 1 but not type 2 diabetes, and was associated with more severe hypoglycaemia, weight gain, hospitalisation and death in both. Hence control should be individualised with hypoglycaemia minimised (Recommendation 5). A separate review of intensive control (HbA1c 6 to 7.5%) reduced amputation risk (RR 0.65), so C is wrong.\nReference: Malaysian CPG Management of Diabetic Foot 2018 (2nd Ed.), Section 4.2; Recommendation 5.",
+    tag: "CPG Diabetic Foot 2018"
+  },
+  {
+    question_text: "A 60-year-old man with claw toes and pre-ulcerative callosities on the toe tips is classed as high risk. He asks about footwear. Which is the most appropriate prescription?",
+    option_a: "Ready-made off-the-shelf shoes with standard insoles",
+    option_b: "Custom-made in-shoe orthoses or insoles",
+    option_c: "Removable cast walker for daily use",
+    option_d: "Protective footwear outdoors only",
+    correct_option: "B",
+    explanation: "Rationale: For moderate or high-risk patients with foot deformity or pre-ulcerative lesions, the CPG advises custom-made in-shoe orthoses or insoles, reviewed periodically, with footwear worn at all times indoors and outdoors (so D is wrong). Cast walkers are off-loading devices for ulcer healing, not footwear for an intact foot. Intensive prescribed footwear reduced ulcers compared with ready-made footwear.\nReference: Malaysian CPG Management of Diabetic Foot 2018 (2nd Ed.), Section 4.3, Table 4; Recommendation 6.",
+    tag: "CPG Diabetic Foot 2018"
+  },
+  {
+    question_text: "A 58-year-old man with neuropathy receives custom-made footwear with in-shoe plantar pressure reduction but wears it only occasionally. Which statement about the evidence is most accurate?",
+    option_a: "Custom footwear is equally effective regardless of how often it is worn",
+    option_b: "Standard insoles are better than custom-made insoles for recurrent metatarsal head ulcers",
+    option_c: "Custom footwear with in-shoe plantar pressure reduction significantly reduces ulcer incidence when worn more than 80% of the day",
+    option_d: "Ready-made footwear is as effective as intensive prescribed footwear",
+    correct_option: "C",
+    explanation: "Rationale: Custom-made footwear with in-shoe plantar pressure reduction worn more than 80% daily reduced foot ulcer incidence compared with custom footwear without pressure reduction (25.7% vs 47.8%). Custom-made insoles gave fewer recurrent metatarsal head ulcers than standard insoles, and intensive prescribed footwear outperformed ready-made footwear. Wearing time matters, so A is wrong.\nReference: Malaysian CPG Management of Diabetic Foot 2018 (2nd Ed.), Section 4.3.",
+    tag: "CPG Diabetic Foot 2018"
+  },
+  {
+    question_text: "A 52-year-old woman with diabetes wears thong slippers around the house and at work. She asks what to wear. Which advice is most appropriate?",
+    option_a: "Covered shoes with breathable material that fit well, checking inside the shoes before and after wearing",
+    option_b: "Thong slippers are acceptable indoors if her feet are checked daily",
+    option_c: "Walk barefoot at home so that she can feel any injury",
+    option_d: "Choose shoes with a snug, narrow toe box for support",
+    correct_option: "A",
+    explanation: "Rationale: Patients and caregivers should be educated on covered shoes with breathable material, and should check each time before and after wearing for foreign objects and signs of abnormal pressure, trauma or ulceration. Thong slippers and shoes with a toe box that is too tight or too loose are not advisable, and patients should never walk barefoot indoors or outdoors.\nReference: Malaysian CPG Management of Diabetic Foot 2018 (2nd Ed.), Section 4.3; Appendix 6; Appendix 7.",
+    tag: "CPG Diabetic Foot 2018"
+  },
+  {
+    question_text: "A 54-year-old man has neuropathy, a healed forefoot ulcer, ankle dorsiflexion limited to 15 degrees and good vascularity. Which preventive procedure has been associated with no ulcer recurrence and improved function in patients like him?",
+    option_a: "Percutaneous flexor tenotomy",
+    option_b: "Exostectomy",
+    option_c: "Skin grafting",
+    option_d: "Achilles tendon lengthening",
+    correct_option: "D",
+    explanation: "Rationale: Achilles tendon lengthening showed no recurrence and improved foot function in 92% of patients with healed forefoot ulcers, neuropathy, dorsiflexion of 18 degrees or less and good vascularity. Tenotomy is used for toe ulcers, exostectomy is a Charcot procedure, and skin grafting is an adjunct for ulcer healing. Preventive surgery should be done by trained orthopaedic surgeons.\nReference: Malaysian CPG Management of Diabetic Foot 2018 (2nd Ed.), Section 4.4(b); Recommendation 7.",
+    tag: "CPG Diabetic Foot 2018"
+  },
+  {
+    question_text: "A 62-year-old man has claw toes with ulcers at the tip of the toe, on the dorsum of the toes and under a metatarsal head. A foot and ankle surgeon plans percutaneous tenotomy. Which ulcer is least likely to heal after this procedure?",
+    option_a: "Tip of the toe without osteomyelitis",
+    option_b: "Dorsal aspect of the toes",
+    option_c: "Plantar metatarsal head",
+    option_d: "Tip of the toe with osteomyelitis",
+    correct_option: "C",
+    explanation: "Rationale: After percutaneous tenotomy, toe-tip ulcers healed (within 3 weeks without osteomyelitis, within 8 weeks with osteomyelitis; 98% overall) and 92% of dorsal toe ulcers healed at 4 weeks, but plantar metatarsal head ulcers did not heal.\nReference: Malaysian CPG Management of Diabetic Foot 2018 (2nd Ed.), Section 4.4(c).",
+    tag: "CPG Diabetic Foot 2018"
+  },
+  {
+    question_text: "A 61-year-old man has a painful diabetic foot ulcer. Paracetamol alone no longer controls his pain, which is now moderate. What is the most appropriate next step?",
+    option_a: "Start a strong opioid such as morphine",
+    option_b: "Add a weak opioid such as tramadol or dihydrocodeine",
+    option_c: "Stop analgesia and start antibiotics",
+    option_d: "Start oxycodone controlled release",
+    correct_option: "B",
+    explanation: "Rationale: According to the WHO analgesic ladder, simple analgesics (paracetamol, NSAIDs) are used for mild to moderate pain, weak opioids should be added for moderate pain, and strong opioids are offered for moderate to severe pain. Oxycodone is third-line in neuropathic pain and is used with caution.\nReference: Malaysian CPG Management of Diabetic Foot 2018 (2nd Ed.), Section 5.1(a); Recommendation 8.",
+    tag: "CPG Diabetic Foot 2018"
+  },
+  {
+    question_text: "A 66-year-old man has burning pain in both feet. Other causes of neuropathy have been excluded and glycaemic control has been optimised. He had a myocardial infarction three weeks ago. Which first-line drug is contraindicated?",
+    option_a: "Amitriptyline",
+    option_b: "Duloxetine",
+    option_c: "Pregabalin",
+    option_d: "Gabapentin",
+    correct_option: "A",
+    explanation: "Rationale: First-line agents for painful neuropathy are pregabalin, gabapentin, amitriptyline and duloxetine. Tricyclic antidepressants such as amitriptyline are contraindicated in cardiovascular disease including recent myocardial infarction, heart failure and abnormal cardiac conduction. The others can be used, with pregabalin and gabapentin needing caution in heart failure and renal impairment.\nReference: Malaysian CPG Management of Diabetic Foot 2018 (2nd Ed.), Section 5.1(a); Appendix 8.",
+    tag: "CPG Diabetic Foot 2018"
+  },
+  {
+    question_text: "A 49-year-old man with epilepsy still has neuropathic foot pain despite first-line therapy and needs a second-line agent. Which second-line drug should be avoided?",
+    option_a: "Lidocaine 5% patch",
+    option_b: "Venlafaxine",
+    option_c: "Capsaicin 0.075% cream",
+    option_d: "Tramadol",
+    correct_option: "D",
+    explanation: "Rationale: Tramadol lowers the seizure threshold and should be avoided in epilepsy or patients at risk of seizures. Lidocaine patch and capsaicin cream are topical second-line options, and venlafaxine is a second-line SNRI.\nReference: Malaysian CPG Management of Diabetic Foot 2018 (2nd Ed.), Appendix 8.",
+    tag: "CPG Diabetic Foot 2018"
+  },
+  {
+    question_text: "A 58-year-old woman has a clean, uninfected neuropathic ulcer with no local or systemic signs of infection. A colleague wants to start oral antibiotics to prevent infection. Which is the most appropriate response?",
+    option_a: "Start amoxicillin/clavulanate to prevent infection",
+    option_b: "Start topical antibiotics and review in a month",
+    option_c: "Do not give antibiotics, as they should not be used for prevention of infection",
+    option_d: "Start broad-spectrum intravenous antibiotics",
+    correct_option: "C",
+    explanation: "Rationale: Antibiotics should not be used unless there are local or systemic symptoms of infection, and should not be given for prevention of infections in diabetic foot. Local treatment including debridement is important. Antibiotics should be based on the most recent culture and sensitivity report.\nReference: Malaysian CPG Management of Diabetic Foot 2018 (2nd Ed.), Section 5.1(c); Appendix 9.",
+    tag: "CPG Diabetic Foot 2018"
+  },
+  {
+    question_text: "A 52-year-old man has a plantar ulcer with 1.5 cm of surrounding erythema, no systemic signs, and a palpable dorsalis pedis pulse. Which is the most appropriate antibiotic treatment?",
+    option_a: "Intravenous ampicillin/sulbactam",
+    option_b: "Oral cephalexin or amoxicillin/clavulanate for 1 to 2 weeks",
+    option_c: "Intravenous ciprofloxacin plus clindamycin for 4 to 6 weeks",
+    option_d: "Intravenous piperacillin/tazobactam",
+    correct_option: "B",
+    explanation: "Rationale: Erythema less than 2 cm, skin and subcutaneous involvement only and no systemic signs is a mild infection (UT IB if the ulcer is superficial), treated with oral cephalexin or amoxicillin/clavulanate for 1 to 2 weeks as an outpatient. A, C and D are regimens for moderate or severe infection.\nReference: Malaysian CPG Management of Diabetic Foot 2018 (2nd Ed.), Section 5.1(c); Appendix 9; Algorithm B.",
+    tag: "CPG Diabetic Foot 2018"
+  },
+  {
+    question_text: "A 47-year-old woman has acute osteomyelitis of the great toe with no open wound. Gram stain shows gram-positive cocci. Which is the most appropriate antibiotic plan?",
+    option_a: "Intravenous cloxacillin for 2 to 4 weeks, followed by oral therapy to complete at least 6 weeks",
+    option_b: "Intravenous cloxacillin for 3 to 5 days only",
+    option_c: "Oral cephalexin for 1 to 2 weeks",
+    option_d: "Ciprofloxacin alone for 2 weeks",
+    correct_option: "A",
+    explanation: "Rationale: For acute osteomyelitis with no open wound, cloxacillin 2 g IV q6h is preferred (Staphylococcus aureus accounts for about 80%), with initial IV therapy for 2 to 4 weeks followed by oral therapy to complete a minimum of six weeks. B is too short: 3 to 5 days may be enough only if all the infected bone has been removed. C is a mild soft tissue regimen, and D (ciprofloxacin) is for gram-negative bacilli and is too short.\nReference: Malaysian CPG Management of Diabetic Foot 2018 (2nd Ed.), Appendix 9, Osteomyelitis.",
+    tag: "CPG Diabetic Foot 2018"
+  },
+  {
+    question_text: "A 63-year-old woman has a dry, sloughy plantar ulcer with minimal exudate and no infection. Which dressing is most appropriate?",
+    option_a: "Alginate",
+    option_b: "Foam",
+    option_c: "Hydrocolloid",
+    option_d: "Hydrogel",
+    correct_option: "D",
+    explanation: "Rationale: Hydrogel is indicated for sloughy and dry wounds, provides a moist environment and acts as enzymatic debridement, and it significantly increased ulcer healing compared with basic wound contact dressings. Alginate, foam and hydrocolloid dressings are for exudative wounds and are contraindicated or unsuitable in dry wounds.\nReference: Malaysian CPG Management of Diabetic Foot 2018 (2nd Ed.), Section 5.2(a); Appendix 10; Recommendation 9.",
+    tag: "CPG Diabetic Foot 2018"
+  },
+  {
+    question_text: "A 61-year-old man has a clean, exudative plantar wound with poor granulation that has not healed after 8 weeks of standard care. There is no necrotic tissue and his vascularity is good. Which adjuvant therapy is most appropriate?",
+    option_a: "Maggot debridement therapy",
+    option_b: "Skin grafting as first-line",
+    option_c: "Negative pressure wound therapy",
+    option_d: "Topical antibiotics",
+    correct_option: "C",
+    explanation: "Rationale: Negative pressure wound therapy is used for clean exudative wounds with poor granulation, and compared with advanced moist wound therapy it gave better healing, shorter therapy and fewer amputations (RR 0.35). Maggot debridement is for necrotic tissue, and adjuvant therapy is offered when healing is delayed in a foot with good vascularity (Recommendation 10).\nReference: Malaysian CPG Management of Diabetic Foot 2018 (2nd Ed.), Section 5.2(a)(ii); Recommendation 10.",
+    tag: "CPG Diabetic Foot 2018"
+  },
+  {
+    question_text: "A 66-year-old man has an ischaemic heel ulcer and PAD. He has severe heart disease and is judged high surgical risk. Which approach is most appropriate?",
+    option_a: "Endovascular treatment",
+    option_b: "Open bypass surgery regardless of surgical risk",
+    option_c: "Continue conservative dressings",
+    option_d: "Primary amputation",
+    correct_option: "A",
+    explanation: "Rationale: Revascularisation should be offered to diabetic patients with PAD (Recommendation 11). Bypass surgery has higher technical success and one-year patency than angioplasty, but there is no difference in amputation, mortality or clinical improvement, and endovascular treatment may be advisable in patients with high surgical risk. Without revascularisation, patients with ischaemic ulcers are at higher risk of amputation.\nReference: Malaysian CPG Management of Diabetic Foot 2018 (2nd Ed.), Section 5.2(b), Revascularisation; Recommendation 11.",
+    tag: "CPG Diabetic Foot 2018"
+  },
+  {
+    question_text: "A 57-year-old man presents with a deep infected plantar ulcer. Which is the most appropriate management?",
+    option_a: "Antibiotics alone",
+    option_b: "Surgical debridement by a trained healthcare provider, with antibiotics as an adjunct",
+    option_c: "Autolytic debridement with hydrogel",
+    option_d: "Topical antibiotics alone",
+    correct_option: "B",
+    explanation: "Rationale: Recommendation 12 advises surgical debridement by trained healthcare providers for ulcers that are deep and infected at presentation or fail non-surgical debridement, and Recommendation 8 states antibiotics should be used as an adjunct to surgical debridement. Antibiotics alone, topical agents alone and autolytic debridement are insufficient for a deep infected ulcer.\nReference: Malaysian CPG Management of Diabetic Foot 2018 (2nd Ed.), Section 5.2(b), Debridement; Recommendations 8 and 12.",
+    tag: "CPG Diabetic Foot 2018"
+  },
+  {
+    question_text: "A 59-year-old man has a neuropathic plantar forefoot ulcer that is uninfected and with good perfusion. A rehabilitation physician chooses an off-loading device. Which device is most likely to heal the ulcer fastest?",
+    option_a: "Removable cast walker",
+    option_b: "Therapeutic footwear with padding",
+    option_c: "Crutches alone",
+    option_d: "Total contact cast",
+    correct_option: "D",
+    explanation: "Rationale: Non-removable off-loading devices (total contact cast, or walkers rendered irremovable) are more effective for healing than removable devices, and the total contact cast has a shorter healing time (by 12 days) than a removable cast walker. Assistive devices such as crutches are additional off-loading options but not as effective alone.\nReference: Malaysian CPG Management of Diabetic Foot 2018 (2nd Ed.), Section 5.2(c); Recommendation 14.",
+    tag: "CPG Diabetic Foot 2018"
+  },
+  {
+    question_text: "A rehabilitation team counsels a patient facing amputation about functional outcomes. Which statement is most accurate?",
+    option_a: "Transfemoral amputees have better mobility than transtibial amputees",
+    option_b: "A shorter residual limb gives better ambulation",
+    option_c: "More distal amputation levels are associated with better long-term function, such as greater independence in activities of daily living",
+    option_d: "Prosthesis should be prescribed for all amputees regardless of cognition or stump healing",
+    correct_option: "C",
+    explanation: "Rationale: Patients with more distal amputations (toe, transmetatarsal) complete activities of daily living more independently than those with transtibial or transfemoral amputations. Transtibial amputees have better mobility and less wheelchair use than transfemoral, and longer residual limb length optimises ambulation. A prosthesis is for patients with good cognition, vision, cardiovascular reserve and a healed stump.\nReference: Malaysian CPG Management of Diabetic Foot 2018 (2nd Ed.), Section 5.2(c), Post-amputation rehabilitation.",
+    tag: "CPG Diabetic Foot 2018"
+  },
+  {
+    question_text: "A rehabilitation physician reviews four patients after transtibial amputation for diabetic foot. Which patient is most suitable for prescription of a prosthesis?",
+    option_a: "Healed residual stump, good cognitive function, good vision and cardiovascular reserve",
+    option_b: "Healed stump, good vision and cardiovascular reserve, but advanced dementia",
+    option_c: "Good cognition, vision and cardiovascular reserve, but an unhealed stump with wound dehiscence",
+    option_d: "Healed stump and good cognition, but severe visual impairment and poor cardiovascular reserve",
+    correct_option: "A",
+    explanation: "Rationale: A prosthesis is prescribed for patients with good cognitive function, vision, cardiovascular reserve and a healed residual stump. B, C and D each fail one or more of these criteria. All patients with diabetic foot who have an amputation should be referred for rehabilitation (Recommendation 14).\nReference: Malaysian CPG Management of Diabetic Foot 2018 (2nd Ed.), Section 5.2(c), Post-amputation rehabilitation; Recommendation 14.",
+    tag: "CPG Diabetic Foot 2018"
+  },
+  {
+    question_text: "A 56-year-old man with type 2 diabetes and profound neuropathy has a warm, swollen, red right midfoot with a collapsed arch. He is afebrile and his ESR is normal. What is the most likely diagnosis?",
+    option_a: "Cellulitis",
+    option_b: "Osteomyelitis",
+    option_c: "Charcot neuroarthropathy",
+    option_d: "Acute gout",
+    correct_option: "C",
+    explanation: "Rationale: Charcot neuroarthropathy should be suspected in a diabetic patient with an inflamed foot, profound neuropathy and structural abnormality in the absence of fever and elevated ESR. It can be mistaken for cellulitis at an early stage, and it is hard to differentiate from osteomyelitis, so imaging helps.\nReference: Malaysian CPG Management of Diabetic Foot 2018 (2nd Ed.), Section 7.",
+    tag: "CPG Diabetic Foot 2018"
+  },
+  {
+    question_text: "A 60-year-old man has a swollen, deformed foot with no ulcer. Plain radiographs show focal demineralisation with periosteal reaction involving multiple joints. It is unclear whether this is Charcot or infection. Which next investigation is most useful and should be done early?",
+    option_a: "Computed tomography",
+    option_b: "Magnetic resonance imaging",
+    option_c: "Repeat radiograph in one week",
+    option_d: "PET scan as the first-line investigation",
+    correct_option: "B",
+    explanation: "Rationale: MRI is a useful tool for differentiating Charcot neuroarthropathy from osteomyelitis and should be done early in a suspected patient. CT has no additional value over conventional radiography in diagnosing Charcot. Nuclear studies (PET) are valuable but difficult to access, technically demanding and expensive. If an ulcer is present and the diagnosis remains unclear, biopsy is indicated.\nReference: Malaysian CPG Management of Diabetic Foot 2018 (2nd Ed.), Section 7.",
+    tag: "CPG Diabetic Foot 2018"
+  },
+  {
+    question_text: "A 58-year-old woman has confirmed acute-phase Charcot neuroarthropathy of the foot and ankle, with oedema and raised skin temperature. Which is the most appropriate management?",
+    option_a: "Full weight bearing in cushioned footwear immediately",
+    option_b: "Oral antibiotics for six weeks",
+    option_c: "Early arthrodesis in all patients",
+    option_d: "Immobilise with off-loading modalities and refer to orthopaedic surgeons for immediate treatment",
+    correct_option: "D",
+    explanation: "Rationale: In the acute phase, the foot is immobilised using off-loading modalities (crutches, wheelchair, walking frame) to reduce oedema and skin temperature, and protected weight bearing (removable walker, total contact cast) follows once this resolves. Recommendation 15 states Charcot neuroarthropathy should be referred to orthopaedic surgeons for immediate treatment. Surgery is reserved for unbraceable deformity, recurrent ulceration, instability or exostosis, so C is wrong.\nReference: Malaysian CPG Management of Diabetic Foot 2018 (2nd Ed.), Section 7; Recommendation 15.",
+    tag: "CPG Diabetic Foot 2018"
   }
 ];
