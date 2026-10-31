@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2A8E99"/>
+      <stop offset="1" stop-color="#15203B"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="url(#g)"/>
+  <g fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5">
+    <!-- torso -->
+    <path d="M37 21 L29 36"/>
+    <!-- front arm -->
+    <path d="M35 25 L43 31 L48 25"/>
+    <!-- back arm -->
+    <path d="M33 26 L25 27 L22 35"/>
+    <!-- natural leg, leading -->
+    <path d="M29 36 L40 42 L38 54"/>
+  </g>
+  <circle cx="40" cy="14" r="5.2" fill="#fff"/>
+  <!-- running blade prosthesis -->
+  <g fill="none" stroke="#3DDC97" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M29 36 L22 45" stroke-width="5"/>
+    <path d="M22 45 C26 52 20 58 10 56" stroke-width="4.2"/>
+  </g>
+</svg>
