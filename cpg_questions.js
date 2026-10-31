@@ -5492,5 +5492,845 @@ const cpgBank = [
     correct_option: "D",
     explanation: "Rationale: Before considering treatment changes for apparent failure, patients need to be assessed for treatment adherence and for the possibility of secondary osteoporosis. Treatment failure is considered with two or more fractures and/or <25% change in BTM and/or worsening BMD. A, B and C act before checking these. Teaching point: Before calling treatment failure, check adherence and secondary causes.\nReference: Malaysian CPG Management of Osteoporosis 2022 (3rd Ed.), Key Statements; Section 5.13.",
     tag: "CPG Osteoporosis 2022"
+  },
+  {
+    question_text: "A 67-year-old woman with type 2 diabetes on gliclazide is found by paramedics confused, with slurred speech and right arm weakness. Her husband says she was well 40 minutes ago. BE-FAST is positive. Airway, breathing and circulation are stable. Apart from recording the time of onset, which on-scene check is most important before transport?",
+    option_a: "12-lead ECG",
+    option_b: "Capillary blood glucose",
+    option_c: "Pupillary light reflexes",
+    option_d: "Core temperature",
+    correct_option: "B",
+    explanation: "Rationale: The CPG states that pre-hospital responders should be trained to recognise hypoglycaemia as a stroke mimic and treat it according to protocol. A patient on a sulphonylurea with focal deficits is a classic mimic. An ECG, pupils and temperature are useful but do not identify a mimic that can be reversed immediately. Teaching point: Check blood glucose in every suspected stroke, both on scene and on arrival at the ED. Correct hypoglycaemia immediately.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 7.1.3 (Initial on-scene management); Section 7.2.2.",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 58-year-old man develops sudden left hemiparesis and dysarthria at 10:00. Paramedics reach him at 10:25. The nearest district hospital (15 minutes away) has no CT scanner. A stroke-ready hospital with CT and thrombolysis is 35 minutes away. What is the most appropriate transport decision?",
+    option_a: "Nearest district hospital for stabilisation, then transfer",
+    option_b: "Nearest district hospital for aspirin and admission",
+    option_c: "Comprehensive stroke centre 2 hours away for thrombectomy",
+    option_d: "Stroke-ready hospital with a pre-arrival stroke alert",
+    correct_option: "D",
+    explanation: "Rationale: Patients with positive stroke signs within the 4.5-hour thrombolysis window should be taken rapidly to an acute stroke-ready hospital, and the receiving hospital should get a pre-arrival notification. A hospital without CT cannot assess him for reperfusion, and aspirin must not be given before haemorrhage is excluded. Bypassing a nearby thrombolysis centre for a distant thrombectomy centre would delay IVT. Under the drip-and-ship model, IVT can be started first and the patient transferred for EVT if needed. Teaching point: Within the 4.5-hour window, divert to a stroke-ready hospital (one that can scan and thrombolyse) and send a stroke alert ahead.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 7.1.3 and 7.1.4; Section 9.2 (Regional stroke referral system).",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 72-year-old woman arrives at the ED with right hemiparesis and aphasia. She is alert and her airway is protected. Respiratory rate is 16/min and SpO2 is 97% on room air. The nurse asks about oxygen. What is the most appropriate oxygen management?",
+    option_a: "No supplemental oxygen; continue SpO2 monitoring",
+    option_b: "2 l/min nasal cannula for all acute strokes",
+    option_c: "15 l/min via non-rebreather mask for 24 hours",
+    option_d: "Hyperbaric oxygen once the CT is done",
+    correct_option: "A",
+    explanation: "Rationale: The CPG recommends supplemental oxygen only when SpO2 is below 95%, titrated to keep it above 95%. At 97% she needs monitoring but no oxygen. Routine low-flow or high-flow oxygen has no benefit when the patient is not hypoxic, and hyperbaric oxygen is not a recommended treatment. Teaching point: In acute stroke, give oxygen only if SpO2 is <95%, and titrate it to >95%.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 8.1.1; Section 7.2.4.",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A stroke team audits one thrombolysis case. The patient arrived at the ED at 08:00, was seen by the medical officer at 08:08, had the neurology consult at 08:14, started CT brain at 08:35 and received the alteplase bolus at 08:55. Which NIH-recommended response time was breached?",
+    option_a: "Door to doctor",
+    option_b: "Door to neurology consult",
+    option_c: "Door to CT",
+    option_d: "Door to needle",
+    correct_option: "C",
+    explanation: "Rationale: The targets are door to doctor ≤10 min, door to neuro consult ≤15 min, door to CT ≤25 min, door to needle ≤60 min and door to groin ≤120 min. CT started at 35 minutes, which is beyond 25 minutes. The other intervals (8, 14 and 55 minutes) were met. Teaching point: The NIH times are 10 (doctor), 15 (neuro), 25 (CT), 60 (needle) and 120 (groin) minutes.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 9.2 (Recommended NIH emergency response time for AIS).",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 63-year-old man is admitted with a left MCA infarct. He is outside the window for any reperfusion treatment. CT excludes haemorrhage. He has mild dysarthria and a wet voice after sips. The doctor wants to give oral aspirin 300 mg. What should happen before any oral medication is given?",
+    option_a: "Give the aspirin crushed in water",
+    option_b: "Bedside swallow screen (water swallow test)",
+    option_c: "Insert a PEG tube",
+    option_d: "Wait 7 days before giving any oral intake",
+    correct_option: "B",
+    explanation: "Rationale: Swallowing ability should be screened as early as possible after arrival and before any oral food, fluid or medication is given. If he fails the water swallow test, a nasogastric tube is inserted. Giving crushed aspirin orally before screening risks aspiration. PEG is reserved for prolonged feeding. The 7-day figure is the deadline for starting enteral feeding, not a delay before swallow assessment. Teaching point: Screen swallowing before any oral food, fluid or medication; insert an NG tube if the screen is failed.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 7.2.4; Section 8.1.6 (Nutrition).",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A district hospital has a CT scanner and alteplase but no in-house neurologist or neuroradiologist. A 61-year-old woman presents 90 minutes after onset of a disabling right hemiparesis. According to the CPG, how should the eligibility decision for IVT be supported?",
+    option_a: "Transfer her untreated to the neurology centre 3 hours away",
+    option_b: "Give aspirin and observe for 24 hours",
+    option_c: "Tele-stroke consultation to speed up the decision and treatment",
+    option_d: "Repeat CT in 6 hours to confirm infarction",
+    correct_option: "C",
+    explanation: "Rationale: The CPG states that tele-stroke can benefit sites without in-house neurology or neuroradiology by speeding up the decision on alteplase eligibility and its delivery. If tele-stroke is not available, telephone consultation is feasible and safe. Transferring her untreated wastes the time-dependent benefit. Aspirin before treatment, or waiting for a repeat scan, denies her reperfusion. Teaching point: Use tele-stroke, or failing that telephone consultation, so that IVT is not delayed where no specialist is on site.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 9.2 (Recommendations on tele-stroke).",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 66-year-old man arrives 2 hours after onset of aphasia and right hemiplegia (NIHSS 14). Non-contrast CT shows no haemorrhage. He weighs 75 kg. Repeated BP readings are 198/112 mmHg. Glucose, platelets and INR are normal. What is the most appropriate next step?",
+    option_a: "Proceed to alteplase now; treat BP after the bolus",
+    option_b: "Withhold alteplase permanently because of the BP",
+    option_c: "Sublingual nifedipine 10 mg, then alteplase",
+    option_d: "IV labetalol 10-20 mg, then give alteplase once BP is ≤185/110 mmHg",
+    correct_option: "D",
+    explanation: "Rationale: A pre-treatment BP above 185/110 mmHg is an absolute contraindication only while it remains uncontrolled. Patients who are otherwise eligible should have their BP lowered with IV labetalol 10-20 mg over 1-2 minutes (repeated once if needed) or IV nicardipine. Alteplase should be withheld only if BP cannot be kept at or below 185/110. Sublingual nifedipine is avoided because it can cause a precipitous fall in BP. Teaching point: Treat BP to ≤185/110 before alteplase. Withhold alteplase only if that level cannot be reached.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 9.4.1 (Absolute contraindications); Section 9.6.1 (BP control).",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 59-year-old woman finished an alteplase infusion 2 hours ago. Her BP is now 192/108 mmHg on two readings. Her neurological status is unchanged. What is the most appropriate management?",
+    option_a: "Accept BP up to 220/120 mmHg",
+    option_b: "IV labetalol bolus then infusion to keep BP ≤180/105 mmHg",
+    option_c: "Oral captopril and review in 6 hours",
+    option_d: "Stop monitoring because the infusion is complete",
+    correct_option: "B",
+    explanation: "Rationale: During and after thrombolysis, BP must be kept at or below 180/105 mmHg. If systolic BP is 180-230 or diastolic BP is 105-120 mmHg, give IV labetalol 5-10 mg as a bolus followed by an infusion of 2-8 mg/min, or IV nicardipine. The 220/120 threshold applies only to patients who have not been thrombolysed. BP is monitored every 15 minutes for 2 hours, every 30 minutes for 6 hours, then hourly for 16 hours. Teaching point: After lysis the BP target is ≤180/105 mmHg, not the permissive 220/120 mmHg used without lysis.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 9.5 (Step 5); Section 9.6.1.",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 70-year-old man on insulin presents 80 minutes after onset of left hemiparesis and neglect. Capillary glucose is 2.3 mmol/l. CT is normal. After IV dextrose his glucose is 6.8 mmol/l, but the hemiparesis and neglect persist (NIHSS 11). What is the most appropriate statement about IV thrombolysis?",
+    option_a: "IVT may be reasonable now that glucose is normal and the deficit persists",
+    option_b: "IVT is absolutely contraindicated because initial glucose was <2.7 mmol/l",
+    option_c: "IVT should be delayed until a repeat CT at 24 hours",
+    option_d: "IVT should be replaced by IV heparin",
+    correct_option: "A",
+    explanation: "Rationale: Glucose below 2.7 mmol/l is listed as an absolute contraindication. However, the CPG states that IVT may be reasonable in patients whose low glucose is subsequently normalised and who are otherwise eligible. Here the deficit persists after correction, so it is not simply due to hypoglycaemia. Waiting 24 hours loses the treatment window, and heparin is not an acute reperfusion treatment. Teaching point: Correct the hypoglycaemia first. If a disabling deficit persists, IVT may still be reasonable.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 9.4.1 (II).",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 74-year-old woman on warfarin for AF presents 1 hour after onset of aphasia and right hemiplegia. INR is 2.1 and platelets are 210 x10^9/l. Non-contrast CT is normal. CTA shows a left M1 occlusion. Her baseline mRS is 1. What is the most appropriate reperfusion strategy?",
+    option_a: "IV alteplase 0.9 mg/kg",
+    option_b: "IV alteplase 0.6 mg/kg",
+    option_c: "Endovascular thrombectomy without IVT",
+    option_d: "Vitamin K, then IV alteplase once INR is normal",
+    correct_option: "C",
+    explanation: "Rationale: An INR above 1.7 (or PT >15 s, or aPTT >40 s) is an absolute contraindication to IVT, whatever the dose. She has an M1 occlusion within 6 hours and was independent before the stroke, so she meets the criteria for EVT. EVT is indicated for patients with LVO who are not eligible for alteplase. Reversing warfarin in order to thrombolyse would waste time and is not the CPG approach. Teaching point: If IVT is barred by anticoagulation (INR >1.7), go straight to EVT when there is an LVO.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 9.4.1 (VII); Section 10.2 (II).",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 69-year-old man on dabigatran 150 mg twice daily presents 1 hour 40 minutes after a disabling left hemiparesis (NIHSS 9). His last dose was 5 hours ago. CT is normal and CTA shows no large vessel occlusion. Renal function is normal. What does the CPG say is a reasonable option for this patient?",
+    option_a: "Give alteplase without delay",
+    option_b: "Reverse with idarucizumab, then give IV thrombolysis",
+    option_c: "Prothrombin complex concentrate, then IV thrombolysis",
+    option_d: "Wait until 48 hours after the last dose, then thrombolyse",
+    correct_option: "B",
+    explanation: "Rationale: For patients on dabigatran, the CPG says that reversing its anticoagulant effect with idarucizumab before IVT may be reasonable in eligible patients. Giving alteplase with recent dabigatran on board risks haemorrhage. PCC is not the specific reversal agent for dabigatran. The >48-hour rule applies when no reversal agent is used, and waiting that long would put him far outside the 4.5-hour window. Teaching point: Idarucizumab reverses dabigatran and may allow IVT. Otherwise a DOAC taken within 48 hours bars IVT unless the relevant laboratory tests are normal.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 9.4.1 (V, VI).",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 55-year-old woman admitted with a below-knee DVT receives treatment-dose enoxaparin 1 mg/kg at 22:00. At 06:30 she develops sudden right hemiparesis and aphasia. CT is normal. Platelets are normal. What is the status of IV thrombolysis?",
+    option_a: "Absolutely contraindicated",
+    option_b: "Relative contraindication only",
+    option_c: "Permitted if anti-Xa level is above 1.0",
+    option_d: "Permitted at half dose",
+    correct_option: "A",
+    explanation: "Rationale: Current use of a treatment dose of LMWH within the previous 24 hours is an absolute contraindication to IVT. Her dose was given 8.5 hours ago. A high anti-Xa level confirms anticoagulation rather than safety. There is no half-dose option for anticoagulated patients. She should have urgent CTA to look for an LVO amenable to EVT. Teaching point: Treatment-dose LMWH within 24 hours is an absolute bar to IVT. Look for an LVO and consider EVT.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 9.4.1 (III).",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 64-year-old man presents 2 hours after onset of a disabling left hemiparesis. CT is normal. His team lists his possible contraindications to IVT. Which of these is a relative, rather than an absolute, contraindication to IVT?",
+    option_a: "Platelet count 85 x10^9/l",
+    option_b: "Myocardial infarction 6 weeks ago",
+    option_c: "INR 1.9",
+    option_d: "BP 205/118 mmHg despite two doses of IV labetalol",
+    correct_option: "B",
+    explanation: "Rationale: Myocardial infarction within the past 8 weeks is a relative contraindication. Platelets <100 x10^9/l, INR >1.7, and BP that cannot be brought to ≤185/110 mmHg are all absolute contraindications. Teaching point: The absolute contraindications are BP >185/110 mmHg, glucose <2.7 mmol/l, recent therapeutic heparin or LMWH, INR >1.7 (or PT >15 s or aPTT >40 s) and platelets <100 x10^9/l. Recent MI, surgery and bleeding are relative contraindications.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 9.4.1 and 9.4.2.",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 52-year-old woman has a witnessed generalised seizure lasting 1 minute, then dense right hemiplegia and global aphasia. She arrives 70 minutes after onset. CT is normal. CTA shows a left M1 occlusion. What is the most appropriate interpretation?",
+    option_a: "Treat as Todd's paresis and observe for 24 hours",
+    option_b: "Seizure at onset absolutely excludes IV alteplase",
+    option_c: "Give phenytoin first; reperfusion is contraindicated",
+    option_d: "IVT is reasonable because imaging shows the deficit is from stroke",
+    correct_option: "D",
+    explanation: "Rationale: A seizure at the onset of stroke is a relative contraindication. IVT is reasonable when the evidence shows that the residual deficit is due to stroke and is not a post-ictal phenomenon. Here, an M1 occlusion on CTA confirms an ischaemic cause, so she should have IVT and be considered for EVT. Treating her as Todd's paresis would deny her treatment. Long-term anticonvulsant cover is not needed for a single self-limiting seizure. Teaching point: A seizure at onset does not exclude reperfusion if the deficit is shown to be ischaemic.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 9.4.2 (VIII); Section 8.1.12.",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 68-year-old man is found by a neighbour with right hemiplegia and global aphasia. The neighbour saw him well 1 hour earlier. He lives alone and no relative can be reached. CT is normal and he has no contraindications. What is the most appropriate action regarding IVT?",
+    option_a: "Defer IVT until a family member gives consent",
+    option_b: "Give aspirin while the police trace his family",
+    option_c: "Proceed with IVT; aphasia without family is not a reason to withhold it",
+    option_d: "Apply for a court order before treatment",
+    correct_option: "C",
+    explanation: "Rationale: The CPG states explicitly that thrombolysis shall not be withheld from aphasic patients who cannot give consent and/or who have no family members present. Waiting for consent or legal processes would use up the window. Aspirin before reperfusion therapy is inappropriate. Teaching point: Do not withhold IVT because an aphasic patient cannot consent and no family is present.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 9.3.2 (VIII).",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 60-year-old man weighing 92 kg presents 2 hours after onset of right hemiparesis (NIHSS 15). CTA shows a left ICA terminus occlusion. He is eligible for thrombolysis and is being prepared for thrombectomy. The team chooses tenecteplase. What is the correct tenecteplase dose?",
+    option_a: "23 mg IV bolus",
+    option_b: "25 mg IV bolus",
+    option_c: "46 mg IV bolus",
+    option_d: "82.8 mg, 10% bolus and the rest over 60 minutes",
+    correct_option: "A",
+    explanation: "Rationale: The tenecteplase dose is 0.25 mg/kg, to a maximum of 25 mg, given as a single bolus: 0.25 × 92 = 23 mg. 25 mg is the maximum and is used only for patients over 100 kg. 46 mg is 0.5 mg/kg, the cardiac dose. 82.8 mg with a bolus and infusion is the alteplase regimen (0.9 mg/kg). The CPG supports tenecteplase within 4.5 hours before EVT, particularly when an LVO is present. Teaching point: For stroke, tenecteplase is 0.25 mg/kg (maximum 25 mg) as a single bolus.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 9.5 (Items 10-11); Section 10.3.",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A rural hospital has run out of alteplase. The pharmacist offers alternatives for a 57-year-old woman with a disabling ischaemic stroke 2 hours after onset. Which thrombolytic is contraindicated in acute ischaemic stroke according to the CPG?",
+    option_a: "Tenecteplase",
+    option_b: "Alteplase 0.6 mg/kg",
+    option_c: "Alteplase 0.9 mg/kg",
+    option_d: "Streptokinase",
+    correct_option: "D",
+    explanation: "Rationale: Streptokinase is contraindicated in acute ischaemic stroke (Level I, Grade A). Tenecteplase may be considered as an alternative when alteplase is not available. Low-dose alteplase (0.6 mg/kg) was not equivalent for disability, though it reduced mortality. Standard-dose alteplase is 0.9 mg/kg. Teaching point: Never use streptokinase for stroke. Tenecteplase is the alternative when alteplase is unavailable.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 9.5 (Items 1, 10, 12).",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 71-year-old woman is 35 minutes into an alteplase infusion. She develops severe headache and vomiting. Her NIHSS rises from 8 to 13 and her GCS falls from 15 to 12. BP is 186/104 mmHg. What is the most appropriate immediate action?",
+    option_a: "Stop the infusion and get an urgent CT brain",
+    option_b: "Complete the infusion, then CT",
+    option_c: "Give IV mannitol and continue the infusion",
+    option_d: "Give IV labetalol and continue the infusion",
+    correct_option: "A",
+    explanation: "Rationale: Severe headache, acute hypertension, nausea or vomiting, or worsening neurology (NIHSS up by 4 or GCS down by 2) during the infusion should prompt discontinuation and an urgent CT brain, because symptomatic ICH is the main concern. Continuing alteplase in any form risks expanding a haemorrhage. Teaching point: If NIHSS rises by ≥4 or GCS falls by ≥2 during alteplase, stop the infusion and scan.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 9.5 (Step 4); Section 9.7.1.",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 66-year-old man develops symptomatic ICH 1 hour after an alteplase infusion. The infusion has been stopped. Investigations show fibrinogen 140 mg/dl (normal 200-400), platelets 190 x10^9/l and a normal PT. Which blood product should be given first to reverse the fibrinolytic state?",
+    option_a: "Fresh frozen plasma 15 ml/kg",
+    option_b: "Platelets 4 units",
+    option_c: "Cryoprecipitate 6-8 bags",
+    option_d: "Prothrombin complex concentrate",
+    correct_option: "C",
+    explanation: "Rationale: For bleeding after alteplase, the CPG sequence is: stop the drug; urgent CT; send FBC, PT/PTT, GXM and fibrinogen; control BP; give IV cryoprecipitate 6-8 bags. Repeat cryoprecipitate if fibrinogen is still below 200 mg/dl. Platelets are given if platelet dysfunction is suspected. FFP is considered if PT/PTT is prolonged despite normal fibrinogen. PCC is used for warfarin reversal. Teaching point: Cryoprecipitate (fibrinogen) is the first-line blood product for bleeding after alteplase.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 9.7.1 (Bleeding).",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 62-year-old woman on lisinopril develops swelling of the tongue and lips 30 minutes into an alteplase infusion. She is speaking and her airway is patent. The infusion has been stopped. Which drug is first-line at this point under the CPG angioedema protocol?",
+    option_a: "Subcutaneous adrenaline 0.3 ml of 0.1%",
+    option_b: "IV diphenhydramine 50 mg (with IV ranitidine 50 mg)",
+    option_c: "IV methylprednisolone 100 mg",
+    option_d: "Icatibant",
+    correct_option: "B",
+    explanation: "Rationale: The CPG angioedema sequence is: stop alteplase; maintain the airway, breathing and circulation; IV diphenhydramine 50 mg and IV ranitidine 50 mg; methylprednisolone 100 mg if there is no improvement; then adrenaline. Call ENT or anaesthesia, and give icatibant if it is available and indicated. Because her airway is currently patent, the first-line drugs are the H1 and H2 blockers. Teaching point: For angioedema on alteplase: stop the infusion, secure the ABC, give H1 + H2 blockers, then steroid, then adrenaline. ACE inhibitor users are at higher risk.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 9.7.2 (Angioedema).",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 58-year-old man had IV alteplase 3 hours ago and is stable on the stroke unit. The ward nurse asks whether she can insert a urinary catheter and an NG tube, and whether to start aspirin. What is the most appropriate instruction?",
+    option_a: "Insert both now; start aspirin tonight",
+    option_b: "Insert the catheter only; start aspirin at 12 hours",
+    option_c: "Insert the NG tube only; start clopidogrel now",
+    option_d: "Avoid both for 24 hours; no antiplatelet until repeat CT at 24 hours",
+    correct_option: "D",
+    explanation: "Rationale: After thrombolysis, nasogastric tubes, bladder catheters and invasive procedures should be avoided for 24 hours, and no antiplatelet or anticoagulant is given in the first 24 hours. CT brain is repeated at 24 hours before antithrombotic therapy starts. Handling should also be minimised to prevent bruising. Teaching point: For 24 hours after lysis: no tubes, no antithrombotics, minimal handling. Repeat CT at 24 hours.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 9.5 (Steps 6-7); Section 9.6.4.",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 64-year-old woman with type 2 diabetes received alteplase 4 hours ago. Her capillary glucose is 13.5 mmol/l. She is nil by mouth. What is the target glucose range in the post-thrombolysis period according to the CPG?",
+    option_a: "4.0-7.5 mmol/l",
+    option_b: "7.8-10.0 mmol/l",
+    option_c: "10.0-14.0 mmol/l",
+    option_d: "Below 15 mmol/l",
+    correct_option: "B",
+    explanation: "Rationale: After thrombolysis, glucose should be kept between 7.8 and 10.0 mmol/l and hypoglycaemia avoided. Hyperglycaemia in the first 24 hours is linked to worse outcomes and more haemorrhagic transformation. Very tight targets (4.0-7.5 mmol/l) are specifically discouraged in the first hours of AIS. Higher targets accept harmful hyperglycaemia. Teaching point: Keep glucose 7.8-10.0 mmol/l after lysis (6.0-10.0 mmol/l in general AIS care) and avoid tight control.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 9.6.2; Section 8.1.5.",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 60-year-old man wakes at 07:00 with right arm and face weakness (NIHSS 5). He was last seen well at 23:00. CTA shows no LVO. MRI shows a DWI lesion in the left corona radiata with clear hyperintensity in the same area on FLAIR. What is the most appropriate management?",
+    option_a: "IV alteplase because the lesion is small",
+    option_b: "Endovascular thrombectomy",
+    option_c: "Antiplatelet therapy; no IVT because there is no DWI-FLAIR mismatch",
+    option_d: "IV tenecteplase because it is safer than alteplase",
+    correct_option: "C",
+    explanation: "Rationale: For a wake-up stroke not eligible for EVT, IVT may be considered when MRI shows a DWI-FLAIR mismatch: a DWI lesion with no matching FLAIR change, which suggests onset within about 4.5 hours, with a lesion not larger than one-third of the MCA territory. Here the lesion is already visible on FLAIR, so it is likely older and he is not eligible. With no LVO, EVT has no role. He should have antiplatelet therapy and secondary prevention. Teaching point: A FLAIR-visible lesion means there is no mismatch and therefore no IVT for an unknown-onset stroke.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 9.3.2 (III); Section 9.5 (Item 9).",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 69-year-old woman arrives 70 minutes after onset of left hemiplegia, gaze deviation and neglect (NIHSS 17). She has no known kidney disease. Non-contrast CT is normal. The renal profile result will take 45 minutes. What is the most appropriate imaging step?",
+    option_a: "Proceed to CT angiography now without waiting for creatinine",
+    option_b: "Wait for the creatinine before any contrast imaging",
+    option_c: "Order MRI/MRA to avoid contrast",
+    option_d: "Omit vessel imaging and give alteplase only",
+    correct_option: "A",
+    explanation: "Rationale: For patients who may meet EVT criteria, it is reasonable to proceed with CTA before the renal profile when there is no history of renal impairment. The CPG lists NIHSS >6, cortical signs or brainstem involvement as triggers for CTA. Waiting delays EVT. Routine MRI causes delays and is reserved for selected cases. Skipping vessel imaging would miss an LVO that needs thrombectomy. Teaching point: With a high NIHSS or cortical signs, do CTA straight away without waiting for creatinine unless renal disease is known.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 9.3.2 (V); Section 10.1 (III); Figure 10.1.",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 57-year-old man at a primary stroke centre receives IV alteplase 90 minutes after onset of a left M1 occlusion (NIHSS 18). The comprehensive stroke centre is 1 hour away. His registrar suggests watching for 1 hour to see whether alteplase works before arranging transfer. What is the most appropriate plan?",
+    option_a: "Observe for 1 hour, then refer only if there is no improvement",
+    option_b: "Observe for 24 hours, then repeat CTA",
+    option_c: "Transfer for EVT straight away without waiting to assess response",
+    option_d: "Cancel EVT because he received alteplase",
+    correct_option: "C",
+    explanation: "Rationale: For drip and ship (IVT followed by EVT), there should be no delay in proceeding to EVT in order to judge the effect of alteplase. EVT is indicated in patients who have had IV alteplase, and the CPG states that the team should not wait to assess response. The benefit of EVT falls as imaging-to-recanalisation time grows. Teaching point: In drip and ship, start the transfer for EVT as soon as alteplase is running.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 10.2 (II); Section 10.3; Key Recommendation 2 (Chapter 10).",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 78-year-old woman with advanced dementia lives in a nursing home and needs help with all activities of daily living (mRS 4). She presents 3 hours after onset of left hemiplegia. CTA shows a right M1 occlusion. Which criterion is most relevant to whether she should have EVT?",
+    option_a: "Her age above 75 years",
+    option_b: "Her baseline mRS of 4",
+    option_c: "The occlusion being on the right",
+    option_d: "The time from onset",
+    correct_option: "B",
+    explanation: "Rationale: The EVT indication requires a baseline mRS of 0-2 (generally independent in ADL). A premorbid mRS of 4 or more is also a relative contraindication to IVT. Age alone is not an exclusion: older people benefit from EVT when the criteria are met. Laterality is irrelevant, and 3 hours is well within the window. Teaching point: EVT is for patients whose pre-stroke mRS is 0-2. Frailty and dependency matter more than age.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 10.2 (I); Section 12.2.2.",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "An 83-year-old man was last seen well 11 hours ago. He has right hemiplegia and aphasia (NIHSS 13). He was independent before the stroke. CTA shows a left M1 occlusion. CT perfusion shows an infarct core of 18 ml. What is the most appropriate management?",
+    option_a: "EVT, as he meets DAWN criteria for age ≥80 years",
+    option_b: "No EVT because he is over 80 years old",
+    option_c: "No EVT because he is beyond 6 hours",
+    option_d: "IV alteplase alone",
+    correct_option: "A",
+    explanation: "Rationale: Between 6 and 24 hours, EVT is indicated using perfusion imaging. The DAWN criteria for a patient aged ≥80 years are NIHSS ≥10 with an infarct core of 0-21 ml. He meets both (NIHSS 13, core 18 ml). Age and time beyond 6 hours do not exclude him. IV alteplase alone is not indicated at 11 hours without CTP-guided eligibility for IVT, and the LVO needs EVT. Teaching point: DAWN (6-24 h): age ≥80 needs NIHSS ≥10 and core <21 ml. Age <80 needs core <31 ml, or NIHSS ≥20 with core 31-51 ml.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 10.2 (IIIc).",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 66-year-old woman presents 9 hours after onset of left hemiplegia (NIHSS 14). She has a right ICA terminus occlusion. CT perfusion shows an infarct core of 42 ml and a hypoperfused (penumbra plus core) volume of 120 ml. Which statement about EVT eligibility is correct?",
+    option_a: "Not eligible because the core is >31 ml",
+    option_b: "Not eligible because NIHSS is below 20",
+    option_c: "Eligible only if under 6 hours",
+    option_d: "Eligible under DEFUSE 3 (core <70 ml, mismatch ratio ≥1.8, mismatch volume >15 ml)",
+    correct_option: "D",
+    explanation: "Rationale: She fails DAWN: she is under 80 with a core of 31-51 ml but an NIHSS below 20. However, the CPG also accepts DEFUSE 3 criteria: core <70 ml, mismatch ratio ≥1.8 and mismatch volume >15 ml. Her ratio is 120/42 ≈ 2.9 and her mismatch volume is 78 ml, so she qualifies. Options A and B apply only DAWN thresholds. Option C ignores the extended window. Teaching point: If DAWN fails, check DEFUSE 3: core <70 ml, ratio ≥1.8, mismatch >15 ml.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 10.2 (IIIc).",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 61-year-old man presents 14 hours after he was last seen well, with left hemiplegia and a right M1 occlusion (NIHSS 19). CT perfusion shows a core of 82 ml and a total hypoperfused volume of 130 ml. Which is the most appropriate management?",
+    option_a: "EVT under DEFUSE 3",
+    option_b: "EVT under DAWN",
+    option_c: "No EVT; supportive stroke-unit care and secondary prevention",
+    option_d: "IV alteplase followed by EVT",
+    correct_option: "C",
+    explanation: "Rationale: DEFUSE 3 requires a core below 70 ml, and DAWN for patients under 80 requires a core no larger than 51 ml (with NIHSS ≥20 for 31-51 ml). His 82 ml core meets neither, so EVT in the extended window is not supported by the CPG criteria. At 14 hours he is outside any IVT window. He needs stroke-unit care and close watch for malignant oedema, with decompression within 48 hours if appropriate. Teaching point: Extended-window EVT depends on a small core. A core ≥70 ml fails both DAWN and DEFUSE 3.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 10.2 (IIIc); Section 8.1.10.",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A comprehensive stroke centre is writing its thrombectomy protocol. The radiologist proposes routine MRI with MRA for every candidate before EVT. What does the CPG state is the minimum imaging all EVT candidates must have?",
+    option_a: "MRI with DWI and MRA in every patient",
+    option_b: "Non-contrast CT plus CT angiography from aortic arch to vertex",
+    option_c: "Non-contrast CT alone",
+    option_d: "Digital subtraction angiography before groin puncture",
+    correct_option: "B",
+    explanation: "Rationale: All AIS patients who are candidates for EVT must have at least a non-contrast CT and a CT angiogram from the arch of the aorta to the vertex, with or without multiphase CTA or CT perfusion. MRI with MRA can be used in selected cases but not routinely, so as to avoid delay. NCCT alone cannot show the occlusion. DSA is done during the procedure itself. Teaching point: Before EVT: NCCT + arch-to-vertex CTA (± CTP). MRI is not routine.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 10.1 (III).",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 64-year-old woman with a left M1 occlusion is going for EVT. She is alert (GCS 15), protecting her airway, cooperative, and has no respiratory distress. The anaesthetist asks about the plan. What is the preferred anaesthetic approach according to the CPG?",
+    option_a: "Routine general anaesthesia with intubation",
+    option_b: "Procedural sedation",
+    option_c: "Spinal anaesthesia",
+    option_d: "No sedation at all, as it is contraindicated",
+    correct_option: "B",
+    explanation: "Rationale: Procedural sedation is generally preferred over general anaesthesia and intubation for most EVT patients. GA is appropriate when medically indicated, for example airway compromise, respiratory distress, depressed consciousness or severe agitation. In those cases, prolonged hypotension and delays should be avoided. She has none of these indications. Teaching point: Sedation is the default for EVT. Use GA only for airway, consciousness or agitation problems, and avoid hypotension.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 10.5.",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 58-year-old man presents 5 hours after onset of vertigo, diplopia, dysarthria and fluctuating quadriparesis (NIHSS 16). CTA shows a basilar artery occlusion. He was fully independent before. How does the CPG frame the EVT decision for this patient?",
+    option_a: "EVT is contraindicated in posterior circulation occlusion",
+    option_b: "EVT is mandatory regardless of imaging",
+    option_c: "EVT only after IVT has failed for 2 hours",
+    option_d: "Decide individually, weighing potential benefit and risk",
+    correct_option: "D",
+    explanation: "Rationale: The CPG states that for large artery occlusion of the posterior circulation, such as the basilar artery, the decision to treat should be based on the potential benefits and risks for the individual. It also states that including basilar, ACA and PCA occlusions in EVT is reasonable. It is neither contraindicated nor mandatory, and waiting for IVT to fail is never recommended. Teaching point: Basilar occlusion: EVT is reasonable on an individual risk-benefit judgement.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 9.1; Section 10.2 (IIIb).",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 69-year-old man presents 10 hours after onset of right hemiparesis. He is not a candidate for reperfusion. CT shows an evolving left MCA infarct with no haemorrhage. BP is persistently 232/126 mmHg. He has no chest pain, heart failure or aortic dissection. What is the most appropriate BP management?",
+    option_a: "Sublingual nifedipine 10 mg to bring BP below 140/90 mmHg",
+    option_b: "No treatment, as BP is permissive after stroke",
+    option_c: "IV labetalol boluses, aiming for an initial reduction of about 15%",
+    option_d: "IV GTN infusion aiming for BP <160/90 mmHg within 1 hour",
+    correct_option: "C",
+    explanation: "Rationale: Without reperfusion, hypertension is treated only if systolic BP is ≥220 mmHg or diastolic BP is ≥120 mmHg. At 232/126 he crosses that threshold. An initial reduction of about 15% is probably safe, and very high BP should be lowered gradually. Proposed agents include IV labetalol 10-20 mg boluses (up to 150-300 mg) or oral captopril. Sublingual nifedipine must be avoided because of precipitous falls, and rapid lowering to normal risks extending the infarct. Teaching point: Without lysis, treat only BP ≥220/120 mmHg and lower it by about 15% initially. Never use sublingual nifedipine.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 8.1.4 (Blood pressure).",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 77-year-old woman with a large left MCA infarct fails her water swallow test on day 1. On day 3 the team debates feeding. She is drowsy but stable. By when should enteral feeding (oral or tube) be started?",
+    option_a: "Within 7 days of admission",
+    option_b: "Only after day 14",
+    option_c: "Only once she passes a videofluoroscopy",
+    option_d: "Only after PEG insertion",
+    correct_option: "A",
+    explanation: "Rationale: Enteral feeding, oral or by tube, should be started within 7 days of admission (Level I, Grade A). Since she failed the swallow screen, an NG tube is appropriate now. PEG is preferred only if prolonged enteral feeding is needed. Instrumental assessment (VFSE or modified barium swallow) can be done later but should not delay feeding. Teaching point: Start enteral feeding within 7 days, by NG tube if the swallow screen is failed.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 8.1.6 (Nutrition).",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 73-year-old man with dysphagia after a brainstem infarct is apyrexial with a clear chest on day 2. The registrar proposes routine co-amoxiclav to prevent aspiration pneumonia. What is the CPG position?",
+    option_a: "Prophylactic antibiotics for all dysphagic patients",
+    option_b: "Prophylactic antibiotics for 7 days after any stroke",
+    option_c: "Prophylactic antibiotics only if NIHSS is above 10",
+    option_d: "No prophylactic antibiotics; look for infection if fever develops and treat early",
+    correct_option: "D",
+    explanation: "Rationale: Routine prophylactic antibiotics have not been shown to be beneficial (Level I, Grade A). Infection, especially pneumonia and UTI, is the commonest complication after stroke. The recommendation is to search for infection when fever appears and to treat early with appropriate antibiotics. Elevated temperatures should be controlled with antipyretics. Teaching point: No prophylactic antibiotics in stroke. Investigate and treat fever promptly.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 8.1.7 (Infection); Section 8.1.8 (Fever).",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 70-year-old woman is immobile with a dense left hemiplegia on day 2 after an ischaemic stroke. She is on aspirin and adequately hydrated. The ward has thigh-length graduated compression stockings and IPC devices. What does the CPG say about graduated compression stockings for her?",
+    option_a: "Recommended as first-line VTE prophylaxis",
+    option_b: "Should not be used",
+    option_c: "Recommended only with prophylactic LMWH",
+    option_d: "Recommended only if IPC is unavailable",
+    correct_option: "B",
+    explanation: "Rationale: In ischaemic stroke, elastic or graduated compression stockings should not be used (Level I, Grade A). The CLOTS 1 and 2 trials showed they do not prevent VTE or improve outcome, and they cause skin breaks, ulcers, blisters and necrosis. IPC plus routine care is the recommended method for immobile patients. The benefit of prophylactic heparin is not well established. Teaching point: Use IPC for immobile stroke patients. Do not use graduated compression stockings.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 8.1.11 (Deep vein thrombosis).",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 56-year-old man weighing 70 kg has a large right MCA infarct. On day 2 he becomes drowsier and CT shows midline shift. Neurosurgery is reviewing him for decompression. In the meantime, mannitol is prescribed. Which mannitol regimen matches the CPG?",
+    option_a: "0.25-0.5 g/kg IV over 20 minutes, every 6 hours, maximum 2 g/kg/day",
+    option_b: "1.5 g/kg IV bolus every 2 hours",
+    option_c: "2 g/kg IV once, then stop",
+    option_d: "0.1 g/kg orally every 4 hours",
+    correct_option: "A",
+    explanation: "Rationale: Mannitol 0.25-0.5 g/kg IV over 20 minutes lowers ICP and can be given every 6 hours, with a maximum daily dose of 2 g/kg. For him that is roughly 17.5-35 g per dose. Hyperventilation is a quick emergency measure: lowering PCO2 by 5-10 mmHg reduces ICP by 25-30%. CSF drainage helps when hydrocephalus is present. Decompression within 48 hours is the definitive step for a malignant infarct. Teaching point: Mannitol in stroke: 0.25-0.5 g/kg over 20 minutes, 6-hourly, maximum 2 g/kg/day.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 8.1.10 (Raised intracranial pressure).",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 63-year-old woman with a large right cerebellar infarct becomes drowsy on day 2 (GCS 11) with vomiting. CT shows effacement of the fourth ventricle, brainstem compression and dilated lateral ventricles. What is the most appropriate definitive management?",
+    option_a: "IV dexamethasone",
+    option_b: "Repeat CT in 24 hours",
+    option_c: "IV alteplase",
+    option_d: "Ventriculostomy and suboccipital decompressive craniectomy",
+    correct_option: "D",
+    explanation: "Rationale: The CPG states that ventriculostomy and suboccipital craniectomy are effective in relieving hydrocephalus and brainstem compression caused by large cerebellar infarctions. Steroids are not a treatment for ischaemic oedema. Waiting risks herniation, and thrombolysis has no role at this stage. Teaching point: Cerebellar infarct with hydrocephalus or brainstem compression: urgent EVD plus suboccipital decompression.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 8.1.10.",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 64-year-old man who was previously independent has a malignant left MCA infarct. He deteriorates 30 hours after onset. His family asks whether surgery is still possible at his age. What is the CPG position?",
+    option_a: "Decompressive craniectomy may be considered in selected patients over 60",
+    option_b: "Surgery is contraindicated over 60",
+    option_c: "Surgery is only possible beyond 72 hours",
+    option_d: "Only mannitol is appropriate over 60",
+    correct_option: "A",
+    explanation: "Rationale: Patients over 60 may be considered for decompressive craniectomy in selected cases (Level I, Grade A). Hemicraniectomy increased survival without severe disability in patients aged 61 or older, although most survivors needed help with daily care. That expected outcome should be discussed with the family. Surgery is done within 48 hours, and he is at 30 hours. Teaching point: Hemicraniectomy within 48 hours can be offered to selected patients over 60, after an honest discussion of disability.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 8.1.10 (Recommendations on decompressive surgery).",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 75-year-old woman 4 days after a stroke has urinary incontinence. An indwelling catheter was inserted in the ED and is still in place. She is now more alert. Which approach to bladder management matches the CPG?",
+    option_a: "Keep the catheter until discharge",
+    option_b: "Change the catheter weekly and continue it long term",
+    option_c: "Remove the catheter as soon as possible; check post-void residual with portable ultrasound; start bladder training",
+    option_d: "Start prophylactic antibiotics while the catheter is in",
+    correct_option: "C",
+    explanation: "Rationale: If a catheter is used, it should be assessed daily with excellent perineal care and removed as soon as possible. All stroke patients should be screened for retention and incontinence. Portable (non-invasive) ultrasound is recommended for post-void residual volume. A bladder training programme, including intermittent catheterisation guided by residual volume, should be started. Long-term catheters raise infection risk, and prophylactic antibiotics are not recommended. Teaching point: Remove urinary catheters early, use a bladder scanner, and start bladder training.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 8.1.9 (Continence).",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A hospital manager asks whether a dedicated stroke unit is worthwhile, since most of the hospital's stroke patients are over 75 with several comorbidities. What does the CPG state about the benefit of stroke units?",
+    option_a: "Benefit is limited to patients under 65",
+    option_b: "Benefit is only for patients who received thrombolysis",
+    option_c: "Benefit applies only to mild strokes",
+    option_d: "Benefit applies regardless of age, sex, comorbidity and stroke severity",
+    correct_option: "D",
+    explanation: "Rationale: Stroke units reduce death, dependency, institutionalisation and length of stay, and this benefit is independent of the patient's age, sex, comorbidities and stroke severity (Level I). The size of benefit is comparable to IV rtPA. Every hospital should set up a stroke unit run by a multidisciplinary team. Teaching point: Stroke units help every subgroup, with an effect size similar to thrombolysis.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 11.1 (Stroke unit).",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A hospital reviews its stroke quality report. One indicator concerns how quickly IV thrombolysis is started once CT brain begins. Which benchmark does the CPG set for this indicator?",
+    option_a: ">65% of patients treated within 35 minutes of CT initiation",
+    option_b: ">90% of patients treated within 60 minutes of CT initiation",
+    option_c: ">80% of patients treated within 20 minutes of CT initiation",
+    option_d: "100% of patients treated within 45 minutes of arrival",
+    correct_option: "A",
+    explanation: "Rationale: The CPG quality measure is that more than 65% of ischaemic stroke patients receiving IV thrombolysis are treated within 35 minutes of CT brain initiation (CT-to-needle time). Other measures include >90% imaged within 24 hours of ED presentation, >90% screened for dysphagia, >80% discharged on antiplatelets, and >80% of AF-related strokes anticoagulated or planned for anticoagulation. Teaching point: CT-to-needle under 35 minutes in more than 65% of thrombolysed patients is the CPG benchmark.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Chapter 17 (Quality assurance), Measure 1.",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 62-year-old woman with type 2 diabetes for 10 years attends clinic. She has no history of stroke, TIA, coronary or peripheral arterial disease. BP is 128/76 mmHg on perindopril, LDL-C is 2.0 mmol/l on atorvastatin, and HbA1c is 6.9%. She asks whether she should start daily aspirin to prevent a stroke. What is the most appropriate advice?",
+    option_a: "Start aspirin 75 mg daily",
+    option_b: "Start aspirin 300 mg daily",
+    option_c: "Aspirin is not recommended for primary prevention in her case",
+    option_d: "Start clopidogrel 75 mg daily instead",
+    correct_option: "C",
+    explanation: "Rationale: Daily aspirin is not recommended for primary prevention of stroke in diabetics, moderate-risk individuals or elderly patients, because the bleeding risk outweighs any benefit (Level I, Grade A). Clopidogrel has no primary-prevention role either. Her risk is better reduced by continuing BP, lipid and glycaemic control. Teaching point: There is no aspirin for primary stroke prevention, even in diabetes.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 5.4.10 (Medical therapy).",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 55-year-old man with type 2 diabetes and no previous stroke has clinic BP readings averaging 142/86 mmHg on amlodipine. He tolerates his medication well. What target BP does the CPG recommend for primary stroke prevention in a person with diabetes?",
+    option_a: "<150/90 mmHg",
+    option_b: "<140/90 mmHg",
+    option_c: "<135/85 mmHg",
+    option_d: "<130/80 mmHg, preferably <120 mmHg systolic if tolerated",
+    correct_option: "D",
+    explanation: "Rationale: The target BP for diabetics is <130 mmHg systolic and <80 mmHg diastolic, preferably <120 mmHg systolic if tolerated (Level I, Grade A). Tight BP control in diabetics reduces stroke incidence. By contrast, in high-risk non-diabetic hypertensives, intensive lowering below 120 mmHg caused excess adverse events without reducing stroke. Teaching point: For diabetics the target is <130/80 mmHg, and <120 mmHg systolic if tolerated.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 5.4.2 (Hypertension); Section 5.4.6.",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 54-year-old woman with troublesome menopausal symptoms has a strong family history of stroke. She asks whether combined oestrogen-progestogen HRT would also help protect her from stroke. What is the CPG position?",
+    option_a: "HRT is recommended for primary stroke prevention in women with a family history",
+    option_b: "HRT may increase stroke risk and is not recommended for primary stroke prevention",
+    option_c: "Oestrogen alone is recommended for stroke prevention",
+    option_d: "HRT halves stroke risk if started within 5 years of menopause",
+    correct_option: "B",
+    explanation: "Rationale: Post-menopausal hormone therapy may increase stroke risk and is not recommended for primary prevention (Level II, Grade B). The WHI oestrogen plus progestin study showed a 31% increase in stroke. HRT may still be considered for symptoms on its own merits, but not as stroke prevention. Teaching point: HRT does not prevent stroke. Combined HRT increased stroke by about 31% in the WHI trial.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 5.4.5.",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 47-year-old taxi driver with hypertension, BMI 29 kg/m2 and a sedentary lifestyle asks how much exercise he needs to reduce his stroke risk. Which recommendation matches the CPG?",
+    option_a: "More than 30 minutes daily or 150 minutes per week",
+    option_b: "20 minutes once a week",
+    option_c: "60 minutes of vigorous exercise only on weekends",
+    option_d: "10,000 steps per week",
+    correct_option: "A",
+    explanation: "Rationale: The CPG lifestyle recommendation is daily exercise of more than 30 minutes, or 150 minutes per week. It is combined with a diet rich in fruit and vegetables, no smoking, low to moderate alcohol and a BMI of 18.5-25 kg/m2. Increased physical activity is recommended for healthy and high-risk adults (Level I, Grade A). Teaching point: Do at least 150 minutes of activity per week and aim for a BMI of 18.5-25 kg/m2.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 5.4.1 (Lifestyle changes); Section 5.4.9 (Physical activity).",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 50-year-old woman with stage 1 hypertension wants to try dietary change before medication. She asks which eating pattern the CPG specifically recommends to reduce BP. Which diet is recommended at Level I, Grade A for lowering BP?",
+    option_a: "Ketogenic diet",
+    option_b: "Mediterranean diet with nuts",
+    option_c: "Intermittent fasting",
+    option_d: "DASH diet",
+    correct_option: "D",
+    explanation: "Rationale: The DASH diet, which is high in vegetables and fruit and low in saturated fat, is recommended to reduce BP (Level I, Grade A). The Mediterranean diet with olive oil or nuts is beneficial for stroke prevention, but the evidence level is lower (Level II, Grade B). Ketogenic diets and intermittent fasting are not CPG recommendations. Teaching point: DASH lowers BP (Grade A). Mediterranean and fruit-and-vegetable diets reduce stroke (Grade B).\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 5.4.8 (Dietary factors).",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 68-year-old man has a carotid bruit noted at a health screening. Duplex shows 80% stenosis of the right ICA. He has never had a TIA or stroke. He is on a statin and his BP is controlled. The local vascular surgeon's audited stroke and death rate is 2%. What is the most appropriate statement?",
+    option_a: "CEA is mandatory within 2 weeks",
+    option_b: "CEA is contraindicated in asymptomatic disease",
+    option_c: "Carotid stenting is the first-line option",
+    option_d: "CEA may be considered if surgical morbidity and mortality is <3%, after discussing risks",
+    correct_option: "D",
+    explanation: "Rationale: For high-grade (70-99%) asymptomatic stenosis, endarterectomy may be considered when the surgeon's morbidity and mortality is below 3% (Level I, Grade A). Selection should be careful, guided by comorbidity, life expectancy and preference, after discussing the risks. On medical therapy the annual stroke risk is about 2%, and CEA reduces it by about 1% per year. The 2-week urgency applies to symptomatic disease. Teaching point: Asymptomatic 70-99% stenosis: CEA may be considered if the surgeon's complication rate is <3%. Symptomatic disease: <6%.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 5.8.1 (Primary prevention).",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "An 84-year-old woman who is independent and cognitively intact has newly diagnosed hypertension, with repeated readings of 168/88 mmHg. Her family worry that treatment is pointless at her age. What does the CPG recommend?",
+    option_a: "Avoid treatment over 80 years",
+    option_b: "Treat the hypertension",
+    option_c: "Treat only if systolic BP is over 200 mmHg",
+    option_d: "Treat only if she has had a previous stroke",
+    correct_option: "B",
+    explanation: "Rationale: Newly diagnosed hypertension in the very elderly (over 80 years) should be treated (Level I, Grade B). For frail, multimorbid or cognitively impaired older people the approach is individualised, but she is fit. Age alone is not a reason to withhold treatment. Teaching point: Treat hypertension in the over-80s. Individualise targets for frailty.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 5.4.2; Section 12.3.1.",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 59-year-old man with a lacunar infarct has documented aspirin-induced angioedema. He is in sinus rhythm with no carotid stenosis. His NIHSS is 5, so he does not meet the minor-stroke DAPT criteria. Which is the most appropriate long-term antithrombotic?",
+    option_a: "Warfarin, INR 2-3",
+    option_b: "Clopidogrel 75 mg daily",
+    option_c: "Aspirin desensitisation, then aspirin 300 mg",
+    option_d: "No antithrombotic",
+    correct_option: "B",
+    explanation: "Rationale: Alternative antiplatelets can be used for aspirin allergy, failure, intolerance or contraindication. Clopidogrel 75 mg daily is slightly superior to aspirin 325 mg. Other options include ticlopidine 250 mg twice daily, triflusal 600 mg daily and cilostazol 100 mg twice daily. Warfarin is not indicated in sinus rhythm without a cardioembolic source. Small vessel disease needs long-term antiplatelet therapy. Teaching point: If aspirin is not possible, use clopidogrel 75 mg (or cilostazol 100 mg twice daily, triflusal 600 mg daily, or ticlopidine 250 mg twice daily). Warfarin has no role in sinus rhythm.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 5.5.1 (Anti-platelet therapy).",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 64-year-old woman has a second non-cardioembolic ischaemic stroke while taking aspirin. ECG and a 72-hour Holter show sinus rhythm. Echocardiography is normal. Her son asks whether she should be switched to warfarin because aspirin has \"failed\". What is the most appropriate advice?",
+    option_a: "Switch to warfarin, INR 2-3",
+    option_b: "Add warfarin to aspirin",
+    option_c: "Warfarin is not indicated; review the stroke mechanism and choose antiplatelet therapy",
+    option_d: "Switch to rivaroxaban",
+    correct_option: "C",
+    explanation: "Rationale: Warfarin is not indicated for secondary prevention in patients in sinus rhythm without other conditions that predispose to cardioembolism (Level I, Grade A). Recurrence on aspirin should prompt a review of the mechanism, risk factors and adherence, and a change to an alternative antiplatelet if appropriate. DOACs have no role in non-cardioembolic stroke. Rivaroxaban was not better than aspirin even in ESUS. Teaching point: \"Aspirin failure\" in sinus rhythm is not an indication for anticoagulation.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 5.5.1.",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 61-year-old man is reviewed 3 weeks after a minor ischaemic stroke. His BP is 128/80 mmHg off treatment. He asks why he needs a BP tablet if his BP is normal. What does the CPG recommend?",
+    option_a: "Start an ACE inhibitor-based regimen, as it reduces recurrence even in normotensives",
+    option_b: "BP treatment only if systolic is ≥140 mmHg",
+    option_c: "Beta-blocker monotherapy",
+    option_d: "No treatment until a second stroke",
+    correct_option: "A",
+    explanation: "Rationale: After the acute phase (2 weeks or more after stroke), ACE inhibitor-based therapy reduces recurrent stroke in both normotensive and hypertensive patients (Level I, Grade A). An ACE inhibitor with a thiazide was effective when started 2 weeks after the event. ARB-based therapy is effective in selected high-risk groups. BP lowering cuts stroke risk by about 30-40%. Teaching point: From 2 weeks after stroke, offer ACE inhibitor-based therapy even if BP is normal.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 5.5.2 (Anti-hypertensive treatment).",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 70-year-old woman is started on aspirin after an atherothrombotic stroke. The pharmacist queries the dose range. What dose range of aspirin does the CPG recommend after stroke?",
+    option_a: "10-50 mg daily",
+    option_b: "75-325 mg daily",
+    option_c: "500-1000 mg daily",
+    option_d: "300 mg twice daily long term",
+    correct_option: "B",
+    explanation: "Rationale: The recommended dose of oral aspirin after stroke is 75-325 mg daily (Level I, Grade A). Trials comparing doses found no difference in recurrence. Aspirin given within 48 hours reduces recurrent stroke and death, with an overall risk reduction of about 25%. Teaching point: Aspirin 75-325 mg daily. Higher doses add no benefit.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 5.5.1.",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 58-year-old man with a minor non-cardioembolic stroke is intolerant of aspirin and also had a severe rash with clopidogrel. The team looks for another antiplatelet supported by Asian sub-group data. Which statement about ticagrelor is consistent with the CPG?",
+    option_a: "It is superior to aspirin in all patients",
+    option_b: "It is contraindicated after stroke",
+    option_c: "It must always be combined with warfarin",
+    option_d: "It may be a reasonable alternative when aspirin is contraindicated",
+    correct_option: "D",
+    explanation: "Rationale: In SOCRATES, ticagrelor was not superior to aspirin overall, but the Asian sub-analysis showed a trend towards benefit and there was no significant safety difference. The CPG therefore says ticagrelor may be a reasonable alternative when aspirin is contraindicated (Level II, Grade B). Ticagrelor plus aspirin (in THALES) cut 30-day stroke or death in NIHSS ≤5 strokes and TIA, at the cost of more severe bleeding. Teaching point: Ticagrelor is an option when aspirin cannot be used, but it is not superior to aspirin.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 5.5.1 (Ticagrelor).",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 66-year-old woman had a right hemispheric TIA 5 weeks ago with full recovery. Carotid duplex and CTA show 60% stenosis of the left ICA. The local centre's audited perioperative stroke and death rate is 4%. What does the CPG say about carotid endarterectomy for her?",
+    option_a: "CEA may be indicated (Level III, Grade C)",
+    option_b: "CEA is not recommended, as stenosis is under 70%",
+    option_c: "CEA must be done within 48 hours",
+    option_d: "EC-IC bypass is preferred",
+    correct_option: "B",
+    explanation: "Rationale: The trap is laterality. Her TIA was right hemispheric, but the 60% stenosis is in the left ICA, which does not supply the symptomatic territory. That makes the stenosis asymptomatic for decision purposes. The CPG supports CEA for asymptomatic stenosis only at 70-99%, so CEA is not recommended at 60%. Had the stenosis been ipsilateral, CEA for 50-69% symptomatic disease within 180 days in a centre with <6% risk \"may be indicated\" (Level III). EC-IC bypass is not recommended. Teaching point: Always match the stenosis to the symptomatic hemisphere before applying the CEA thresholds.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 5.8.1 and 5.8.2 (Revascularisation procedures).",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 71-year-old man had a left hemispheric TIA 10 days ago. Duplex shows 40% stenosis of the left ICA. He asks about surgery. What is the most appropriate management?",
+    option_a: "Urgent CEA within 2 weeks",
+    option_b: "Carotid stenting",
+    option_c: "EC-IC bypass",
+    option_d: "Best medical therapy; CEA not recommended for stenosis under 50%",
+    correct_option: "D",
+    explanation: "Rationale: CEA is not recommended for carotid stenosis under 50% (Level I, Grade A). Management is medical: antiplatelet therapy (DAPT if he meets high-risk TIA criteria), statin to LDL-C 1.8 mmol/l, BP control and lifestyle change. Stenting is an alternative only where intervention is indicated but surgery is unsuitable. EC-IC bypass is not recommended. Teaching point: For symptomatic stenosis: <50% medical therapy, 50-69% CEA may be indicated, 70-99% CEA (ideally within 2 weeks).\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 5.8.2.",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 62-year-old man had radical neck dissection and radiotherapy for laryngeal cancer 6 years ago. He now has a left hemispheric TIA with 85% left ICA stenosis. The vascular surgeon considers his neck hostile for surgery. What does the CPG suggest?",
+    option_a: "Carotid artery stenting as an alternative",
+    option_b: "CEA regardless of neck anatomy",
+    option_c: "No revascularisation because of radiotherapy",
+    option_d: "EC-IC bypass",
+    correct_option: "A",
+    explanation: "Rationale: Carotid stenting is a feasible alternative to CEA for secondary prevention when surgery is undesirable, technically difficult or inaccessible, such as a hostile neck after radiation or dissection. Over 4 years, CAS and CEA gave similar death, stroke and MI outcomes, although periprocedural stroke was higher with CAS. Complex arch anatomy and ICA tortuosity raise CAS risk. EC-IC bypass is not recommended. Teaching point: Use stenting when CEA is technically difficult or unsuitable. Arch complexity and tortuosity increase stenting risk.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 5.9 (Angioplasty or stenting).",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 69-year-old woman is listed for left CEA 8 days after a TIA with 80% stenosis. She is on aspirin and atorvastatin. The surgical team asks whether aspirin should be stopped 7 days before surgery. What does the CPG recommend?",
+    option_a: "Stop aspirin 7 days before surgery",
+    option_b: "Stop aspirin and bridge with LMWH",
+    option_c: "Continue antithrombotic therapy before and after surgery",
+    option_d: "Switch to warfarin before surgery",
+    correct_option: "C",
+    explanation: "Rationale: Patients should stay on antithrombotic therapy before and after carotid surgery (Level II-2, Grade B). Stopping aspirin exposes her to recurrent stroke in the highest-risk early period. Bridging and warfarin are not indicated. Teaching point: Do not stop antiplatelets for CEA.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 5.8.2.",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 60-year-old man asks what his ongoing risk is after an ischaemic stroke with good recovery. According to the CPG, what is the approximate annual risk of recurrent stroke after stroke or TIA?",
+    option_a: "About 0.5% per year",
+    option_b: "About 5% per year",
+    option_c: "About 15% per year",
+    option_d: "About 25% per year",
+    correct_option: "B",
+    explanation: "Rationale: The risk of recurrent vascular events after stroke or TIA is about 5% per year for stroke, 3% per year for MI, and 7% per year for any of stroke, MI or vascular death. It is higher where the cerebrovascular atherosclerotic burden is high or there is ipsilateral high-grade (≥70%) carotid stenosis. In the early period, recurrence is 3-4% in the first month and 12% in the first year. Teaching point: After stroke, recurrence runs at about 5% per year, with 3-4% at 1 month and about 12% in the first year.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 5.5; Chapter 4 (Prognosis).",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 76-year-old man with permanent non-valvular AF, hypertension and diabetes (CHA2DS2-VASc 4) has been on aspirin 100 mg for 3 years \"because warfarin is dangerous\". His eGFR is 62 ml/min/1.73 m2 and he has no bleeding history. What is the most appropriate change to his stroke prevention?",
+    option_a: "Add clopidogrel to aspirin",
+    option_b: "Stop aspirin and start a DOAC",
+    option_c: "Increase aspirin to 300 mg",
+    option_d: "Continue aspirin alone",
+    correct_option: "B",
+    explanation: "Rationale: Antiplatelet monotherapy is not indicated for stroke prevention in NVAF (Level I, Grade A). OAC is superior to aspirin or no treatment, and is recommended for men with CHA2DS2-VASc ≥2. DOACs are preferred over VKA. Aspirin plus clopidogrel is still inferior to OAC and bleeds more. Raising the aspirin dose adds bleeding without protection. Teaching point: Aspirin is not stroke prevention in AF. Use OAC, preferably a DOAC.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 13.2; Key Recommendations 4 and 6 (Chapter 13).",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 48-year-old woman with rheumatic heart disease has AF and moderate-to-severe mitral stenosis (valve area 1.1 cm2). She had a left MCA TIA last week. She asks whether she can take apixaban, like her neighbour. Which anticoagulant is indicated?",
+    option_a: "Apixaban",
+    option_b: "Dabigatran",
+    option_c: "Warfarin",
+    option_d: "Aspirin plus clopidogrel",
+    correct_option: "C",
+    explanation: "Rationale: For valvular AF (moderate-to-severe mitral stenosis) and mechanical heart valves, the OAC of choice is a vitamin K antagonist (warfarin) (Level I, Grade A). DOACs are preferred only for non-valvular AF. Antiplatelets are not adequate prevention. The usual target INR is 2.5 (range 2.0-3.0). Teaching point: Use warfarin, not a DOAC, for AF with moderate-to-severe mitral stenosis or a mechanical valve.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 13.2.",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 72-year-old woman with newly found AF has a left MCA infarct (NIHSS 11 on admission). Repeat CT on day 2 shows no haemorrhagic transformation. She is stable. Using the 1-3-6-12 day rule, when should her DOAC start?",
+    option_a: "Day 1",
+    option_b: "Day 3",
+    option_c: "Day 6",
+    option_d: "Day 12",
+    correct_option: "C",
+    explanation: "Rationale: The CPG's 1-3-6-12 day rule (after haemorrhagic transformation has been excluded) is: TIA, day 1; mild stroke (NIHSS <8), day 3; moderate stroke (NIHSS 8-15), day 6; severe stroke (NIHSS ≥16), day 12. With NIHSS 11 she is moderate, so day 6. Aspirin can be considered until OAC starts. Teaching point: 1-3-6-12: TIA day 1, NIHSS <8 day 3, NIHSS 8-15 day 6, NIHSS ≥16 day 12.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 13.3 (1-3-6-12 day rule).",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 79-year-old man with known AF (anticoagulation stopped previously because of non-adherence) presents with a large right MCA infarct (NIHSS 18). There is no haemorrhagic transformation on day-3 CT. When should his DOAC be started?",
+    option_a: "Day 1",
+    option_b: "Day 3",
+    option_c: "Day 6",
+    option_d: "Day 12",
+    correct_option: "D",
+    explanation: "Rationale: NIHSS ≥16 is a severe stroke, so a DOAC starts on day 12 under the 1-3-6-12 rule, once haemorrhagic transformation is excluded. Urgent anticoagulation is specifically not recommended for moderate-to-large infarcts because of the high risk of intracranial bleeding. Teaching point: Severe AF stroke (NIHSS ≥16): wait about 12 days before starting OAC.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 13.3; Table 5.5.",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 68-year-old woman with AF has a moderate cardioembolic stroke. The house officer suggests full-dose subcutaneous enoxaparin from day 1 to \"cover her\" until the DOAC starts. What is the CPG position on parenteral anticoagulation here?",
+    option_a: "Not recommended to prevent secondary stroke",
+    option_b: "Recommended from day 1",
+    option_c: "Recommended only for NIHSS above 15",
+    option_d: "Recommended with aspirin",
+    correct_option: "A",
+    explanation: "Rationale: After a cardioembolic stroke, parenteral anticoagulation (heparin or LMWH) is not recommended to prevent secondary stroke (Level I, Grade A). Urgent routine anticoagulation does not improve neurological outcome or prevent early recurrence, and it raises the bleeding risk. Aspirin can be considered before OAC starts. Teaching point: Do not bridge with heparin after an AF stroke. Use aspirin until the DOAC start day.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 13.3; Table 5.5.",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 74-year-old man with NVAF and stable coronary disease (PCI 4 years ago, no events since) is starting apixaban after a TIA. He is already on aspirin and asks whether he should continue both. What does the CPG highlight about this combination?",
+    option_a: "It is mandatory for all patients with AF and CAD",
+    option_b: "It reduces bleeding compared with OAC alone",
+    option_c: "Bleeding risk is high with OAC plus antiplatelet, so the combination should be avoided unless specifically indicated",
+    option_d: "Aspirin should replace apixaban",
+    correct_option: "C",
+    explanation: "Rationale: The CPG notes that bleeding risk is high after starting OAC with an antiplatelet for secondary stroke prevention. With stable CAD more than a year after PCI and no recent events, OAC alone is usually adequate. Aspirin is not a substitute for OAC in AF. Teaching point: OAC plus antiplatelet means more bleeding. Reserve it for clear indications such as recent ACS or a stent.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 13.3.",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 70-year-old woman with NVAF (CHA2DS2-VASc 5) had a warfarin-related lobar ICH 3 weeks ago. Her INR was 4.8 at the time because of an antibiotic interaction. BP is now controlled. She is recovering well. When could oral anticoagulation be restarted, according to the CPG?",
+    option_a: "Never",
+    option_b: "After 48 hours",
+    option_c: "After 4-8 weeks, if the cause and risk factors are treated",
+    option_d: "After 12 months",
+    correct_option: "C",
+    explanation: "Rationale: After intracranial haemorrhage, OAC could be restarted after 4-8 weeks in an NVAF patient with a high CHA2DS2-VASc score if the underlying cause and bleeding risk factors have been treated (Level II, Grade B). Her bleed had a correctable cause (supratherapeutic INR from an interaction) and her BP is controlled. A DOAC is preferred. Teaching point: Restart OAC 4-8 weeks after ICH in high-risk AF once the cause is corrected.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 13.3.",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 66-year-old man with a mechanical mitral valve is on warfarin. His INR log over 6 months shows that 52% of readings were in range. What target for time in therapeutic range (TTR) does the CPG set?",
+    option_a: ">50%",
+    option_b: ">60%",
+    option_c: ">70%",
+    option_d: ">90%",
+    correct_option: "C",
+    explanation: "Rationale: Patients on VKA should have regular INR monitoring with a TTR above 70%. At 52% his control is inadequate. Causes such as adherence, interactions, diet and alcohol should be addressed. A DOAC cannot replace warfarin here because of the mechanical valve. Teaching point: The warfarin TTR target is >70%. Mechanical valves stay on warfarin.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Key Recommendation 5 (Chapter 13).",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 77-year-old woman on dabigatran presents with a large ICH. Her last dose was 3 hours ago. aPTT is prolonged. What is the specific reversal agent and dose?",
+    option_a: "Vitamin K 10 mg IV",
+    option_b: "Protamine 50 mg IV",
+    option_c: "Andexanet alfa",
+    option_d: "Idarucizumab 5 g IV (two infusions of 2.5 g)",
+    correct_option: "D",
+    explanation: "Rationale: Dabigatran is reversed specifically by idarucizumab 5 g IV, given as two 2.5 g infusions. Andexanet alfa is for factor Xa inhibitors (rivaroxaban, apixaban), and was not available when the CPG was written. Vitamin K reverses warfarin and protamine reverses heparin. General measures include activated charcoal if ingestion was within 2 hours, and haemodialysis (for dabigatran only). Teaching point: Dabigatran → idarucizumab 5 g; Xa inhibitors → andexanet; warfarin → vitamin K + PCC.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 13.4 (General measures for DOACs in bleeding).",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 67-year-old man has a right parietal cortical infarct. Admission ECG shows sinus rhythm. CTA shows no significant carotid or intracranial stenosis. Which investigation does the CPG specify to detect paroxysmal AF?",
+    option_a: "72-hour Holter monitor",
+    option_b: "Exercise treadmill test",
+    option_c: "Repeat 12-lead ECG at discharge only",
+    option_d: "Coronary angiography",
+    correct_option: "A",
+    explanation: "Rationale: All stroke and TIA patients need a 12-lead ECG, and a 72-hour Holter is required to detect paroxysmal AF. Patients under 45 and those with no apparent cause on baseline tests also need a transthoracic echo, with TOE if suspicion of cardioembolism remains. An embolic-looking cortical infarct with clean vessels makes occult AF a key concern. Teaching point: After stroke: 12-lead ECG for all, then 72-hour Holter for paroxysmal AF.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 13.1.",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 44-year-old woman has a cryptogenic left MCA branch infarct. Her TTE is normal. The team still suspects a cardiac source. For which finding is TOE superior to TTE, according to the CPG?",
+    option_a: "LV ejection fraction",
+    option_b: "Left atrial appendage thrombus",
+    option_c: "Pericardial effusion",
+    option_d: "LV hypertrophy",
+    correct_option: "B",
+    explanation: "Rationale: TOE is superior to TTE for detecting thrombi in the left atrium and left atrial appendage, PFO, atrial septal aneurysm and aortic arch atheroma. LV function, hypertrophy and effusion are adequately assessed by TTE. Teaching point: Request TOE for LA/LAA thrombus, PFO, atrial septal aneurysm and arch atheroma.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 13.1.",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 57-year-old man has an embolic stroke 3 weeks after a large anterior STEMI. Echo shows apical akinesia with a mobile LV thrombus. He is in sinus rhythm. What anticoagulation does the CPG suggest?",
+    option_a: "Aspirin alone",
+    option_b: "DAPT for 21 days",
+    option_c: "No anticoagulation",
+    option_d: "Warfarin for 6-12 months",
+    correct_option: "D",
+    explanation: "Rationale: For MI with LV thrombus, the CPG suggests considering warfarin for 6-12 months (target INR 2.5, range 2.0-3.0). With high-risk features but no thrombus, warfarin for 3-6 months followed by aspirin is suggested. Dilated cardiomyopathies (including peripartum) may need lifelong warfarin. Antiplatelets alone do not treat LV thrombus. Teaching point: LV thrombus after MI: warfarin for 6-12 months. No thrombus but high risk: 3-6 months.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 5.7, Table 5.4 (Cardiac conditions predisposing to ischaemic stroke).",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 49-year-old man has a non-lacunar cortical infarct. CTA shows no stenosis over 50%. Echo, ECG and a 72-hour Holter show no major cardiac source. No other cause is found. What is the most appropriate long-term management?",
+    option_a: "Long-term antiplatelet with prolonged ambulatory ECG monitoring",
+    option_b: "Rivaroxaban, as it is superior to aspirin in ESUS",
+    option_c: "Warfarin, INR 2-3",
+    option_d: "No antithrombotic",
+    correct_option: "A",
+    explanation: "Rationale: He fits ESUS: a non-lacunar infarct, no ≥50% stenosis in the supplying artery, no major-risk cardiac source and no other cause. Management is long-term antiplatelet therapy. There is no evidence for anticoagulants: rivaroxaban was not superior to aspirin and caused more bleeding. Prolonged monitoring matters because occult AF is found in about 25% of ESUS. Teaching point: ESUS: antiplatelet therapy, not empirical anticoagulation. Look hard for occult AF.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 14.2 (ESUS); Table 14.3.",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 38-year-old woman has a cortical infarct. Full work-up including vascular imaging, 72-hour Holter, thrombophilia screen and leg Doppler is unremarkable. TOE shows a PFO with an atrial septal aneurysm and a large right-to-left shunt. What is the most appropriate secondary prevention?",
+    option_a: "Warfarin, INR 2-3, lifelong",
+    option_b: "PFO closure plus antiplatelet therapy",
+    option_c: "Rivaroxaban",
+    option_d: "No treatment, as PFO is common in the general population",
+    correct_option: "B",
+    explanation: "Rationale: PFO closure has moderate benefit in young and middle-aged patients with cryptogenic stroke, and closure combined with antiplatelet therapy is recommended (Level I). An associated atrial septal aneurysm or large shunt further favours closure, although closure is associated with more AF. Anticoagulation is reserved for patients who also have a venous source of embolism. Teaching point: Cryptogenic stroke with PFO in a younger patient: closure plus antiplatelet therapy.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 14.3 (PFO).",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 41-year-old man who recently flew long-haul has a right MCA infarct. TOE shows a PFO with right-to-left shunt. Lower limb ultrasound shows a left popliteal DVT. What is the most appropriate antithrombotic approach?",
+    option_a: "Antiplatelet alone",
+    option_b: "Urgent PFO closure, then aspirin alone",
+    option_c: "Anticoagulation, timed according to stroke characteristics",
+    option_d: "IVC filter as first-line",
+    correct_option: "C",
+    explanation: "Rationale: For stroke or TIA patients with both a PFO and a venous source of embolism, anticoagulation is indicated, depending on the characteristics of the stroke (Level I). The timing depends on infarct size and the risk of haemorrhagic transformation. An IVC filter is considered only when anticoagulation is contraindicated. PFO closure may be considered later depending on the risk of recurrent DVT. Teaching point: PFO plus DVT means paradoxical embolism: anticoagulate. Use an IVC filter only if anticoagulation is contraindicated.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 14.3.",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 36-year-old woman develops left neck pain and a left Horner's syndrome after a chiropractic manipulation. Two days later she has right hand weakness. MRI shows a small left MCA infarct and an intramural haematoma of the left ICA. What is the management approach for arterial dissection listed in the CPG?",
+    option_a: "Antiplatelet treatment, with endovascular treatment in selected cases",
+    option_b: "Long-term warfarin for all",
+    option_c: "Immunosuppression",
+    option_d: "Supportive care only",
+    correct_option: "A",
+    explanation: "Rationale: Arterial dissection, whether spontaneous or after trauma, is a leading cause of stroke in young adults. The CPG's Table 14.1 lists its management as antiplatelet treatment, with endovascular treatment where needed. Immunosuppression is for primary vasculitis, and supportive care alone is listed for illicit-drug-related stroke. Teaching point: Dissection: antiplatelet therapy, with endovascular treatment for selected cases.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 14.2, Table 14.1.",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 42-year-old man has migraine with aura, recurrent subcortical lacunar infarcts and early cognitive decline. His mother developed dementia in her 50s. MRI shows confluent white matter hyperintensities involving the anterior temporal poles. Which test is most likely to confirm the diagnosis?",
+    option_a: "Plasma α-galactosidase A activity",
+    option_b: "Serum and CSF lactate/pyruvate ratio",
+    option_c: "NOTCH3 mutation analysis",
+    option_d: "MTHFR gene polymorphism",
+    correct_option: "C",
+    explanation: "Rationale: Migraine, recurrent small-vessel strokes, early dementia, an autosomal dominant family history and anterior temporal white matter changes point to CADASIL, which is caused by NOTCH3 mutations. α-Gal activity tests for Fabry disease. Lactate and pyruvate test for MELAS. MTHFR relates to hyperhomocysteinaemia. Management of small vessel disease is long-term antiplatelet therapy. Teaching point: CADASIL is diagnosed by NOTCH3 testing. Fabry by α-gal, MELAS by lactate, and RVCL by TREX1.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Table 14.1; Section 14.4 (Investigation of young stroke).",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 19-year-old man with sickle cell anaemia has an ischaemic stroke. He recovers well. The haematologist asks about long-term prevention. What does the CPG recommend?",
+    option_a: "Lifelong warfarin",
+    option_b: "Aspirin alone",
+    option_c: "Hydroxocobalamin injections",
+    option_d: "Long-term transfusion to keep HbS below 30% of total haemoglobin",
+    correct_option: "D",
+    explanation: "Rationale: For sickle cell disease with a previous ischaemic stroke or TIA, long-term blood transfusion to reduce HbS to under 30% of total haemoglobin is recommended (Level I, Grade B). Anticoagulation has no role, and B12 is irrelevant. Teaching point: Sickle cell stroke: chronic transfusion to keep HbS <30%.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Table 14.3 (Treatment of stroke in certain circumstances).",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 51-year-old woman has a lacunar stroke. Fasting homocysteine is moderately raised. She asks whether vitamins will prevent another stroke. What does the CPG state about folate, B6 and B12 supplements?",
+    option_a: "They lower homocysteine but have not been shown to prevent stroke",
+    option_b: "They prevent recurrent stroke and replace aspirin",
+    option_c: "They are contraindicated after stroke",
+    option_d: "They are only effective given intravenously",
+    correct_option: "A",
+    explanation: "Rationale: In adults with recent stroke or TIA and mild to moderate hyperhomocysteinaemia, folate, B6 and B12 safely lower homocysteine but have not been shown to prevent stroke (Level III, Grade B). VITATOPS showed no overall secondary-prevention benefit. She still needs antiplatelet therapy, statin and BP control. Teaching point: B vitamins fix the homocysteine level but do not prevent stroke. Keep standard secondary prevention.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Table 14.3; Table 16.1.",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 29-year-old woman on the combined pill has 5 days of worsening headache, then a focal seizure and right leg weakness. CT shows a small left parasagittal haemorrhagic venous infarct. CT venography shows superior sagittal sinus thrombosis. What is the most appropriate initial treatment?",
+    option_a: "Avoid anticoagulation because of the haemorrhage",
+    option_b: "Therapeutic LMWH despite the haemorrhage",
+    option_c: "Dabigatran",
+    option_d: "Systemic thrombolysis",
+    correct_option: "B",
+    explanation: "Rationale: Adults with acute CVT should be treated with therapeutic heparin, including those with ICH at baseline (Level I, Grade B). LMWH is preferred to UFH unless fast reversal is needed or LMWH is contraindicated. DOACs are not recommended, especially in the acute phase. Thrombolysis is not recommended for low-risk patients. She also needs an AED for a supratentorial lesion with seizures, and should stop the pill. Teaching point: In CVT, a haemorrhagic venous infarct is not a contraindication. Give therapeutic LMWH.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 14.5, Table 14.5.",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 34-year-old man with transverse sinus thrombosis has improved on LMWH. Thrombophilia testing is pending. No permanent risk factor has been found so far. What long-term anticoagulation does the CPG recommend?",
+    option_a: "Lifelong warfarin",
+    option_b: "DOAC for 6 weeks",
+    option_c: "Aspirin only",
+    option_d: "VKA for 3-12 months",
+    correct_option: "D",
+    explanation: "Rationale: Oral anticoagulation with a VKA for a variable period (3-12 months) after CVT is recommended to prevent recurrent CVT and other VTE. Permanent anticoagulation is for recurrent venous thrombosis or a high-risk prothrombotic condition. DOACs are not recommended in the CPG, particularly in the acute phase. Routine thrombophilia screening does not improve outcomes, but it may be done when pre-test probability is high. Teaching point: After CVT: VKA for 3-12 months. Lifelong treatment only for recurrence or severe thrombophilia.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Table 14.5; Table 14.4.",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 31-year-old woman at 24 weeks' gestation develops sudden left arm and face weakness. She is haemodynamically stable. The obstetric registrar asks for the preferred imaging. Which imaging modality does the CPG recommend for investigating stroke in pregnancy?",
+    option_a: "MRI brain with gadolinium",
+    option_b: "MRI brain without gadolinium",
+    option_c: "Contrast-enhanced CT with CTP",
+    option_d: "Cerebral DSA",
+    correct_option: "B",
+    explanation: "Rationale: MRI brain without gadolinium contrast is the modality of choice for stroke in pregnancy. Antenatal MRI is not associated with fetal harm, but antenatal gadolinium exposure was linked to stillbirth, neonatal death and skin conditions in one study. MRI should only be used when it answers the clinical question and benefits the mother. Teaching point: Stroke in pregnancy: MRI without gadolinium.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 15.2.",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 33-year-old woman at 18 weeks' gestation has a small arterial ischaemic stroke with no high-risk cardiac or thrombophilic condition. The team chooses antiplatelet prevention. Which antiplatelet does the CPG permit?",
+    option_a: "Aspirin up to 150 mg daily",
+    option_b: "Clopidogrel 75 mg daily",
+    option_c: "Ticagrelor 90 mg twice daily",
+    option_d: "Cilostazol 100 mg twice daily",
+    correct_option: "A",
+    explanation: "Rationale: Aspirin up to 150 mg daily is well tolerated in pregnancy. In patients with well-defined low-risk conditions, no antiplatelet other than aspirin should be prescribed. Low-risk patients may instead have UFH or LMWH in the first trimester, then low-dose aspirin in the second and third trimesters. Aspirin can be continued through induced labour. Statins should be stopped before conception and throughout pregnancy. Teaching point: Aspirin is the only antiplatelet in pregnancy, at up to 150 mg daily.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 15.3, Table 15.1.",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "An 88-year-old woman who lives independently and walks with a stick (Clinical Frailty Scale 4) presents 2 hours after onset of aphasia and right hemiparesis (NIHSS 12). CT is normal. Her son asks whether she is \"too old\" for clot-busting treatment. What is the most appropriate answer?",
+    option_a: "IVT is contraindicated over 85",
+    option_b: "IVT is only for patients under 80",
+    option_c: "There is no upper age limit; older people benefit if they meet the criteria",
+    option_d: "Only half-dose alteplase is allowed over 80",
+    correct_option: "C",
+    explanation: "Rationale: Older patients benefit from thrombolysis at least as much as those under 80, so there is no upper age limit, particularly within the first 3 hours. An older person should receive and can benefit from IVT (Level I, Grade A). All older people should be screened for frailty with a validated tool (for example the Clinical Frailty Scale) to tailor care, but age alone does not exclude anyone. The dose stays at 0.9 mg/kg. Teaching point: Age alone never excludes reperfusion. Assess frailty and function instead.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 12.1; Section 12.2.1.",
+    tag: "CPG Ischaemic Stroke 2020"
+  },
+  {
+    question_text: "A 70-year-old man is assessed 2 days after a stroke. He is orientated and was independent before (Barthel 20/20). He can lift his affected arm against gravity and can walk with help. Which set of variables does the CPG describe as predicting independent survival at 3 and 12 months?",
+    option_a: "Age <75, verbal GCS orientated, arm power, ability to walk and pre-stroke Barthel ≥12",
+    option_b: "Sex, smoking, cholesterol, BMI and alcohol",
+    option_c: "NIHSS, infarct volume, glucose, BP and atrial fibrillation",
+    option_d: "HbA1c, eGFR, LDL-C, troponin and CRP",
+    correct_option: "A",
+    explanation: "Rationale: The CPG lists five variables that predict independent survival at 3 and 12 months: age <75, orientated verbal GCS, arm power, ability to walk, and pre-stroke independence (Barthel ≥12/20). The other options are risk factors or acute markers, not this validated set. Lacunar infarcts carry the lowest mortality. Brainstem, large hemispheric and cardioembolic strokes carry a poor prognosis. Teaching point: The five predictors are age, verbal GCS, arm power, walking and pre-stroke Barthel.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 4.1 (Survival after stroke).",
+    tag: "CPG Ischaemic Stroke 2020"
   }
 ];
