@@ -1,7 +1,7 @@
 # Management of Ischaemic Stroke (3rd Edition, 2020): 42 MCQs, Part 2 (Acute Care and Reperfusion)
 
 **Source:** Ministry of Health Malaysia / Academy of Medicine Malaysia, *Clinical Practice Guidelines: Management of Ischaemic Stroke*, 3rd Edition (2020, v2023-04-03).
-**Format:** 42 single-best-answer questions, 4 options (A-D), MRCP Part 1 style with layered reasoning. They add to the 16 Ischaemic Stroke questions already on the site and do not repeat their topics.
+**Format:** 42 single-best-answer questions, 4 options (A-D), MRCP Part 1 style. Each vignette needs two or three reasoning steps. Options are homogeneous, and each distractor catches a specific error. These add to the 16 Ischaemic Stroke questions already on the site.
 **Note:** Every fact is taken from the CPG text. Practice use only, not for real patient care.
 
 ---
@@ -11,286 +11,286 @@
 ### Q1
 **Topic:** Stroke mimic on scene
 
-A 67-year-old woman with type 2 diabetes on gliclazide is found by paramedics confused, with slurred speech and right arm weakness. Her husband says she was well 40 minutes ago. BE-FAST is positive. Airway, breathing and circulation are stable.
+A 67-year-old woman is found by paramedics at home, confused, with slurred speech and weakness of the right arm. Her husband says she was well 40 minutes earlier, after skipping lunch. She takes metformin, gliclazide and amlodipine. She is sweaty, pulse 104/min and regular, BP 158/90 mmHg, SpO2 97%. BE-FAST is positive.
 
-**Apart from recording the time of onset, which on-scene check is most important before transport?**
+**Which on-scene action is the most important before she is transported?**
 
 A. 12-lead ECG
-B. Capillary blood glucose
-C. Pupillary light reflexes
-D. Core temperature
+B. Capillary glucose
+C. Aspirin 300 mg
+D. Oxygen via nasal cannula
 
 **Answer:** B
 
-**Explanation:** The CPG states that pre-hospital responders should be trained to recognise hypoglycaemia as a stroke mimic and treat it according to protocol. A patient on a sulphonylurea with focal deficits is a classic mimic. An ECG, pupils and temperature are useful but do not identify a mimic that can be reversed immediately.
+**Explanation:** A sulphonylurea, a missed meal, sweating and tachycardia all suggest hypoglycaemia, the classic stroke mimic. The CPG requires pre-hospital responders to recognise hypoglycaemia and treat it according to protocol. An ECG does not change immediate management. Aspirin must never be given before imaging excludes haemorrhage. Oxygen is indicated only if SpO2 is below 95%.
 
-**Teaching point:** Check blood glucose in every suspected stroke, both on scene and on arrival at the ED. Correct hypoglycaemia immediately.
+**Teaching point:** Check glucose in every suspected stroke, first on scene and again in the ED.
 
 **Reference:** CPG Section 7.1.3 (Initial on-scene management); Section 7.2.2.
 
 ---
 
 ### Q2
-**Topic:** Where to take the patient
+**Topic:** Destination decision
 
-A 58-year-old man develops sudden left hemiparesis and dysarthria at 10:00. Paramedics reach him at 10:25. The nearest district hospital (15 minutes away) has no CT scanner. A stroke-ready hospital with CT and thrombolysis is 35 minutes away.
+A 58-year-old man develops sudden left facial droop, left arm weakness and dysarthria at 10:00. Paramedics reach him at 10:25. He takes no anticoagulant. There are three possible destinations: a district hospital 15 minutes away with no CT scanner; a stroke-ready hospital 35 minutes away with CT and thrombolysis; and a comprehensive stroke centre 2 hours away.
 
-**What is the most appropriate transport decision?**
+**Which is the most appropriate destination?**
 
-A. Nearest district hospital for stabilisation, then transfer
-B. Nearest district hospital for aspirin and admission
-C. Comprehensive stroke centre 2 hours away for thrombectomy
-D. Stroke-ready hospital with a pre-arrival stroke alert
+A. District hospital, then transfer
+B. Comprehensive stroke centre directly
+C. Stroke-ready hospital, pre-alerted
+D. District hospital for admission only
 
-**Answer:** D
+**Answer:** C
 
-**Explanation:** Patients with positive stroke signs within the 4.5-hour thrombolysis window should be taken rapidly to an acute stroke-ready hospital, and the receiving hospital should get a pre-arrival notification. A hospital without CT cannot assess him for reperfusion, and aspirin must not be given before haemorrhage is excluded. Bypassing a nearby thrombolysis centre for a distant thrombectomy centre would delay IVT. Under the drip-and-ship model, IVT can be started first and the patient transferred for EVT if needed.
+**Explanation:** He is within the 4.5-hour window, so he should go quickly to the nearest acute stroke-ready hospital, and the receiving hospital should get a pre-arrival stroke alert. A hospital without CT cannot assess him for reperfusion. Going straight to the distant centre would delay IVT. With drip and ship, IVT can be started at the stroke-ready hospital and he can be transferred for EVT if an LVO is found.
 
-**Teaching point:** Within the 4.5-hour window, divert to a stroke-ready hospital (one that can scan and thrombolyse) and send a stroke alert ahead.
+**Teaching point:** Within 4.5 hours, take the patient to a hospital that can scan and thrombolyse, and send a stroke alert ahead.
 
-**Reference:** CPG Section 7.1.3 and 7.1.4; Section 9.2 (Regional stroke referral system).
+**Reference:** CPG Section 7.1.3-7.1.4; Section 9.2 (Regional stroke referral system).
 
 ---
 
 ### Q3
 **Topic:** Oxygen in acute stroke
 
-A 72-year-old woman arrives at the ED with right hemiparesis and aphasia. She is alert and her airway is protected. Respiratory rate is 16/min and SpO2 is 97% on room air. The nurse asks about oxygen.
+A 72-year-old woman with COPD arrives with right hemiparesis and expressive dysphasia that began 1 hour ago. She is alert. RR is 18/min and SpO2 is 96% on air. Her chest is quiet with scattered wheeze. A blood gas is not yet available.
 
-**What is the most appropriate oxygen management?**
+**What is the most appropriate oxygen prescription?**
 
-A. No supplemental oxygen; continue SpO2 monitoring
-B. 2 l/min nasal cannula for all acute strokes
-C. 15 l/min via non-rebreather mask for 24 hours
-D. Hyperbaric oxygen once the CT is done
+A. Nasal oxygen 2 l/min
+B. Venturi mask 28%
+C. Reservoir mask 15 l/min
+D. No supplemental oxygen
 
-**Answer:** A
+**Answer:** D
 
-**Explanation:** The CPG recommends supplemental oxygen only when SpO2 is below 95%, titrated to keep it above 95%. At 97% she needs monitoring but no oxygen. Routine low-flow or high-flow oxygen has no benefit when the patient is not hypoxic, and hyperbaric oxygen is not a recommended treatment.
+**Explanation:** The CPG recommends supplemental oxygen only when SpO2 is below 95%, titrated to above 95%. At 96% she needs monitoring but no oxygen. Her COPD tempts a controlled-oxygen prescription, but none is needed at this saturation. High-flow oxygen gives no benefit and could cause hypercapnia.
 
-**Teaching point:** In acute stroke, give oxygen only if SpO2 is <95%, and titrate it to >95%.
+**Teaching point:** In acute stroke, give oxygen only if SpO2 is below 95%, whatever the comorbidity.
 
 **Reference:** CPG Section 8.1.1; Section 7.2.4.
 
 ---
 
 ### Q4
-**Topic:** Door-to-CT benchmark
+**Topic:** Recent factor Xa inhibitor
 
-A stroke team audits one thrombolysis case. The patient arrived at the ED at 08:00, was seen by the medical officer at 08:08, had the neurology consult at 08:14, started CT brain at 08:35 and received the alteplase bolus at 08:55.
+A 66-year-old man presents 2 hours after onset of aphasia and right hemiparesis (NIHSS 10). He takes rivaroxaban for AF, but says he stopped it 3 days ago (about 60 hours before onset) because of a dental extraction. Creatinine is 84 µmol/l, platelets 230 x10^9/l, INR 1.1. Non-contrast CT is normal and CTA shows no large vessel occlusion.
 
-**Which NIH-recommended response time was breached?**
+**What is the most appropriate management?**
 
-A. Door to doctor
-B. Door to neurology consult
-C. Door to CT
-D. Door to needle
+A. IV alteplase 0.9 mg/kg
+B. Andexanet, then alteplase
+C. Aspirin 300 mg only
+D. Therapeutic enoxaparin
 
-**Answer:** C
+**Answer:** A
 
-**Explanation:** The targets are door to doctor ≤10 min, door to neuro consult ≤15 min, door to CT ≤25 min, door to needle ≤60 min and door to groin ≤120 min. CT started at 35 minutes, which is beyond 25 minutes. The other intervals (8, 14 and 55 minutes) were met.
+**Explanation:** IVT may be considered when the patient has not taken a DOAC for more than 48 hours and renal function is normal, or when the relevant laboratory tests are normal. Both conditions are met here, and he has a disabling deficit within 4.5 hours, so he should be treated. Reversal is unnecessary, and andexanet was not available when the CPG was written. Aspirin alone, or heparin, would deny him reperfusion.
 
-**Teaching point:** The NIH times are 10 (doctor), 15 (neuro), 25 (CT), 60 (needle) and 120 (groin) minutes.
+**Teaching point:** If the last DOAC dose was more than 48 hours ago and renal function is normal, IVT can be considered.
 
-**Reference:** CPG Section 9.2 (Recommended NIH emergency response time for AIS).
+**Reference:** CPG Section 9.4.1 (V).
 
 ---
 
 ### Q5
-**Topic:** Swallow screening before oral drugs
+**Topic:** First oral drug after admission
 
-A 63-year-old man is admitted with a left MCA infarct. He is outside the window for any reperfusion treatment. CT excludes haemorrhage. He has mild dysarthria and a wet voice after sips. The doctor wants to give oral aspirin 300 mg.
+A 63-year-old man is admitted 9 hours after waking with a left MCA infarct. He is not eligible for any reperfusion treatment. CT shows no haemorrhage. He has mild dysarthria and a moist voice, and coughs after sips of water from the jug left at his bedside. The house officer prescribes oral aspirin 300 mg.
 
-**What should happen before any oral medication is given?**
+**What is the most appropriate next step?**
 
-A. Give the aspirin crushed in water
-B. Bedside swallow screen (water swallow test)
-C. Insert a PEG tube
-D. Wait 7 days before giving any oral intake
+A. Give the aspirin dispersed in water
+B. Formal bedside swallow screen
+C. Defer aspirin for 7 days
+D. Refer for PEG insertion
 
 **Answer:** B
 
-**Explanation:** Swallowing ability should be screened as early as possible after arrival and before any oral food, fluid or medication is given. If he fails the water swallow test, a nasogastric tube is inserted. Giving crushed aspirin orally before screening risks aspiration. PEG is reserved for prolonged feeding. The 7-day figure is the deadline for starting enteral feeding, not a delay before swallow assessment.
+**Explanation:** Coughing after sips and a wet voice suggest unsafe swallowing. The CPG requires a swallow screen as soon as possible and before any oral food, fluid or medication. If he fails, an NG tube is inserted and aspirin is given by that route. Dispersible aspirin by mouth still risks aspiration. Seven days is the limit for starting enteral feeding, not a reason to delay antiplatelet therapy. PEG is only for prolonged feeding.
 
-**Teaching point:** Screen swallowing before any oral food, fluid or medication; insert an NG tube if the screen is failed.
+**Teaching point:** Screen swallowing before the first oral drug. If the screen is failed, use an NG tube rather than waiting.
 
 **Reference:** CPG Section 7.2.4; Section 8.1.6 (Nutrition).
 
 ---
 
 ### Q6
-**Topic:** Thrombolysis by telemedicine
+**Topic:** Lacunar syndrome and vessel imaging
 
-A district hospital has a CT scanner and alteplase but no in-house neurologist or neuroradiologist. A 61-year-old woman presents 90 minutes after onset of a disabling right hemiparesis.
+A 61-year-old woman presents 2 hours after onset of weakness of the left face, arm and leg in equal measure. She has no dysphasia, neglect, visual field loss or sensory loss, and no brainstem signs. NIHSS is 5 and the deficit is disabling for her work. Non-contrast CT is normal. BP is 172/94 mmHg and bloods are normal.
 
-**According to the CPG, how should the eligibility decision for IVT be supported?**
+**What is the most appropriate next step?**
 
-A. Transfer her untreated to the neurology centre 3 hours away
-B. Give aspirin and observe for 24 hours
-C. Tele-stroke consultation to speed up the decision and treatment
-D. Repeat CT in 6 hours to confirm infarction
+A. CT angiography before any treatment
+B. CT perfusion to define penumbra
+C. IV alteplase without delay
+D. Dual antiplatelet therapy
 
 **Answer:** C
 
-**Explanation:** The CPG states that tele-stroke can benefit sites without in-house neurology or neuroradiology by speeding up the decision on alteplase eligibility and its delivery. If tele-stroke is not available, telephone consultation is feasible and safe. Transferring her untreated wastes the time-dependent benefit. Aspirin before treatment, or waiting for a repeat scan, denies her reperfusion.
+**Explanation:** A pure motor syndrome without cortical or brainstem signs is a lacunar presentation. She does not meet the CPG triggers for CTA before reperfusion (NIHSS >6, cortical signs or brainstem involvement), so delaying IVT for vessel or perfusion imaging is not justified. Her deficit is disabling and within 4.5 hours, with BP below 185/110 mmHg. DAPT is for minor stroke that is not being thrombolysed, and no antiplatelet should be given within 24 hours of alteplase.
 
-**Teaching point:** Use tele-stroke, or failing that telephone consultation, so that IVT is not delayed where no specialist is on site.
+**Teaching point:** CTA is triggered by NIHSS >6, cortical signs or brainstem signs. A lacunar syndrome within the window goes straight to IVT.
 
-**Reference:** CPG Section 9.2 (Recommendations on tele-stroke).
+**Reference:** CPG Section 9.3.2 (II, V).
 
 ---
 
 ## Section 2: Intravenous Thrombolysis
 
 ### Q7
-**Topic:** Pre-thrombolysis BP
+**Topic:** BP before thrombolysis
 
-A 66-year-old man arrives 2 hours after onset of aphasia and right hemiplegia (NIHSS 14). Non-contrast CT shows no haemorrhage. He weighs 75 kg. Repeated BP readings are 198/112 mmHg. Glucose, platelets and INR are normal.
+A 66-year-old man arrives 2 hours after onset of aphasia and right hemiplegia (NIHSS 14). Non-contrast CT shows no haemorrhage. He weighs 75 kg. Two BP readings 5 minutes apart are 198/112 and 196/110 mmHg. Glucose, platelets and INR are normal.
 
 **What is the most appropriate next step?**
 
-A. Proceed to alteplase now; treat BP after the bolus
-B. Withhold alteplase permanently because of the BP
-C. Sublingual nifedipine 10 mg, then alteplase
-D. IV labetalol 10-20 mg, then give alteplase once BP is ≤185/110 mmHg
+A. IV labetalol, then reassess BP
+B. Alteplase now, treat BP afterwards
+C. Sublingual nifedipine 10 mg
+D. Withhold thrombolysis
 
-**Answer:** D
+**Answer:** A
 
-**Explanation:** A pre-treatment BP above 185/110 mmHg is an absolute contraindication only while it remains uncontrolled. Patients who are otherwise eligible should have their BP lowered with IV labetalol 10-20 mg over 1-2 minutes (repeated once if needed) or IV nicardipine. Alteplase should be withheld only if BP cannot be kept at or below 185/110. Sublingual nifedipine is avoided because it can cause a precipitous fall in BP.
+**Explanation:** BP above 185/110 mmHg bars alteplase only while it remains uncontrolled. An otherwise eligible patient should receive IV labetalol 10-20 mg over 1-2 minutes (repeated once if needed) or IV nicardipine. If BP comes down to 185/110 mmHg or below, alteplase is given. It is withheld only if that cannot be achieved. Sublingual nifedipine causes precipitous falls in BP and is avoided.
 
-**Teaching point:** Treat BP to ≤185/110 before alteplase. Withhold alteplase only if that level cannot be reached.
+**Teaching point:** Lower the BP to 185/110 mmHg or below, then lyse. Do not give up on lysis while BP is still treatable.
 
-**Reference:** CPG Section 9.4.1 (Absolute contraindications); Section 9.6.1 (BP control).
+**Reference:** CPG Section 9.4.1; Section 9.6.1 (BP control).
 
 ---
 
 ### Q8
 **Topic:** BP after thrombolysis
 
-A 59-year-old woman finished an alteplase infusion 2 hours ago. Her BP is now 192/108 mmHg on two readings. Her neurological status is unchanged.
+A 59-year-old woman with a right MCA stroke finished an alteplase infusion 2 hours ago. Her NIHSS has improved from 12 to 7. BP is now 192/108 mmHg on two readings. She has no headache or vomiting.
 
-**What is the most appropriate management?**
+**What is the most appropriate management of her BP?**
 
-A. Accept BP up to 220/120 mmHg
-B. IV labetalol bolus then infusion to keep BP ≤180/105 mmHg
-C. Oral captopril and review in 6 hours
-D. Stop monitoring because the infusion is complete
+A. Observe unless above 220/120 mmHg
+B. IV labetalol bolus and infusion
+C. Oral captopril 25 mg
+D. Sublingual GTN
 
 **Answer:** B
 
-**Explanation:** During and after thrombolysis, BP must be kept at or below 180/105 mmHg. If systolic BP is 180-230 or diastolic BP is 105-120 mmHg, give IV labetalol 5-10 mg as a bolus followed by an infusion of 2-8 mg/min, or IV nicardipine. The 220/120 threshold applies only to patients who have not been thrombolysed. BP is monitored every 15 minutes for 2 hours, every 30 minutes for 6 hours, then hourly for 16 hours.
+**Explanation:** During and after thrombolysis, BP must be kept at or below 180/105 mmHg. If systolic BP is 180-230 or diastolic BP is 105-120 mmHg, give IV labetalol 5-10 mg as a bolus and then an infusion of 2-8 mg/min, or nicardipine. The 220/120 threshold applies only to patients who have not been thrombolysed. Oral or sublingual agents do not give titratable control.
 
-**Teaching point:** After lysis the BP target is ≤180/105 mmHg, not the permissive 220/120 mmHg used without lysis.
+**Teaching point:** After lysis the BP target is 180/105 mmHg or below, controlled with IV titratable agents.
 
 **Reference:** CPG Section 9.5 (Step 5); Section 9.6.1.
 
 ---
 
 ### Q9
-**Topic:** Hypoglycaemia at presentation
+**Topic:** Low glucose at presentation
 
-A 70-year-old man on insulin presents 80 minutes after onset of left hemiparesis and neglect. Capillary glucose is 2.3 mmol/l. CT is normal. After IV dextrose his glucose is 6.8 mmol/l, but the hemiparesis and neglect persist (NIHSS 11).
+A 70-year-old man on insulin presents 80 minutes after onset of left hemiparesis and left-sided neglect. Capillary glucose is 2.3 mmol/l. Non-contrast CT is normal. After 50 ml of 50% dextrose his glucose is 6.8 mmol/l. Twenty minutes later, the hemiparesis and neglect are unchanged (NIHSS 11).
 
-**What is the most appropriate statement about IV thrombolysis?**
+**What is the most appropriate next step?**
 
-A. IVT may be reasonable now that glucose is normal and the deficit persists
-B. IVT is absolutely contraindicated because initial glucose was <2.7 mmol/l
-C. IVT should be delayed until a repeat CT at 24 hours
-D. IVT should be replaced by IV heparin
+A. Observe for 24 hours as hypoglycaemic hemiplegia
+B. Repeat CT at 24 hours
+C. IV alteplase
+D. Dual antiplatelet therapy
 
-**Answer:** A
+**Answer:** C
 
-**Explanation:** Glucose below 2.7 mmol/l is listed as an absolute contraindication. However, the CPG states that IVT may be reasonable in patients whose low glucose is subsequently normalised and who are otherwise eligible. Here the deficit persists after correction, so it is not simply due to hypoglycaemia. Waiting 24 hours loses the treatment window, and heparin is not an acute reperfusion treatment.
+**Explanation:** Glucose below 2.7 mmol/l is listed as a contraindication. However, IVT may be reasonable when the glucose has been normalised and the patient is otherwise eligible. A cortical deficit (neglect) that persists after correction is unlikely to be due to hypoglycaemia, so it should be treated as stroke. Observing him, or waiting for a 24-hour scan, wastes the window. DAPT is for minor non-lysed strokes.
 
-**Teaching point:** Correct the hypoglycaemia first. If a disabling deficit persists, IVT may still be reasonable.
+**Teaching point:** Correct the glucose and reassess. If a disabling deficit persists, thrombolysis may still be reasonable.
 
 **Reference:** CPG Section 9.4.1 (II).
 
 ---
 
 ### Q10
-**Topic:** Warfarin and thrombolysis
+**Topic:** Warfarin and large vessel occlusion
 
-A 74-year-old woman on warfarin for AF presents 1 hour after onset of aphasia and right hemiplegia. INR is 2.1 and platelets are 210 x10^9/l. Non-contrast CT is normal. CTA shows a left M1 occlusion. Her baseline mRS is 1.
+A 74-year-old woman on warfarin for AF presents 1 hour after onset of global aphasia and right hemiplegia (NIHSS 19). INR is 2.1 and platelets are 210 x10^9/l. Non-contrast CT is normal and CTA shows a left M1 occlusion. She was fully independent before the stroke.
 
 **What is the most appropriate reperfusion strategy?**
 
-A. IV alteplase 0.9 mg/kg
-B. IV alteplase 0.6 mg/kg
-C. Endovascular thrombectomy without IVT
-D. Vitamin K, then IV alteplase once INR is normal
+A. IV alteplase 0.9 mg/kg, then EVT
+B. Vitamin K and PCC, then alteplase
+C. IV tenecteplase, then EVT
+D. Endovascular thrombectomy alone
 
-**Answer:** C
+**Answer:** D
 
-**Explanation:** An INR above 1.7 (or PT >15 s, or aPTT >40 s) is an absolute contraindication to IVT, whatever the dose. She has an M1 occlusion within 6 hours and was independent before the stroke, so she meets the criteria for EVT. EVT is indicated for patients with LVO who are not eligible for alteplase. Reversing warfarin in order to thrombolyse would waste time and is not the CPG approach.
+**Explanation:** An INR above 1.7 is an absolute contraindication to IVT with any agent, including tenecteplase. She has an M1 occlusion within 6 hours and a baseline mRS of 0-2, so EVT is indicated. The CPG explicitly includes patients with LVO who are not eligible for alteplase. Reversing warfarin in order to thrombolyse delays definitive treatment.
 
-**Teaching point:** If IVT is barred by anticoagulation (INR >1.7), go straight to EVT when there is an LVO.
+**Teaching point:** If IVT is barred by anticoagulation and there is an LVO, go straight to thrombectomy.
 
 **Reference:** CPG Section 9.4.1 (VII); Section 10.2 (II).
 
 ---
 
 ### Q11
-**Topic:** Dabigatran and thrombolysis
+**Topic:** Direct thrombin inhibitor
 
-A 69-year-old man on dabigatran 150 mg twice daily presents 1 hour 40 minutes after a disabling left hemiparesis (NIHSS 9). His last dose was 5 hours ago. CT is normal and CTA shows no large vessel occlusion. Renal function is normal.
+A 69-year-old man presents 100 minutes after onset of a disabling left hemiparesis (NIHSS 9). He takes a twice-daily oral anticoagulant for AF, and his last dose was 5 hours ago. aPTT and thrombin time are prolonged. INR is 1.2. CT is normal and CTA shows no large vessel occlusion. eGFR is 78 ml/min/1.73 m2.
 
-**What does the CPG say is a reasonable option for this patient?**
+**What is the most appropriate management?**
 
-A. Give alteplase without delay
-B. Reverse with idarucizumab, then give IV thrombolysis
-C. Prothrombin complex concentrate, then IV thrombolysis
-D. Wait until 48 hours after the last dose, then thrombolyse
+A. IV alteplase immediately
+B. Idarucizumab, then IV thrombolysis
+C. PCC, then IV thrombolysis
+D. Aspirin until 48 hours have passed
 
 **Answer:** B
 
-**Explanation:** For patients on dabigatran, the CPG says that reversing its anticoagulant effect with idarucizumab before IVT may be reasonable in eligible patients. Giving alteplase with recent dabigatran on board risks haemorrhage. PCC is not the specific reversal agent for dabigatran. The >48-hour rule applies when no reversal agent is used, and waiting that long would put him far outside the 4.5-hour window.
+**Explanation:** A twice-daily anticoagulant that prolongs aPTT and thrombin time but not INR is dabigatran. For patients on dabigatran, the CPG says reversal with idarucizumab before IVT may be reasonable. Thrombolysing without reversal risks haemorrhage. PCC is not the specific agent for dabigatran. Waiting 48 hours puts him far outside the window.
 
-**Teaching point:** Idarucizumab reverses dabigatran and may allow IVT. Otherwise a DOAC taken within 48 hours bars IVT unless the relevant laboratory tests are normal.
+**Teaching point:** Recognise dabigatran from its clotting profile. Idarucizumab can make IVT possible.
 
-**Reference:** CPG Section 9.4.1 (V, VI).
+**Reference:** CPG Section 9.4.1 (V, VI); Section 13.4.
 
 ---
 
 ### Q12
-**Topic:** LMWH and thrombolysis
+**Topic:** Recent LMWH
 
-A 55-year-old woman admitted with a below-knee DVT receives treatment-dose enoxaparin 1 mg/kg at 22:00. At 06:30 she develops sudden right hemiparesis and aphasia. CT is normal. Platelets are normal.
+A 55-year-old woman, admitted 2 days earlier with a below-knee DVT, receives enoxaparin 1 mg/kg at 22:00. At 06:30 she develops sudden right hemiparesis and aphasia (NIHSS 13). Platelets are normal. CT is normal. CTA shows a left proximal M2 occlusion.
 
-**What is the status of IV thrombolysis?**
+**What is the most appropriate next step?**
 
-A. Absolutely contraindicated
-B. Relative contraindication only
-C. Permitted if anti-Xa level is above 1.0
-D. Permitted at half dose
+A. Endovascular thrombectomy
+B. IV alteplase 0.9 mg/kg
+C. Protamine, then alteplase
+D. IV alteplase 0.6 mg/kg
 
 **Answer:** A
 
-**Explanation:** Current use of a treatment dose of LMWH within the previous 24 hours is an absolute contraindication to IVT. Her dose was given 8.5 hours ago. A high anti-Xa level confirms anticoagulation rather than safety. There is no half-dose option for anticoagulated patients. She should have urgent CTA to look for an LVO amenable to EVT.
+**Explanation:** A treatment dose of LMWH within the past 24 hours is an absolute contraindication to IVT at any dose. Partial reversal with protamine does not remove that bar. She has a proximal M2 occlusion within 6 hours, which is an EVT indication, and EVT is specifically recommended for LVO patients who are not eligible for alteplase.
 
-**Teaching point:** Treatment-dose LMWH within 24 hours is an absolute bar to IVT. Look for an LVO and consider EVT.
+**Teaching point:** Therapeutic LMWH within 24 hours means no IVT. Look for an LVO and offer EVT.
 
-**Reference:** CPG Section 9.4.1 (III).
+**Reference:** CPG Section 9.4.1 (III); Section 10.2.
 
 ---
 
 ### Q13
-**Topic:** Relative vs absolute contraindications
+**Topic:** Weighing contraindications
 
-A 64-year-old man presents 2 hours after onset of a disabling left hemiparesis. CT is normal. His team lists his possible contraindications to IVT.
+A 64-year-old man presents 2 hours after onset of a disabling left hemiparesis (NIHSS 8). CT is normal and CTA shows no LVO. Six weeks ago he was admitted with an NSTEMI and treated medically. He has no bleeding since. BP is 168/92 mmHg, platelets 190 x10^9/l, INR 1.0 and glucose 7.2 mmol/l.
 
-**Which of these is a relative, rather than an absolute, contraindication to IVT?**
+**What is the most appropriate management?**
 
-A. Platelet count 85 x10^9/l
-B. Myocardial infarction 6 weeks ago
-C. INR 1.9
-D. BP 205/118 mmHg despite two doses of IV labetalol
+A. Withhold IVT; recent MI is absolute
+B. Defer IVT until an echocardiogram is done
+C. Withhold IVT; start DAPT
+D. Consider IVT; recent MI is relative
 
-**Answer:** B
+**Answer:** D
 
-**Explanation:** Myocardial infarction within the past 8 weeks is a relative contraindication. Platelets <100 x10^9/l, INR >1.7, and BP that cannot be brought to ≤185/110 mmHg are all absolute contraindications.
+**Explanation:** MI within the previous 8 weeks is a relative contraindication. It should be weighed against a disabling deficit, not treated as a bar. His BP, platelets, INR and glucose are all within limits. Waiting for echo wastes the time-dependent benefit. DAPT is for minor non-lysed stroke and is not a substitute for IVT here.
 
-**Teaching point:** The absolute contraindications are BP >185/110 mmHg, glucose <2.7 mmol/l, recent therapeutic heparin or LMWH, INR >1.7 (or PT >15 s or aPTT >40 s) and platelets <100 x10^9/l. Recent MI, surgery and bleeding are relative contraindications.
+**Teaching point:** Recent MI (<8 weeks), surgery (<14 days), GI/GU bleeding (<21 days) and stroke (<3 months) are relative contraindications to IVT.
 
 **Reference:** CPG Section 9.4.1 and 9.4.2.
 
@@ -299,108 +299,108 @@ D. BP 205/118 mmHg despite two doses of IV labetalol
 ### Q14
 **Topic:** Seizure at onset
 
-A 52-year-old woman has a witnessed generalised seizure lasting 1 minute, then dense right hemiplegia and global aphasia. She arrives 70 minutes after onset. CT is normal. CTA shows a left M1 occlusion.
+A 52-year-old woman has a witnessed generalised seizure lasting 1 minute while shopping, followed by dense right hemiplegia and global aphasia. She arrives 70 minutes after onset. She has no history of epilepsy. CT is normal. CTA shows a left M1 occlusion with poor collaterals.
 
-**What is the most appropriate interpretation?**
+**What is the most appropriate management?**
 
-A. Treat as Todd's paresis and observe for 24 hours
-B. Seizure at onset absolutely excludes IV alteplase
-C. Give phenytoin first; reperfusion is contraindicated
-D. IVT is reasonable because imaging shows the deficit is from stroke
+A. Levetiracetam and observe for Todd's paresis
+B. EEG before reperfusion
+C. IVT and EVT
+D. Long-term antiepileptic, then IVT
 
-**Answer:** D
+**Answer:** C
 
-**Explanation:** A seizure at the onset of stroke is a relative contraindication. IVT is reasonable when the evidence shows that the residual deficit is due to stroke and is not a post-ictal phenomenon. Here, an M1 occlusion on CTA confirms an ischaemic cause, so she should have IVT and be considered for EVT. Treating her as Todd's paresis would deny her treatment. Long-term anticonvulsant cover is not needed for a single self-limiting seizure.
+**Explanation:** A seizure at onset is only a relative contraindication. IVT is reasonable when evidence shows that the deficit is due to stroke rather than a post-ictal state. An M1 occlusion on CTA provides that evidence. She should have IVT and EVT. Treating this as Todd's paresis, or delaying for an EEG, denies her time-critical treatment. A single seizure at onset does not need long-term antiepileptic treatment.
 
-**Teaching point:** A seizure at onset does not exclude reperfusion if the deficit is shown to be ischaemic.
+**Teaching point:** Vessel imaging separates stroke from a Todd's paresis mimic. An occluded M1 means reperfusion therapy.
 
 **Reference:** CPG Section 9.4.2 (VIII); Section 8.1.12.
 
 ---
 
 ### Q15
-**Topic:** Consent for thrombolysis
+**Topic:** Capacity and consent
 
-A 68-year-old man is found by a neighbour with right hemiplegia and global aphasia. The neighbour saw him well 1 hour earlier. He lives alone and no relative can be reached. CT is normal and he has no contraindications.
+A 68-year-old man is found by a neighbour with right hemiplegia and global aphasia. The neighbour last saw him well 1 hour earlier. He lives alone and his only relative cannot be reached by phone. CT is normal and CTA shows no LVO. He has no contraindications and NIHSS is 15.
 
-**What is the most appropriate action regarding IVT?**
+**What is the most appropriate next step?**
 
-A. Defer IVT until a family member gives consent
-B. Give aspirin while the police trace his family
-C. Proceed with IVT; aphasia without family is not a reason to withhold it
-D. Apply for a court order before treatment
+A. Wait for the relative's consent
+B. IV alteplase in his best interests
+C. Aspirin while tracing the family
+D. Two-doctor consent, then decide at 4 hours
 
-**Answer:** C
+**Answer:** B
 
-**Explanation:** The CPG states explicitly that thrombolysis shall not be withheld from aphasic patients who cannot give consent and/or who have no family members present. Waiting for consent or legal processes would use up the window. Aspirin before reperfusion therapy is inappropriate.
+**Explanation:** The CPG states that thrombolysis shall not be withheld from aphasic patients who cannot give consent and/or who have no family members present. Treatment should go ahead in his best interests. Delaying for consent or bureaucracy erodes the time-dependent benefit. Aspirin before reperfusion is inappropriate.
 
-**Teaching point:** Do not withhold IVT because an aphasic patient cannot consent and no family is present.
+**Teaching point:** Lack of consent from an aphasic patient with no family present is not a reason to withhold IVT.
 
 **Reference:** CPG Section 9.3.2 (VIII).
 
 ---
 
 ### Q16
-**Topic:** Tenecteplase dosing
+**Topic:** Tenecteplase dose
 
-A 60-year-old man weighing 92 kg presents 2 hours after onset of right hemiparesis (NIHSS 15). CTA shows a left ICA terminus occlusion. He is eligible for thrombolysis and is being prepared for thrombectomy. The team chooses tenecteplase.
+A 60-year-old man weighing 92 kg presents 2 hours after onset of right hemiparesis and aphasia (NIHSS 15). CTA shows a left ICA terminus occlusion. He is eligible for thrombolysis. The comprehensive stroke centre is preparing for thrombectomy, and the team decides to give tenecteplase as a bridge.
 
-**What is the correct tenecteplase dose?**
+**What is the correct dose?**
 
-A. 23 mg IV bolus
-B. 25 mg IV bolus
-C. 46 mg IV bolus
-D. 82.8 mg, 10% bolus and the rest over 60 minutes
+A. 25 mg IV bolus
+B. 46 mg IV bolus
+C. 23 mg IV bolus
+D. 83 mg over 60 minutes
 
-**Answer:** A
+**Answer:** C
 
-**Explanation:** The tenecteplase dose is 0.25 mg/kg, to a maximum of 25 mg, given as a single bolus: 0.25 × 92 = 23 mg. 25 mg is the maximum and is used only for patients over 100 kg. 46 mg is 0.5 mg/kg, the cardiac dose. 82.8 mg with a bolus and infusion is the alteplase regimen (0.9 mg/kg). The CPG supports tenecteplase within 4.5 hours before EVT, particularly when an LVO is present.
+**Explanation:** The stroke dose of tenecteplase is 0.25 mg/kg, maximum 25 mg, as a single bolus: 0.25 × 92 = 23 mg. 25 mg is the cap for patients over 100 kg. 46 mg is the weight-banded cardiac dose (0.5 mg/kg). 83 mg over an hour is the alteplase regimen (0.9 mg/kg, maximum 90 mg).
 
-**Teaching point:** For stroke, tenecteplase is 0.25 mg/kg (maximum 25 mg) as a single bolus.
+**Teaching point:** Stroke tenecteplase is 0.25 mg/kg (maximum 25 mg), which is half the cardiac dose.
 
 **Reference:** CPG Section 9.5 (Items 10-11); Section 10.3.
 
 ---
 
 ### Q17
-**Topic:** Agent contraindicated in stroke
+**Topic:** Thrombolytic choice when stock is short
 
-A rural hospital has run out of alteplase. The pharmacist offers alternatives for a 57-year-old woman with a disabling ischaemic stroke 2 hours after onset.
+A district hospital has no alteplase in stock. A 57-year-old woman presents 2 hours after onset of a disabling left hemiparesis. CT is normal, CTA shows a right M1 occlusion, and she is otherwise eligible for IVT. The pharmacy can supply streptokinase, tenecteplase or reteplase. Transfer for EVT is being arranged.
 
-**Which thrombolytic is contraindicated in acute ischaemic stroke according to the CPG?**
+**What is the most appropriate thrombolytic treatment before transfer?**
 
-A. Tenecteplase
-B. Alteplase 0.6 mg/kg
-C. Alteplase 0.9 mg/kg
-D. Streptokinase
+A. Streptokinase 1.5 MU over 1 hour
+B. Tenecteplase 0.25 mg/kg bolus
+C. Reteplase 10 U double bolus
+D. No thrombolytic, transfer only
 
-**Answer:** D
+**Answer:** B
 
-**Explanation:** Streptokinase is contraindicated in acute ischaemic stroke (Level I, Grade A). Tenecteplase may be considered as an alternative when alteplase is not available. Low-dose alteplase (0.6 mg/kg) was not equivalent for disability, though it reduced mortality. Standard-dose alteplase is 0.9 mg/kg.
+**Explanation:** Tenecteplase may be considered as an alternative when alteplase is not available. It is also supported within 4.5 hours before EVT, especially with an LVO. Streptokinase is contraindicated in stroke (Level I, Grade A). Reteplase is not a CPG option. Transferring her without thrombolysis forgoes bridging therapy she is eligible for.
 
-**Teaching point:** Never use streptokinase for stroke. Tenecteplase is the alternative when alteplase is unavailable.
+**Teaching point:** If alteplase is unavailable, use tenecteplase. Never use streptokinase for stroke.
 
-**Reference:** CPG Section 9.5 (Items 1, 10, 12).
+**Reference:** CPG Section 9.5 (Items 10-12).
 
 ---
 
 ### Q18
 **Topic:** Deterioration during infusion
 
-A 71-year-old woman is 35 minutes into an alteplase infusion. She develops severe headache and vomiting. Her NIHSS rises from 8 to 13 and her GCS falls from 15 to 12. BP is 186/104 mmHg.
+A 71-year-old woman is 35 minutes into an alteplase infusion for a left MCA stroke. She develops severe headache and vomits twice. Her NIHSS rises from 8 to 13 and her GCS falls from 15 to 12. BP is 186/104 mmHg.
 
 **What is the most appropriate immediate action?**
 
-A. Stop the infusion and get an urgent CT brain
-B. Complete the infusion, then CT
-C. Give IV mannitol and continue the infusion
-D. Give IV labetalol and continue the infusion
+A. IV labetalol; continue the infusion
+B. Stop the infusion; urgent CT brain
+C. Complete the infusion; then CT
+D. IV mannitol; continue the infusion
 
-**Answer:** A
+**Answer:** B
 
-**Explanation:** Severe headache, acute hypertension, nausea or vomiting, or worsening neurology (NIHSS up by 4 or GCS down by 2) during the infusion should prompt discontinuation and an urgent CT brain, because symptomatic ICH is the main concern. Continuing alteplase in any form risks expanding a haemorrhage.
+**Explanation:** Severe headache, vomiting, acute hypertension or neurological worsening (NIHSS up by 4 or more, or GCS down by 2 or more) during the infusion requires stopping it and arranging urgent CT, because symptomatic ICH must be excluded. Controlling her BP or treating raised ICP while alteplase continues could enlarge a haematoma.
 
-**Teaching point:** If NIHSS rises by ≥4 or GCS falls by ≥2 during alteplase, stop the infusion and scan.
+**Teaching point:** If NIHSS rises by 4 or more, or GCS falls by 2 or more, during lysis, stop the infusion and scan.
 
 **Reference:** CPG Section 9.5 (Step 4); Section 9.7.1.
 
@@ -409,130 +409,130 @@ D. Give IV labetalol and continue the infusion
 ### Q19
 **Topic:** Post-thrombolysis ICH: blood products
 
-A 66-year-old man develops symptomatic ICH 1 hour after an alteplase infusion. The infusion has been stopped. Investigations show fibrinogen 140 mg/dl (normal 200-400), platelets 190 x10^9/l and a normal PT.
+A 66-year-old man develops symptomatic ICH 1 hour after an alteplase infusion. The infusion has been stopped and BP is being controlled. Results: fibrinogen 140 mg/dl (normal 200-400), platelets 190 x10^9/l, PT 13 s and aPTT 34 s (both normal).
 
-**Which blood product should be given first to reverse the fibrinolytic state?**
+**Which product should be given first?**
 
-A. Fresh frozen plasma 15 ml/kg
-B. Platelets 4 units
-C. Cryoprecipitate 6-8 bags
-D. Prothrombin complex concentrate
+A. Fresh frozen plasma
+B. Platelet transfusion
+C. Prothrombin complex concentrate
+D. Cryoprecipitate 6-8 bags
 
-**Answer:** C
+**Answer:** D
 
-**Explanation:** For bleeding after alteplase, the CPG sequence is: stop the drug; urgent CT; send FBC, PT/PTT, GXM and fibrinogen; control BP; give IV cryoprecipitate 6-8 bags. Repeat cryoprecipitate if fibrinogen is still below 200 mg/dl. Platelets are given if platelet dysfunction is suspected. FFP is considered if PT/PTT is prolonged despite normal fibrinogen. PCC is used for warfarin reversal.
+**Explanation:** Alteplase depletes fibrinogen, and hypofibrinogenaemia is the defect shown here. The CPG gives cryoprecipitate 6-8 bags, repeated if fibrinogen remains below 200 mg/dl. Platelets are used if platelet dysfunction is suspected. FFP is used if PT/PTT is prolonged despite normal fibrinogen. PCC is a warfarin reversal agent.
 
-**Teaching point:** Cryoprecipitate (fibrinogen) is the first-line blood product for bleeding after alteplase.
+**Teaching point:** Bleeding after alteplase: replace fibrinogen with cryoprecipitate first.
 
 **Reference:** CPG Section 9.7.1 (Bleeding).
 
 ---
 
 ### Q20
-**Topic:** Orolingual angioedema
+**Topic:** Swelling during infusion
 
-A 62-year-old woman on lisinopril develops swelling of the tongue and lips 30 minutes into an alteplase infusion. She is speaking and her airway is patent. The infusion has been stopped.
+A 62-year-old woman on lisinopril develops swelling of the right side of her tongue and upper lip 30 minutes into an alteplase infusion. She is speaking in full sentences with no stridor. SpO2 is 98%. The infusion has been stopped.
 
-**Which drug is first-line at this point under the CPG angioedema protocol?**
+**Which is the most appropriate first drug treatment?**
 
-A. Subcutaneous adrenaline 0.3 ml of 0.1%
-B. IV diphenhydramine 50 mg (with IV ranitidine 50 mg)
-C. IV methylprednisolone 100 mg
-D. Icatibant
+A. IM adrenaline 0.5 mg immediately
+B. IV methylprednisolone 100 mg
+C. IV diphenhydramine + ranitidine
+D. Icatibant 30 mg SC
 
-**Answer:** B
+**Answer:** C
 
-**Explanation:** The CPG angioedema sequence is: stop alteplase; maintain the airway, breathing and circulation; IV diphenhydramine 50 mg and IV ranitidine 50 mg; methylprednisolone 100 mg if there is no improvement; then adrenaline. Call ENT or anaesthesia, and give icatibant if it is available and indicated. Because her airway is currently patent, the first-line drugs are the H1 and H2 blockers.
+**Explanation:** This is orolingual angioedema on alteplase, and ACE inhibitor use increases the risk. Under the CPG protocol: stop alteplase, secure the ABC, then give IV diphenhydramine 50 mg and IV ranitidine 50 mg. If there is no improvement, give methylprednisolone 100 mg, then adrenaline. Call ENT or anaesthesia, and use icatibant if available and indicated. Her airway is currently safe, so the first-line H1/H2 blockade is appropriate.
 
-**Teaching point:** For angioedema on alteplase: stop the infusion, secure the ABC, give H1 + H2 blockers, then steroid, then adrenaline. ACE inhibitor users are at higher risk.
+**Teaching point:** For angioedema on alteplase: stop the infusion, secure the ABC, give H1 + H2 blockers, then steroid, then adrenaline.
 
 **Reference:** CPG Section 9.7.2 (Angioedema).
 
 ---
 
 ### Q21
-**Topic:** Care in the first 24 hours after lysis
+**Topic:** First 24 hours after lysis
 
-A 58-year-old man had IV alteplase 3 hours ago and is stable on the stroke unit. The ward nurse asks whether she can insert a urinary catheter and an NG tube, and whether to start aspirin.
+A 58-year-old man had IV alteplase 3 hours ago and is stable on the stroke unit. He has urinary retention with a palpable bladder, and he has failed his swallow screen. The nurse asks about a urethral catheter, an NG tube and his aspirin.
 
-**What is the most appropriate instruction?**
+**What is the most appropriate plan?**
 
-A. Insert both now; start aspirin tonight
-B. Insert the catheter only; start aspirin at 12 hours
-C. Insert the NG tube only; start clopidogrel now
-D. Avoid both for 24 hours; no antiplatelet until repeat CT at 24 hours
+A. Catheter and NG tube now; aspirin by NG tonight
+B. Indwelling catheter; NG tube; clopidogrel now
+C. NG tube now; catheter tomorrow; aspirin at 12 hours
+D. In-out catheter; no NG; aspirin after 24-h CT
 
 **Answer:** D
 
-**Explanation:** After thrombolysis, nasogastric tubes, bladder catheters and invasive procedures should be avoided for 24 hours, and no antiplatelet or anticoagulant is given in the first 24 hours. CT brain is repeated at 24 hours before antithrombotic therapy starts. Handling should also be minimised to prevent bruising.
+**Explanation:** For 24 hours after thrombolysis, NG tubes, indwelling catheters and invasive procedures are delayed, and no antiplatelet or anticoagulant is given. CT is repeated at 24 hours before antithrombotic therapy starts. Painful retention still needs relief, so the least invasive option (in-out catheterisation, guided by post-void residual) is appropriate. Every other option places a tube or starts an antithrombotic too early.
 
-**Teaching point:** For 24 hours after lysis: no tubes, no antithrombotics, minimal handling. Repeat CT at 24 hours.
+**Teaching point:** After lysis: minimal invasive procedures for 24 hours, and no antithrombotic until the 24-hour CT excludes bleeding.
 
-**Reference:** CPG Section 9.5 (Steps 6-7); Section 9.6.4.
+**Reference:** CPG Section 9.5 (Steps 6-7); Section 9.6.4; Section 8.1.9.
 
 ---
 
 ### Q22
-**Topic:** Glucose during and after thrombolysis
+**Topic:** Insulin infusion after thrombolysis
 
-A 64-year-old woman with type 2 diabetes received alteplase 4 hours ago. Her capillary glucose is 13.5 mmol/l. She is nil by mouth.
+A 64-year-old woman with type 2 diabetes received alteplase 4 hours ago. She is nil by mouth on a variable-rate insulin infusion. The overnight protocol aims for glucose 4.0-7.0 mmol/l. Her latest glucose is 5.1 mmol/l and the infusion rate has just been increased.
 
-**What is the target glucose range in the post-thrombolysis period according to the CPG?**
+**What is the most appropriate glucose target?**
 
-A. 4.0-7.5 mmol/l
+A. 4.0-7.0 mmol/l
 B. 7.8-10.0 mmol/l
 C. 10.0-14.0 mmol/l
-D. Below 15 mmol/l
+D. Below 15.0 mmol/l
 
 **Answer:** B
 
-**Explanation:** After thrombolysis, glucose should be kept between 7.8 and 10.0 mmol/l and hypoglycaemia avoided. Hyperglycaemia in the first 24 hours is linked to worse outcomes and more haemorrhagic transformation. Very tight targets (4.0-7.5 mmol/l) are specifically discouraged in the first hours of AIS. Higher targets accept harmful hyperglycaemia.
+**Explanation:** After thrombolysis, glucose should be kept between 7.8 and 10.0 mmol/l, and hypoglycaemia avoided. Very tight targets (around 4.0-7.5 mmol/l) are specifically discouraged in the first hours of acute ischaemic stroke. At 5.1 mmol/l her infusion is being pushed towards hypoglycaemia. The higher ranges allow hyperglycaemia, which is associated with haemorrhagic transformation.
 
-**Teaching point:** Keep glucose 7.8-10.0 mmol/l after lysis (6.0-10.0 mmol/l in general AIS care) and avoid tight control.
+**Teaching point:** After lysis keep glucose at 7.8-10.0 mmol/l (6.0-10.0 mmol/l in general AIS care), and avoid tight targets.
 
 **Reference:** CPG Section 9.6.2; Section 8.1.5.
 
 ---
 
 ### Q23
-**Topic:** Wake-up stroke: MRI without mismatch
+**Topic:** Unknown-onset stroke on MRI
 
-A 60-year-old man wakes at 07:00 with right arm and face weakness (NIHSS 5). He was last seen well at 23:00. CTA shows no LVO. MRI shows a DWI lesion in the left corona radiata with clear hyperintensity in the same area on FLAIR.
+A 60-year-old man wakes at 07:00 with weakness of the right face and arm (NIHSS 5). He was last seen well at 23:00. CTA shows no large vessel occlusion. Urgent MRI shows restricted diffusion in the left corona radiata, with a matching hyperintense area on FLAIR.
 
 **What is the most appropriate management?**
 
-A. IV alteplase because the lesion is small
+A. IV alteplase 0.9 mg/kg
 B. Endovascular thrombectomy
-C. Antiplatelet therapy; no IVT because there is no DWI-FLAIR mismatch
-D. IV tenecteplase because it is safer than alteplase
+C. IV tenecteplase 0.25 mg/kg bolus
+D. Antiplatelet therapy, no lysis
 
-**Answer:** C
+**Answer:** D
 
-**Explanation:** For a wake-up stroke not eligible for EVT, IVT may be considered when MRI shows a DWI-FLAIR mismatch: a DWI lesion with no matching FLAIR change, which suggests onset within about 4.5 hours, with a lesion not larger than one-third of the MCA territory. Here the lesion is already visible on FLAIR, so it is likely older and he is not eligible. With no LVO, EVT has no role. He should have antiplatelet therapy and secondary prevention.
+**Explanation:** For an unknown-onset stroke not eligible for EVT, IVT may be considered only when MRI shows a DWI-FLAIR mismatch: a DWI lesion with no FLAIR change, which suggests onset within about 4.5 hours. A lesion already visible on FLAIR is likely older than that, so he does not qualify for any thrombolytic. With no LVO, EVT has no role.
 
-**Teaching point:** A FLAIR-visible lesion means there is no mismatch and therefore no IVT for an unknown-onset stroke.
+**Teaching point:** A lesion visible on FLAIR means no mismatch, and therefore no lysis for an unknown-onset stroke.
 
 **Reference:** CPG Section 9.3.2 (III); Section 9.5 (Item 9).
 
 ---
 
 ### Q24
-**Topic:** CTA before renal profile
+**Topic:** Contrast imaging and creatinine
 
-A 69-year-old woman arrives 70 minutes after onset of left hemiplegia, gaze deviation and neglect (NIHSS 17). She has no known kidney disease. Non-contrast CT is normal. The renal profile result will take 45 minutes.
+A 69-year-old woman arrives 70 minutes after onset of left hemiplegia, right gaze deviation and left-sided neglect (NIHSS 17). She has hypertension but no known renal disease. Non-contrast CT is normal. The laboratory says creatinine will take 45 minutes.
 
 **What is the most appropriate imaging step?**
 
-A. Proceed to CT angiography now without waiting for creatinine
-B. Wait for the creatinine before any contrast imaging
-C. Order MRI/MRA to avoid contrast
-D. Omit vessel imaging and give alteplase only
+A. CT angiography now
+B. Wait for the creatinine result
+C. MRI with MR angiography
+D. No vessel imaging needed
 
 **Answer:** A
 
-**Explanation:** For patients who may meet EVT criteria, it is reasonable to proceed with CTA before the renal profile when there is no history of renal impairment. The CPG lists NIHSS >6, cortical signs or brainstem involvement as triggers for CTA. Waiting delays EVT. Routine MRI causes delays and is reserved for selected cases. Skipping vessel imaging would miss an LVO that needs thrombectomy.
+**Explanation:** Gaze deviation, neglect and an NIHSS above 6 point to an LVO. In a patient without known renal impairment, the CPG says it is reasonable to proceed with CTA before the renal profile. Waiting delays EVT. MRI is not routine because it adds delay. Skipping vessel imaging would miss a treatable occlusion.
 
-**Teaching point:** With a high NIHSS or cortical signs, do CTA straight away without waiting for creatinine unless renal disease is known.
+**Teaching point:** If the stroke looks like an LVO, do CTA straight away. Do not wait for the creatinine unless there is known renal disease.
 
 **Reference:** CPG Section 9.3.2 (V); Section 10.1 (III); Figure 10.1.
 
@@ -541,86 +541,86 @@ D. Omit vessel imaging and give alteplase only
 ## Section 3: Endovascular Thrombectomy
 
 ### Q25
-**Topic:** Drip and ship: no waiting
+**Topic:** Drip and ship
 
-A 57-year-old man at a primary stroke centre receives IV alteplase 90 minutes after onset of a left M1 occlusion (NIHSS 18). The comprehensive stroke centre is 1 hour away. His registrar suggests watching for 1 hour to see whether alteplase works before arranging transfer.
+A 57-year-old man at a primary stroke centre receives IV alteplase 90 minutes after onset of a left M1 occlusion (NIHSS 18). The comprehensive stroke centre is 1 hour away. Thirty minutes into the infusion his NIHSS is 16.
 
 **What is the most appropriate plan?**
 
-A. Observe for 1 hour, then refer only if there is no improvement
-B. Observe for 24 hours, then repeat CTA
-C. Transfer for EVT straight away without waiting to assess response
-D. Cancel EVT because he received alteplase
+A. Reassess at the end of the infusion
+B. Repeat CTA at 24 hours
+C. Transfer now for thrombectomy
+D. Transfer only if NIHSS stays above 10
 
 **Answer:** C
 
-**Explanation:** For drip and ship (IVT followed by EVT), there should be no delay in proceeding to EVT in order to judge the effect of alteplase. EVT is indicated in patients who have had IV alteplase, and the CPG states that the team should not wait to assess response. The benefit of EVT falls as imaging-to-recanalisation time grows.
+**Explanation:** In drip and ship, there should be no delay in proceeding to EVT in order to judge the effect of alteplase. EVT is indicated after IV alteplase, and the CPG says not to wait to assess response. A small NIHSS change during the infusion does not mean recanalisation, and the benefit of EVT falls as imaging-to-recanalisation time grows.
 
-**Teaching point:** In drip and ship, start the transfer for EVT as soon as alteplase is running.
+**Teaching point:** Start the transfer for EVT while alteplase is still running. Do not wait to see whether it works.
 
 **Reference:** CPG Section 10.2 (II); Section 10.3; Key Recommendation 2 (Chapter 10).
 
 ---
 
 ### Q26
-**Topic:** Premorbid function and EVT
+**Topic:** Selecting for thrombectomy
 
-A 78-year-old woman with advanced dementia lives in a nursing home and needs help with all activities of daily living (mRS 4). She presents 3 hours after onset of left hemiplegia. CTA shows a right M1 occlusion.
+A 78-year-old woman presents 3 hours after onset of left hemiplegia and neglect. CTA shows a right M1 occlusion. She lives in a nursing home with moderate dementia. She needs help with dressing, bathing and toileting but can walk with a frame (mRS 4).
 
-**Which criterion is most relevant to whether she should have EVT?**
+**Which factor most strongly argues against EVT?**
 
-A. Her age above 75 years
-B. Her baseline mRS of 4
-C. The occlusion being on the right
-D. The time from onset
+A. Pre-stroke dependency
+B. Right-hemisphere occlusion
+C. Age over 75 years
+D. Time from onset
 
-**Answer:** B
+**Answer:** A
 
-**Explanation:** The EVT indication requires a baseline mRS of 0-2 (generally independent in ADL). A premorbid mRS of 4 or more is also a relative contraindication to IVT. Age alone is not an exclusion: older people benefit from EVT when the criteria are met. Laterality is irrelevant, and 3 hours is well within the window.
+**Explanation:** The EVT criteria require a baseline mRS of 0-2, meaning generally independent in ADL. A premorbid mRS of 4 is also a relative contraindication to IVT. Age is not an exclusion: older people benefit from EVT when the criteria are met. Laterality is irrelevant, and 3 hours is well within the window.
 
-**Teaching point:** EVT is for patients whose pre-stroke mRS is 0-2. Frailty and dependency matter more than age.
+**Teaching point:** Pre-stroke function (mRS 0-2), not age, determines who is selected for EVT.
 
 **Reference:** CPG Section 10.2 (I); Section 12.2.2.
 
 ---
 
 ### Q27
-**Topic:** DAWN criteria, older patient
+**Topic:** Late window, older patient
 
-An 83-year-old man was last seen well 11 hours ago. He has right hemiplegia and aphasia (NIHSS 13). He was independent before the stroke. CTA shows a left M1 occlusion. CT perfusion shows an infarct core of 18 ml.
+An 83-year-old man was last seen well 11 hours ago. He has right hemiplegia and aphasia (NIHSS 13). He was independent before. CTA shows a left M1 occlusion. CT perfusion estimates an infarct core of 18 ml.
 
 **What is the most appropriate management?**
 
-A. EVT, as he meets DAWN criteria for age ≥80 years
-B. No EVT because he is over 80 years old
-C. No EVT because he is beyond 6 hours
-D. IV alteplase alone
+A. Endovascular thrombectomy
+B. IV alteplase alone
+C. Antiplatelet and stroke-unit care
+D. Repeat perfusion imaging at 24 hours
 
 **Answer:** A
 
-**Explanation:** Between 6 and 24 hours, EVT is indicated using perfusion imaging. The DAWN criteria for a patient aged ≥80 years are NIHSS ≥10 with an infarct core of 0-21 ml. He meets both (NIHSS 13, core 18 ml). Age and time beyond 6 hours do not exclude him. IV alteplase alone is not indicated at 11 hours without CTP-guided eligibility for IVT, and the LVO needs EVT.
+**Explanation:** Between 6 and 24 hours, EVT is indicated using perfusion criteria. The DAWN criteria for patients aged 80 or over are NIHSS ≥10 with a core of 0-21 ml. He meets both. Age and the 11-hour delay do not exclude him. IVT alone does not treat the LVO, and supportive care alone forgoes proven benefit.
 
-**Teaching point:** DAWN (6-24 h): age ≥80 needs NIHSS ≥10 and core <21 ml. Age <80 needs core <31 ml, or NIHSS ≥20 with core 31-51 ml.
+**Teaching point:** DAWN for age ≥80: NIHSS ≥10 and core <21 ml. For age <80: core <31 ml, or NIHSS ≥20 with core 31-51 ml.
 
 **Reference:** CPG Section 10.2 (IIIc).
 
 ---
 
 ### Q28
-**Topic:** DEFUSE 3 criteria
+**Topic:** Late window: perfusion mismatch
 
-A 66-year-old woman presents 9 hours after onset of left hemiplegia (NIHSS 14). She has a right ICA terminus occlusion. CT perfusion shows an infarct core of 42 ml and a hypoperfused (penumbra plus core) volume of 120 ml.
+A 66-year-old woman presents 9 hours after onset of left hemiplegia (NIHSS 14). She was independent before. CTA shows a right ICA terminus occlusion. CT perfusion shows an infarct core of 42 ml and a total hypoperfused volume of 120 ml.
 
-**Which statement about EVT eligibility is correct?**
+**What is the most appropriate management?**
 
-A. Not eligible because the core is >31 ml
-B. Not eligible because NIHSS is below 20
-C. Eligible only if under 6 hours
-D. Eligible under DEFUSE 3 (core <70 ml, mismatch ratio ≥1.8, mismatch volume >15 ml)
+A. Antiplatelet therapy only
+B. IV alteplase only
+C. Decompressive craniectomy
+D. Endovascular thrombectomy
 
 **Answer:** D
 
-**Explanation:** She fails DAWN: she is under 80 with a core of 31-51 ml but an NIHSS below 20. However, the CPG also accepts DEFUSE 3 criteria: core <70 ml, mismatch ratio ≥1.8 and mismatch volume >15 ml. Her ratio is 120/42 ≈ 2.9 and her mismatch volume is 78 ml, so she qualifies. Options A and B apply only DAWN thresholds. Option C ignores the extended window.
+**Explanation:** She fails DAWN: under 80 with a 31-51 ml core requires NIHSS ≥20. However, she meets DEFUSE 3: core <70 ml, mismatch ratio 120/42 ≈ 2.9 (≥1.8), and mismatch volume 78 ml (>15 ml). Candidates who stop at DAWN would wrongly deny EVT. IVT is outside its window, and craniectomy is for malignant oedema.
 
 **Teaching point:** If DAWN fails, check DEFUSE 3: core <70 ml, ratio ≥1.8, mismatch >15 ml.
 
@@ -629,90 +629,90 @@ D. Eligible under DEFUSE 3 (core <70 ml, mismatch ratio ≥1.8, mismatch volume 
 ---
 
 ### Q29
-**Topic:** Large core beyond 6 hours
+**Topic:** Late window: large core
 
-A 61-year-old man presents 14 hours after he was last seen well, with left hemiplegia and a right M1 occlusion (NIHSS 19). CT perfusion shows a core of 82 ml and a total hypoperfused volume of 130 ml.
+A 61-year-old man presents 14 hours after he was last seen well. He has left hemiplegia, gaze deviation and neglect (NIHSS 19). CTA shows a right M1 occlusion. CT perfusion shows a core of 82 ml and a total hypoperfused volume of 130 ml.
 
-**Which is the most appropriate management?**
+**What is the most appropriate management?**
 
-A. EVT under DEFUSE 3
-B. EVT under DAWN
-C. No EVT; supportive stroke-unit care and secondary prevention
-D. IV alteplase followed by EVT
+A. Endovascular thrombectomy
+B. IV tenecteplase, then EVT
+C. Stroke-unit care, oedema watch
+D. IV alteplase alone, then reassess
 
 **Answer:** C
 
-**Explanation:** DEFUSE 3 requires a core below 70 ml, and DAWN for patients under 80 requires a core no larger than 51 ml (with NIHSS ≥20 for 31-51 ml). His 82 ml core meets neither, so EVT in the extended window is not supported by the CPG criteria. At 14 hours he is outside any IVT window. He needs stroke-unit care and close watch for malignant oedema, with decompression within 48 hours if appropriate.
+**Explanation:** An 82 ml core fails DEFUSE 3 (<70 ml) and DAWN (no more than 51 ml for patients under 80), so EVT in the extended window is not supported. He is outside every IVT window. With a large right MCA core he is at risk of malignant oedema, and decompressive surgery within 48 hours should be considered if he deteriorates.
 
-**Teaching point:** Extended-window EVT depends on a small core. A core ≥70 ml fails both DAWN and DEFUSE 3.
+**Teaching point:** In the extended window, a core of 70 ml or more fails both DAWN and DEFUSE 3. Watch for malignant oedema.
 
 **Reference:** CPG Section 10.2 (IIIc); Section 8.1.10.
 
 ---
 
 ### Q30
-**Topic:** Minimum imaging before EVT
+**Topic:** Pre-thrombectomy imaging
 
-A comprehensive stroke centre is writing its thrombectomy protocol. The radiologist proposes routine MRI with MRA for every candidate before EVT.
+A 63-year-old man at a comprehensive stroke centre presents 2 hours after onset of aphasia and right hemiparesis (NIHSS 16). Non-contrast CT is normal. The on-call radiologist suggests MRI with DWI and MRA "to confirm the core" before the angiography suite is opened. The MRI slot is in 40 minutes.
 
-**What does the CPG state is the minimum imaging all EVT candidates must have?**
+**What is the most appropriate next imaging?**
 
-A. MRI with DWI and MRA in every patient
-B. Non-contrast CT plus CT angiography from aortic arch to vertex
-C. Non-contrast CT alone
-D. Digital subtraction angiography before groin puncture
+A. MRI with DWI and MRA
+B. Arch-to-vertex CT angiography
+C. Catheter angiography directly
+D. Carotid duplex ultrasound
 
 **Answer:** B
 
-**Explanation:** All AIS patients who are candidates for EVT must have at least a non-contrast CT and a CT angiogram from the arch of the aorta to the vertex, with or without multiphase CTA or CT perfusion. MRI with MRA can be used in selected cases but not routinely, so as to avoid delay. NCCT alone cannot show the occlusion. DSA is done during the procedure itself.
+**Explanation:** All EVT candidates must have at least non-contrast CT plus CTA from the arch of the aorta to the vertex, with or without multiphase CTA or CTP. MRI with MRA is reserved for selected cases and is not used routinely, because it causes delay. Going straight to the catheter without a non-invasive vessel map, or using duplex, does not meet the standard.
 
-**Teaching point:** Before EVT: NCCT + arch-to-vertex CTA (± CTP). MRI is not routine.
+**Teaching point:** Before EVT: NCCT plus arch-to-vertex CTA. Do not delay for MRI.
 
 **Reference:** CPG Section 10.1 (III).
 
 ---
 
 ### Q31
-**Topic:** Anaesthesia for EVT
+**Topic:** Anaesthesia for thrombectomy
 
-A 64-year-old woman with a left M1 occlusion is going for EVT. She is alert (GCS 15), protecting her airway, cooperative, and has no respiratory distress. The anaesthetist asks about the plan.
+A 64-year-old woman with a left M1 occlusion is transferred to the angiography suite. She is alert (GCS 14, aphasic but following commands), protecting her airway, and lying still. SpO2 is 97% on air and BP is 150/85 mmHg.
 
-**What is the preferred anaesthetic approach according to the CPG?**
+**What is the most appropriate anaesthetic approach?**
 
-A. Routine general anaesthesia with intubation
-B. Procedural sedation
+A. Procedural sedation
+B. Rapid sequence intubation
 C. Spinal anaesthesia
-D. No sedation at all, as it is contraindicated
+D. Laryngeal mask anaesthesia
 
-**Answer:** B
+**Answer:** A
 
-**Explanation:** Procedural sedation is generally preferred over general anaesthesia and intubation for most EVT patients. GA is appropriate when medically indicated, for example airway compromise, respiratory distress, depressed consciousness or severe agitation. In those cases, prolonged hypotension and delays should be avoided. She has none of these indications.
+**Explanation:** Procedural sedation is generally preferred over general anaesthesia for EVT. GA with intubation is used when medically indicated: airway compromise, respiratory distress, depressed consciousness or severe agitation. In those cases, prolonged hypotension and delay should be avoided. She has none of these indications. Aphasia alone does not require GA.
 
-**Teaching point:** Sedation is the default for EVT. Use GA only for airway, consciousness or agitation problems, and avoid hypotension.
+**Teaching point:** Use sedation for EVT by default. Reserve GA for airway, consciousness or agitation problems.
 
 **Reference:** CPG Section 10.5.
 
 ---
 
 ### Q32
-**Topic:** Posterior circulation LVO
+**Topic:** Posterior circulation occlusion
 
-A 58-year-old man presents 5 hours after onset of vertigo, diplopia, dysarthria and fluctuating quadriparesis (NIHSS 16). CTA shows a basilar artery occlusion. He was fully independent before.
+A 58-year-old man presents 5 hours after onset of vertigo, diplopia, dysarthria and fluctuating weakness of all four limbs (NIHSS 16). He was fully independent before. Non-contrast CT shows no haemorrhage. He has no contraindications to thrombolysis.
 
-**How does the CPG frame the EVT decision for this patient?**
+**Which investigation is most likely to change management immediately?**
 
-A. EVT is contraindicated in posterior circulation occlusion
-B. EVT is mandatory regardless of imaging
-C. EVT only after IVT has failed for 2 hours
-D. Decide individually, weighing potential benefit and risk
+A. MRI brain with DWI
+B. Carotid duplex ultrasound
+C. CT angiography
+D. Transthoracic echocardiogram
 
-**Answer:** D
+**Answer:** C
 
-**Explanation:** The CPG states that for large artery occlusion of the posterior circulation, such as the basilar artery, the decision to treat should be based on the potential benefits and risks for the individual. It also states that including basilar, ACA and PCA occlusions in EVT is reasonable. It is neither contraindicated nor mandatory, and waiting for IVT to fail is never recommended.
+**Explanation:** Fluctuating quadriparesis with bulbar and oculomotor signs suggests basilar artery occlusion. Brainstem involvement is a CPG trigger for CTA. Confirming an occlusion would lead to an individualised decision about EVT, which the CPG considers reasonable for basilar occlusion, along with IVT if he is eligible. MRI is slower and is not routine. Carotid duplex does not image the basilar artery, and echo can wait.
 
-**Teaching point:** Basilar occlusion: EVT is reasonable on an individual risk-benefit judgement.
+**Teaching point:** Suspected basilar occlusion: CTA now. Basilar EVT is decided case by case.
 
-**Reference:** CPG Section 9.1; Section 10.2 (IIIb).
+**Reference:** CPG Section 9.1; Section 9.3.2 (V); Section 10.2 (IIIb).
 
 ---
 
@@ -721,217 +721,217 @@ D. Decide individually, weighing potential benefit and risk
 ### Q33
 **Topic:** Severe hypertension without reperfusion
 
-A 69-year-old man presents 10 hours after onset of right hemiparesis. He is not a candidate for reperfusion. CT shows an evolving left MCA infarct with no haemorrhage. BP is persistently 232/126 mmHg. He has no chest pain, heart failure or aortic dissection.
+A 69-year-old man presents 10 hours after onset of right hemiparesis and is not a candidate for reperfusion. CT shows an evolving left MCA infarct without haemorrhage. BP is persistently 232/126 mmHg. He has no chest pain, breathlessness or pulmonary oedema, and troponin is normal.
 
-**What is the most appropriate BP management?**
+**What is the most appropriate management?**
 
-A. Sublingual nifedipine 10 mg to bring BP below 140/90 mmHg
-B. No treatment, as BP is permissive after stroke
-C. IV labetalol boluses, aiming for an initial reduction of about 15%
-D. IV GTN infusion aiming for BP <160/90 mmHg within 1 hour
+A. IV labetalol boluses
+B. Sublingual nifedipine
+C. No antihypertensive treatment
+D. IV GTN to normal BP within 1 hour
 
-**Answer:** C
+**Answer:** A
 
-**Explanation:** Without reperfusion, hypertension is treated only if systolic BP is ≥220 mmHg or diastolic BP is ≥120 mmHg. At 232/126 he crosses that threshold. An initial reduction of about 15% is probably safe, and very high BP should be lowered gradually. Proposed agents include IV labetalol 10-20 mg boluses (up to 150-300 mg) or oral captopril. Sublingual nifedipine must be avoided because of precipitous falls, and rapid lowering to normal risks extending the infarct.
+**Explanation:** Without reperfusion, BP is treated only if systolic BP is ≥220 or diastolic BP is ≥120 mmHg, and he exceeds that. An initial reduction of about 15% is probably safe, and very high BP should be lowered gradually. IV labetalol 10-20 mg boluses (up to 150-300 mg) or oral captopril are suggested. Sublingual nifedipine and rapid normalisation risk hypoperfusing the penumbra.
 
-**Teaching point:** Without lysis, treat only BP ≥220/120 mmHg and lower it by about 15% initially. Never use sublingual nifedipine.
+**Teaching point:** In a non-lysed stroke, treat BP of 220/120 or above, aiming for about a 15% fall at first.
 
 **Reference:** CPG Section 8.1.4 (Blood pressure).
 
 ---
 
 ### Q34
-**Topic:** Timing of enteral feeding
+**Topic:** Feeding after a failed swallow
 
-A 77-year-old woman with a large left MCA infarct fails her water swallow test on day 1. On day 3 the team debates feeding. She is drowsy but stable.
+A 77-year-old woman with a large left MCA infarct fails her water swallow screen on day 1. On day 3 she is drowsy but stable, with no oral intake beyond IV fluids. The team plans to "wait for a videofluoroscopy next week" before deciding on feeding.
 
-**By when should enteral feeding (oral or tube) be started?**
+**What is the most appropriate nutrition plan?**
 
-A. Within 7 days of admission
-B. Only after day 14
-C. Only once she passes a videofluoroscopy
-D. Only after PEG insertion
+A. Continue IV fluids until videofluoroscopy
+B. Parenteral nutrition
+C. PEG insertion this week
+D. Nasogastric feeding now
 
-**Answer:** A
+**Answer:** D
 
-**Explanation:** Enteral feeding, oral or by tube, should be started within 7 days of admission (Level I, Grade A). Since she failed the swallow screen, an NG tube is appropriate now. PEG is preferred only if prolonged enteral feeding is needed. Instrumental assessment (VFSE or modified barium swallow) can be done later but should not delay feeding.
+**Explanation:** Enteral feeding (oral or tube) should start within 7 days of admission. A patient who fails the swallow screen should have an NG tube. Instrumental assessment can follow but should not hold up feeding. PEG is preferred only when prolonged enteral feeding is expected. Parenteral nutrition is not indicated when the gut works.
 
-**Teaching point:** Start enteral feeding within 7 days, by NG tube if the swallow screen is failed.
+**Teaching point:** Failed swallow screen: NG feeding within 7 days. Keep PEG for long-term needs.
 
 **Reference:** CPG Section 8.1.6 (Nutrition).
 
 ---
 
 ### Q35
-**Topic:** Prophylactic antibiotics
+**Topic:** Fever on the stroke unit
 
-A 73-year-old man with dysphagia after a brainstem infarct is apyrexial with a clear chest on day 2. The registrar proposes routine co-amoxiclav to prevent aspiration pneumonia.
+A 73-year-old man with dysphagia after a brainstem infarct develops a temperature of 38.4°C on day 3. RR is 22/min and there are coarse crackles at the right base. He has an NG tube and a urinary catheter. On admission, the registrar had suggested routine co-amoxiclav prophylaxis, which was not given.
 
-**What is the CPG position?**
+**What is the most appropriate management now?**
 
-A. Prophylactic antibiotics for all dysphagic patients
-B. Prophylactic antibiotics for 7 days after any stroke
-C. Prophylactic antibiotics only if NIHSS is above 10
-D. No prophylactic antibiotics; look for infection if fever develops and treat early
+A. Paracetamol alone and observe
+B. Septic screen; early antibiotics
+C. Induced therapeutic hypothermia
+D. Remove the NG tube and observe closely
 
-**Answer:** D
+**Answer:** B
 
-**Explanation:** Routine prophylactic antibiotics have not been shown to be beneficial (Level I, Grade A). Infection, especially pneumonia and UTI, is the commonest complication after stroke. The recommendation is to search for infection when fever appears and to treat early with appropriate antibiotics. Elevated temperatures should be controlled with antipyretics.
+**Explanation:** Infection, especially pneumonia and UTI, is the commonest complication after stroke. The CPG recommends searching for infection when fever appears and treating early with appropriate antibiotics, together with antipyretics. Prophylactic antibiotics are not recommended, so it was right not to start them on admission. Hypothermia is offered only within trials. Antipyretics alone leave probable aspiration pneumonia untreated.
 
-**Teaching point:** No prophylactic antibiotics in stroke. Investigate and treat fever promptly.
+**Teaching point:** No prophylactic antibiotics after stroke, but investigate and treat fever early.
 
 **Reference:** CPG Section 8.1.7 (Infection); Section 8.1.8 (Fever).
 
 ---
 
 ### Q36
-**Topic:** Compression stockings
+**Topic:** VTE prophylaxis choice
 
-A 70-year-old woman is immobile with a dense left hemiplegia on day 2 after an ischaemic stroke. She is on aspirin and adequately hydrated. The ward has thigh-length graduated compression stockings and IPC devices.
+A 70-year-old woman is immobile with a dense left hemiplegia on day 2 after an ischaemic stroke. She is on aspirin and is well hydrated. She has no peripheral arterial disease or leg ulcers. The ward stocks thigh-length graduated compression stockings and intermittent pneumatic compression devices.
 
-**What does the CPG say about graduated compression stockings for her?**
+**What is the most appropriate VTE prophylaxis?**
 
-A. Recommended as first-line VTE prophylaxis
-B. Should not be used
-C. Recommended only with prophylactic LMWH
-D. Recommended only if IPC is unavailable
+A. Intermittent pneumatic compression
+B. Compression stockings plus LMWH
+C. Thigh-length compression stockings
+D. Therapeutic enoxaparin
 
-**Answer:** B
+**Answer:** A
 
-**Explanation:** In ischaemic stroke, elastic or graduated compression stockings should not be used (Level I, Grade A). The CLOTS 1 and 2 trials showed they do not prevent VTE or improve outcome, and they cause skin breaks, ulcers, blisters and necrosis. IPC plus routine care is the recommended method for immobile patients. The benefit of prophylactic heparin is not well established.
+**Explanation:** For immobile stroke patients, IPC plus routine care (aspirin and hydration) is recommended (Level I). Graduated compression stockings should not be used in ischaemic stroke: CLOTS 1 and 2 showed no benefit and caused skin breaks, ulcers and necrosis. The benefit of prophylactic heparin is not well established, and therapeutic anticoagulation is not indicated.
 
-**Teaching point:** Use IPC for immobile stroke patients. Do not use graduated compression stockings.
+**Teaching point:** Use IPC. Do not use stockings in stroke.
 
 **Reference:** CPG Section 8.1.11 (Deep vein thrombosis).
 
 ---
 
 ### Q37
-**Topic:** Osmotherapy for raised ICP
+**Topic:** Medical measures for raised ICP
 
-A 56-year-old man weighing 70 kg has a large right MCA infarct. On day 2 he becomes drowsier and CT shows midline shift. Neurosurgery is reviewing him for decompression. In the meantime, mannitol is prescribed.
+A 56-year-old man weighing 70 kg has a large right MCA infarct. On day 2 he becomes drowsier (GCS 11) and CT shows 6 mm of midline shift. Neurosurgery agrees to decompress him and the theatre will be ready in 2 hours.
 
-**Which mannitol regimen matches the CPG?**
+**Which is the most appropriate bridging measure?**
 
-A. 0.25-0.5 g/kg IV over 20 minutes, every 6 hours, maximum 2 g/kg/day
-B. 1.5 g/kg IV bolus every 2 hours
-C. 2 g/kg IV once, then stop
-D. 0.1 g/kg orally every 4 hours
+A. Mannitol 0.25-0.5 g/kg over 20 min
+B. Dexamethasone 10 mg IV
+C. Mannitol 2 g/kg as a single rapid bolus
+D. Hypotonic IV fluids
 
 **Answer:** A
 
-**Explanation:** Mannitol 0.25-0.5 g/kg IV over 20 minutes lowers ICP and can be given every 6 hours, with a maximum daily dose of 2 g/kg. For him that is roughly 17.5-35 g per dose. Hyperventilation is a quick emergency measure: lowering PCO2 by 5-10 mmHg reduces ICP by 25-30%. CSF drainage helps when hydrocephalus is present. Decompression within 48 hours is the definitive step for a malignant infarct.
+**Explanation:** Mannitol 0.25-0.5 g/kg IV over 20 minutes lowers ICP and can be repeated every 6 hours, with a maximum of 2 g/kg per day. A single 2 g/kg bolus uses the whole daily maximum at once. Steroids do not treat cytotoxic oedema. Hypotonic fluids worsen cerebral oedema. Brief hyperventilation is also an emergency option.
 
-**Teaching point:** Mannitol in stroke: 0.25-0.5 g/kg over 20 minutes, 6-hourly, maximum 2 g/kg/day.
+**Teaching point:** Mannitol in stroke: 0.25-0.5 g/kg over 20 minutes, 6-hourly, maximum 2 g/kg per day.
 
 **Reference:** CPG Section 8.1.10 (Raised intracranial pressure).
 
 ---
 
 ### Q38
-**Topic:** Large cerebellar infarct
+**Topic:** Deterioration after a posterior fossa infarct
 
-A 63-year-old woman with a large right cerebellar infarct becomes drowsy on day 2 (GCS 11) with vomiting. CT shows effacement of the fourth ventricle, brainstem compression and dilated lateral ventricles.
+A 63-year-old woman was admitted with vertigo, vomiting and right-sided limb ataxia. On day 2 she becomes drowsy (GCS 11) and develops a right sixth nerve palsy. CT shows a large right cerebellar infarct with effacement of the fourth ventricle and enlarging temporal horns.
 
 **What is the most appropriate definitive management?**
 
 A. IV dexamethasone
-B. Repeat CT in 24 hours
-C. IV alteplase
-D. Ventriculostomy and suboccipital decompressive craniectomy
+B. Repeat CT brain in 24 hours
+C. Hypertonic saline and observation
+D. EVD and suboccipital craniectomy
 
 **Answer:** D
 
-**Explanation:** The CPG states that ventriculostomy and suboccipital craniectomy are effective in relieving hydrocephalus and brainstem compression caused by large cerebellar infarctions. Steroids are not a treatment for ischaemic oedema. Waiting risks herniation, and thrombolysis has no role at this stage.
+**Explanation:** Drowsiness, a new cranial nerve palsy, fourth ventricle effacement and hydrocephalus indicate brainstem compression from cerebellar oedema. The CPG states that ventriculostomy and suboccipital craniectomy are effective in relieving hydrocephalus and brainstem compression from large cerebellar infarcts. Steroids, waiting, or osmotherapy alone risk tonsillar herniation.
 
-**Teaching point:** Cerebellar infarct with hydrocephalus or brainstem compression: urgent EVD plus suboccipital decompression.
+**Teaching point:** A swollen cerebellar infarct with hydrocephalus needs CSF drainage and posterior fossa decompression.
 
 **Reference:** CPG Section 8.1.10.
 
 ---
 
 ### Q39
-**Topic:** Decompression over 60 years
+**Topic:** Malignant MCA infarct over 60
 
-A 64-year-old man who was previously independent has a malignant left MCA infarct. He deteriorates 30 hours after onset. His family asks whether surgery is still possible at his age.
+A 64-year-old man who was independent before (mRS 0) has a complete left MCA infarct. He deteriorates 30 hours after onset, with falling GCS and 8 mm of midline shift. He has no significant comorbidity. His family want "everything possible" but understand he may remain disabled.
 
-**What is the CPG position?**
+**What is the most appropriate management?**
 
-A. Decompressive craniectomy may be considered in selected patients over 60
-B. Surgery is contraindicated over 60
-C. Surgery is only possible beyond 72 hours
-D. Only mannitol is appropriate over 60
+A. Decompressive hemicraniectomy
+B. Mannitol alone
+C. Palliative care, as he is over 60
+D. Delay surgery until 72 hours
 
 **Answer:** A
 
-**Explanation:** Patients over 60 may be considered for decompressive craniectomy in selected cases (Level I, Grade A). Hemicraniectomy increased survival without severe disability in patients aged 61 or older, although most survivors needed help with daily care. That expected outcome should be discussed with the family. Surgery is done within 48 hours, and he is at 30 hours.
+**Explanation:** Decompressive craniectomy within 48 hours is recommended for very large hemispheric infarcts, and patients over 60 may be considered in selected cases (Level I). Hemicraniectomy in people aged 61 or older increases survival without severe disability, although most survivors need help with daily care. His family understand that. Age alone does not mean palliation, and mannitol only bridges. Waiting beyond 48 hours forfeits the evidence base.
 
-**Teaching point:** Hemicraniectomy within 48 hours can be offered to selected patients over 60, after an honest discussion of disability.
+**Teaching point:** Selected patients over 60 can have hemicraniectomy within 48 hours, after an honest discussion about disability.
 
-**Reference:** CPG Section 8.1.10 (Recommendations on decompressive surgery).
+**Reference:** CPG Section 8.1.10.
 
 ---
 
 ### Q40
-**Topic:** Bladder management
+**Topic:** Continence care
 
-A 75-year-old woman 4 days after a stroke has urinary incontinence. An indwelling catheter was inserted in the ED and is still in place. She is now more alert.
+A 75-year-old woman is on day 4 after a left MCA stroke and is now more alert. An indwelling catheter was inserted in the ED for "incontinence" and is still in place. Her urine is cloudy but she is apyrexial.
 
-**Which approach to bladder management matches the CPG?**
+**What is the most appropriate next step?**
 
-A. Keep the catheter until discharge
-B. Change the catheter weekly and continue it long term
-C. Remove the catheter as soon as possible; check post-void residual with portable ultrasound; start bladder training
-D. Start prophylactic antibiotics while the catheter is in
+A. Change to a long-term silicone catheter
+B. Prophylactic nitrofurantoin
+C. Remove catheter; scan residuals
+D. Keep catheter until discharge
 
 **Answer:** C
 
-**Explanation:** If a catheter is used, it should be assessed daily with excellent perineal care and removed as soon as possible. All stroke patients should be screened for retention and incontinence. Portable (non-invasive) ultrasound is recommended for post-void residual volume. A bladder training programme, including intermittent catheterisation guided by residual volume, should be started. Long-term catheters raise infection risk, and prophylactic antibiotics are not recommended.
+**Explanation:** Indwelling catheters carry infection risk. They should be reviewed daily and removed as soon as possible. Every stroke patient should be screened for retention and incontinence, with post-void residual measured by portable ultrasound. A bladder training programme, using intermittent catheterisation if residuals are high, should follow. Antibiotic prophylaxis is not recommended, and asymptomatic cloudy urine is not a reason to keep the catheter.
 
-**Teaching point:** Remove urinary catheters early, use a bladder scanner, and start bladder training.
+**Teaching point:** Remove catheters early. Use a bladder scanner and bladder training rather than indwelling catheters.
 
 **Reference:** CPG Section 8.1.9 (Continence).
 
 ---
 
 ### Q41
-**Topic:** Stroke unit care
+**Topic:** Recurrent post-stroke seizures
 
-A hospital manager asks whether a dedicated stroke unit is worthwhile, since most of the hospital's stroke patients are over 75 with several comorbidities.
+A 66-year-old man had a single focal seizure 6 hours after a right frontal cortical infarct and was not started on medication. On day 6 he has two further focal seizures with secondary generalisation, separated by full recovery. Glucose, sodium and calcium are normal and repeat CT shows no haemorrhage.
 
-**What does the CPG state about the benefit of stroke units?**
+**What is the most appropriate management?**
 
-A. Benefit is limited to patients under 65
-B. Benefit is only for patients who received thrombolysis
-C. Benefit applies only to mild strokes
-D. Benefit applies regardless of age, sex, comorbidity and stroke severity
+A. Observe; seizures are expected after stroke
+B. Prophylactic phenytoin loading for 7 days
+C. Lorazepam as needed only
+D. Start an individualised antiseizure drug
 
 **Answer:** D
 
-**Explanation:** Stroke units reduce death, dependency, institutionalisation and length of stay, and this benefit is independent of the patient's age, sex, comorbidities and stroke severity (Level I). The size of benefit is comparable to IV rtPA. Every hospital should set up a stroke unit run by a multidisciplinary team.
+**Explanation:** A single self-limiting seizure within 24 hours does not need long-term anticonvulsants, and prophylactic drugs are not recommended. Patients should, however, be monitored for recurrence and treated as for seizures in other neurological conditions, individualised to the patient. He now has recurrent seizures, so maintenance treatment is indicated. Rescue lorazepam alone, or a fixed prophylactic course, does not match the CPG approach.
 
-**Teaching point:** Stroke units help every subgroup, with an effect size similar to thrombolysis.
+**Teaching point:** One early seizure: observe. Recurrent seizures: treat as epilepsy, individualised.
 
-**Reference:** CPG Section 11.1 (Stroke unit).
+**Reference:** CPG Section 8.1.12 (Seizure).
 
 ---
 
 ### Q42
-**Topic:** Quality indicator for thrombolysis
+**Topic:** Organisation of care for an older patient
 
-A hospital reviews its stroke quality report. One indicator concerns how quickly IV thrombolysis is started once CT brain begins.
+An 84-year-old woman with diabetes, CKD stage 3 and AF is admitted with a moderate left MCA infarct (NIHSS 9). She is outside the reperfusion window. The general medical ward has a free bed, and the stroke unit has one bed left. The bed manager suggests the general ward because "the stroke unit is for younger thrombolysis patients".
 
-**Which benchmark does the CPG set for this indicator?**
+**What is the most appropriate placement?**
 
-A. >65% of patients treated within 35 minutes of CT initiation
-B. >90% of patients treated within 60 minutes of CT initiation
-C. >80% of patients treated within 20 minutes of CT initiation
-D. 100% of patients treated within 45 minutes of arrival
+A. Stroke unit
+B. General medical ward
+C. Geriatric ward without stroke team input
+D. High-dependency unit
 
 **Answer:** A
 
-**Explanation:** The CPG quality measure is that more than 65% of ischaemic stroke patients receiving IV thrombolysis are treated within 35 minutes of CT brain initiation (CT-to-needle time). Other measures include >90% imaged within 24 hours of ED presentation, >90% screened for dysphagia, >80% discharged on antiplatelets, and >80% of AF-related strokes anticoagulated or planned for anticoagulation.
+**Explanation:** All stroke patients should be admitted to a stroke unit. The reduction in death, dependency and institutionalisation applies regardless of age, sex, comorbidity and stroke severity, and is comparable in size to the effect of rtPA. Neither her age nor her lack of reperfusion is a reason to exclude her. She has no indication for HDU.
 
-**Teaching point:** CT-to-needle under 35 minutes in more than 65% of thrombolysed patients is the CPG benchmark.
+**Teaching point:** Every stroke patient benefits from stroke-unit care, including the old, the frail and the non-thrombolysed.
 
-**Reference:** CPG Chapter 17 (Quality assurance), Measure 1.
+**Reference:** CPG Section 9.2; Section 11.1 (Stroke unit).
