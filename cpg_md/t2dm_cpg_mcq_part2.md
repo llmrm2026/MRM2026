@@ -443,3 +443,223 @@ D. Atorvastatin
 **Teaching point:** Never combine repaglinide with gemfibrozil, because of prolonged hypoglycaemia.
 
 **Reference:** CPG Section 3.6.1 (Meglitinides); Section 3.9.2.
+
+---
+
+### Q21
+**Topic:** Add-on therapy with HFrEF
+
+A 64-year-old man with T2DM has ischaemic cardiomyopathy (LVEF 32%) and was admitted with decompensated heart failure 2 months ago. He takes metformin 1 g twice daily, sacubitril/valsartan, bisoprolol and spironolactone. HbA1c is 7.8% and eGFR is 58 ml/min/1.73 m2.
+
+**Which glucose-lowering add-on is most appropriate?**
+
+A. Saxagliptin
+B. Pioglitazone
+C. Dapagliflozin
+D. Glimepiride
+
+**Answer:** C
+
+**Explanation:** SGLT2 inhibitors reduce CV death and heart failure hospitalisation in HFrEF (DAPA-HF, EMPEROR-Reduced), with or without diabetes. The CPG says they should be considered even when HbA1c is at target. Saxagliptin increased heart failure admissions and should be avoided in pre-existing heart failure. TZDs are contraindicated in CCF. Glimepiride is CV-neutral and gives no heart failure benefit.
+
+**Teaching point:** HFrEF plus T2DM: add an SGLT2 inhibitor. Avoid saxagliptin and TZDs.
+
+**Reference:** CPG Section 5.4A (CVD management); Section 3.6.1.
+
+---
+
+### Q22
+**Topic:** ASCVD with HbA1c at target
+
+A 58-year-old woman with T2DM had a non-ST-elevation MI a year ago. She takes metformin 1 g twice daily, and her HbA1c is 6.6%. BMI is 33 kg/m2 and eGFR 85 ml/min/1.73 m2. She is keen to lose weight and asks whether any change to her diabetes treatment is needed.
+
+**What is the most appropriate change?**
+
+A. None; HbA1c at target
+B. Add liraglutide
+C. Add exenatide extended-release
+D. Add sitagliptin
+
+**Answer:** B
+
+**Explanation:** With established ASCVD, the CPG recommends adding an SGLT2 inhibitor or a GLP1-RA *with demonstrated CV benefit*, whatever the HbA1c achieved. Liraglutide reduced MACE in LEADER, and it also helps weight. Exenatide ER showed no significant MACE reduction in EXSCEL. Sitagliptin is CV-safe but not cardioprotective. An HbA1c at target is the trap.
+
+**Teaching point:** In ASCVD, add a GLP1-RA or SGLT2 inhibitor with proven CV benefit, even if HbA1c is at target.
+
+**Reference:** CPG Section 5.4A (Recommendation 5); Section 3.6.2.
+
+---
+
+### Q23
+**Topic:** Family history and incretin choice
+
+A 45-year-old woman with T2DM and BMI 36 kg/m2 has HbA1c 8.2% on metformin and gliclazide. Her brother had a total thyroidectomy for medullary thyroid carcinoma and was found to carry a RET mutation (MEN 2A). eGFR is 90 ml/min/1.73 m2.
+
+**Which add-on is most appropriate?**
+
+A. Semaglutide weekly
+B. Dulaglutide weekly
+C. Liraglutide daily
+D. Empagliflozin
+
+**Answer:** D
+
+**Explanation:** GLP1-RAs should not be used in patients with a personal or family history of MEN 2A/2B or medullary thyroid cancer. That excludes all three GLP1-RAs, however weight-effective. An SGLT2 inhibitor adds weight loss with a low risk of hypoglycaemia.
+
+**Teaching point:** A family history of MTC or MEN2 rules out all GLP1-RAs.
+
+**Reference:** CPG Section 3.6.2 (Precautions for GLP1-RA).
+
+---
+
+### Q24
+**Topic:** Starting a GLP1-RA on existing therapy
+
+A 52-year-old man with T2DM takes metformin 1 g twice daily and sitagliptin 100 mg daily. HbA1c is 8.4% and BMI 34 kg/m2. Liraglutide 0.6 mg daily is to be started, titrating to 1.2-1.8 mg.
+
+**What change should be made to his existing tablets?**
+
+A. Stop metformin
+B. Halve sitagliptin
+C. Stop sitagliptin
+D. No change needed
+
+**Answer:** C
+
+**Explanation:** GLP1-RAs should not be combined with DPP4 inhibitors, as both act on the incretin pathway. A half dose of sitagliptin is still the same class. Metformin should continue as the base therapy. Keeping all three drugs is the error the question is testing.
+
+**Teaching point:** Starting a GLP1-RA means stopping the DPP4 inhibitor.
+
+**Reference:** CPG Section 3.6.2 (Precautions for GLP1-RA).
+
+---
+
+### Q25
+**Topic:** Missed weekly injection
+
+A 60-year-old woman injects semaglutide 1 mg every Sunday. On Wednesday morning she realises she forgot Sunday's dose. Her next scheduled dose is in 4 days.
+
+**What is the most appropriate advice?**
+
+A. Inject now, then next Sunday
+B. Skip it; resume next Sunday
+C. Inject now; make Wednesday the new day
+D. Inject 2 mg next Sunday
+
+**Answer:** B
+
+**Explanation:** For semaglutide, if 5 or more days remain until the next dose, the missed dose is given as soon as possible. If fewer than 5 days remain, it is skipped and the next scheduled dose given. She has 4 days, so she should skip. The dulaglutide cut-off is 3 days, so under the dulaglutide rule she would have injected now, which is the near-miss. Doses are never doubled.
+
+**Teaching point:** Missed weekly GLP1-RA: semaglutide, inject if ≥5 days to the next dose; dulaglutide, if ≥3 days.
+
+**Reference:** CPG Section 3.6.2, Table 3-16.
+
+---
+
+### Q26
+**Topic:** Initial therapy by HbA1c band
+
+A 49-year-old man is diagnosed with T2DM on routine screening. He has no symptoms and no weight loss. HbA1c is 9.2% and fasting glucose 11.2 mmol/l. Urine ketones are negative. eGFR is 92 ml/min/1.73 m2 and he has no CVD.
+
+**According to the CPG treatment algorithm, what is the most appropriate initial pharmacological approach?**
+
+A. Metformin monotherapy
+B. Dual combination therapy
+C. Triple combination therapy
+D. Basal insulin with OGLD
+
+**Answer:** C
+
+**Explanation:** The CPG algorithm for newly diagnosed T2DM uses HbA1c bands: <6.5% consider metformin; 6.5-7.4% mono or dual therapy; 7.5-8.4% dual; 8.5-10.0% (FPG 10.0-13.0) triple combination; >10.0% (FPG >13.0) or symptomatic, basal or premixed insulin with combination therapy. At 9.2% and asymptomatic, he is in the triple combination band.
+
+**Teaching point:** New T2DM by HbA1c: 6.5-7.4% mono/dual, 7.5-8.4% dual, 8.5-10% triple, >10% or symptomatic insulin.
+
+**Reference:** CPG Section 3.7, Figure 3-3.
+
+---
+
+### Q27
+**Topic:** Symptomatic new diagnosis
+
+A 38-year-old woman presents with 6 weeks of thirst, polyuria and 5 kg weight loss. HbA1c is 11.8% and fasting glucose 15.6 mmol/l. Blood ketones are 0.4 mmol/l and venous pH 7.38. GAD antibodies are negative. BMI is 29 kg/m2.
+
+**What is the most appropriate initial treatment?**
+
+A. Metformin plus sitagliptin
+B. Triple oral combination
+C. GLP1-RA plus metformin
+D. Basal insulin plus metformin
+
+**Answer:** D
+
+**Explanation:** Symptomatic hyperglycaemia with catabolism (weight loss) and HbA1c above 10% or FPG above 13.0 mmol/l are CPG indications for insulin as initial therapy, combined with OGLDs. She is not in DKA, so this is outpatient basal insulin (10 U, or 0.1-0.2 U/kg/day) plus metformin. Oral combinations or a GLP1-RA are too slow for catabolic hyperglycaemia and are not a substitute for insulin.
+
+**Teaching point:** Weight loss with HbA1c >10% or FPG >13 mmol/l: start insulin from diagnosis.
+
+**Reference:** CPG Section 3.6.5; Figure 3-2; Figure 3-3.
+
+---
+
+### Q28
+**Topic:** Statin despite a "normal" LDL-C
+
+A 42-year-old man has had T2DM for 3 years. He is a non-smoker, normotensive, with no albuminuria, retinopathy or CVD. LDL-C is 2.3 mmol/l, which is below his moderate-risk target of 2.6 mmol/l. He asks whether he really needs a statin.
+
+**What is the most appropriate advice?**
+
+A. Start a statin
+B. No statin; LDL-C at target
+C. Recheck LDL-C at age 50
+D. Diet alone, then reassess
+
+**Answer:** A
+
+**Explanation:** The CPG recommends that all patients with T2DM over the age of 40 receive a statin regardless of baseline LDL-C (Grade A). Using the risk-based LDL-C target as the reason not to start is the trap: the target guides intensity, not whether to treat. A statin is generally not recommended only in those under 21 without ASCVD.
+
+**Teaching point:** T2DM over 40: statin whatever the LDL-C. Targets guide intensity.
+
+**Reference:** CPG Section 3.9.2 (Recommendations: Dyslipidaemia).
+
+---
+
+### Q29
+**Topic:** LDL-C target after MI
+
+A 61-year-old man with T2DM had an anterior MI 2 years ago. He takes atorvastatin 80 mg with good adherence and no side effects. LDL-C is 1.7 mmol/l, TG 1.4 mmol/l and HDL-C 1.0 mmol/l.
+
+**What is the most appropriate lipid management?**
+
+A. Continue; LDL-C below 1.8
+B. Switch to rosuvastatin 10 mg
+C. Add ezetimibe
+D. Add a PCSK9 inhibitor
+
+**Answer:** C
+
+**Explanation:** T2DM with established CVD is very high risk, with an LDL-C target below 1.4 mmol/l. A target of 1.8 applies only to high risk, which is the trap. If the target is not reached on the maximum tolerated statin, ezetimibe is added. A PCSK9 inhibitor is considered only if statin plus ezetimibe fails. Rosuvastatin 10 mg is less intense than atorvastatin 80 mg.
+
+**Teaching point:** Diabetes with CVD: LDL-C <1.4 mmol/l. Escalate statin, then ezetimibe, then PCSK9 inhibitor.
+
+**Reference:** CPG Section 3.9.2, Table 3-26.
+
+---
+
+### Q30
+**Topic:** Glucose management on admission
+
+A 68-year-old woman with T2DM on metformin and glimepiride is admitted with pneumonia. She is eating less than half her meals. Creatinine has risen from 80 to 145 µmol/l. Glucose readings are 13-16 mmol/l. She is not critically ill.
+
+**What is the most appropriate glucose management?**
+
+A. Continue home OGLDs
+B. Sliding-scale insulin alone
+C. Stop OGLDs; basal-plus insulin
+D. Stop metformin; increase glimepiride
+
+**Answer:** C
+
+**Explanation:** OGLDs should be stopped in hospital when there is poor oral intake, AKI, IV contrast, critical illness or organ failure. She has poor intake and AKI. For non-critically ill patients who are not eating well, the options are a basal-plus insulin regimen or VRIII, with a target of 7.8-10 mmol/l. Sliding-scale insulin alone is strongly discouraged. Increasing a sulphonylurea with AKI and poor intake risks prolonged hypoglycaemia.
+
+**Teaching point:** Inpatient with poor intake and AKI: stop OGLDs and use basal-plus insulin. Never use a sliding scale alone.
+
+**Reference:** CPG Section 6.1 (Management of T2DM in acute illness).

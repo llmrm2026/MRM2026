@@ -6532,5 +6532,105 @@ const cpgBank = [
     correct_option: "B",
     explanation: "Rationale: Repaglinide combined with gemfibrozil is contraindicated because of a high risk of prolonged hypoglycaemia (gemfibrozil inhibits repaglinide metabolism). Fenofibrate is the safer fibrate for him. Fish oil 2-4 g/day is an option for TG above 5.7 mmol/l, and a statin may be combined. Meglitinides can be added to other OGLDs except sulphonylureas. Teaching point: Never combine repaglinide with gemfibrozil, because of prolonged hypoglycaemia.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 3.6.1 (Meglitinides); Section 3.9.2.",
     tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 64-year-old man with T2DM has ischaemic cardiomyopathy (LVEF 32%) and was admitted with decompensated heart failure 2 months ago. He takes metformin 1 g twice daily, sacubitril/valsartan, bisoprolol and spironolactone. HbA1c is 7.8% and eGFR is 58 ml/min/1.73 m2. Which glucose-lowering add-on is most appropriate?",
+    option_a: "Saxagliptin",
+    option_b: "Pioglitazone",
+    option_c: "Dapagliflozin",
+    option_d: "Glimepiride",
+    correct_option: "C",
+    explanation: "Rationale: SGLT2 inhibitors reduce CV death and heart failure hospitalisation in HFrEF (DAPA-HF, EMPEROR-Reduced), with or without diabetes. The CPG says they should be considered even when HbA1c is at target. Saxagliptin increased heart failure admissions and should be avoided in pre-existing heart failure. TZDs are contraindicated in CCF. Glimepiride is CV-neutral and gives no heart failure benefit. Teaching point: HFrEF plus T2DM: add an SGLT2 inhibitor. Avoid saxagliptin and TZDs.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 5.4A (CVD management); Section 3.6.1.",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 58-year-old woman with T2DM had a non-ST-elevation MI a year ago. She takes metformin 1 g twice daily, and her HbA1c is 6.6%. BMI is 33 kg/m2 and eGFR 85 ml/min/1.73 m2. She is keen to lose weight and asks whether any change to her diabetes treatment is needed. What is the most appropriate change?",
+    option_a: "None; HbA1c at target",
+    option_b: "Add liraglutide",
+    option_c: "Add exenatide extended-release",
+    option_d: "Add sitagliptin",
+    correct_option: "B",
+    explanation: "Rationale: With established ASCVD, the CPG recommends adding an SGLT2 inhibitor or a GLP1-RA *with demonstrated CV benefit*, whatever the HbA1c achieved. Liraglutide reduced MACE in LEADER, and it also helps weight. Exenatide ER showed no significant MACE reduction in EXSCEL. Sitagliptin is CV-safe but not cardioprotective. An HbA1c at target is the trap. Teaching point: In ASCVD, add a GLP1-RA or SGLT2 inhibitor with proven CV benefit, even if HbA1c is at target.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 5.4A (Recommendation 5); Section 3.6.2.",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 45-year-old woman with T2DM and BMI 36 kg/m2 has HbA1c 8.2% on metformin and gliclazide. Her brother had a total thyroidectomy for medullary thyroid carcinoma and was found to carry a RET mutation (MEN 2A). eGFR is 90 ml/min/1.73 m2. Which add-on is most appropriate?",
+    option_a: "Semaglutide weekly",
+    option_b: "Dulaglutide weekly",
+    option_c: "Liraglutide daily",
+    option_d: "Empagliflozin",
+    correct_option: "D",
+    explanation: "Rationale: GLP1-RAs should not be used in patients with a personal or family history of MEN 2A/2B or medullary thyroid cancer. That excludes all three GLP1-RAs, however weight-effective. An SGLT2 inhibitor adds weight loss with a low risk of hypoglycaemia. Teaching point: A family history of MTC or MEN2 rules out all GLP1-RAs.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 3.6.2 (Precautions for GLP1-RA).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 52-year-old man with T2DM takes metformin 1 g twice daily and sitagliptin 100 mg daily. HbA1c is 8.4% and BMI 34 kg/m2. Liraglutide 0.6 mg daily is to be started, titrating to 1.2-1.8 mg. What change should be made to his existing tablets?",
+    option_a: "Stop metformin",
+    option_b: "Halve sitagliptin",
+    option_c: "Stop sitagliptin",
+    option_d: "No change needed",
+    correct_option: "C",
+    explanation: "Rationale: GLP1-RAs should not be combined with DPP4 inhibitors, as both act on the incretin pathway. A half dose of sitagliptin is still the same class. Metformin should continue as the base therapy. Keeping all three drugs is the error the question is testing. Teaching point: Starting a GLP1-RA means stopping the DPP4 inhibitor.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 3.6.2 (Precautions for GLP1-RA).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 60-year-old woman injects semaglutide 1 mg every Sunday. On Wednesday morning she realises she forgot Sunday's dose. Her next scheduled dose is in 4 days. What is the most appropriate advice?",
+    option_a: "Inject now, then next Sunday",
+    option_b: "Skip it; resume next Sunday",
+    option_c: "Inject now; make Wednesday the new day",
+    option_d: "Inject 2 mg next Sunday",
+    correct_option: "B",
+    explanation: "Rationale: For semaglutide, if 5 or more days remain until the next dose, the missed dose is given as soon as possible. If fewer than 5 days remain, it is skipped and the next scheduled dose given. She has 4 days, so she should skip. The dulaglutide cut-off is 3 days, so under the dulaglutide rule she would have injected now, which is the near-miss. Doses are never doubled. Teaching point: Missed weekly GLP1-RA: semaglutide, inject if ≥5 days to the next dose; dulaglutide, if ≥3 days.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 3.6.2, Table 3-16.",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 49-year-old man is diagnosed with T2DM on routine screening. He has no symptoms and no weight loss. HbA1c is 9.2% and fasting glucose 11.2 mmol/l. Urine ketones are negative. eGFR is 92 ml/min/1.73 m2 and he has no CVD. According to the CPG treatment algorithm, what is the most appropriate initial pharmacological approach?",
+    option_a: "Metformin monotherapy",
+    option_b: "Dual combination therapy",
+    option_c: "Triple combination therapy",
+    option_d: "Basal insulin with OGLD",
+    correct_option: "C",
+    explanation: "Rationale: The CPG algorithm for newly diagnosed T2DM uses HbA1c bands: <6.5% consider metformin; 6.5-7.4% mono or dual therapy; 7.5-8.4% dual; 8.5-10.0% (FPG 10.0-13.0) triple combination; >10.0% (FPG >13.0) or symptomatic, basal or premixed insulin with combination therapy. At 9.2% and asymptomatic, he is in the triple combination band. Teaching point: New T2DM by HbA1c: 6.5-7.4% mono/dual, 7.5-8.4% dual, 8.5-10% triple, >10% or symptomatic insulin.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 3.7, Figure 3-3.",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 38-year-old woman presents with 6 weeks of thirst, polyuria and 5 kg weight loss. HbA1c is 11.8% and fasting glucose 15.6 mmol/l. Blood ketones are 0.4 mmol/l and venous pH 7.38. GAD antibodies are negative. BMI is 29 kg/m2. What is the most appropriate initial treatment?",
+    option_a: "Metformin plus sitagliptin",
+    option_b: "Triple oral combination",
+    option_c: "GLP1-RA plus metformin",
+    option_d: "Basal insulin plus metformin",
+    correct_option: "D",
+    explanation: "Rationale: Symptomatic hyperglycaemia with catabolism (weight loss) and HbA1c above 10% or FPG above 13.0 mmol/l are CPG indications for insulin as initial therapy, combined with OGLDs. She is not in DKA, so this is outpatient basal insulin (10 U, or 0.1-0.2 U/kg/day) plus metformin. Oral combinations or a GLP1-RA are too slow for catabolic hyperglycaemia and are not a substitute for insulin. Teaching point: Weight loss with HbA1c >10% or FPG >13 mmol/l: start insulin from diagnosis.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 3.6.5; Figure 3-2; Figure 3-3.",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 42-year-old man has had T2DM for 3 years. He is a non-smoker, normotensive, with no albuminuria, retinopathy or CVD. LDL-C is 2.3 mmol/l, which is below his moderate-risk target of 2.6 mmol/l. He asks whether he really needs a statin. What is the most appropriate advice?",
+    option_a: "Start a statin",
+    option_b: "No statin; LDL-C at target",
+    option_c: "Recheck LDL-C at age 50",
+    option_d: "Diet alone, then reassess",
+    correct_option: "A",
+    explanation: "Rationale: The CPG recommends that all patients with T2DM over the age of 40 receive a statin regardless of baseline LDL-C (Grade A). Using the risk-based LDL-C target as the reason not to start is the trap: the target guides intensity, not whether to treat. A statin is generally not recommended only in those under 21 without ASCVD. Teaching point: T2DM over 40: statin whatever the LDL-C. Targets guide intensity.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 3.9.2 (Recommendations: Dyslipidaemia).",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 61-year-old man with T2DM had an anterior MI 2 years ago. He takes atorvastatin 80 mg with good adherence and no side effects. LDL-C is 1.7 mmol/l, TG 1.4 mmol/l and HDL-C 1.0 mmol/l. What is the most appropriate lipid management?",
+    option_a: "Continue; LDL-C below 1.8",
+    option_b: "Switch to rosuvastatin 10 mg",
+    option_c: "Add ezetimibe",
+    option_d: "Add a PCSK9 inhibitor",
+    correct_option: "C",
+    explanation: "Rationale: T2DM with established CVD is very high risk, with an LDL-C target below 1.4 mmol/l. A target of 1.8 applies only to high risk, which is the trap. If the target is not reached on the maximum tolerated statin, ezetimibe is added. A PCSK9 inhibitor is considered only if statin plus ezetimibe fails. Rosuvastatin 10 mg is less intense than atorvastatin 80 mg. Teaching point: Diabetes with CVD: LDL-C <1.4 mmol/l. Escalate statin, then ezetimibe, then PCSK9 inhibitor.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 3.9.2, Table 3-26.",
+    tag: "CPG Type 2 Diabetes 2020"
+  },
+  {
+    question_text: "A 68-year-old woman with T2DM on metformin and glimepiride is admitted with pneumonia. She is eating less than half her meals. Creatinine has risen from 80 to 145 µmol/l. Glucose readings are 13-16 mmol/l. She is not critically ill. What is the most appropriate glucose management?",
+    option_a: "Continue home OGLDs",
+    option_b: "Sliding-scale insulin alone",
+    option_c: "Stop OGLDs; basal-plus insulin",
+    option_d: "Stop metformin; increase glimepiride",
+    correct_option: "C",
+    explanation: "Rationale: OGLDs should be stopped in hospital when there is poor oral intake, AKI, IV contrast, critical illness or organ failure. She has poor intake and AKI. For non-critically ill patients who are not eating well, the options are a basal-plus insulin regimen or VRIII, with a target of 7.8-10 mmol/l. Sliding-scale insulin alone is strongly discouraged. Increasing a sulphonylurea with AKI and poor intake risks prolonged hypoglycaemia. Teaching point: Inpatient with poor intake and AKI: stop OGLDs and use basal-plus insulin. Never use a sliding scale alone.\nReference: Malaysian CPG Management of Type 2 Diabetes Mellitus 2020 (6th Ed.), Section 6.1 (Management of T2DM in acute illness).",
+    tag: "CPG Type 2 Diabetes 2020"
   }
 ];
