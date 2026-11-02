@@ -390,14 +390,16 @@ const qMain = [
     tag: "Past Year Question"
   },
   {
-    question_text: "A patient presents with a Right Inferior Homonymous Quadrantanopia ('pie on the floor'). Where is the anatomical site of the lesion?",
-    option_a: "Optic Chiasm",
-    option_b: "Left Optic Nerve",
-    option_c: "Left Parietal Lobe (Baumann's bundle)",
-    option_d: "Right Temporal Lobe",
-    correct_option: "C",
-    explanation: "Rationale: Superior optic radiations passing through the parietal lobe carry signals from the superior retina (inferior visual field). A left parietal lesion causes a Right Inferior Homonymous Quadrantanopia. Temporal lobe lesions (Meyer's loop) cause superior quadrantanopia.\nReference: Blumenfeld's Neuroanatomy through Clinical Cases, 3rd Edition.",
-    tag: "Past Year Question"
+    "question_text": "A patient presents with a right inferior homonymous quadrantanopia ('pie on the floor').\n\nI. A left temporal lesion involving Meyer's loop would instead produce a right superior homonymous quadrantanopia.\nII. The lesion lies in the left hemisphere, posterior to the optic chiasm.\nIII. A lesion of Meyer's loop in the right temporal lobe produces this defect.\nIV. Fibres of the superior optic radiation run through the parietal lobe (Baum's loop) and carry the inferior visual field.\nV. A lesion of the left optic nerve produces a right-sided homonymous field defect.\n\nWhich of the following statements are correct?",
+    "option_a": "II only",
+    "option_b": "I and II only",
+    "option_c": "I, II and III only",
+    "option_d": "I, II and IV only",
+    "correct_option": "D",
+    "explanation": "Rationale: The superior retina (inferior field) is carried by the superior radiation through the parietal lobe, so a left parietal lesion gives a right inferior quadrantanopia. Temporal (Meyer's loop) lesions cause superior defects, and optic nerve lesions cause monocular loss.\nReference: Blumenfeld's Neuroanatomy through Clinical Cases, 3rd Edition.",
+    "tag": "Past Year Question",
+    "option_e": "I, IV and V only",
+    "format": "K"
   },
   {
     question_text: "Which anatomical movements are normally permitted at the elbow joint complex (humeroulnar, humeroradial, and proximal radioulnar articulations)?",
@@ -680,14 +682,16 @@ const qMain = [
     tag: "Past Year Question"
   },
   {
-    question_text: "A hypertensive patient refuses pharmacological therapy. Which lifestyle modification provides the LEAST magnitude of BP reduction compared to dietary and weight changes?",
-    option_a: "Dietary sodium restriction to < 2.0 g/day",
-    option_b: "Adoption of DASH diet rich in fruits/vegetables",
-    option_c: "Weight reduction achieving normal BMI",
-    option_d: "Modest alcohol consumption of 2 cans of beer per day",
-    correct_option: "D",
-    explanation: "Consuming 2 cans of beer daily retains significant alcohol intake and offers minimal to no BP benefit compared to major sodium reduction, DASH diet, and weight loss.\nReference: 2017 ACC/AHA High Blood Pressure Guidelines.",
-    tag: "Past Year Question"
+    "question_text": "A hypertensive patient refuses pharmacological therapy and asks which lifestyle changes give the largest reduction in blood pressure.\n\nI. Continuing two cans of beer per day gives a reduction comparable to sodium restriction.\nII. Weight reduction towards a normal BMI lowers blood pressure.\nIII. Dietary sodium restriction to below 2.0 g per day lowers blood pressure.\nIV. The DASH diet rich in fruit and vegetables lowers blood pressure.\nV. Dynamic aerobic exercise has no effect on blood pressure.\n\nWhich of the following statements are correct?",
+    "option_a": "IV only",
+    "option_b": "I, II and III only",
+    "option_c": "II, III and IV only",
+    "option_d": "I, II, III and IV only",
+    "correct_option": "C",
+    "explanation": "Rationale: Weight loss, sodium restriction and DASH give the largest dietary and weight effects. Continued alcohol at two cans daily gives minimal benefit, and aerobic exercise does lower BP by a modest amount.\nReference: 2017 ACC/AHA High Blood Pressure Guidelines.",
+    "tag": "Past Year Question",
+    "option_e": "I, II, III, IV and V only",
+    "format": "K"
   },
   {
     question_text: "Losartan is converted into its active carboxylic acid metabolite (E-3174) in the liver. What is the therapeutic advantage of this pharmacokinetic transformation?",
@@ -810,14 +814,16 @@ const qMain = [
     tag: "Past Year Question"
   },
   {
-    question_text: "What is a recognized conservative non-surgical intervention for early Hallux Rigidus (osteoarthritis of the 1st MTP joint)?",
-    option_a: "Modification of footwear using stiff-soled or rocker-bottom shoes",
-    option_b: "Cheilectomy of the dorsal osteophyte",
-    option_c: "First metatarsophalangeal joint arthrodesis",
-    option_d: "Soft, flexible-soled shoes to encourage toe dorsiflexion",
-    correct_option: "A",
-    explanation: "Rationale: In hallux rigidus, pain comes from forced dorsiflexion of the 1st MTP joint at toe-off. Stiff-soled or rocker-bottom shoes (or a Morton's extension insert) limit that dorsiflexion and are first-line conservative care. Soft, flexible soles do the opposite and worsen pain. Cheilectomy and 1st MTP arthrodesis are both effective, but they are surgical options for when conservative measures fail.\nReference: Mann's Surgery of the Foot and Ankle, 9th Edition.",
-    tag: "Past Year Question"
+    "question_text": "A 52-year-old man has early hallux rigidus (osteoarthritis of the first metatarsophalangeal joint) with pain on pushing off when walking.\n\nI. Soft, flexible-soled shoes that encourage toe dorsiflexion reduce the pain.\nII. Cheilectomy and first MTP arthrodesis are reserved for failure of conservative measures.\nIII. Pain arises from forced dorsiflexion of the first MTP joint at toe-off.\nIV. Stiff-soled or rocker-bottom footwear, or a Morton's extension insert, is first-line conservative care.\nV. Cheilectomy of the dorsal osteophyte is first-line for early disease, before any footwear modification.\n\nWhich of the following statements are correct?",
+    "option_a": "II only",
+    "option_b": "III only",
+    "option_c": "IV only",
+    "option_d": "II and IV only",
+    "correct_option": "E",
+    "explanation": "Rationale: Stiff or rocker soles limit dorsiflexion at toe-off and are first-line. Flexible soles worsen pain, and cheilectomy and arthrodesis are surgical options once conservative care fails.\nReference: Mann's Surgery of the Foot and Ankle, 9th Edition.",
+    "tag": "Past Year Question",
+    "option_e": "II, III and IV only",
+    "format": "K"
   },
   {
     question_text: "Which anatomical statement regarding the human vertebral column is CORRECT?",
@@ -1850,14 +1856,16 @@ const qMain = [
     tag: "Past Year Question"
   },
   {
-    question_text: "What is the primary metabolic advantage of replacing refined grains (white rice) with whole grains (brown rice) in diabetic dietary management?",
-    option_a: "Absolute elimination of all dietary carbohydrates",
-    option_b: "Lower Glycemic Index and higher dietary fiber content, reducing postprandial blood glucose spikes",
-    option_c: "Direct stimulation of pancreatic beta-cell insulin secretion",
-    option_d: "Complete blockade of intestinal lipid absorption",
-    correct_option: "B",
-    explanation: "Brown rice contains intact bran and germ layers rich in soluble/insoluble fiber, yielding a lower glycemic index that slows gastric emptying and postprandial glucose absorption.\nReference: American Diabetes Association (ADA) Standards of Medical Care in Diabetes.",
-    tag: "Past Year Question"
+    "question_text": "A dietitian explains why replacing refined grains (white rice) with whole grains (brown rice) helps in diabetic dietary management.\n\nI. Replacing refined grains removes the need to count carbohydrate intake.\nII. The fibre slows gastric emptying and postprandial glucose absorption.\nIII. It has a lower glycaemic index than white rice.\nIV. Whole grains directly stimulate pancreatic beta-cell insulin secretion.\nV. Brown rice retains the bran and germ layers, which are rich in soluble and insoluble fibre.\n\nWhich of the following statements are correct?",
+    "option_a": "III only",
+    "option_b": "I, II and III only",
+    "option_c": "II, III and V only",
+    "option_d": "II, III, IV and V only",
+    "correct_option": "C",
+    "explanation": "Rationale: The benefit comes from fibre and lower glycaemic index blunting postprandial glucose rises, not from stimulating insulin secretion or eliminating carbohydrate.\nReference: American Diabetes Association (ADA) Standards of Medical Care in Diabetes.",
+    "tag": "Past Year Question",
+    "option_e": "I, II, III, IV and V only",
+    "format": "K"
   },
   {
     question_text: "Under the WHO ICF Model, which of the following represents an 'Environmental Factor'?",
@@ -3990,14 +3998,16 @@ const qMain = [
     tag: "Past Year Question"
   },
   {
-    "question_text": "A 60-year-old man with chronic incomplete spinal cord injury presents with abdominal distension, vomiting, absolute constipation and high-pitched bowel sounds. Which is the immediate management step?",
-    "option_a": "Perform a rectal examination",
-    "option_b": "Urgent referral to the surgical team",
-    "option_c": "Insert nasogastric tube",
-    "option_d": "Order an urgent abdominal X-ray",
-    "correct_option": "C",
-    "explanation": "High-pitched bowel sounds with vomiting and absolute constipation indicate mechanical obstruction. The immediate management step is decompression and prevention of aspiration — \"drip and suck\": nil by mouth, IV fluids, and an NG tube on free drainage to decompress the proximal bowel. In a patient with SCI the aspiration risk is higher (impaired cough, possible impaired sensation masking the severity), making early NG decompression more, not less, urgent. A. Rectal examination — mandatory and should be done, but it is part of assessment, not management; the stem asks for the immediate management step. (It is, however, the step people most often skip — in a chronic SCI patient with neurogenic bowel, faecal impaction is a leading differential.) B. Urgent surgical referral — necessary, and should happen in parallel, but referral is not itself a resuscitative manoeuvre; you stabilise while you refer. D. Urgent abdominal X-ray — an investigation, not management. Note: if your faculty's key says A, the reasoning will be that in neurogenic bowel you must first exclude impaction/pseudo-obstruction before anything else. Both defences are clinically sound; the discriminator is whether the examiner reads \"management\" strictly. Worth flagging.\nReference: Braddom Ch. 49 (neurogenic bowel); Consortium for Spinal Cord Medicine, \"Neurogenic Bowel Management in Adults with Spinal Cord Injury\" (free PDF); StatPearls, \"Small Bowel Obstruction\".",
-    tag: "Past Year Question"
+    "question_text": "A 60-year-old man with chronic incomplete spinal cord injury presents with abdominal distension, vomiting, absolute constipation and high-pitched bowel sounds.\n\nI. Aspiration risk is higher in spinal cord injury, which makes early decompression more urgent.\nII. High-pitched bowel sounds with vomiting and absolute constipation suggest mechanical bowel obstruction.\nIII. A digital rectal examination alone can safely exclude obstruction and avoid decompression.\nIV. Initial management is \"drip and suck\": nil by mouth, intravenous fluids and nasogastric decompression on free drainage.\nV. Nasogastric decompression should be delayed until imaging has confirmed the level of obstruction.\n\nWhich of the following statements are correct?",
+    "option_a": "II only",
+    "option_b": "IV only",
+    "option_c": "II and IV only",
+    "option_d": "I, II and III only",
+    "correct_option": "E",
+    "explanation": "Rationale: The immediate step is decompression and aspiration prevention (NG tube, nil by mouth, IV fluids). Rectal examination and imaging are part of assessment and should not delay decompression, and impaired sensation in SCI can mask severity.\nReference: Braddom Ch. 49 (neurogenic bowel); Consortium for Spinal Cord Medicine, \"Neurogenic Bowel Management in Adults with Spinal Cord Injury\" (free PDF); StatPearls, \"Small Bowel Obstruction\".",
+    "tag": "Past Year Question",
+    "option_e": "I, II and IV only",
+    "format": "K"
   },
   {
     "question_text": "A 60-year-old man is admitted to the rehabilitation ward following a recent transtibial amputation for diabetic foot infection. On day 4 of admission, he develops abdominal distension, colicky abdominal pain, vomiting and an inability to pass stool or flatus for the past 24 hours. He is suspected for acute intestinal obstruction. Which is the immediate imaging investigation to evaluate the patient?",
@@ -4651,15 +4661,16 @@ const qMain = [
     tag: "Practice MCQ"
   },
   {
-    question_text: "Lepromatous leprosy",
-    option_a: "is caused by a Gram-negative coccus",
-    option_b: "is characterised by a strongly positive lepromin test",
-    option_c: "thickened peripheral nerves are typical",
-    option_d: "hypertrichosis is a recognised feature",
-    option_e: "erythema nodosum leprosum may be expected to complicate treatment in approximately 50% of patients",
-    correct_option: "E",
-    explanation: "Rationale: Erythema nodosum leprosum (type 2 reaction) occurs in about half of lepromatous patients, often after starting treatment. M. leprae is an acid-fast bacillus. The lepromin test is negative in lepromatous disease because cell-mediated immunity is poor. Loss of eyebrows (madarosis) occurs rather than hypertrichosis. Gross nerve thickening is characteristic of the tuberculoid end of the spectrum.\nReference: WHO guidelines on leprosy; Oxford Textbook of Medicine.",
-    tag: "Practice MCQ"
+    "question_text": "Regarding lepromatous leprosy:\n\nI. Loss of the eyebrows (madarosis) occurs rather than hypertrichosis.\nII. The causative organism grows readily on Lowenstein-Jensen medium.\nIII. Gross thickening of peripheral nerves is the characteristic feature at this end of the spectrum.\nIV. The lepromin test is negative because cell-mediated immunity is poor.\nV. Erythema nodosum leprosum (a type 2 reaction) affects about half of patients, often after treatment starts.\n\nWhich of the following statements are correct?",
+    "option_a": "I only",
+    "option_b": "IV and V only",
+    "option_c": "I, II and IV only",
+    "option_d": "I, IV and V only",
+    "option_e": "II, IV and V only",
+    "correct_option": "D",
+    "explanation": "Rationale: ENL occurs in about half of lepromatous patients, the lepromin test is negative and madarosis is typical. Gross nerve thickening is characteristic of the tuberculoid end, and M. leprae, an acid-fast bacillus, cannot be cultured on standard media.\nReference: WHO guidelines on leprosy; Oxford Textbook of Medicine.",
+    "tag": "Practice MCQ",
+    "format": "K"
   },
   {
     question_text: "Warfarin",

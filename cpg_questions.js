@@ -1104,14 +1104,16 @@ const cpgBank = [
     "tag": "CPG Asthma 2024"
   },
   {
-    "question_text": "A 45-year-old woman with BMI 33 kg/m² has poorly controlled asthma despite medium-dose ICS-LABA and good technique. Which is the most appropriate additional measure?",
-    "option_a": "Increase ICS to high dose alone",
-    "option_b": "Stop ICS because response is reduced in obesity",
-    "option_c": "Advocate weight loss alongside continued ICS, as a loss of at least 5% can improve FEV1",
-    "option_d": "Start maintenance prednisolone",
+    "question_text": "A 45-year-old woman with BMI 33 kg/m2 has poorly controlled asthma despite medium-dose ICS-LABA and good technique.\n\nI. Weight loss improves symptoms, lung function and health status.\nII. ICS should be reduced to low dose because response is reduced in obesity.\nIII. Obesity is associated with poorer asthma control and a reduced response to ICS.\nIV. ICS remains the mainstay of treatment in obese patients.\nV. At least 15% weight loss is needed before any improvement in FEV1 occurs.\n\nWhich of the following statements are correct?",
+    "option_a": "I only",
+    "option_b": "I and III only",
+    "option_c": "I, III and IV only",
+    "option_d": "I, III and V only",
     "correct_option": "C",
-    "explanation": "Rationale: Obesity (BMI >27.5 kg/m² in the CPG) is associated with poor control and reduced ICS response, but ICS remains the mainstay. Weight loss improves symptoms, lung function and health status, and at least 5% loss can improve FEV1. A, B and D escalate or withdraw drug therapy instead of addressing the modifiable factor.\nReference: Malaysian CPG Management of Asthma in Adults 2024 (2nd Ed.), CPG Section 8.5(a), Section 6.2.2(h); Recommendation 7.",
-    "tag": "CPG Asthma 2024"
+    "explanation": "Rationale: Obesity reduces ICS response, but ICS remains the mainstay. Weight loss improves symptoms, lung function and health status, and a loss of at least 5% can improve FEV1.\nReference: Malaysian CPG Management of Asthma in Adults 2024 (2nd Ed.), CPG Section 8.5(a), Section 6.2.2(h); Recommendation 7.",
+    "tag": "CPG Asthma 2024",
+    "option_e": "I, IV and V only",
+    "format": "K"
   },
   {
     "question_text": "A 52-year-old obese man has uncontrolled asthma and frequent exacerbations despite optimal therapy. His wife reports loud snoring and witnessed apnoeas, and he has daytime somnolence. Which is the most appropriate next step?",
@@ -1234,14 +1236,16 @@ const cpgBank = [
     "tag": "CPG Asthma 2024"
   },
   {
-    "question_text": "Four adults with asthma are being reviewed. Which patient is at the highest risk of asthma-related death?",
-    "option_a": "A 30-year-old woman with ACT 22, adherent to ICS-formoterol, with a written action plan",
-    "option_b": "A 45-year-old man with allergic rhinitis on low-dose ICS and one ED visit 3 years ago",
-    "option_c": "A 38-year-old man with a previous intubation for asthma, not on ICS, using about three salbutamol canisters a month and with no written action plan",
-    "option_d": "A 55-year-old woman on ICS-LABA with good adherence and good control",
-    "correct_option": "C",
-    "explanation": "Rationale: Risk factors for asthma-related death include previous exacerbation needing mechanical ventilation or intubation, frequent ED visits or admissions, not using ICS, poor adherence, SABA overuse, no written asthma action plan, comorbidities and psychosocial barriers. Patient C has several of these. A, B and D have few or none.\nReference: Malaysian CPG Management of Asthma in Adults 2024 (2nd Ed.), CPG Section 7.1, Table 8.",
-    "tag": "CPG Asthma 2024"
+    "question_text": "A clinic audits adults with asthma to identify those at highest risk of asthma-related death.\n\nI. Not using inhaled corticosteroids, or poor adherence to them.\nII. A previous exacerbation requiring intubation or mechanical ventilation.\nIII. Overuse of reliever (SABA) inhalers.\nIV. Allergic rhinitis alone, with good control on regular ICS-formoterol.\nV. A single emergency visit three years ago with no admissions since.\n\nWhich of the following are recognised risk factors for asthma-related death?",
+    "option_a": "I only",
+    "option_b": "I, II and III only",
+    "option_c": "II, III and V only",
+    "option_d": "I, II, III and V only",
+    "correct_option": "B",
+    "explanation": "Rationale: Risk factors for asthma-related death include previous intubation or ventilation, frequent ED visits or admissions, no ICS use, poor adherence, SABA overuse, no written action plan, comorbidities and psychosocial barriers. A single remote ED visit or atopy with good control does not confer high risk.\nReference: Malaysian CPG Management of Asthma in Adults 2024 (2nd Ed.), CPG Section 7.1, Table 8.",
+    "tag": "CPG Asthma 2024",
+    "option_e": "I, II, III, IV and V only",
+    "format": "K"
   },
   {
     "question_text": "A 31-year-old woman has taken prednisolone 10 mg daily for 3 weeks for severe asthma and is now in labour at term. What should be done in addition to continuing her maintenance inhaler?",
@@ -2214,14 +2218,16 @@ const cpgBank = [
     "tag": "CPG Stable CAD 2018"
   },
   {
-    "question_text": "A 61-year-old man with type 2 diabetes and angina remains symptomatic on optimal medical therapy. Angiography shows three-vessel disease including the proximal LAD, with complex anatomy. His LVEF is 55% and surgical risk is low. Which is the most appropriate approach?",
-    "option_a": "Discuss at a Heart Team meeting; CABG is likely preferred for survival benefit",
-    "option_b": "PCI of all three vessels, because it is less invasive and has equal survival",
-    "option_c": "Continue medical therapy alone, because revascularisation never improves survival",
-    "option_d": "Stenting of the proximal LAD only, to avoid surgery",
-    "correct_option": "A",
-    "explanation": "Rationale: CABG improves survival compared with OMT in patients with left main or three-vessel disease, particularly when the proximal LAD is involved. In patients with multivessel disease, complex anatomy, diabetes and low surgical risk, CABG has better survival benefit. A discussion with the patient and the Heart Team should be encouraged before revascularisation. B is wrong because it ignores diabetes and complexity. C is wrong because CABG improves survival in three-vessel disease. D leaves other diseased vessels untreated.\nReference: Malaysian CPG Stable Coronary Artery Disease 2018 (2nd Ed.), Section 8.3 (p81-82), Table 12 (p82), Section 10.1 (p86).",
-    "tag": "CPG Stable CAD 2018"
+    "question_text": "A 61-year-old man with type 2 diabetes and angina remains symptomatic on optimal medical therapy. Angiography shows three-vessel disease including the proximal LAD, with complex anatomy. His LVEF is 55% and surgical risk is low.\n\nI. With multivessel disease, diabetes, complex anatomy and low surgical risk, CABG has the better survival benefit.\nII. CABG improves survival over optimal medical therapy in left main or three-vessel disease, particularly with proximal LAD involvement.\nIII. PCI of all three vessels gives equal survival to CABG in diabetic patients with complex anatomy.\nIV. Stenting the proximal LAD alone achieves complete revascularisation and avoids surgery.\nV. A Heart Team discussion with the patient should precede revascularisation.\n\nWhich of the following statements are correct?",
+    "option_a": "V only",
+    "option_b": "I, II and III only",
+    "option_c": "I, II and V only",
+    "option_d": "I, II, IV and V only",
+    "correct_option": "C",
+    "explanation": "Rationale: CABG is preferred in diabetic patients with complex multivessel disease and low surgical risk, after Heart Team discussion. PCI to the LAD alone leaves other diseased vessels untreated.\nReference: Malaysian CPG Stable Coronary Artery Disease 2018 (2nd Ed.), Section 8.3 (p81-82), Table 12 (p82), Section 10.1 (p86).",
+    "tag": "CPG Stable CAD 2018",
+    "option_e": "I, II, III, IV and V only",
+    "format": "K"
   },
   {
     "question_text": "A 66-year-old man has stable CCS class II symptoms and a 60% unprotected left main stem stenosis. He asks about the evidence for intervention. Which statement best reflects the CPG?",
@@ -2634,14 +2640,16 @@ const cpgBank = [
     "tag": "CPG Heart Failure 2023"
   },
   {
-    "question_text": "Which patient with HFrEF is the best candidate for adding ivabradine?",
-    "option_a": "AF with a heart rate of 96/min, LVEF 30%, HF admission 4 months ago",
-    "option_b": "Sinus rhythm at 58/min on bisoprolol 10 mg, LVEF 30%",
-    "option_c": "Sinus rhythm at 78/min, LVEF 30%, HF admission 5 months ago, on an ACE inhibitor, maximally tolerated β-blocker and MRA",
-    "option_d": "Sinus rhythm at 82/min, LVEF 45%, NYHA II, no HF admission",
-    "correct_option": "C",
-    "explanation": "Rationale: Ivabradine reduced CV death and HF hospitalisation in patients still symptomatic on optimal therapy with LVEF of 35% or less, an HF admission in the past 12 months, sinus rhythm and a heart rate of 70/min or more. Every effort should first be made to achieve target or maximally tolerated β-blocker doses. A is wrong because ivabradine is effective only in sinus rhythm. B has a heart rate below 70/min. D has an LVEF above 35% and no recent admission.\nReference: Malaysian CPG Management of Heart Failure 2023 (5th Ed.), Section 10.1.6.",
-    "tag": "CPG Heart Failure 2023"
+    "question_text": "A heart failure clinic reviews which patients with HFrEF should have ivabradine added.\n\nI. Ivabradine reduced CV death and HF hospitalisation in patients still symptomatic on optimal therapy with LVEF of 35% or less.\nII. Ivabradine is effective in atrial fibrillation with a resting rate above 90/min.\nIII. It is indicated for LVEF up to 45% in NYHA II without a recent HF admission.\nIV. Target or maximally tolerated beta-blocker doses should be pursued first.\nV. The patient must be in sinus rhythm with a heart rate of 70/min or more.\n\nWhich of the following statements are correct?",
+    "option_a": "V only",
+    "option_b": "I and V only",
+    "option_c": "I, III and V only",
+    "option_d": "I, IV and V only",
+    "correct_option": "D",
+    "explanation": "Rationale: Ivabradine is added for symptomatic HFrEF with LVEF 35% or less, sinus rhythm and rate 70/min or more despite maximally tolerated beta-blocker, ACE inhibitor and MRA. It acts on the sinus node, so it is ineffective in AF.\nReference: Malaysian CPG Management of Heart Failure 2023 (5th Ed.), Section 10.1.6.",
+    "tag": "CPG Heart Failure 2023",
+    "option_e": "II, IV and V only",
+    "format": "K"
   },
   {
     "question_text": "Which statement about digoxin in HF is most accurate?",
@@ -3054,14 +3062,16 @@ const cpgBank = [
     "tag": "CPG ACS 2026"
   },
   {
-    "question_text": "A 64-year-old man with NSTEMI has PCI to the culprit LAD. Angiography also shows a 60% stenosis of the RCA with an FFR of 0.86. What is the most appropriate management of the RCA lesion?",
-    "option_a": "PCI now because the stenosis exceeds 50%",
-    "option_b": "PCI now because it is a non-culprit lesion",
-    "option_c": "Refer for CABG",
-    "option_d": "Optimal medical therapy, with no PCI",
-    "correct_option": "D",
-    "explanation": "Rationale: For borderline non-culprit lesions (50-70%), physiology guides treatment: intervene if FFR ≤0.8 (or iFR ≤0.89); otherwise manage medically. FFR 0.86 is not haemodynamically significant. A and B would stent a non-significant lesion. C has no basis. Teaching point: In STEMI, non-culprit lesions are significant if ≥70% visually, or 50-69% with FFR ≤0.80.\nReference: Malaysian CPG Management of Acute Coronary Syndromes 2026 (1st Ed.), Section 9.1.7 and 9.2.1.2.",
-    "tag": "CPG ACS 2026"
+    "question_text": "A 64-year-old man with NSTEMI has PCI to the culprit LAD. Angiography also shows a 60% stenosis of the RCA with an FFR of 0.86.\n\nI. He should be referred for CABG because two vessels are diseased.\nII. Physiology guides the treatment of borderline (50-70%) non-culprit lesions.\nIII. A non-culprit stenosis above 50% should be stented at once in ACS.\nIV. An FFR of 0.86 is not haemodynamically significant, so medical therapy is appropriate.\nV. Intervention is considered if FFR is 0.80 or less (or iFR 0.89 or less).\n\nWhich of the following statements are correct?",
+    "option_a": "V only",
+    "option_b": "I, II and V only",
+    "option_c": "II, IV and V only",
+    "option_d": "I, II, IV and V only",
+    "correct_option": "C",
+    "explanation": "Rationale: A 60% lesion with FFR 0.86 is not significant, so optimal medical therapy is appropriate without PCI or CABG.\nReference: Malaysian CPG Management of Acute Coronary Syndromes 2026 (1st Ed.), Section 9.1.7 and 9.2.1.2.",
+    "tag": "CPG ACS 2026",
+    "option_e": "I, II, III, IV and V only",
+    "format": "K"
   },
   {
     "question_text": "A 58-year-old man with NSTEMI undergoing PCI has been loaded with aspirin 300 mg and ticagrelor 180 mg. What is the appropriate maintenance aspirin dose?",
@@ -3404,14 +3414,16 @@ const cpgBank = [
     "tag": "CPG CKD 2018"
   },
   {
-    "question_text": "A 38-year-old man has 2+ protein on dipstick on two separate occasions. Renal function is normal. The clinician wants to quantify his proteinuria. Which test does the CPG recommend for protein quantification?",
-    "option_a": "24-hour urine collection, with early morning urine protein:creatinine ratio as an alternative",
-    "option_b": "Repeat dipstick reading graded from trace to 3+",
-    "option_c": "Serum albumin level",
-    "option_d": "Urine microscopy for casts",
-    "correct_option": "A",
-    "explanation": "Rationale: The CPG states that a 24-hour urine collection should be used for protein quantification, and an early morning uPCR can be used as an alternative. A dipstick only screens. Serum albumin and microscopy do not quantify urinary protein. Teaching point: Dipstick screens; 24-hour collection (or uPCR) quantifies.\nReference: Malaysian CPG Management of Chronic Kidney Disease in Adults 2018 (2nd Ed.), Section 3.1.1, Table 2.",
-    "tag": "CPG CKD 2018"
+    "question_text": "A 38-year-old man has 2+ protein on dipstick on two separate occasions. Renal function is normal. The clinician wants to quantify his proteinuria.\n\nI. A random urine albumin concentration without creatinine correction is the preferred alternative.\nII. The dipstick is a screening test only.\nIII. A 24-hour urine collection should be used for protein quantification.\nIV. An early morning urine protein:creatinine ratio can be used as an alternative.\nV. A 2+ dipstick reading equates to about 1 g per day and is sufficient to quantify proteinuria.\n\nWhich of the following statements are correct?",
+    "option_a": "III only",
+    "option_b": "IV only",
+    "option_c": "III and IV only",
+    "option_d": "II, III and IV only",
+    "correct_option": "D",
+    "explanation": "Rationale: The CPG recommends a 24-hour urine collection, with an early morning uPCR as an alternative. Dipstick only screens, and uncorrected random concentrations are unreliable.\nReference: Malaysian CPG Management of Chronic Kidney Disease in Adults 2018 (2nd Ed.), Section 3.1.1, Table 2.",
+    "tag": "CPG CKD 2018",
+    "option_e": "III, IV and V only",
+    "format": "K"
   },
   {
     "question_text": "A 44-year-old woman has dysuria and frequency. Dipstick shows blood 2+ and leucocytes 2+. Urine culture grows E. coli and she is treated with an appropriate antibiotic. When should microscopic haematuria be re-assessed?",
@@ -4044,14 +4056,16 @@ const cpgBank = [
     "tag": "CPG Hypertension 2018"
   },
   {
-    "question_text": "A 62-year-old man presents with BP 210/124 mmHg, confusion and papilloedema. CT brain shows no haemorrhage, and hypertensive encephalopathy is diagnosed. What is the general CPG aim for initial BP reduction in a hypertensive emergency?",
-    "option_a": "Normalise BP to <140/90 mmHg within the first hour",
-    "option_b": "Reduce BP by about 50% within 30 minutes",
-    "option_c": "Avoid any BP reduction for 24 hours",
-    "option_d": "Reduce BP by 10-25% within minutes to hours, but not lower than 160/90 mmHg, using parenteral drugs",
+    "question_text": "A 62-year-old man presents with BP 210/124 mmHg, confusion and papilloedema. CT brain shows no haemorrhage, and hypertensive encephalopathy is diagnosed.\n\nI. BP should be normalised to below 140/90 mmHg within the first hour.\nII. The initial reduction should not take BP below 160/90 mmHg.\nIII. Oral agents are preferred because they give a smoother fall than parenteral drugs.\nIV. Parenteral drugs are best used to achieve a controlled reduction.\nV. BP should be reduced by about 10-25% within minutes to hours.\n\nWhich of the following statements are correct?",
+    "option_a": "II only",
+    "option_b": "V only",
+    "option_c": "I, IV and V only",
+    "option_d": "II, IV and V only",
     "correct_option": "D",
-    "explanation": "Rationale: Patients with hypertensive emergency should be admitted and have BP reduced by 10%-25% within minutes to hours but not lower than 160/90 mmHg, best achieved with parenteral drugs. Rapid over-reduction risks provoking coronary, cerebral or renal ischaemia, so A and B are dangerous. C leaves an emergency untreated. Teaching point: Emergency: parenteral, controlled 10-25% reduction, not below 160/90 mmHg.\nReference: Malaysian CPG Management of Hypertension 2018 (5th Ed.), Section 6.1.2; Section 6.2.",
-    "tag": "CPG Hypertension 2018"
+    "explanation": "Rationale: In hypertensive emergency BP is lowered 10-25% within minutes to hours, not below 160/90 mmHg, with parenteral drugs. Over-rapid reduction risks coronary, cerebral and renal ischaemia.\nReference: Malaysian CPG Management of Hypertension 2018 (5th Ed.), Section 6.1.2; Section 6.2.",
+    "tag": "CPG Hypertension 2018",
+    "option_e": "I, II, IV and V only",
+    "format": "K"
   },
   {
     "question_text": "A 34-year-old man presents with chest pain, BP 202/118 mmHg and ST depression after cocaine use. Aortic dissection has been excluded. Which agent should be avoided?",
@@ -4504,14 +4518,16 @@ const cpgBank = [
     "tag": "CPG COPD 2009"
   },
   {
-    "question_text": "A 73-year-old woman is admitted with an exacerbation of COPD. On day 3 her SpO2 on air is 86%, and the team wants to arrange home oxygen at discharge. What is the most appropriate approach?",
-    "option_a": "Assess for LTOT when she is stable on optimal treatment, with ABG on two occasions, not during the exacerbation or its recovery",
-    "option_b": "Prescribe LTOT on day 3 based on this single reading",
-    "option_c": "Use an SpO2 of 86% on day 3 as diagnostic",
-    "option_d": "LTOT assessment is only possible in hospital during exacerbations",
-    "correct_option": "A",
-    "explanation": "Rationale: Assessment for LTOT should not be done during an exacerbation or its recovery period. ABG should be measured on two occasions when the patient is stable and on optimal treatment. Patients started on oxygen are reassessed after 1-2 months and at least annually. B, C and D contradict this. Teaching point: Assess for LTOT only when stable, with two ABGs.\nReference: Malaysian CPG Management of COPD 2009 (2nd Ed.), Section 7.2.",
-    "tag": "CPG COPD 2009"
+    "question_text": "A 73-year-old woman is admitted with an exacerbation of COPD. On day 3 her SpO2 on air is 86%, and the team wants to arrange home oxygen at discharge.\n\nI. Assessment for LTOT should not be done during an exacerbation or its recovery period.\nII. Patients started on LTOT need no formal reassessment unless symptoms worsen.\nIII. An SpO2 of 86% on day 3 of an exacerbation is sufficient to prescribe LTOT.\nIV. Patients started on oxygen are reassessed after 1 to 2 months and at least annually.\nV. ABG should be measured on two occasions when the patient is stable on optimal treatment.\n\nWhich of the following statements are correct?",
+    "option_a": "I and V only",
+    "option_b": "I, II and IV only",
+    "option_c": "I, IV and V only",
+    "option_d": "III, IV and V only",
+    "correct_option": "C",
+    "explanation": "Rationale: LTOT assessment requires stable disease on optimal treatment with two ABGs, and treated patients are reassessed after 1 to 2 months and then yearly.\nReference: Malaysian CPG Management of COPD 2009 (2nd Ed.), Section 7.2.",
+    "tag": "CPG COPD 2009",
+    "option_e": "I, II, III, IV and V only",
+    "format": "K"
   },
   {
     "question_text": "A 71-year-old man with very severe COPD has lost 6 kg over a year. His BMI is 18.5 kg/m2 and serum albumin is 31 g/L. What is the most appropriate nutritional goal?",
@@ -4584,14 +4600,16 @@ const cpgBank = [
     "tag": "CPG COPD 2009"
   },
   {
-    "question_text": "A 60-year-old man with COPD has 3 days of increased breathlessness and more sputum, which remains white. He is afebrile. Should antibiotics be given according to the CPG?",
-    "option_a": "No, because purulent sputum is essential",
-    "option_b": "No, because antibiotics are never indicated in exacerbations",
-    "option_c": "Yes, because he has 2 of the 3 cardinal symptoms (increased dyspnoea and increased sputum volume)",
-    "option_d": "Only if the white cell count is raised",
-    "correct_option": "C",
-    "explanation": "Rationale: Antibiotics should be given to patients with at least 2 of 3 cardinal symptoms: purulent sputum, increased sputum volume and/or increased dyspnoea. Patients needing invasive or non-invasive ventilation should also receive antibiotics. A requires purulence, which is only one of three. B is wrong. D is wrong because a normal white count does not rule out sepsis. Teaching point: Two of three cardinal symptoms (dyspnoea, sputum volume, purulence): give antibiotics.\nReference: Malaysian CPG Management of COPD 2009 (2nd Ed.), Section 8.9.4; Figure 8-1.",
-    "tag": "CPG COPD 2009"
+    "question_text": "A 60-year-old man with COPD has 3 days of increased breathlessness and more sputum, which remains white. He is afebrile.\n\nI. Patients needing invasive or non-invasive ventilation should also receive antibiotics.\nII. The cardinal symptoms are increased dyspnoea, increased sputum volume and sputum purulence.\nIII. Antibiotics should be given when at least 2 of the 3 cardinal symptoms are present.\nIV. A raised white cell count is required to justify antibiotics.\nV. Purulent sputum is essential before antibiotics are indicated.\n\nWhich of the following statements are correct?",
+    "option_a": "II only",
+    "option_b": "I, II and III only",
+    "option_c": "I, II and V only",
+    "option_d": "I, III and V only",
+    "correct_option": "B",
+    "explanation": "Rationale: He has two cardinal symptoms (dyspnoea and sputum volume), which is sufficient. Purulence is only one of the three, and the white cell count does not decide the need.\nReference: Malaysian CPG Management of COPD 2009 (2nd Ed.), Section 8.9.4; Figure 8-1.",
+    "tag": "CPG COPD 2009",
+    "option_e": "I, II, III and V only",
+    "format": "K"
   },
   {
     "question_text": "A 72-year-old woman with COPD (FEV1 38% predicted) on home oxygen has an exacerbation with purulent sputum and increased dyspnoea. She has no risk factors for Pseudomonas and is managed at home. Which antibiotic regimen is preferred in Table 8-2?",
@@ -4784,14 +4802,16 @@ const cpgBank = [
     "tag": "CPG ICH 2025"
   },
   {
-    "question_text": "A paramedic team attends a 65-year-old man with sudden right-sided weakness 30 minutes ago. The nearest stroke-ready hospital with CT is 15 minutes away; a neurosurgical centre is 60 minutes away. Where should he be taken?",
-    "option_a": "The neurosurgical centre directly, bypassing the nearer hospital",
-    "option_b": "A clinic without imaging for initial assessment",
-    "option_c": "Home, with outpatient follow-up",
-    "option_d": "The nearest stroke-ready hospital with CT, with transfer later if neurosurgery is indicated",
-    "correct_option": "D",
-    "explanation": "Rationale: Recommendation 3 states that patients with suspected intracranial haemorrhage should go to the nearest stroke-ready hospital with CT, and be transferred to a neurosurgical centre if there is an indication for surgery. In the RACECAT ICH subgroup, direct transfer to a distant centre delayed arrival, worsened 90-day function and increased mortality, and only a minority needed surgery. A is the trap. B and C delay diagnosis. Teaching point: Nearest CT-capable stroke hospital first; transfer for surgery only if indicated.\nReference: Malaysian CPG Management of Spontaneous Intracerebral Haemorrhage 2025 (1st Ed.), Pre-hospital Bypass; Recommendation 3.",
-    "tag": "CPG ICH 2025"
+    "question_text": "A paramedic team attends a 65-year-old man with sudden right-sided weakness 30 minutes ago. The nearest stroke-ready hospital with CT is 15 minutes away; a neurosurgical centre is 60 minutes away.\n\nI. Only a minority of ICH patients need neurosurgery.\nII. Bypass of the nearer hospital is advised whenever the neurosurgical centre is within 90 minutes of travel.\nIII. Transfer to a neurosurgical centre follows if there is an indication for surgery.\nIV. In the RACECAT ICH subgroup, direct bypass to a distant centre improved 90-day function.\nV. Patients with suspected intracranial haemorrhage should be taken to the nearest stroke-ready hospital with CT.\n\nWhich of the following statements are correct?",
+    "option_a": "I, II and III only",
+    "option_b": "I, III and IV only",
+    "option_c": "I, III and V only",
+    "option_d": "I, IV and V only",
+    "correct_option": "C",
+    "explanation": "Rationale: Recommendation 3: go to the nearest CT-capable stroke hospital and transfer only if surgery is indicated. In RACECAT, direct transfer delayed arrival, worsened 90-day function and increased mortality in ICH, and only a minority needed surgery.\nReference: Malaysian CPG Management of Spontaneous Intracerebral Haemorrhage 2025 (1st Ed.), Pre-hospital Bypass; Recommendation 3.",
+    "tag": "CPG ICH 2025",
+    "option_e": "I, II, III and V only",
+    "format": "K"
   },
   {
     "question_text": "A 52-year-old woman with a large ICH has a GCS of 7 and is vomiting. The team decides to secure her airway. Which approach does the CPG recommend?",
@@ -5074,14 +5094,16 @@ const cpgBank = [
     "tag": "CPG ICH 2025"
   },
   {
-    "question_text": "A 60-year-old woman with ICH asks whether deferoxamine or intravenous magnesium could protect her brain. Which statement best reflects the CPG?",
-    "option_a": "Deferoxamine improved mRS 0-2 at 90 days",
-    "option_b": "Magnesium sulphate reduced 90-day mortality",
-    "option_c": "Both are recommended as routine adjuncts",
-    "option_d": "Neuroprotective agents should not be routinely given, as neither deferoxamine nor IV magnesium improved outcomes",
-    "correct_option": "D",
-    "explanation": "Rationale: Deferoxamine 32 mg/kg IV daily for 3 days showed no difference in mRS 0-2 at day 90 (34% vs 33%), and IV MgSO4 gave no functional or mortality benefit. Recommendation 29 states neuroprotective agents should not be routinely given. A, B and C contradict the trials. Teaching point: No routine neuroprotective drugs after ICH.\nReference: Malaysian CPG Management of Spontaneous Intracerebral Haemorrhage 2025 (1st Ed.), Neuroprotective agents; Recommendation 29.",
-    "tag": "CPG ICH 2025"
+    "question_text": "A 60-year-old woman with ICH asks whether deferoxamine or intravenous magnesium could protect her brain.\n\nI. The CPG advises that neuroprotective agents should not be routinely given (Recommendation 29).\nII. Deferoxamine significantly improved 90-day functional independence compared with placebo.\nIII. IV magnesium sulphate gave no functional or mortality benefit.\nIV. Neuroprotective agents are recommended routinely once the haematoma has stabilised.\nV. Deferoxamine 32 mg/kg IV daily for 3 days did not improve mRS 0-2 at day 90 (34% versus 33%).\n\nWhich of the following statements are correct?",
+    "option_a": "I and V only",
+    "option_b": "I, III and IV only",
+    "option_c": "I, III and V only",
+    "option_d": "III, IV and V only",
+    "correct_option": "C",
+    "explanation": "Rationale: Neither agent improved outcomes, so neuroprotective agents are not routinely given.\nReference: Malaysian CPG Management of Spontaneous Intracerebral Haemorrhage 2025 (1st Ed.), Neuroprotective agents; Recommendation 29.",
+    "tag": "CPG ICH 2025",
+    "option_e": "I, II, III, IV and V only",
+    "format": "K"
   },
   {
     "question_text": "A 57-year-old man is being discharged after a hypertensive basal ganglia ICH. His BP is 148/92 mmHg. Which long-term BP strategy does the CPG recommend?",
@@ -5094,14 +5116,16 @@ const cpgBank = [
     "tag": "CPG ICH 2025"
   },
   {
-    "question_text": "A 70-year-old woman with non-valvular AF (CHA2DS2-VASc 5) had a lobar ICH 10 days ago while on warfarin. Which plan for anticoagulation is most consistent with the CPG?",
-    "option_a": "Resume warfarin immediately at the previous dose",
-    "option_b": "Never restart anticoagulation after ICH",
-    "option_c": "Restart within 48 hours to prevent stroke",
-    "option_d": "Resumption may be considered, preferring a NOAC over warfarin, with timing individualised and preferably not earlier than two weeks",
+    "question_text": "A 70-year-old woman with non-valvular AF (CHA2DS2-VASc 5) had a lobar ICH 10 days ago while on warfarin. The team discusses restarting anticoagulation.\n\nI. Resumption of oral anticoagulation may be considered after ICH in patients with non-valvular AF.\nII. Timing should be individualised to bleeding and thrombotic risk, preferably not earlier than two weeks.\nIII. NOACs were associated with more recurrent ICH and higher mortality than warfarin.\nIV. Anticoagulation should be restarted within 48 hours because early thromboembolic risk is highest.\nV. A NOAC is preferred over warfarin if anticoagulation is resumed.\n\nWhich of the following statements are correct?",
+    "option_a": "II only",
+    "option_b": "I and II only",
+    "option_c": "I, II and IV only",
+    "option_d": "I, II and V only",
     "correct_option": "D",
-    "explanation": "Rationale: Recommendation 31 states that resumption of OAC may be considered in ICH with non-valvular AF, with NOAC preferred over warfarin, and timing individualised to bleeding and thrombotic risk, preferably not earlier than two weeks. NOACs had lower recurrent ICH and mortality than warfarin. A uses the higher-risk drug too early. B ignores the thromboembolic benefit. C is too early. Teaching point: AF after ICH: consider a NOAC, not before 2 weeks.\nReference: Malaysian CPG Management of Spontaneous Intracerebral Haemorrhage 2025 (1st Ed.), Secondary Prevention; Recommendation 31.",
-    "tag": "CPG ICH 2025"
+    "explanation": "Rationale: Recommendation 31: resumption may be considered in non-valvular AF, preferring a NOAC (lower recurrent ICH and mortality than warfarin), with individualised timing, preferably not before two weeks. Restarting within 48 hours is too early and the NOAC data are the reverse of statement III.\nReference: Malaysian CPG Management of Spontaneous Intracerebral Haemorrhage 2025 (1st Ed.), Secondary Prevention; Recommendation 31.",
+    "tag": "CPG ICH 2025",
+    "option_e": "I, II, III, IV and V only",
+    "format": "K"
   },
   {
     "question_text": "A 52-year-old man with a mechanical mitral valve had a small ICH 3 days ago. Warfarin was reversed on admission. When is the earliest that anticoagulation should be resumed?",
@@ -5374,14 +5398,16 @@ const cpgBank = [
     "tag": "CPG Osteoporosis 2022"
   },
   {
-    "question_text": "A 75-year-old woman with very high fracture risk is starting teriparatide. What is the recommended treatment course?",
-    "option_a": "Lifelong teriparatide",
-    "option_b": "Up to 24 months, followed by further treatment (e.g. an anti-resorptive) to maintain the BMD gain",
-    "option_c": "3 months only",
-    "option_d": "Teriparatide with no follow-on therapy",
-    "correct_option": "B",
-    "explanation": "Rationale: r-PTH (teriparatide) therapy is recommended for up to 24 months, and further treatment is needed after the course to maintain the BMD gain. It is indicated for very high fracture risk or osteoporosis not responding to treatment. A and C are wrong durations. D allows loss of the gain. Teaching point: Teriparatide up to 24 months, then follow with an anti-resorptive.\nReference: Malaysian CPG Management of Osteoporosis 2022 (3rd Ed.), Section 5.8.",
-    "tag": "CPG Osteoporosis 2022"
+    "question_text": "A 75-year-old woman with very high fracture risk is starting teriparatide.\n\nI. It is indicated for very high fracture risk or osteoporosis not responding to treatment.\nII. Treatment continues lifelong while BMD remains below the treatment threshold.\nIII. The BMD gain is maintained after the course without any further therapy.\nIV. Teriparatide is recommended for up to 24 months.\nV. Further treatment, for example an anti-resorptive, is needed afterwards to maintain the BMD gain.\n\nWhich of the following statements are correct?",
+    "option_a": "I only",
+    "option_b": "IV only",
+    "option_c": "I and IV only",
+    "option_d": "I, III and V only",
+    "correct_option": "E",
+    "explanation": "Rationale: Teriparatide is limited to 24 months and must be followed by further therapy such as an anti-resorptive to keep the gain.\nReference: Malaysian CPG Management of Osteoporosis 2022 (3rd Ed.), Section 5.8.",
+    "tag": "CPG Osteoporosis 2022",
+    "option_e": "I, IV and V only",
+    "format": "K"
   },
   {
     "question_text": "A 79-year-old woman with CKD stage 4 (eGFR 22 ml/min) has osteoporosis. Oral bisphosphonates are not appropriate. Which precaution is most important if denosumab is started?",
@@ -5424,14 +5450,16 @@ const cpgBank = [
     "tag": "CPG Osteoporosis 2022"
   },
   {
-    "question_text": "A 55-year-old woman whose last period was 18 months ago has troublesome hot flushes and osteopenia. Which statement about tibolone is consistent with the CPG?",
-    "option_a": "Tibolone is for women who are still menstruating",
-    "option_b": "Tibolone may be offered to women at least one year past their last period, for menopausal symptoms and prevention of osteoporosis",
-    "option_c": "Tibolone has proven hip fracture reduction",
-    "option_d": "Tibolone is contraindicated after menopause",
-    "correct_option": "B",
-    "explanation": "Rationale: Women who are one year past their last period may be offered tibolone for relief of menopausal symptoms and prevention of osteoporosis (Grade A). In Table I, tibolone improves BMD, with vertebral effects seen only in post-hoc analysis and no hip fracture data. A and D reverse the timing. C overstates it. Teaching point: Tibolone: from one year after the last period.\nReference: Malaysian CPG Management of Osteoporosis 2022 (3rd Ed.), Key Statements, Table I.",
-    "tag": "CPG Osteoporosis 2022"
+    "question_text": "A 55-year-old woman whose last period was 18 months ago has troublesome hot flushes and osteopenia. Tibolone is being considered.\n\nI. Women at least one year past their last period may be offered tibolone for menopausal symptoms and prevention of osteoporosis (Grade A).\nII. Tibolone is started in the perimenopause, while women are still menstruating.\nIII. Tibolone improves bone mineral density.\nIV. Vertebral fracture effects of tibolone were seen only in post-hoc analysis.\nV. Tibolone has proven hip fracture reduction in randomised trials.\n\nWhich of the following statements are correct?",
+    "option_a": "III and IV only",
+    "option_b": "I, II and III only",
+    "option_c": "I, III and IV only",
+    "option_d": "III, IV and V only",
+    "correct_option": "C",
+    "explanation": "Rationale: Tibolone may be offered from one year after the last period. It improves BMD, vertebral effects came only from post-hoc analysis and there are no hip fracture data.\nReference: Malaysian CPG Management of Osteoporosis 2022 (3rd Ed.), Key Statements, Table I.",
+    "tag": "CPG Osteoporosis 2022",
+    "option_e": "I, II, III, IV and V only",
+    "format": "K"
   },
   {
     "question_text": "A 76-year-old woman has a new osteoporotic T12 compression fracture with severe pain but no neurological deficit. What is the most appropriate initial management?",
@@ -5974,14 +6002,16 @@ const cpgBank = [
     "tag": "CPG Ischaemic Stroke 2020"
   },
   {
-    "question_text": "An 84-year-old woman lives alone, walks to the market daily and has an MMSE of 29/30. Home and clinic readings average 168/88 mmHg over 2 months with no postural drop. She has no previous stroke. Her family feel that treatment \"isn't worth it at her age\". What is the most appropriate management?",
-    "option_a": "Lifestyle advice alone",
-    "option_b": "Treat only if above 180 mmHg",
-    "option_c": "No treatment over age 80",
-    "option_d": "Start antihypertensives",
+    "question_text": "An 84-year-old woman lives alone, walks to the market daily and has an MMSE of 29/30. Home and clinic readings average 168/88 mmHg over 2 months with no postural drop. She has no previous stroke. Her family feel that treatment \"isn't worth it at her age\".\n\nI. Lifestyle advice alone is adequate for a sustained BP of 168/88 mmHg at this age.\nII. She is fit and independent, so age alone is not a reason to withhold treatment.\nIII. Treatment should be withheld in people over 80 unless BP exceeds 180 mmHg.\nIV. Newly diagnosed hypertension in people over 80 should be treated (Level I, Grade B).\nV. An individualised approach is needed for frail, multimorbid or cognitively impaired older people.\n\nWhich of the following statements are correct?",
+    "option_a": "II only",
+    "option_b": "V only",
+    "option_c": "I, II and V only",
+    "option_d": "II, IV and V only",
     "correct_option": "D",
-    "explanation": "Rationale: Newly diagnosed hypertension in the very elderly (over 80) should be treated (Level I, Grade B). An individualised approach is needed for frail, multimorbid or cognitively impaired older people, but she is fit and independent. Age is not a reason to withhold treatment, and inventing a higher threshold is not supported. Teaching point: Treat hypertension in fit people over 80. Base targets on frailty, not age.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 5.4.2; Section 12.3.1.",
-    "tag": "CPG Ischaemic Stroke 2020"
+    "explanation": "Rationale: Treat hypertension in fit people over 80, individualising targets for frailty rather than age. An invented higher threshold is not supported.\nReference: Malaysian CPG Management of Ischaemic Stroke 2020 (3rd Ed.), Section 5.4.2; Section 12.3.1.",
+    "tag": "CPG Ischaemic Stroke 2020",
+    "option_e": "I, II, IV and V only",
+    "format": "K"
   },
   {
     "question_text": "A 59-year-old man has a right internal capsule infarct (NIHSS 5) 3 days after a pure motor hemiparesis began. He had anaphylaxis to aspirin as a teenager. ECG and 72-hour Holter show sinus rhythm, echo is normal, and carotid duplex shows less than 30% stenosis bilaterally. What is the most appropriate long-term antithrombotic?",
@@ -7364,14 +7394,16 @@ const cpgBank = [
     "tag": "CPG Obesity 2023"
   },
   {
-    "question_text": "A 56-year-old man with BMI 34 kg/m2 and poorly controlled hypertension (BP 168/98 mmHg on two drugs) asks for phentermine because a friend lost weight quickly on it. He had a stroke 3 years ago. What is the most appropriate response?",
-    "option_a": "Prescribe phentermine 30 mg daily for 12 months",
-    "option_b": "Prescribe phentermine only on alternate months, to prevent tolerance",
-    "option_c": "Prescribe phentermine with a beta-blocker to offset the BP rise",
-    "option_d": "Phentermine is contraindicated with uncontrolled hypertension and previous CVD",
-    "correct_option": "D",
-    "explanation": "Rationale: Phentermine is a sympathomimetic amine whose contraindications include uncontrolled hypertension, history of CVD (CAD, stroke, arrhythmia, heart failure), seizures, hyperthyroidism, pregnancy and breastfeeding. Long-term CV outcome studies are lacking. It is licensed in Malaysia only for 3 months, or cyclically, and is not approved long-term by the USFDA. Teaching point: Phentermine: short-term (3 months) or cyclical only, and not with uncontrolled hypertension or CVD.\nReference: Malaysian CPG Management of Obesity (2nd Ed., 2023), Section 4.2.1; Table 4-5.",
-    "tag": "CPG Obesity 2023"
+    "question_text": "A 56-year-old man with BMI 34 kg/m2 and poorly controlled hypertension (BP 168/98 mmHg on two drugs) asks for phentermine because a friend lost weight quickly on it. He had a stroke 3 years ago.\n\nI. Co-prescribing a beta-blocker neutralises its effect on blood pressure.\nII. Contraindications include uncontrolled hypertension and a history of CVD such as stroke.\nIII. Phentermine is a sympathomimetic amine.\nIV. It is licensed in Malaysia only for short-term use (3 months) or cyclical use.\nV. Long-term cardiovascular outcome studies support 12 months of continuous use.\n\nWhich of the following statements are correct?",
+    "option_a": "I, II and IV only",
+    "option_b": "I, III and IV only",
+    "option_c": "II, III and IV only",
+    "option_d": "III, IV and V only",
+    "correct_option": "C",
+    "explanation": "Rationale: Phentermine raises sympathetic tone and is contraindicated with uncontrolled hypertension or prior CVD. Long-term CV outcome data are lacking and use is short-term or cyclical.\nReference: Malaysian CPG Management of Obesity (2nd Ed., 2023), Section 4.2.1; Table 4-5.",
+    "tag": "CPG Obesity 2023",
+    "option_e": "I, II, III and IV only",
+    "format": "K"
   },
   {
     "question_text": "A 31-year-old woman with BMI 36 kg/m2 and PCOS has failed to lose weight with lifestyle change. She is not on contraception and her last period was 5 weeks ago. She is interested in phentermine/topiramate. She has a past history of depression, currently well. Which is the most appropriate management?",
@@ -7724,14 +7756,16 @@ const cpgBank = [
     "tag": "CPG Rheumatoid Arthritis"
   },
   {
-    "question_text": "A 52-year-old man has had RA for 3 years. His hand X-ray is reviewed against the CPG's Figures 1 and 2 (early RA: periarticular osteopenia and soft-tissue swelling; advanced RA: ulnar deviation, hitchhiker's thumb, boutonniere deformity, subchondral cysts, sclerosis, joint space narrowing). Which radiographic pattern is characteristic of RA?",
-    "option_a": "Asymmetric changes with prominent DIP involvement and osteophytes",
-    "option_b": "Asymmetrical sacroiliac fusion",
-    "option_c": "Central erosions of DIP joints with a \"gull-wing\" appearance",
-    "option_d": "Symmetrical juxta-articular demineralisation, erosions and joint space narrowing sparing the DIP joints",
-    "correct_option": "D",
-    "explanation": "Rationale: RA changes are symmetrical and spare the distal interphalangeal joints: soft-tissue swelling, juxta-articular demineralisation, joint space narrowing and bone erosions. Radiographs can be normal in the first 6 months. DIP-predominant, asymmetric osteophyte disease suggests osteoarthritis, and gull-wing DIP erosions point to erosive inflammatory OA, both listed as differentials. Teaching point: RA on X-ray: symmetrical, periarticular osteopenia, erosions, narrowing, DIP joints spared.\nReference: Malaysian CPG Management of Rheumatoid Arthritis, Section 3.2.1, Figures 1 and 2.",
-    "tag": "CPG Rheumatoid Arthritis"
+    "question_text": "A 52-year-old man has had RA for 3 years. His hand X-ray is reviewed against the CPG's Figures 1 and 2 (early RA: periarticular osteopenia and soft-tissue swelling; advanced RA: ulnar deviation, hitchhiker's thumb, boutonniere deformity, subchondral cysts, sclerosis, joint space narrowing).\n\nI. Juxta-articular demineralisation, erosions and joint space narrowing are expected.\nII. The radiographic changes of RA are typically symmetrical.\nIII. The distal interphalangeal joints are typically spared.\nIV. Radiographs are almost always abnormal within the first 3 months of disease.\nV. Asymmetric DIP-predominant disease with prominent osteophytes is characteristic of RA.\n\nWhich of the following statements are correct?",
+    "option_a": "I, II and III only",
+    "option_b": "I, II and V only",
+    "option_c": "I, III and IV only",
+    "option_d": "I, III and V only",
+    "correct_option": "A",
+    "explanation": "Rationale: RA is symmetrical, spares the DIP joints and shows soft-tissue swelling, juxta-articular demineralisation, narrowing and erosions. Radiographs can be normal for the first 6 months. DIP-predominant osteophytic disease suggests OA.\nReference: Malaysian CPG Management of Rheumatoid Arthritis, Section 3.2.1, Figures 1 and 2.",
+    "tag": "CPG Rheumatoid Arthritis",
+    "option_e": "I, II, III and IV only",
+    "format": "K"
   },
   {
     "question_text": "A 44-year-old man has had polyarthralgia for 3 months with equivocal joint swelling on examination. ACPA is negative and his ACR/EULAR score is 5. The rheumatologist arranges musculoskeletal ultrasound. What is the expected benefit of adding ultrasound-detected synovitis to the 2010 criteria in ACPA-negative patients?",
@@ -8494,14 +8528,16 @@ const cpgBank = [
     "tag": "CPG Gout 2021"
   },
   {
-    "question_text": "A 59-year-old man has frequent flares but contraindications to colchicine, NSAIDs and long-term steroids. His doctor mentions canakinumab and asks about cold therapy. Which statement is correct?",
-    "option_a": "Ice packs worsen pain",
-    "option_b": "Canakinumab is first line for all flares",
-    "option_c": "Ice should be applied directly to the skin",
-    "option_d": "Canakinumab outperformed intramuscular triamcinolone at 72 hours but is costly and not readily accessible; ice packs may be used over a cloth",
+    "question_text": "A 59-year-old man has frequent flares but contraindications to colchicine, NSAIDs and long-term steroids. His doctor mentions canakinumab and asks about cold therapy.\n\nI. Canakinumab was better than IM triamcinolone 40 mg for pain relief at 72 hours.\nII. Ice should be applied directly to the skin for the best effect.\nIII. It caused more adverse events and is not readily accessible in Malaysia because of cost.\nIV. Canakinumab is first-line therapy for all acute flares.\nV. Ice packs reduced pain in a small RCT with high risk of bias and may be used as an adjunct.\n\nWhich of the following statements are correct?",
+    "option_a": "I only",
+    "option_b": "III and V only",
+    "option_c": "I, II and V only",
+    "option_d": "I, III and V only",
     "correct_option": "D",
-    "explanation": "Rationale: Canakinumab was better than IM triamcinolone 40 mg at 72 hours for pain relief but caused more adverse events and is not readily accessible in Malaysia because of cost. Ice packs reduced pain in a small RCT with high risk of bias, and the joint should be rested, elevated and cooled, with ice always applied over a cloth and never directly to the skin. Teaching point: Ice packs over a cloth are an adjunct. Canakinumab works but is costly.\nReference: Malaysian CPG Management of Gout (2nd Ed.), Section 12.1d; Section 12.2b; Recommendation 6.",
-    "tag": "CPG Gout 2021"
+    "explanation": "Rationale: Canakinumab outperformed IM triamcinolone but is costly and not readily accessible. Ice packs, always over a cloth, are an adjunct alongside rest and elevation.\nReference: Malaysian CPG Management of Gout (2nd Ed.), Section 12.1d; Section 12.2b; Recommendation 6.",
+    "tag": "CPG Gout 2021",
+    "option_e": "II, III and V only",
+    "format": "K"
   },
   {
     "question_text": "A 33-year-old woman at 24 weeks' gestation with a history of juvenile-onset gout develops a flare. She has no renal disease. Which statement is consistent with the CPG?",
@@ -8594,14 +8630,16 @@ const cpgBank = [
     "tag": "CPG Gout 2021"
   },
   {
-    "question_text": "A 47-year-old man wakes at 3 am with severe pain, swelling and redness over his first MTP joint. He had tingling in the joint the previous evening after a night of drinking and a seafood dinner. Pain peaks within 12 hours. Which description best fits a typical gout flare in the CPG?",
-    "option_a": "Abrupt onset, peak within 24 hours, often at night, with possible prodrome and precipitants such as alcohol and purine-rich animal food",
-    "option_b": "Gradual onset over weeks, symmetrical small joints",
-    "option_c": "Pain only after exercise",
-    "option_d": "Chronic low-grade pain without swelling",
-    "correct_option": "A",
-    "explanation": "Rationale: A gout flare occurs abruptly with pain peaking within 24 hours, often at night, can be preceded by tingling or itching, and is excruciating (usually above 7/10 on a VAS). The first MTP joint (podagra) is commonest, followed by the midfoot and ankle. Precipitants include acute illness or surgery, dehydration, alcohol and purine-rich animal food. Flares resolve spontaneously in 1-2 weeks. Teaching point: Gout flare: abrupt, peaks in <24 h, nocturnal, first MTP, resolves in 1-2 weeks.\nReference: Malaysian CPG Management of Gout (2nd Ed.), Section 5.1.",
-    "tag": "CPG Gout 2021"
+    "question_text": "A 47-year-old man wakes at 3 am with severe pain, swelling and redness over his first MTP joint. He had tingling in the joint the previous evening after a night of drinking and a seafood dinner. Pain peaks within 12 hours.\n\nI. Onset is abrupt, with pain peaking within 24 hours and often starting at night.\nII. An untreated flare typically takes 3 to 4 weeks to resolve.\nIII. Precipitants include acute illness or surgery, dehydration, alcohol and purine-rich animal food.\nIV. Tingling or itching in the joint can precede the flare.\nV. The pain is typically mild to moderate, usually below 4/10 on a visual analogue scale.\n\nWhich of the following statements are correct?",
+    "option_a": "I and IV only",
+    "option_b": "I, II and IV only",
+    "option_c": "I, III and IV only",
+    "option_d": "III, IV and V only",
+    "correct_option": "C",
+    "explanation": "Rationale: A typical gout flare is abrupt, peaks within 24 hours, is often nocturnal, may have a tingling prodrome, is excruciating (usually above 7/10) and resolves spontaneously in 1 to 2 weeks. The first MTP joint is commonest.\nReference: Malaysian CPG Management of Gout (2nd Ed.), Section 5.1.",
+    "tag": "CPG Gout 2021",
+    "option_e": "I, II, III, IV and V only",
+    "format": "K"
   },
   {
     "question_text": "A 61-year-old man has CKD stage 3 (eGFR 42 ml/min/1.73 m2), hypertension on hydrochlorothiazide, BMI 31 kg/m2, and takes aspirin 100 mg for a previous MI. He has had 3 flares in 9 months and a tophus on the left ear. Urate is 0.57 mmol/l. He is not on ULT. Which plan best fits the CPG?",
@@ -8746,14 +8784,16 @@ const cpgBank = [
     "tag": "CPG Osteoarthritis 2013"
   },
   {
-    "question_text": "A 58-year-old woman has painful, swollen DIP and PIP joints. Radiographs show central erosions with adjacent osteophyte formation, producing a \"gull-wing\" appearance in several interphalangeal joints. MCPs and wrists are spared. RF and ACPA are negative, and she has no psoriasis.\n\nAdapted from CPG Table 6 (hand X-ray patterns):\n\nCondition  |  Typical radiographic change\nOsteoarthritis  |  Focal narrowing, marginal osteophyte, sclerosis, osteochondral bodies\nErosive OA  |  Subchondral erosion\nPsoriatic arthritis  |  Proliferative marginal erosion, retained or increased bone density\nRheumatoid arthritis  |  Non-proliferative marginal erosion, osteopenia\n\nWhat is the most likely diagnosis?",
-    "option_a": "Psoriatic arthritis",
-    "option_b": "Gout",
-    "option_c": "Erosive osteoarthritis",
-    "option_d": "Rheumatoid arthritis",
-    "correct_option": "C",
-    "explanation": "Rationale: Central (subchondral) erosions with osteophytes in the interphalangeal joints, the gull-wing appearance, and sparing of the MCPs and wrists point to erosive OA. RA causes marginal, non-proliferative erosions with osteopenia and involves MCPs and wrists. Psoriatic arthritis shows proliferative marginal erosions with retained bone density. Seronegativity and no psoriasis support erosive OA. Teaching point: Gull-wing erosions with osteophytes at the DIP and PIP joints suggest erosive OA, not RA or psoriatic arthritis.\nReference: Malaysian CPG Management of Osteoarthritis (2013), Section 5.2, Table 6; Figures 4 and 5.",
-    "tag": "CPG Osteoarthritis 2013"
+    "question_text": "A 58-year-old woman has painful, swollen DIP and PIP joints. Radiographs show central erosions with adjacent osteophyte formation, producing a \"gull-wing\" appearance in several interphalangeal joints. MCPs and wrists are spared. RF and ACPA are negative, and she has no psoriasis.\n\nAdapted from CPG Table 6 (hand X-ray patterns):\n\nCondition  |  Typical radiographic change\nOsteoarthritis  |  Focal narrowing, marginal osteophyte, sclerosis, osteochondral bodies\nErosive OA  |  Subchondral erosion\nPsoriatic arthritis  |  Proliferative marginal erosion, retained or increased bone density\nRheumatoid arthritis  |  Non-proliferative marginal erosion, osteopenia\n\nI. Central subchondral erosions with osteophytes, giving a gull-wing appearance, are characteristic of erosive OA.\nII. Negative RF and ACPA with no psoriasis support erosive OA over RA or psoriatic arthritis.\nIII. Sparing of the MCP joints and wrists argues against RA.\nIV. Non-proliferative marginal erosions with osteopenia are typical of erosive OA.\nV. Proliferative marginal erosions with retained bone density are typical of RA.\n\nWhich of the following statements are correct?",
+    "option_a": "II and III only",
+    "option_b": "I, II and III only",
+    "option_c": "I, II and IV only",
+    "option_d": "II, III and V only",
+    "correct_option": "B",
+    "explanation": "Rationale: Gull-wing erosions with osteophytes at DIP and PIP joints and sparing of MCPs and wrists indicate erosive OA. RA gives non-proliferative marginal erosions with osteopenia; proliferative marginal erosions with retained bone density suggest psoriatic arthritis.\nReference: Malaysian CPG Management of Osteoarthritis (2013), Section 5.2, Table 6; Figures 4 and 5.",
+    "tag": "CPG Osteoarthritis 2013",
+    "option_e": "I, II, III, IV and V only",
+    "format": "K"
   },
   {
     "question_text": "A 64-year-old woman has typical knee OA. Her GP is considering MRI of the knee and musculoskeletal ultrasound to \"confirm\" the diagnosis. Which statement fits the CPG?",
@@ -8868,14 +8908,16 @@ const cpgBank = [
     "tag": "CPG Osteoarthritis 2013"
   },
   {
-    "question_text": "A 61-year-old woman with newly diagnosed knee OA is anxious that she \"will end up in a wheelchair\". Her GP wants to give her a prescription only. Which element is the CPG's integral part of OA management?",
-    "option_a": "Education for surgical patients only, before and after operation",
-    "option_b": "A leaflet only, with no tailoring to the individual's goals",
-    "option_c": "Education about the disease and treatment, with ongoing participation",
-    "option_d": "Drug treatment alone, since education adds no benefit",
-    "correct_option": "C",
-    "explanation": "Rationale: Patient education should be an integral part of OA management (Grade A). It should be tailored and cover diagnosis, nature of the disease, therapeutic options and the importance of continuing participation. Patients who understand their disease cope better and report less pain, and the most important goal is to instil a positive attitude. Teaching point: Education is Grade A and core to OA care. Instil a positive attitude.\nReference: Malaysian CPG Management of Osteoarthritis (2013), Section 6.1a; Recommendation 2.",
-    "tag": "CPG Osteoarthritis 2013"
+    "question_text": "A 61-year-old woman with newly diagnosed knee OA is anxious that she \"will end up in a wheelchair\". Her GP wants to give her a prescription only.\n\nI. Patients who understand their disease cope better and report less pain.\nII. A written leaflet without tailoring to the individual is sufficient.\nIII. Education is most valuable for patients being prepared for surgery.\nIV. Patient education should be an integral part of OA management (Grade A).\nV. It should be tailored and cover diagnosis, nature of the disease and therapeutic options.\n\nWhich of the following statements are correct?",
+    "option_a": "I only",
+    "option_b": "I and V only",
+    "option_c": "I, II and IV only",
+    "option_d": "I, IV and V only",
+    "correct_option": "D",
+    "explanation": "Rationale: Education is Grade A and core to OA care, tailored to the individual, with ongoing participation and a positive attitude as the main goal.\nReference: Malaysian CPG Management of Osteoarthritis (2013), Section 6.1a; Recommendation 2.",
+    "tag": "CPG Osteoarthritis 2013",
+    "option_e": "III, IV and V only",
+    "format": "K"
   },
   {
     "question_text": "A 70-year-old woman with mild to moderate knee OA pain, mild hepatic steatosis (normal ALT) and no alcohol intake starts analgesia. She asks what to try first. What does the CPG recommend?",
@@ -8982,14 +9024,16 @@ const cpgBank = [
     "tag": "CPG Osteoarthritis 2013"
   },
   {
-    "question_text": "A 69-year-old man with knee OA has a flare with a warm effusion, with pain not controlled by paracetamol and a topical NSAID. Aspiration shows non-inflammatory fluid with negative culture. He asks about an injection. Which statement matches the CPG?",
-    "option_a": "First-line for all knee OA before analgesics or exercise",
-    "option_b": "Short-term relief in acute knee flares; oral steroids have no role",
-    "option_c": "Disease-modifying for a year; oral steroids are the alternative",
-    "option_d": "Never used in OA; oral prednisolone is preferred in flares",
-    "correct_option": "B",
-    "explanation": "Rationale: Intra-articular corticosteroid gives short-term pain relief in knee OA (NNT 3-4 at one week) and may be used in acute exacerbations, especially when there is an effusion (Grade A). The CPG states that oral corticosteroids have no role in OA. The algorithm places intra-articular steroid after paracetamol, topical NSAIDs, tramadol or NSAIDs have failed. Teaching point: IA steroid: short-term relief in acute knee flares, especially with effusion. No oral steroids in OA.\nReference: Malaysian CPG Management of Osteoarthritis (2013), Section 6.2b(i); Recommendation 12; Algorithm.",
-    "tag": "CPG Osteoarthritis 2013"
+    "question_text": "A 69-year-old man with knee OA has a flare with a warm effusion, with pain not controlled by paracetamol and a topical NSAID. Aspiration shows non-inflammatory fluid with negative culture. He asks about an injection.\n\nI. Oral corticosteroids have no role in OA.\nII. It may be used in acute exacerbations, especially with an effusion (Grade A).\nIII. Intra-articular steroid is first line before paracetamol or exercise in all knee OA.\nIV. Intra-articular steroid is disease-modifying, with benefit lasting at least 12 months.\nV. Intra-articular corticosteroid gives short-term pain relief in knee OA (NNT 3-4 at one week).\n\nWhich of the following statements are correct?",
+    "option_a": "I only",
+    "option_b": "II and V only",
+    "option_c": "I, II and III only",
+    "option_d": "I, II and IV only",
+    "correct_option": "E",
+    "explanation": "Rationale: IA steroid is short-term relief for flares, positioned after paracetamol, topical NSAIDs and other analgesics. It is not first line or disease-modifying, and oral steroids have no role.\nReference: Malaysian CPG Management of Osteoarthritis (2013), Section 6.2b(i); Recommendation 12; Algorithm.",
+    "tag": "CPG Osteoarthritis 2013",
+    "option_e": "I, II and V only",
+    "format": "K"
   },
   {
     "question_text": "A 64-year-old woman with knee OA asks about hyaluronic acid injections because a friend had a course of five. What is the CPG position?",
@@ -9984,16 +10028,6 @@ const cpgBank = [
     "tag": "CPG Head Injury 2015"
   },
   {
-    "question_text": "A team prepares to extubate a head-injured patient. They use the CPG's Appendix 10 checklist. Which item is part of that checklist?",
-    "option_a": "PEEP of at least 10 cm H2O",
-    "option_b": "Cuff leak >25% and follows commands",
-    "option_c": "Low-dose vasopressor support",
-    "option_d": "No cough or secretions",
-    "correct_option": "B",
-    "explanation": "Rationale: The Appendix 10 criteria include resolution of the cause for intubation, ability to oxygenate and ventilate on low settings (pressure support ≤10, PEEP ≤5, FiO2 ≤0.40, SpO2 >92%), an easy airway and a patient who follows commands, a cuff leak greater than 25%, a good cough with acceptable secretions, haemodynamic stability without vasopressors, and no cervical spine instability, acute lung or pharyngeal injury, or imminent operation or transport. Preferably they are placed in HDU or a critical care area. Teaching point: Extubation: cuff leak >25%, follows commands, good cough, stable without vasopressors, low ventilator settings.\nReference: Malaysian CPG Early Management of Head Injury in Adults (2015), Appendix 10.",
-    "tag": "CPG Head Injury 2015"
-  },
-  {
     "question_text": "A 69-year-old man on clopidogrel and aspirin has a small traumatic subarachnoid haemorrhage after a fall. His GCS is 15 and stable. Which statement is consistent with the CPG?",
     "option_a": "Antiplatelet use does not alter risk",
     "option_b": "Platelet transfusion always causes cardiac events",
@@ -10281,16 +10315,6 @@ const cpgBank = [
     "option_d": "Total hip arthroplasty",
     "correct_option": "D",
     "explanation": "Rationale: THA criteria: walks independently outdoors, no unsuitable comorbidity, independent in ADL (life expectancy beyond 2 years). Teaching point: THA for fit, active patients with displaced neck of femur fractures.\nReference: Malaysian CPG Management of Geriatric Hip Fracture (1st Ed., 2023), Section 8, Recommendation 8.",
-    "tag": "CPG Geriatric Hip Fracture 2023"
-  },
-  {
-    "question_text": "A 75-year-old woman has a non-displaced intracapsular fracture and wants early full weight-bearing. Which approach does the CPG favour?",
-    "option_a": "Arthroplasty",
-    "option_b": "Internal fixation with cannulated screws",
-    "option_c": "Skeletal traction",
-    "option_d": "Non-operative management",
-    "correct_option": "A",
-    "explanation": "Rationale: Arthroplasty is preferred in non-displaced neck of femur fractures for early full weight-bearing. Teaching point: Arthroplasty allows immediate full weight-bearing.\nReference: Malaysian CPG Management of Geriatric Hip Fracture (1st Ed., 2023), Section 8, Recommendation 9.",
     "tag": "CPG Geriatric Hip Fracture 2023"
   },
   {
