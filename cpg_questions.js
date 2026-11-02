@@ -5122,7 +5122,7 @@ const cpgBank = [
     "option_c": "I, II and IV only",
     "option_d": "I, II and V only",
     "correct_option": "D",
-    "explanation": "Rationale: Recommendation 31: resumption may be considered in non-valvular AF, preferring a NOAC (lower recurrent ICH and mortality than warfarin), with individualised timing, preferably not before two weeks. Restarting within 48 hours is too early and the NOAC data are the reverse of statement III.\nReference: Malaysian CPG Management of Spontaneous Intracerebral Haemorrhage 2025 (1st Ed.), Secondary Prevention; Recommendation 31.",
+    "explanation": "Rationale: Recommendation 31: resumption may be considered in non-valvular AF, preferring a NOAC (lower recurrent ICH and mortality than warfarin), with individualised timing, preferably not before two weeks. Restarting within 48 hours is too early and the NOAC claim in the false statements is the reverse of the evidence.\nReference: Malaysian CPG Management of Spontaneous Intracerebral Haemorrhage 2025 (1st Ed.), Secondary Prevention; Recommendation 31.",
     "tag": "CPG ICH 2025",
     "option_e": "I, II, III, IV and V only",
     "format": "K"
@@ -8738,7 +8738,7 @@ const cpgBank = [
     "option_c": "II, III and V only",
     "option_d": "II, IV and V only",
     "correct_option": "C",
-    "explanation": "Rationale: OA should be diagnosed clinically (Recommendation 1). She has 5 of 6 features (age over 50, stiffness under 30 minutes, crepitus, bony enlargement, no warmth), so a clinical diagnosis is possible today. Moving from 3 of 6 to 4 of 6 raises specificity (69% to 89%) but lowers sensitivity (95% to 84%), so statement III is reversed. Radiographs are supportive, not mandatory, and bloods are for excluding inflammatory arthritis.\nReference: Malaysian CPG Management of Osteoarthritis (2013), Section 4.2c, Table 3; Recommendation 1.",
+    "explanation": "Rationale: OA should be diagnosed clinically (Recommendation 1). She has 5 of 6 features (age over 50, stiffness under 30 minutes, crepitus, bony enlargement, no warmth), so a clinical diagnosis is possible today. Moving from 3 of 6 to 4 of 6 raises specificity (69% to 89%) but lowers sensitivity (95% to 84%), so the claim that 4 of 6 raises sensitivity is reversed. Radiographs are supportive, not mandatory, and bloods are for excluding inflammatory arthritis.\nReference: Malaysian CPG Management of Osteoarthritis (2013), Section 4.2c, Table 3; Recommendation 1.",
     "tag": "CPG Osteoarthritis 2013",
     "option_e": "I, II, III and V only",
     "format": "K"
