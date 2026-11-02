@@ -8784,7 +8784,7 @@ const cpgBank = [
     "tag": "CPG Osteoarthritis 2013"
   },
   {
-    "question_text": "A 58-year-old woman has painful, swollen DIP and PIP joints. Radiographs show central erosions with adjacent osteophyte formation, producing a \"gull-wing\" appearance in several interphalangeal joints. MCPs and wrists are spared. RF and ACPA are negative, and she has no psoriasis.\n\nAdapted from CPG Table 6 (hand X-ray patterns):\n\nCondition  |  Typical radiographic change\nOsteoarthritis  |  Focal narrowing, marginal osteophyte, sclerosis, osteochondral bodies\nErosive OA  |  Subchondral erosion\nPsoriatic arthritis  |  Proliferative marginal erosion, retained or increased bone density\nRheumatoid arthritis  |  Non-proliferative marginal erosion, osteopenia\n\nI. Central subchondral erosions with osteophytes, giving a gull-wing appearance, are characteristic of erosive OA.\nII. Negative RF and ACPA with no psoriasis support erosive OA over RA or psoriatic arthritis.\nIII. Sparing of the MCP joints and wrists argues against RA.\nIV. Non-proliferative marginal erosions with osteopenia are typical of erosive OA.\nV. Proliferative marginal erosions with retained bone density are typical of RA.\n\nWhich of the following statements are correct?",
+    "question_text": "A 58-year-old woman has painful, swollen DIP and PIP joints. Radiographs show central erosions with adjacent osteophyte formation, producing a \"gull-wing\" appearance in several interphalangeal joints. MCPs and wrists are spared. RF and ACPA are negative, and she has no psoriasis. Her hand radiographs are shown (reproduced from CPG Figures 4 and 5; arrows mark the abnormal interphalangeal joints).\n\nAdapted from CPG Table 6 (hand X-ray patterns):\n\nCondition  |  Typical radiographic change\nOsteoarthritis  |  Focal narrowing, marginal osteophyte, sclerosis, osteochondral bodies\nErosive OA  |  Subchondral erosion\nPsoriatic arthritis  |  Proliferative marginal erosion, retained or increased bone density\nRheumatoid arthritis  |  Non-proliferative marginal erosion, osteopenia\n\nI. Central subchondral erosions with osteophytes, giving a gull-wing appearance, are characteristic of erosive OA.\nII. Negative RF and ACPA with no psoriasis support erosive OA over RA or psoriatic arthritis.\nIII. Sparing of the MCP joints and wrists argues against RA.\nIV. Non-proliferative marginal erosions with osteopenia are typical of erosive OA.\nV. Proliferative marginal erosions with retained bone density are typical of RA.\n\nWhich of the following statements are correct?",
     "option_a": "II and III only",
     "option_b": "I, II and III only",
     "option_c": "I, II and IV only",
@@ -8793,7 +8793,8 @@ const cpgBank = [
     "explanation": "Rationale: Gull-wing erosions with osteophytes at DIP and PIP joints and sparing of MCPs and wrists indicate erosive OA. RA gives non-proliferative marginal erosions with osteopenia; proliferative marginal erosions with retained bone density suggest psoriatic arthritis.\nReference: Malaysian CPG Management of Osteoarthritis (2013), Section 5.2, Table 6; Figures 4 and 5.",
     "tag": "CPG Osteoarthritis 2013",
     "option_e": "I, II, III, IV and V only",
-    "format": "K"
+    "format": "K",
+    "image_url": "images/cpg_oa_hand_xray_fig4_5.png"
   },
   {
     "question_text": "A 64-year-old woman has typical knee OA. Her GP is considering MRI of the knee and musculoskeletal ultrasound to \"confirm\" the diagnosis. Which statement fits the CPG?",
